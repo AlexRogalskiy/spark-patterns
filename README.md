@@ -1,7 +1,7 @@
 # Spark Design Patterns
 
 <p align="center" style="text-align:center;">
-	<img src="https://github.com/AlexRogalskiy/spark-patterns/blob/main/images/banner.png" width="100%" height="60%" alt="Kotlin Design patterns"/>
+	<img src="https://github.com/AlexRogalskiy/spark-patterns/blob/master/images/banner.png" width="100%" height="60%" alt="Spark Design patterns"/>
 </p>
 
 <p align="center">
