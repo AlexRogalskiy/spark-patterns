@@ -8,8 +8,8 @@ repo_name: AlexRogalskiy/spark-patterns
 repo_url: https://gitlab.com/AlexRogalskiy/spark-patterns
 edit_uri: https://gitlab.com/AlexRogalskiy/spark-patterns/master/docs/
 
-# Copyright
-copyright: Spark Design Patterns - Documentation © Nullables.io
+#Copyright (shown at the footer)
+copyright: 'Copyright &copy; 2021 Nullables.io'
 
 theme:
   name: material
