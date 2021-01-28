@@ -234,6 +234,16 @@ Like _Spark Patterns_ ? Consider buying me a coffee :\)
 ### _Hadoop in real world feeds_
 
 <!-- HADOOPINREALWORLD-POST-LIST:START -->
+- [How to create a folder in Amazon S3 using AWS CLI?](https://www.hadoopinrealworld.com/how-to-create-a-folder-in-amazon-s3-using-aws-cli/)
+- [How to control log settings in Spark and stop INFO messages?](https://www.hadoopinrealworld.com/how-to-control-log-settings-in-spark-and-stop-info-messages/)
+- [How does Shuffle Sort Merge Join work in Spark?](https://www.hadoopinrealworld.com/how-does-shuffle-sort-merge-join-work-in-spark/)
+- [What is the difference between Hive internal tables and external tables?](https://www.hadoopinrealworld.com/what-is-the-difference-between-hive-internal-tables-and-external-tables/)
+- [How to check size of a directory in HDFS?](https://www.hadoopinrealworld.com/how-to-check-size-of-a-directory-in-hdfs/)
+- [How does Broadcast Hash Join work in Spark?](https://www.hadoopinrealworld.com/how-does-broadcast-hash-join-work-in-spark/)
+- [How to merge multiple output files from MapReduce or Spark jobs to one?](https://www.hadoopinrealworld.com/how-to-merge-multiple-output-files-from-mapreduce-or-spark-jobs-to-one/)
+- [How to list all the available brokers in a Kafka cluster?](https://www.hadoopinrealworld.com/how-to-list-all-the-available-brokers-in-a-kafka-cluster/)
+- [How does Broadcast Nested Loop Join work in Spark?](https://www.hadoopinrealworld.com/how-does-broadcast-nested-loop-join-work-in-spark/)
+- [How to properly add jars to a Spark application?](https://www.hadoopinrealworld.com/how-to-properly-add-jars-to-a-spark-application/)
 <!-- HADOOPINREALWORLD-POST-LIST:END -->
 
 ### _Kognitio feeds_
