@@ -324,4 +324,5 @@ Like _Spark Patterns_ ? Consider buying me a coffee :\)
 ### _RedHat posts_
 
 <!-- REDHAT-POST-LIST:START -->
+- [Running Spark Jobs On OpenShift](https://developers.redhat.com/blog/2017/01/20/running-spark-jobs-on-openshift/)
 <!-- REDHAT-POST-LIST:END -->
