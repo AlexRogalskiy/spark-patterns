@@ -39,15 +39,17 @@
       * [<em>Acknowledgement</em>](#-acknowledgement)
       * [<em>Feeds and Podcasts</em>](#-feeds-and-podcasts)
          * [<em>Reddit posts</em>](#reddit-posts)
+         * [<em>InfoWorld Spark posts</em>](#infoworld-spark-posts)
          * [<em>Hadoop posts</em>](#hadoop-posts)
-         * [<em>InfoWorld posts</em>](#infoworld-posts)
+         * [<em>InfoWorld Hadoop posts</em>](#infoworld-hadoop-posts)
          * [<em>Hadoop in real world posts</em>](#hadoop-in-real-world-posts)
          * [<em>Kognitio posts</em>](#kognitio-posts)
          * [<em>Curated SQL posts</em>](#curated-sql-posts)
          * [<em>Hadoop Quiz posts</em>](#hadoop-quiz-posts)
          * [<em>Understanding Hadoop posts</em>](#understanding-hadoop-posts)
+         * [<em>RedHat posts</em>](#redhat-posts)
 
-<!-- Added by: runner, at: Thu Jan 28 11:31:02 UTC 2021 -->
+<!-- Added by: runner, at: Thu Jan 28 11:40:51 UTC 2021 -->
 
 <!--te-->
 
