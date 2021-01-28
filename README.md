@@ -171,3 +171,49 @@ Like _Spark Patterns_ ? Consider buying me a coffee :\)
 [![Become a Patron](https://img.shields.io/badge/Become_Patron-Support_me_on_Patreon-blue.svg?style=flat-square&logo=patreon&color=e64413)](https://www.patreon.com/alexrogalskiy)
 [![Buy Me A Coffee](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellow.svg?logo=buy%20me%20a%20coffee)](https://www.buymeacoffee.com/AlexRogalskiy)
 [![KoFi](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellow.svg?logo=ko-fi)](https://ko-fi.com/alexrogalskiy)
+
+## 👨‍👨‍👧‍👦 _Acknowledgement_
+
+[![Stargazers repo roster for @AlexRogalskiy/spark-patterns](https://reporoster.com/stars/AlexRogalskiy/spark-patterns)](https://github.com/AlexRogalskiy/spark-patterns/stargazers)
+
+## 🔥 _Feeds and Podcasts_
+
+### _Reddit posts_
+
+<!-- REDDIT-POST-LIST:START -->
+<!-- REDDIT-POST-LIST:END -->
+
+### _Hadoop feeds_
+
+<!-- HADOOP-POST-LIST:START -->
+<!-- HADOOP-POST-LIST:END -->
+
+### _InfoWorld feeds_
+
+<!-- INFOWORLD-POST-LIST:START -->
+<!-- INFOWORLD-POST-LIST:END -->
+
+### _Hadoop in real world feeds_
+
+<!-- HADOOPINREALWORLD-POST-LIST:START -->
+<!-- HADOOPINREALWORLD-POST-LIST:END -->
+
+### _Kognitio feeds_
+
+<!-- KOGNITIO-POST-LIST:START -->
+<!-- KOGNITIO-POST-LIST:END -->
+
+### _Curated SQL feeds_
+
+<!-- CURATEDSQL-POST-LIST:START -->
+<!-- CURATEDSQL-POST-LIST:END -->
+
+### _Hadoop Quiz feeds_
+
+<!-- HADOOPQUIZ-POST-LIST:START -->
+<!-- HADOOPQUIZ-POST-LIST:END -->
+
+### _Understanding Hadoop feeds_
+
+<!-- UNDERSTANDHADOOP-POST-LIST:START -->
+<!-- UNDERSTANDHADOOP-POST-LIST:END -->

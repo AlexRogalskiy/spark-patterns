@@ -1,0 +1,55 @@
+name: Latest articles and podcasts
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Runs every day
+    - cron: '0 1 * * *'
+
+jobs:
+  update-readme-with-posts:
+    name: Update this repo's README with latest articles and podcasts on Spark
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          max_post_count: "10"
+          comment_tag_name: "REDDIT-POST-LIST"
+          feed_list: "https://www.reddit.com/r/spark/.rss"
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          max_post_count: "10"
+          comment_tag_name: "HADOOP-POST-LIST"
+          feed_list: "http://www.hadoopinrealworld.com/blog/feed/"
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          max_post_count: "10"
+          comment_tag_name: "INFOWORLD-POST-LIST"
+          feed_list: "https://www.infoworld.com/category/hadoop/index.rss"
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          max_post_count: "10"
+          comment_tag_name: "HADOOPINREALWORLD-POST-LIST"
+          feed_list: "http://www.hadoopinrealworld.com/blog/feed/"
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          max_post_count: "10"
+          comment_tag_name: "KOGNITIO-POST-LIST"
+          feed_list: "https://kognitio.com/blog/category/kognitio-on-hadoop/feed/"
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          max_post_count: "10"
+          comment_tag_name: "CURATEDSQL-POST-LIST"
+          feed_list: "https://curatedsql.com/category/hadoop/feed/"
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          max_post_count: "10"
+          comment_tag_name: "HADOOPQUIZ-POST-LIST"
+          feed_list: "http://hadoopquiz.blogspot.com/feeds/posts/default?alt=rss"
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          max_post_count: "10"
+          comment_tag_name: "UNDERSTANDHADOOP-POST-LIST"
+          feed_list: "https://understanding-hadoop-by-mahesh.blogspot.com/feeds/posts/default?alt=rss"
+          
