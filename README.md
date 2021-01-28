@@ -183,37 +183,37 @@ Like _Spark Patterns_ ? Consider buying me a coffee :\)
 <!-- REDDIT-POST-LIST:START -->
 <!-- REDDIT-POST-LIST:END -->
 
-### _Hadoop feeds_
+### _Hadoop posts_
 
 <!-- HADOOP-POST-LIST:START -->
 <!-- HADOOP-POST-LIST:END -->
 
-### _InfoWorld feeds_
+### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
 <!-- INFOWORLD-POST-LIST:END -->
 
-### _Hadoop in real world feeds_
+### _Hadoop in real world posts_
 
 <!-- HADOOPINREALWORLD-POST-LIST:START -->
 <!-- HADOOPINREALWORLD-POST-LIST:END -->
 
-### _Kognitio feeds_
+### _Kognitio posts_
 
 <!-- KOGNITIO-POST-LIST:START -->
 <!-- KOGNITIO-POST-LIST:END -->
 
-### _Curated SQL feeds_
+### _Curated SQL posts_
 
 <!-- CURATEDSQL-POST-LIST:START -->
 <!-- CURATEDSQL-POST-LIST:END -->
 
-### _Hadoop Quiz feeds_
+### _Hadoop Quiz posts_
 
 <!-- HADOOPQUIZ-POST-LIST:START -->
 <!-- HADOOPQUIZ-POST-LIST:END -->
 
-### _Understanding Hadoop feeds_
+### _Understanding Hadoop posts_
 
 <!-- UNDERSTANDHADOOP-POST-LIST:START -->
 <!-- UNDERSTANDHADOOP-POST-LIST:END -->
