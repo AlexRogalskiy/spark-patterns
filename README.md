@@ -31,6 +31,7 @@
       * [<em>Table of contents</em>](#-table-of-contents)
       * [<em>Summary</em>](#-summary)
       * [<em>Documentation</em>](#-documentation)
+      * [<em>Versioning</em>](#-versioning)
       * [<em>Authors</em>](#-authors)
       * [<em>Contributing</em>](#-contributing)
       * [<em>Visitor stats</em>](#-visitor-stats)
@@ -49,7 +50,7 @@
          * [<em>Understanding Hadoop posts</em>](#understanding-hadoop-posts)
          * [<em>RedHat posts</em>](#redhat-posts)
 
-<!-- Added by: runner, at: Thu Jan 28 11:40:51 UTC 2021 -->
+<!-- Added by: runner, at: Thu Jan 28 17:09:48 UTC 2021 -->
 
 <!--te-->
 
