@@ -264,6 +264,16 @@ Like _Spark Patterns_ ? Consider buying me a coffee :\)
 ### _Curated SQL feeds_
 
 <!-- CURATEDSQL-POST-LIST:START -->
+- [Delta Table Compatibility between Azure Databricks and Azure Synapse Analytics](https://curatedsql.com/2021/01/26/delta-table-compatibility-between-azure-databricks-and-azure-synapse-analytics/)
+- [Common Table Expressions in Spark](https://curatedsql.com/2021/01/21/common-table-expressions-in-spark/)
+- [Window Functions in Spark](https://curatedsql.com/2021/01/20/window-functions-in-spark/)
+- [Grouping Data with Spark](https://curatedsql.com/2021/01/19/grouping-data-with-spark/)
+- [Loading a Spark DataFrame in .NET](https://curatedsql.com/2021/01/18/loading-a-spark-dataframe-in-net/)
+- [Answering NiFi Questions](https://curatedsql.com/2021/01/14/answering-nifi-questions/)
+- [DataFrame Cleaning in Spark](https://curatedsql.com/2021/01/11/dataframe-cleaning-in-spark/)
+- [Adding Jars to a Spark Application](https://curatedsql.com/2021/01/07/adding-jars-to-a-spark-application/)
+- [Wrapping up the Azure Databricks Advent](https://curatedsql.com/2021/01/04/wrapping-up-the-azure-databricks-advent/)
+- [Deleting Messages and Topics in Kafka](https://curatedsql.com/2020/12/30/deleting-messages-and-topics-in-kafka/)
 <!-- CURATEDSQL-POST-LIST:END -->
 
 ### _Hadoop Quiz feeds_
