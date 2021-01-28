@@ -294,4 +294,14 @@ Like _Spark Patterns_ ? Consider buying me a coffee :\)
 ### _Understanding Hadoop feeds_
 
 <!-- UNDERSTANDHADOOP-POST-LIST:START -->
+- [CRUNCH YOUR WAY IN HADOOP](https://understanding-hadoop-by-mahesh.blogspot.com/2017/06/crunch-your-way-in-hadoop.html)
+- [HIVE INTERVIEW RELATED PREPARATION](https://understanding-hadoop-by-mahesh.blogspot.com/2017/04/hive-interview-related-preparation.html)
+- [A USECASE ON TRAVEL APP](https://understanding-hadoop-by-mahesh.blogspot.com/2017/03/a-usecase-on-travel-app.html)
+- [HIVE ON RESCUE- A HEALTHCARE USE_CASE ON STRUCTURED DATA](https://understanding-hadoop-by-mahesh.blogspot.com/2017/02/hive-on-rescue-healthcare-usecase-on.html)
+- [WAYS TO BULK LOAD DATA IN HBASE](https://understanding-hadoop-by-mahesh.blogspot.com/2017/02/ways-to-bulk-load-data-in-hbase.html)
+- [MULTIPLE OUTPUT WITH MULTIPLE INPUT FILE NAME](https://understanding-hadoop-by-mahesh.blogspot.com/2017/02/multiple-output-with-multiple-input.html)
+- [XML FILE PROCESSING IN HADOOP](https://understanding-hadoop-by-mahesh.blogspot.com/2017/02/xml-file-processing-in-hadoop.html)
+- [HADOOP POC ON EXCEL DATA WEATHER REPORT ANALYSIS](https://understanding-hadoop-by-mahesh.blogspot.com/2017/01/hadoop-poc-on-excel-data-weather-report.html)
+- [HADOOP (PROOF OF CONCEPTS) WEATHER REPORT ANALYSIS](https://understanding-hadoop-by-mahesh.blogspot.com/2017/01/hadoop-proof-of-concepts-weather-report.html)
+- [HIVE 2.1.1 INSTALLATION IN HADOOP 2.7.3 IN UBUNTU 16](https://understanding-hadoop-by-mahesh.blogspot.com/2017/01/hive-211-installation-in-hadoop-273-in.html)
 <!-- UNDERSTANDHADOOP-POST-LIST:END -->
