@@ -249,6 +249,16 @@ Like _Spark Patterns_ ? Consider buying me a coffee :\)
 ### _Kognitio feeds_
 
 <!-- KOGNITIO-POST-LIST:START -->
+- [Rewriting filters for partition columns](https://kognitio.com/blog/rewriting-filters-for-partition-columns/)
+- [Cloudera and Hortonworks — why the merger?](https://kognitio.com/blog/cloudera-and-hortonworks-why-the-merger/)
+- [Query Hive tables directly from Kognitio](https://kognitio.com/blog/query-hive-tables-directly-from-kognitio/)
+- [What’s New in Kognitio 8.2.2](https://kognitio.com/blog/whats-new-in-kognitio-8-2-2/)
+- [Using Kognitio 8.2.1 and later versions on HDP Hortonworks](https://kognitio.com/blog/using-kognitio-821-on-hdp-hortonworks/)
+- [Reading AVRO data into Kognitio](https://kognitio.com/blog/reading-formatting-avro-kognitio-external-tables/)
+- [Installing Kognitio on Azure HDInsight](https://kognitio.com/blog/installing-kognitio-azure-hdinsight/)
+- [I’ve put data in Hadoop so analytics will be quick, right?](https://kognitio.com/blog/data-hadoop-analytics-will-quick-right/)
+- [How will Kognitio on Hadoop work for you?](https://kognitio.com/blog/how-will-kognitio-hadoop-work-for-you/)
+- [Need faster analytics on data held in MapR? Try Kognitio.](https://kognitio.com/blog/need-faster-analytics-mapr/)
 <!-- KOGNITIO-POST-LIST:END -->
 
 ### _Curated SQL feeds_
