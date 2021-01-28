@@ -279,6 +279,16 @@ Like _Spark Patterns_ ? Consider buying me a coffee :\)
 ### _Hadoop Quiz feeds_
 
 <!-- HADOOPQUIZ-POST-LIST:START -->
+- [How to Convert Python script to shell script online](http://hadoopquiz.blogspot.com/2020/04/how-to-convert-python-script-to-shell.html)
+- [how to read  HDFS file in spark or Scala](http://hadoopquiz.blogspot.com/2020/04/how-to-read-hdfs-file-in-spark-or-scala.html)
+- [Python script to check disk space Windows](http://hadoopquiz.blogspot.com/2020/04/python-script-to-check-disk-space.html)
+- [What are real-time industry applications of Hadoop?](http://hadoopquiz.blogspot.com/2018/05/what-are-real-time-industry.html)
+- [List of Top Development Courses from Udemy](http://hadoopquiz.blogspot.com/2018/05/list-of-top-development-courses-from.html)
+- [Useful Command for cluster management](http://hadoopquiz.blogspot.com/2017/07/useful-command-for-cluster-management.html)
+- [How to Run Word Count program in Eclipse with screenshot](http://hadoopquiz.blogspot.com/2017/07/how-to-run-word-count-program-in.html)
+- [MapReduce | Hadoop Developer Self Learning Outline](http://hadoopquiz.blogspot.com/2017/07/mapreduce-hadoop-developer-self.html)
+- [HDFS2 | Hadoop Developer Self Learning Outline](http://hadoopquiz.blogspot.com/2017/06/hdfs2-hadoop-developer-self-learning.html)
+- [HDFS | Hadoop Developer Self Learning Outline](http://hadoopquiz.blogspot.com/2017/06/hdfs-hadoop-developer-self-learning.html)
 <!-- HADOOPQUIZ-POST-LIST:END -->
 
 ### _Understanding Hadoop feeds_
