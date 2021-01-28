@@ -203,6 +203,11 @@ Like _Spark Patterns_ ? Consider buying me a coffee :\)
 - [[ NVIDIA GTC 2020 Session ] Exterminating Buffer Overflows and Other Embarrassing Vulnerabilities with SPARK Ada on Tegra [S21122]](https://www.reddit.com/r/spark/comments/f9ytsc/nvidia_gtc_2020_session_exterminating_buffer/)
 <!-- REDDIT-POST-LIST:END -->
 
+### _InfoWorld Spark posts_
+
+<!-- INFOWORLD-SPARK-POST-LIST:START -->
+<!-- INFOWORLD-SPARK-POST-LIST:END -->
+
 ### _Hadoop posts_
 
 <!-- HADOOP-POST-LIST:START -->
@@ -218,9 +223,9 @@ Like _Spark Patterns_ ? Consider buying me a coffee :\)
 - [How to properly add jars to a Spark application?](https://www.hadoopinrealworld.com/how-to-properly-add-jars-to-a-spark-application/)
 <!-- HADOOP-POST-LIST:END -->
 
-### _InfoWorld posts_
+### _InfoWorld Hadoop posts_
 
-<!-- INFOWORLD-POST-LIST:START -->
+<!-- INFOWORLD-HADOOP-POST-LIST:START -->
 - [Why you should use Presto for ad hoc analytics](https://www.infoworld.com/article/3573576/why-you-should-use-presto-for-ad-hoc-analytics.html#tk.rss_hadoop)
 - [Rakuten frees itself of Hadoop investment in two years](https://www.infoworld.com/article/3563828/rakuten-frees-itself-of-hadoop-investment-in-two-years.html#tk.rss_hadoop)
 - [What is Apache Spark? The big data platform that crushed Hadoop](https://www.infoworld.com/article/3236869/what-is-apache-spark-the-big-data-platform-that-crushed-hadoop.html#tk.rss_hadoop)
@@ -229,7 +234,7 @@ Like _Spark Patterns_ ? Consider buying me a coffee :\)
 - [HPE plus MapR: Too much Hadoop, not enough cloud](https://www.infoworld.com/article/3431416/hpe-plus-mapr-too-much-hadoop-not-enough-cloud.html#tk.rss_hadoop)
 - [Hadoop runs out of gas](https://www.infoworld.com/article/3401917/hadoop-runs-out-of-gas.html#tk.rss_hadoop)
 - [Hadoop runs out of gas](https://www.infoworld.com/article/3400864/hadoop-runs-out-of-gas.html#tk.rss_hadoop)
-<!-- INFOWORLD-POST-LIST:END -->
+<!-- INFOWORLD-HADOOP-POST-LIST:END -->
 
 ### _Hadoop in real world posts_
 
@@ -305,3 +310,8 @@ Like _Spark Patterns_ ? Consider buying me a coffee :\)
 - [HADOOP (PROOF OF CONCEPTS) WEATHER REPORT ANALYSIS](https://understanding-hadoop-by-mahesh.blogspot.com/2017/01/hadoop-proof-of-concepts-weather-report.html)
 - [HIVE 2.1.1 INSTALLATION IN HADOOP 2.7.3 IN UBUNTU 16](https://understanding-hadoop-by-mahesh.blogspot.com/2017/01/hive-211-installation-in-hadoop-273-in.html)
 <!-- UNDERSTANDHADOOP-POST-LIST:END -->
+
+### _RedHat posts_
+
+<!-- REDHAT-POST-LIST:START -->
+<!-- REDHAT-POST-LIST:END -->

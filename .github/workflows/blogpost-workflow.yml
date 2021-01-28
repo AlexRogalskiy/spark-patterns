@@ -20,12 +20,17 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "10"
+          comment_tag_name: "INFOWORLD-SPARK-POST-LIST"
+          feed_list: "https://www.infoworld.com/category/spark/index.rss"
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          max_post_count: "10"
           comment_tag_name: "HADOOP-POST-LIST"
           feed_list: "http://www.hadoopinrealworld.com/blog/feed/"
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "10"
-          comment_tag_name: "INFOWORLD-POST-LIST"
+          comment_tag_name: "INFOWORLD-HADOOP-POST-LIST"
           feed_list: "https://www.infoworld.com/category/hadoop/index.rss"
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
@@ -52,4 +57,8 @@ jobs:
           max_post_count: "10"
           comment_tag_name: "UNDERSTANDHADOOP-POST-LIST"
           feed_list: "https://understanding-hadoop-by-mahesh.blogspot.com/feeds/posts/default?alt=rss"
-          
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          max_post_count: "10"
+          comment_tag_name: "REDHAT-POST-LIST"
+          feed_list: "https://developers.redhat.com/blog/tag/spark/feed/"
