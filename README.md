@@ -39,15 +39,15 @@
       * [<em>Acknowledgement</em>](#-acknowledgement)
       * [<em>Feeds and Podcasts</em>](#-feeds-and-podcasts)
          * [<em>Reddit posts</em>](#reddit-posts)
-         * [<em>Hadoop feeds</em>](#hadoop-feeds)
-         * [<em>InfoWorld feeds</em>](#infoworld-feeds)
-         * [<em>Hadoop in real world feeds</em>](#hadoop-in-real-world-feeds)
-         * [<em>Kognitio feeds</em>](#kognitio-feeds)
-         * [<em>Curated SQL feeds</em>](#curated-sql-feeds)
-         * [<em>Hadoop Quiz feeds</em>](#hadoop-quiz-feeds)
-         * [<em>Understanding Hadoop feeds</em>](#understanding-hadoop-feeds)
+         * [<em>Hadoop posts</em>](#hadoop-posts)
+         * [<em>InfoWorld posts</em>](#infoworld-posts)
+         * [<em>Hadoop in real world posts</em>](#hadoop-in-real-world-posts)
+         * [<em>Kognitio posts</em>](#kognitio-posts)
+         * [<em>Curated SQL posts</em>](#curated-sql-posts)
+         * [<em>Hadoop Quiz posts</em>](#hadoop-quiz-posts)
+         * [<em>Understanding Hadoop posts</em>](#understanding-hadoop-posts)
 
-<!-- Added by: runner, at: Thu Jan 28 11:20:42 UTC 2021 -->
+<!-- Added by: runner, at: Thu Jan 28 11:31:02 UTC 2021 -->
 
 <!--te-->
 
