@@ -36,8 +36,18 @@
       * [<em>Visitor stats</em>](#-visitor-stats)
       * [<em>Licensing</em>](#-licensing)
       * [<em>Development Support</em>](#-development-support)
+      * [<em>Acknowledgement</em>](#-acknowledgement)
+      * [<em>Feeds and Podcasts</em>](#-feeds-and-podcasts)
+         * [<em>Reddit posts</em>](#reddit-posts)
+         * [<em>Hadoop feeds</em>](#hadoop-feeds)
+         * [<em>InfoWorld feeds</em>](#infoworld-feeds)
+         * [<em>Hadoop in real world feeds</em>](#hadoop-in-real-world-feeds)
+         * [<em>Kognitio feeds</em>](#kognitio-feeds)
+         * [<em>Curated SQL feeds</em>](#curated-sql-feeds)
+         * [<em>Hadoop Quiz feeds</em>](#hadoop-quiz-feeds)
+         * [<em>Understanding Hadoop feeds</em>](#understanding-hadoop-feeds)
 
-<!-- Added by: runner, at: Wed Jan 27 11:09:39 UTC 2021 -->
+<!-- Added by: runner, at: Thu Jan 28 11:20:42 UTC 2021 -->
 
 <!--te-->
 
@@ -181,39 +191,117 @@ Like _Spark Patterns_ ? Consider buying me a coffee :\)
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [First beta release of Alire, the package manager for Ada/SPARK](https://www.reddit.com/r/spark/comments/jlyih0/first_beta_release_of_alire_the_package_manager/)
+- [[ VIDEO ] FOSDEM 2020 - Securing Existing Software using Formally Verified Libraries](https://www.reddit.com/r/spark/comments/j7h5eo/video_fosdem_2020_securing_existing_software/)
+- [FOSDEM 2020 - A Component-based Environment for Android Apps](https://www.reddit.com/r/spark/comments/j7g0p4/fosdem_2020_a_componentbased_environment_for/)
+- [Major milestone: SPARK now allows to prove code with partially initialized data being passed around!](https://www.reddit.com/r/spark/comments/hzgnx2/major_milestone_spark_now_allows_to_prove_code/)
+- [Gneiss: Framework for platform-independent SPARK components](https://www.reddit.com/r/spark/comments/gzolxl/gneiss_framework_for_platformindependent_spark/)
+- [From Ada to Platinum SPARK: A Case Study for Reusable Bounded Stacks](https://www.reddit.com/r/spark/comments/gjo2ac/from_ada_to_platinum_spark_a_case_study_for/)
+- [Making An RC Car with Ada and SPARK](https://www.reddit.com/r/spark/comments/fgwnje/making_an_rc_car_with_ada_and_spark/)
+- [AdaCore Announces Winners of Fourth Annual “Make with Ada” Competition](https://www.reddit.com/r/spark/comments/fcyheg/adacore_announces_winners_of_fourth_annual_make/)
+- [SPARKNaCl - A SPARK 2014 implemenation of the NaCl cryptographic library, *proven to be free of runtime errors*](https://www.reddit.com/r/spark/comments/fa7cug/sparknacl_a_spark_2014_implemenation_of_the_nacl/)
+- [[ NVIDIA GTC 2020 Session ] Exterminating Buffer Overflows and Other Embarrassing Vulnerabilities with SPARK Ada on Tegra [S21122]](https://www.reddit.com/r/spark/comments/f9ytsc/nvidia_gtc_2020_session_exterminating_buffer/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _Hadoop posts_
 
 <!-- HADOOP-POST-LIST:START -->
+- [How to create a folder in Amazon S3 using AWS CLI?](https://www.hadoopinrealworld.com/how-to-create-a-folder-in-amazon-s3-using-aws-cli/)
+- [How to control log settings in Spark and stop INFO messages?](https://www.hadoopinrealworld.com/how-to-control-log-settings-in-spark-and-stop-info-messages/)
+- [How does Shuffle Sort Merge Join work in Spark?](https://www.hadoopinrealworld.com/how-does-shuffle-sort-merge-join-work-in-spark/)
+- [What is the difference between Hive internal tables and external tables?](https://www.hadoopinrealworld.com/what-is-the-difference-between-hive-internal-tables-and-external-tables/)
+- [How to check size of a directory in HDFS?](https://www.hadoopinrealworld.com/how-to-check-size-of-a-directory-in-hdfs/)
+- [How does Broadcast Hash Join work in Spark?](https://www.hadoopinrealworld.com/how-does-broadcast-hash-join-work-in-spark/)
+- [How to merge multiple output files from MapReduce or Spark jobs to one?](https://www.hadoopinrealworld.com/how-to-merge-multiple-output-files-from-mapreduce-or-spark-jobs-to-one/)
+- [How to list all the available brokers in a Kafka cluster?](https://www.hadoopinrealworld.com/how-to-list-all-the-available-brokers-in-a-kafka-cluster/)
+- [How does Broadcast Nested Loop Join work in Spark?](https://www.hadoopinrealworld.com/how-does-broadcast-nested-loop-join-work-in-spark/)
+- [How to properly add jars to a Spark application?](https://www.hadoopinrealworld.com/how-to-properly-add-jars-to-a-spark-application/)
 <!-- HADOOP-POST-LIST:END -->
 
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Why you should use Presto for ad hoc analytics](https://www.infoworld.com/article/3573576/why-you-should-use-presto-for-ad-hoc-analytics.html#tk.rss_hadoop)
+- [Rakuten frees itself of Hadoop investment in two years](https://www.infoworld.com/article/3563828/rakuten-frees-itself-of-hadoop-investment-in-two-years.html#tk.rss_hadoop)
+- [What is Apache Spark? The big data platform that crushed Hadoop](https://www.infoworld.com/article/3236869/what-is-apache-spark-the-big-data-platform-that-crushed-hadoop.html#tk.rss_hadoop)
+- [Qubole review: Self-service big data analytics](https://www.infoworld.com/article/3449896/qubole-review-self-service-big-data-analytics.html#tk.rss_hadoop)
+- [How to do real-time analytics across historical and live data](https://www.infoworld.com/article/3430787/how-to-perform-real-time-analytics-across-live-and-historical-data.html#tk.rss_hadoop)
+- [HPE plus MapR: Too much Hadoop, not enough cloud](https://www.infoworld.com/article/3431416/hpe-plus-mapr-too-much-hadoop-not-enough-cloud.html#tk.rss_hadoop)
+- [Hadoop runs out of gas](https://www.infoworld.com/article/3401917/hadoop-runs-out-of-gas.html#tk.rss_hadoop)
+- [Hadoop runs out of gas](https://www.infoworld.com/article/3400864/hadoop-runs-out-of-gas.html#tk.rss_hadoop)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Hadoop in real world posts_
 
 <!-- HADOOPINREALWORLD-POST-LIST:START -->
+- [How to create a folder in Amazon S3 using AWS CLI?](https://www.hadoopinrealworld.com/how-to-create-a-folder-in-amazon-s3-using-aws-cli/)
+- [How to control log settings in Spark and stop INFO messages?](https://www.hadoopinrealworld.com/how-to-control-log-settings-in-spark-and-stop-info-messages/)
+- [How does Shuffle Sort Merge Join work in Spark?](https://www.hadoopinrealworld.com/how-does-shuffle-sort-merge-join-work-in-spark/)
+- [What is the difference between Hive internal tables and external tables?](https://www.hadoopinrealworld.com/what-is-the-difference-between-hive-internal-tables-and-external-tables/)
+- [How to check size of a directory in HDFS?](https://www.hadoopinrealworld.com/how-to-check-size-of-a-directory-in-hdfs/)
+- [How does Broadcast Hash Join work in Spark?](https://www.hadoopinrealworld.com/how-does-broadcast-hash-join-work-in-spark/)
+- [How to merge multiple output files from MapReduce or Spark jobs to one?](https://www.hadoopinrealworld.com/how-to-merge-multiple-output-files-from-mapreduce-or-spark-jobs-to-one/)
+- [How to list all the available brokers in a Kafka cluster?](https://www.hadoopinrealworld.com/how-to-list-all-the-available-brokers-in-a-kafka-cluster/)
+- [How does Broadcast Nested Loop Join work in Spark?](https://www.hadoopinrealworld.com/how-does-broadcast-nested-loop-join-work-in-spark/)
+- [How to properly add jars to a Spark application?](https://www.hadoopinrealworld.com/how-to-properly-add-jars-to-a-spark-application/)
 <!-- HADOOPINREALWORLD-POST-LIST:END -->
 
 ### _Kognitio posts_
 
 <!-- KOGNITIO-POST-LIST:START -->
+- [Rewriting filters for partition columns](https://kognitio.com/blog/rewriting-filters-for-partition-columns/)
+- [Cloudera and Hortonworks — why the merger?](https://kognitio.com/blog/cloudera-and-hortonworks-why-the-merger/)
+- [Query Hive tables directly from Kognitio](https://kognitio.com/blog/query-hive-tables-directly-from-kognitio/)
+- [What’s New in Kognitio 8.2.2](https://kognitio.com/blog/whats-new-in-kognitio-8-2-2/)
+- [Using Kognitio 8.2.1 and later versions on HDP Hortonworks](https://kognitio.com/blog/using-kognitio-821-on-hdp-hortonworks/)
+- [Reading AVRO data into Kognitio](https://kognitio.com/blog/reading-formatting-avro-kognitio-external-tables/)
+- [Installing Kognitio on Azure HDInsight](https://kognitio.com/blog/installing-kognitio-azure-hdinsight/)
+- [I’ve put data in Hadoop so analytics will be quick, right?](https://kognitio.com/blog/data-hadoop-analytics-will-quick-right/)
+- [How will Kognitio on Hadoop work for you?](https://kognitio.com/blog/how-will-kognitio-hadoop-work-for-you/)
+- [Need faster analytics on data held in MapR? Try Kognitio.](https://kognitio.com/blog/need-faster-analytics-mapr/)
 <!-- KOGNITIO-POST-LIST:END -->
 
 ### _Curated SQL posts_
 
 <!-- CURATEDSQL-POST-LIST:START -->
+- [Delta Table Compatibility between Azure Databricks and Azure Synapse Analytics](https://curatedsql.com/2021/01/26/delta-table-compatibility-between-azure-databricks-and-azure-synapse-analytics/)
+- [Common Table Expressions in Spark](https://curatedsql.com/2021/01/21/common-table-expressions-in-spark/)
+- [Window Functions in Spark](https://curatedsql.com/2021/01/20/window-functions-in-spark/)
+- [Grouping Data with Spark](https://curatedsql.com/2021/01/19/grouping-data-with-spark/)
+- [Loading a Spark DataFrame in .NET](https://curatedsql.com/2021/01/18/loading-a-spark-dataframe-in-net/)
+- [Answering NiFi Questions](https://curatedsql.com/2021/01/14/answering-nifi-questions/)
+- [DataFrame Cleaning in Spark](https://curatedsql.com/2021/01/11/dataframe-cleaning-in-spark/)
+- [Adding Jars to a Spark Application](https://curatedsql.com/2021/01/07/adding-jars-to-a-spark-application/)
+- [Wrapping up the Azure Databricks Advent](https://curatedsql.com/2021/01/04/wrapping-up-the-azure-databricks-advent/)
+- [Deleting Messages and Topics in Kafka](https://curatedsql.com/2020/12/30/deleting-messages-and-topics-in-kafka/)
 <!-- CURATEDSQL-POST-LIST:END -->
 
 ### _Hadoop Quiz posts_
 
 <!-- HADOOPQUIZ-POST-LIST:START -->
+- [How to Convert Python script to shell script online](http://hadoopquiz.blogspot.com/2020/04/how-to-convert-python-script-to-shell.html)
+- [how to read  HDFS file in spark or Scala](http://hadoopquiz.blogspot.com/2020/04/how-to-read-hdfs-file-in-spark-or-scala.html)
+- [Python script to check disk space Windows](http://hadoopquiz.blogspot.com/2020/04/python-script-to-check-disk-space.html)
+- [What are real-time industry applications of Hadoop?](http://hadoopquiz.blogspot.com/2018/05/what-are-real-time-industry.html)
+- [List of Top Development Courses from Udemy](http://hadoopquiz.blogspot.com/2018/05/list-of-top-development-courses-from.html)
+- [Useful Command for cluster management](http://hadoopquiz.blogspot.com/2017/07/useful-command-for-cluster-management.html)
+- [How to Run Word Count program in Eclipse with screenshot](http://hadoopquiz.blogspot.com/2017/07/how-to-run-word-count-program-in.html)
+- [MapReduce | Hadoop Developer Self Learning Outline](http://hadoopquiz.blogspot.com/2017/07/mapreduce-hadoop-developer-self.html)
+- [HDFS2 | Hadoop Developer Self Learning Outline](http://hadoopquiz.blogspot.com/2017/06/hdfs2-hadoop-developer-self-learning.html)
+- [HDFS | Hadoop Developer Self Learning Outline](http://hadoopquiz.blogspot.com/2017/06/hdfs-hadoop-developer-self-learning.html)
 <!-- HADOOPQUIZ-POST-LIST:END -->
 
 ### _Understanding Hadoop posts_
 
 <!-- UNDERSTANDHADOOP-POST-LIST:START -->
+- [CRUNCH YOUR WAY IN HADOOP](https://understanding-hadoop-by-mahesh.blogspot.com/2017/06/crunch-your-way-in-hadoop.html)
+- [HIVE INTERVIEW RELATED PREPARATION](https://understanding-hadoop-by-mahesh.blogspot.com/2017/04/hive-interview-related-preparation.html)
+- [A USECASE ON TRAVEL APP](https://understanding-hadoop-by-mahesh.blogspot.com/2017/03/a-usecase-on-travel-app.html)
+- [HIVE ON RESCUE- A HEALTHCARE USE_CASE ON STRUCTURED DATA](https://understanding-hadoop-by-mahesh.blogspot.com/2017/02/hive-on-rescue-healthcare-usecase-on.html)
+- [WAYS TO BULK LOAD DATA IN HBASE](https://understanding-hadoop-by-mahesh.blogspot.com/2017/02/ways-to-bulk-load-data-in-hbase.html)
+- [MULTIPLE OUTPUT WITH MULTIPLE INPUT FILE NAME](https://understanding-hadoop-by-mahesh.blogspot.com/2017/02/multiple-output-with-multiple-input.html)
+- [XML FILE PROCESSING IN HADOOP](https://understanding-hadoop-by-mahesh.blogspot.com/2017/02/xml-file-processing-in-hadoop.html)
+- [HADOOP POC ON EXCEL DATA WEATHER REPORT ANALYSIS](https://understanding-hadoop-by-mahesh.blogspot.com/2017/01/hadoop-poc-on-excel-data-weather-report.html)
+- [HADOOP (PROOF OF CONCEPTS) WEATHER REPORT ANALYSIS](https://understanding-hadoop-by-mahesh.blogspot.com/2017/01/hadoop-proof-of-concepts-weather-report.html)
+- [HIVE 2.1.1 INSTALLATION IN HADOOP 2.7.3 IN UBUNTU 16](https://understanding-hadoop-by-mahesh.blogspot.com/2017/01/hive-211-installation-in-hadoop-273-in.html)
 <!-- UNDERSTANDHADOOP-POST-LIST:END -->
