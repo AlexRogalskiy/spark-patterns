@@ -299,6 +299,8 @@ Like _**Spark Patterns**_ ? Consider buying me a coffee :\)
 ### _Curated SQL posts_
 
 <!-- CURATEDSQL-POST-LIST:START -->
+- [Joins in Synapse Analytics Spark](https://curatedsql.com/2021/01/28/joins-in-synapse-analytics-spark/)
+- [Parquet 1.x Footer Content](https://curatedsql.com/2021/01/28/parquet-1-x-footer-content/)
 - [Delta Table Compatibility between Azure Databricks and Azure Synapse Analytics](https://curatedsql.com/2021/01/26/delta-table-compatibility-between-azure-databricks-and-azure-synapse-analytics/)
 - [Common Table Expressions in Spark](https://curatedsql.com/2021/01/21/common-table-expressions-in-spark/)
 - [Window Functions in Spark](https://curatedsql.com/2021/01/20/window-functions-in-spark/)
@@ -307,8 +309,6 @@ Like _**Spark Patterns**_ ? Consider buying me a coffee :\)
 - [Answering NiFi Questions](https://curatedsql.com/2021/01/14/answering-nifi-questions/)
 - [DataFrame Cleaning in Spark](https://curatedsql.com/2021/01/11/dataframe-cleaning-in-spark/)
 - [Adding Jars to a Spark Application](https://curatedsql.com/2021/01/07/adding-jars-to-a-spark-application/)
-- [Wrapping up the Azure Databricks Advent](https://curatedsql.com/2021/01/04/wrapping-up-the-azure-databricks-advent/)
-- [Deleting Messages and Topics in Kafka](https://curatedsql.com/2020/12/30/deleting-messages-and-topics-in-kafka/)
 <!-- CURATEDSQL-POST-LIST:END -->
 
 ### _Hadoop Quiz posts_
