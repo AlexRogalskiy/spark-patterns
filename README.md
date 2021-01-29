@@ -50,7 +50,7 @@
          * [<em>Understanding Hadoop posts</em>](#understanding-hadoop-posts)
          * [<em>RedHat posts</em>](#redhat-posts)
 
-<!-- Added by: runner, at: Thu Jan 28 18:31:10 UTC 2021 -->
+<!-- Added by: runner, at: Fri Jan 29 20:43:12 UTC 2021 -->
 
 <!--te-->
 
