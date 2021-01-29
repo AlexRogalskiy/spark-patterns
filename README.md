@@ -221,7 +221,7 @@ Like _**Spark Patterns**_ ? Consider buying me a coffee :\)
 - [From Ada to Platinum SPARK: A Case Study for Reusable Bounded Stacks](https://www.reddit.com/r/spark/comments/gjo2ac/from_ada_to_platinum_spark_a_case_study_for/)
 - [Making An RC Car with Ada and SPARK](https://www.reddit.com/r/spark/comments/fgwnje/making_an_rc_car_with_ada_and_spark/)
 - [AdaCore Announces Winners of Fourth Annual “Make with Ada” Competition](https://www.reddit.com/r/spark/comments/fcyheg/adacore_announces_winners_of_fourth_annual_make/)
-- [SPARKNaCl - A SPARK 2014 implemenation of the NaCl cryptographic library, *proven to be free of runtime errors*](https://www.reddit.com/r/spark/comments/fa7cug/sparknacl_a_spark_2014_implemenation_of_the_nacl/)
+- [SPARKNaCl - A SPARK 2014 implementation of the NaCl cryptographic library, *proven to be free of runtime errors*](https://www.reddit.com/r/spark/comments/fa7cug/sparknacl_a_spark_2014_implementation_of_the_nacl/)
 - [[ NVIDIA GTC 2020 Session ] Exterminating Buffer Overflows and Other Embarrassing Vulnerabilities with SPARK Ada on Tegra [S21122]](https://www.reddit.com/r/spark/comments/f9ytsc/nvidia_gtc_2020_session_exterminating_buffer/)
 <!-- REDDIT-POST-LIST:END -->
 
