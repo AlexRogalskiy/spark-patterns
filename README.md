@@ -49,7 +49,7 @@
          * [<em>Hadoop Quiz posts</em>](#hadoop-quiz-posts)
          * [<em>Understanding Hadoop posts</em>](#understanding-hadoop-posts)
          * [<em>RedHat posts</em>](#redhat-posts)
-
+ 
 <!-- Added by: runner, at: Fri Jan 29 20:43:12 UTC 2021 -->
 
 <!--te-->
