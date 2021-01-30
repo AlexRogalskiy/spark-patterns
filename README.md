@@ -299,6 +299,8 @@ Like _**Spark Patterns**_ ? Consider buying me a coffee :\)
 ### _Curated SQL posts_
 
 <!-- CURATEDSQL-POST-LIST:START -->
+- [A Review of AWS Athena](https://curatedsql.com/2021/01/29/a-review-of-aws-athena/)
+- [Using Spark Pools in Azure Synapse Analytics](https://curatedsql.com/2021/01/29/using-spark-pools-in-azure-synapse-analytics/)
 - [Joins in Synapse Analytics Spark](https://curatedsql.com/2021/01/28/joins-in-synapse-analytics-spark/)
 - [Parquet 1.x Footer Content](https://curatedsql.com/2021/01/28/parquet-1-x-footer-content/)
 - [Delta Table Compatibility between Azure Databricks and Azure Synapse Analytics](https://curatedsql.com/2021/01/26/delta-table-compatibility-between-azure-databricks-and-azure-synapse-analytics/)
@@ -307,8 +309,6 @@ Like _**Spark Patterns**_ ? Consider buying me a coffee :\)
 - [Grouping Data with Spark](https://curatedsql.com/2021/01/19/grouping-data-with-spark/)
 - [Loading a Spark DataFrame in .NET](https://curatedsql.com/2021/01/18/loading-a-spark-dataframe-in-net/)
 - [Answering NiFi Questions](https://curatedsql.com/2021/01/14/answering-nifi-questions/)
-- [DataFrame Cleaning in Spark](https://curatedsql.com/2021/01/11/dataframe-cleaning-in-spark/)
-- [Adding Jars to a Spark Application](https://curatedsql.com/2021/01/07/adding-jars-to-a-spark-application/)
 <!-- CURATEDSQL-POST-LIST:END -->
 
 ### _Hadoop Quiz posts_
