@@ -13,6 +13,8 @@
   </a>
 </p>
 
+![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/AlexRogalskiy/spark-patterns)
+![GitHub Release Date](https://img.shields.io/github/release-date/AlexRogalskiy/spark-patterns)
 ![Lines of code](https://tokei.rs/b1/github/AlexRogalskiy/spark-patterns?category=lines)
 ![GitHub closed issues](https://img.shields.io/github/issues-closed/AlexRogalskiy/spark-patterns)
 ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/AlexRogalskiy/spark-patterns)
@@ -23,6 +25,11 @@
 ![GitHub search hit counter](https://img.shields.io/github/search/AlexRogalskiy/spark-patterns/goto)
 ![GitHub Repository branches](https://badgen.net/github/branches/AlexRogalskiy/spark-patterns)
 ![GitHub Repository dependents](https://badgen.net/github/dependents-repo/AlexRogalskiy/spark-patterns)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAlexRogalskiy%2Fspark-patterns.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAlexRogalskiy%2Fspark-patterns?ref=badge_shield)
+[![Dependabot](https://img.shields.io/badge/dependabot-enabled-1f8ceb.svg?style=flat-square)](https://dependabot.com/)
+[![NewReleases](https://newreleases.io/badge.svg)](https://newreleases.io/github/AlexRogalskiy/spark-patterns)
+[![Hits-of-Code](https://hitsofcode.com/github/AlexRogalskiy/spark-patterns)](https://hitsofcode.com/github/AlexRogalskiy/spark-patterns/view)
+[![ComVer](https://img.shields.io/badge/ComVer-compliant-brightgreen.svg)](https://github.com/AlexRogalskiy/spark-patterns)
 
 ## 🎹 _Table of contents_
 
@@ -50,7 +57,7 @@
          * [<em>Understanding Hadoop posts</em>](#understanding-hadoop-posts)
          * [<em>RedHat posts</em>](#redhat-posts)
 
-<!-- Added by: runner, at: Fri Jan 29 21:31:33 UTC 2021 -->
+<!-- Added by: runner, at: Sat Jan 30 12:52:51 UTC 2021 -->
 
 <!--te-->
 
@@ -221,7 +228,7 @@ Like _**Spark Patterns**_ ? Consider buying me a coffee :\)
 - [From Ada to Platinum SPARK: A Case Study for Reusable Bounded Stacks](https://www.reddit.com/r/spark/comments/gjo2ac/from_ada_to_platinum_spark_a_case_study_for/)
 - [Making An RC Car with Ada and SPARK](https://www.reddit.com/r/spark/comments/fgwnje/making_an_rc_car_with_ada_and_spark/)
 - [AdaCore Announces Winners of Fourth Annual “Make with Ada” Competition](https://www.reddit.com/r/spark/comments/fcyheg/adacore_announces_winners_of_fourth_annual_make/)
-- [SPARKNaCl - A SPARK 2014 implementation of the NaCl cryptographic library, *proven to be free of runtime errors*](https://www.reddit.com/r/spark/comments/fa7cug/sparknacl_a_spark_2014_implementation_of_the_nacl/)
+- [SPARKNaCl - A SPARK 2014 implemenation of the NaCl cryptographic library, *proven to be free of runtime errors*](https://www.reddit.com/r/spark/comments/fa7cug/sparknacl_a_spark_2014_implemenation_of_the_nacl/)
 - [[ NVIDIA GTC 2020 Session ] Exterminating Buffer Overflows and Other Embarrassing Vulnerabilities with SPARK Ada on Tegra [S21122]](https://www.reddit.com/r/spark/comments/f9ytsc/nvidia_gtc_2020_session_exterminating_buffer/)
 <!-- REDDIT-POST-LIST:END -->
 
@@ -241,6 +248,7 @@ Like _**Spark Patterns**_ ? Consider buying me a coffee :\)
 ### _Hadoop posts_
 
 <!-- HADOOP-POST-LIST:START -->
+- [How does Cartesian Product Join work in Spark?](https://www.hadoopinrealworld.com/how-does-cartesian-product-join-work-in-spark/)
 - [How to create a folder in Amazon S3 using AWS CLI?](https://www.hadoopinrealworld.com/how-to-create-a-folder-in-amazon-s3-using-aws-cli/)
 - [How to control log settings in Spark and stop INFO messages?](https://www.hadoopinrealworld.com/how-to-control-log-settings-in-spark-and-stop-info-messages/)
 - [How does Shuffle Sort Merge Join work in Spark?](https://www.hadoopinrealworld.com/how-does-shuffle-sort-merge-join-work-in-spark/)
@@ -250,7 +258,6 @@ Like _**Spark Patterns**_ ? Consider buying me a coffee :\)
 - [How to merge multiple output files from MapReduce or Spark jobs to one?](https://www.hadoopinrealworld.com/how-to-merge-multiple-output-files-from-mapreduce-or-spark-jobs-to-one/)
 - [How to list all the available brokers in a Kafka cluster?](https://www.hadoopinrealworld.com/how-to-list-all-the-available-brokers-in-a-kafka-cluster/)
 - [How does Broadcast Nested Loop Join work in Spark?](https://www.hadoopinrealworld.com/how-does-broadcast-nested-loop-join-work-in-spark/)
-- [How to properly add jars to a Spark application?](https://www.hadoopinrealworld.com/how-to-properly-add-jars-to-a-spark-application/)
 <!-- HADOOP-POST-LIST:END -->
 
 ### _InfoWorld Hadoop posts_
@@ -269,6 +276,7 @@ Like _**Spark Patterns**_ ? Consider buying me a coffee :\)
 ### _Hadoop in real world posts_
 
 <!-- HADOOPINREALWORLD-POST-LIST:START -->
+- [How does Cartesian Product Join work in Spark?](https://www.hadoopinrealworld.com/how-does-cartesian-product-join-work-in-spark/)
 - [How to create a folder in Amazon S3 using AWS CLI?](https://www.hadoopinrealworld.com/how-to-create-a-folder-in-amazon-s3-using-aws-cli/)
 - [How to control log settings in Spark and stop INFO messages?](https://www.hadoopinrealworld.com/how-to-control-log-settings-in-spark-and-stop-info-messages/)
 - [How does Shuffle Sort Merge Join work in Spark?](https://www.hadoopinrealworld.com/how-does-shuffle-sort-merge-join-work-in-spark/)
@@ -278,7 +286,6 @@ Like _**Spark Patterns**_ ? Consider buying me a coffee :\)
 - [How to merge multiple output files from MapReduce or Spark jobs to one?](https://www.hadoopinrealworld.com/how-to-merge-multiple-output-files-from-mapreduce-or-spark-jobs-to-one/)
 - [How to list all the available brokers in a Kafka cluster?](https://www.hadoopinrealworld.com/how-to-list-all-the-available-brokers-in-a-kafka-cluster/)
 - [How does Broadcast Nested Loop Join work in Spark?](https://www.hadoopinrealworld.com/how-does-broadcast-nested-loop-join-work-in-spark/)
-- [How to properly add jars to a Spark application?](https://www.hadoopinrealworld.com/how-to-properly-add-jars-to-a-spark-application/)
 <!-- HADOOPINREALWORLD-POST-LIST:END -->
 
 ### _Kognitio posts_
@@ -299,6 +306,8 @@ Like _**Spark Patterns**_ ? Consider buying me a coffee :\)
 ### _Curated SQL posts_
 
 <!-- CURATEDSQL-POST-LIST:START -->
+- [A Review of AWS Athena](https://curatedsql.com/2021/01/29/a-review-of-aws-athena/)
+- [Using Spark Pools in Azure Synapse Analytics](https://curatedsql.com/2021/01/29/using-spark-pools-in-azure-synapse-analytics/)
 - [Joins in Synapse Analytics Spark](https://curatedsql.com/2021/01/28/joins-in-synapse-analytics-spark/)
 - [Parquet 1.x Footer Content](https://curatedsql.com/2021/01/28/parquet-1-x-footer-content/)
 - [Delta Table Compatibility between Azure Databricks and Azure Synapse Analytics](https://curatedsql.com/2021/01/26/delta-table-compatibility-between-azure-databricks-and-azure-synapse-analytics/)
@@ -307,8 +316,6 @@ Like _**Spark Patterns**_ ? Consider buying me a coffee :\)
 - [Grouping Data with Spark](https://curatedsql.com/2021/01/19/grouping-data-with-spark/)
 - [Loading a Spark DataFrame in .NET](https://curatedsql.com/2021/01/18/loading-a-spark-dataframe-in-net/)
 - [Answering NiFi Questions](https://curatedsql.com/2021/01/14/answering-nifi-questions/)
-- [DataFrame Cleaning in Spark](https://curatedsql.com/2021/01/11/dataframe-cleaning-in-spark/)
-- [Adding Jars to a Spark Application](https://curatedsql.com/2021/01/07/adding-jars-to-a-spark-application/)
 <!-- CURATEDSQL-POST-LIST:END -->
 
 ### _Hadoop Quiz posts_
