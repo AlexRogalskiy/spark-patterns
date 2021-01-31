@@ -306,8 +306,8 @@ Like _**Spark Patterns**_ ? Consider buying me a coffee :\)
 ### _Curated SQL posts_
 
 <!-- CURATEDSQL-POST-LIST:START -->
-- [A Review of AWS Athena](https://curatedsql.com/2021/01/29/a-review-of-aws-athena/)
 - [Using Spark Pools in Azure Synapse Analytics](https://curatedsql.com/2021/01/29/using-spark-pools-in-azure-synapse-analytics/)
+- [A Review of AWS Athena](https://curatedsql.com/2021/01/29/a-review-of-aws-athena/)
 - [Joins in Synapse Analytics Spark](https://curatedsql.com/2021/01/28/joins-in-synapse-analytics-spark/)
 - [Parquet 1.x Footer Content](https://curatedsql.com/2021/01/28/parquet-1-x-footer-content/)
 - [Delta Table Compatibility between Azure Databricks and Azure Synapse Analytics](https://curatedsql.com/2021/01/26/delta-table-compatibility-between-azure-databricks-and-azure-synapse-analytics/)
