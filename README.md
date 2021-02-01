@@ -28,7 +28,7 @@
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAlexRogalskiy%2Fspark-patterns.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAlexRogalskiy%2Fspark-patterns?ref=badge_shield)
 [![Dependabot](https://img.shields.io/badge/dependabot-enabled-1f8ceb.svg?style=flat-square)](https://dependabot.com/)
 [![NewReleases](https://newreleases.io/badge.svg)](https://newreleases.io/github/AlexRogalskiy/spark-patterns)
-[![Hits-of-Code](https://hitsofcode.com/github/AlexRogalskiy/spark-patterns)](https://hitsofcode.com/github/AlexRogalskiy/spark-patterns/view)
+[![Hits-of-Code](https://hitsofcode.com/github/alexrogalskiy/spark-patterns?branch=master)](https://hitsofcode.com/github/alexrogalskiy/spark-patterns?branch=master/view?branch=master)
 [![ComVer](https://img.shields.io/badge/ComVer-compliant-brightgreen.svg)][repo]
 
 ## 🎹 _Table of contents_
@@ -64,21 +64,21 @@
 ## ☝ _Summary_
 
 <p align="center" style="text-align:center;">
-	<img alt="Apache" src="https://img.shields.io/badge/apache%20-%23D42029.svg?logo=apache%20spark&logoColor=white"/>
-	<a href="https://www.repostatus.org/#active">
-		<img src="https://img.shields.io/badge/Project%20Status-Active-brightgreen" alt="Project Status: Active – The project has reached a stable, usable state and is being actively developed." />
-	</a>
-	<a href="https://badges.pufler.dev">
-		<img src="https://badges.pufler.dev/created/AlexRogalskiy/spark-patterns" alt="Project created status" />
-	</a>
-	<a href="https://badges.pufler.dev">
-		<img src="https://badges.pufler.dev/updated/AlexRogalskiy/spark-patterns" alt="Project updated status" />
-	</a>
+    <img alt="Apache" src="https://img.shields.io/badge/apache%20-%23D42029.svg?logo=apache%20spark&logoColor=white"/>
+    <a href="https://www.repostatus.org/#active">
+        <img src="https://img.shields.io/badge/Project%20Status-Active-brightgreen" alt="Project Status: Active – The project has reached a stable, usable state and is being actively developed." />
+    </a>
+    <a href="https://badges.pufler.dev">
+        <img src="https://badges.pufler.dev/created/AlexRogalskiy/spark-patterns" alt="Project created status" />
+    </a>
+    <a href="https://badges.pufler.dev">
+        <img src="https://badges.pufler.dev/updated/AlexRogalskiy/spark-patterns" alt="Project updated status" />
+    </a>
 </p>
 
 _**Spark Design Patterns**_ is intended to provide various use case scenarios and architectural concepts on prototyping adaptive applications.
 
-```text 
+```text
 mkdocs.yml    # Configuration file.
 docs/
     readme.md  # General information
