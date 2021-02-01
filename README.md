@@ -56,9 +56,6 @@
          * [<em>Hadoop Quiz posts</em>](#hadoop-quiz-posts)
          * [<em>Understanding Hadoop posts</em>](#understanding-hadoop-posts)
          * [<em>RedHat posts</em>](#redhat-posts)
-
-<!-- Added by: runner, at: Mon Feb  1 13:37:55 UTC 2021 -->
-
 <!--te-->
 
 ## ☝ _Summary_
