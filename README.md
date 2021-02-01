@@ -64,6 +64,7 @@
 ## ☝ _Summary_
 
 <p align="center" style="text-align:center;">
+	<img alt="Apache" src="https://img.shields.io/badge/apache%20-%23D42029.svg?logo=apache%20spark&logoColor=white"/>
 	<a href="https://www.repostatus.org/#active">
 		<img src="https://img.shields.io/badge/Project%20Status-Active-brightgreen" alt="Project Status: Active – The project has reached a stable, usable state and is being actively developed." />
 	</a>
