@@ -113,7 +113,7 @@ docs/
 
 The Website documentation is provided by [gitbook](https://www.gitbook.com/) and can be discovered at url:
 
-[**Spark Patterns**](https://alexander-rogalsky.gitbook.io/spark-patterns/)
+[**Spark Patterns**][docs]
 
 To enable documentation serving at _**localhost**_ ****the following steps should be considered:
 
@@ -360,3 +360,4 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
   [wiki]:           https://github.com/AlexRogalskiy/spark-patterns/wiki
   [stars]:          https://github.com/AlexRogalskiy/spark-patterns/stargazers
   [contributors]:   https://github.com/AlexRogalskiy/spark-patterns/graphs/contributors
+  [docs]:           https://alexander-rogalsky.gitbook.io/spark-patterns/
