@@ -38,6 +38,7 @@
       * [<em>Table of contents</em>](#-table-of-contents)
       * [<em>Summary</em>](#-summary)
       * [<em>Documentation</em>](#-documentation)
+      * [<em>Statistics</em>](#-statistics)
       * [<em>Versioning</em>](#-versioning)
       * [<em>Authors</em>](#-authors)
       * [<em>Contributing</em>](#-contributing)
@@ -113,7 +114,7 @@ The Website documentation is provided by [gitbook](https://www.gitbook.com/) and
 
 [**Spark Patterns**][docs]
 
-To enable documentation serving at _**localhost**_ ****the following steps should be considered:
+To enable documentation serving at _**localhost**_ the following steps should be considered:
 
 1\) Install/upgrade _**pip**_ command-line utility:
 
@@ -160,6 +161,12 @@ mkdocs --verbose gh-deploy --force --remote-branch gh-pages
 ```
 
 5\) Open up [localhost](http://127.0.0.1:8000/) in browser to get the default documentation homepage.
+
+## ⏰ _Statistics_
+
+<p align="center" style="text-align:center;">
+    <img alt="Documentation PageSpeed result dashboard" src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/master/reports/pagespeedresultmobile.svg"/>
+</p>
 
 ## 📝 _Versioning_
 
@@ -232,19 +239,20 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 ### _InfoWorld Spark posts_
 
 <!-- INFOWORLD-SPARK-POST-LIST:START -->
-- [Microsoft brings .NET dev to Apache Spark](https://www.infoworld.com/article/3587595/microsoft-brings-net-dev-to-apache-spark.html#tk.rss_spark)
-- [Azure Databricks previews parallelized Photon query engine](https://www.infoworld.com/article/3583657/azure-databricks-previews-parallelized-photon-query-engine.html#tk.rss_spark)
-- [Apache Spark 3.0 adds Nvidia GPU support for machine learning](https://www.infoworld.com/article/3543319/apache-spark-30-adds-nvidia-gpu-support-for-machine-learning.html#tk.rss_spark)
-- [Qubole review: Self-service big data analytics](https://www.infoworld.com/article/3449896/qubole-review-self-service-big-data-analytics.html#tk.rss_spark)
-- [How Qubole addresses Apache Spark challenges](https://www.infoworld.com/article/3434013/how-qubole-addresses-apache-spark-challenges.html#tk.rss_spark)
-- [How to do real-time analytics across historical and live data](https://www.infoworld.com/article/3430787/how-to-perform-real-time-analytics-across-live-and-historical-data.html#tk.rss_spark)
-- [Time series analysis with KNIME and Spark](https://www.infoworld.com/article/3405256/time-series-analysis-with-knime-and-spark.html#tk.rss_spark)
-- [Delta Lake gives Apache Spark data sets new powers](https://www.infoworld.com/article/3391065/delta-lake-gives-apache-spark-data-sets-new-powers.html#tk.rss_spark)
+- [Microsoft brings .NET dev to Apache Spark](https://www.infoworld.com/article/3587595/microsoft-brings-net-dev-to-apache-spark.html#tk.rss_apachespark)
+- [Azure Databricks previews parallelized Photon query engine](https://www.infoworld.com/article/3583657/azure-databricks-previews-parallelized-photon-query-engine.html#tk.rss_apachespark)
+- [Apache Spark 3.0 adds Nvidia GPU support for machine learning](https://www.infoworld.com/article/3543319/apache-spark-30-adds-nvidia-gpu-support-for-machine-learning.html#tk.rss_apachespark)
+- [Qubole review: Self-service big data analytics](https://www.infoworld.com/article/3449896/qubole-review-self-service-big-data-analytics.html#tk.rss_apachespark)
+- [How Qubole addresses Apache Spark challenges](https://www.infoworld.com/article/3434013/how-qubole-addresses-apache-spark-challenges.html#tk.rss_apachespark)
+- [How to do real-time analytics across historical and live data](https://www.infoworld.com/article/3430787/how-to-perform-real-time-analytics-across-live-and-historical-data.html#tk.rss_apachespark)
+- [Time series analysis with KNIME and Spark](https://www.infoworld.com/article/3405256/time-series-analysis-with-knime-and-spark.html#tk.rss_apachespark)
+- [Delta Lake gives Apache Spark data sets new powers](https://www.infoworld.com/article/3391065/delta-lake-gives-apache-spark-data-sets-new-powers.html#tk.rss_apachespark)
 <!-- INFOWORLD-SPARK-POST-LIST:END -->
 
 ### _Hadoop posts_
 
 <!-- HADOOP-POST-LIST:START -->
+- [How to get a count of the number of documents in an Elasticsearch Index?](https://www.hadoopinrealworld.com/how-to-get-a-count-of-the-number-of-documents-in-an-elasticsearch-index/)
 - [How does Cartesian Product Join work in Spark?](https://www.hadoopinrealworld.com/how-does-cartesian-product-join-work-in-spark/)
 - [How to create a folder in Amazon S3 using AWS CLI?](https://www.hadoopinrealworld.com/how-to-create-a-folder-in-amazon-s3-using-aws-cli/)
 - [How to control log settings in Spark and stop INFO messages?](https://www.hadoopinrealworld.com/how-to-control-log-settings-in-spark-and-stop-info-messages/)
@@ -254,7 +262,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 - [How does Broadcast Hash Join work in Spark?](https://www.hadoopinrealworld.com/how-does-broadcast-hash-join-work-in-spark/)
 - [How to merge multiple output files from MapReduce or Spark jobs to one?](https://www.hadoopinrealworld.com/how-to-merge-multiple-output-files-from-mapreduce-or-spark-jobs-to-one/)
 - [How to list all the available brokers in a Kafka cluster?](https://www.hadoopinrealworld.com/how-to-list-all-the-available-brokers-in-a-kafka-cluster/)
-- [How does Broadcast Nested Loop Join work in Spark?](https://www.hadoopinrealworld.com/how-does-broadcast-nested-loop-join-work-in-spark/)
 <!-- HADOOP-POST-LIST:END -->
 
 ### _InfoWorld Hadoop posts_
@@ -273,6 +280,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 ### _Hadoop in real world posts_
 
 <!-- HADOOPINREALWORLD-POST-LIST:START -->
+- [How to get a count of the number of documents in an Elasticsearch Index?](https://www.hadoopinrealworld.com/how-to-get-a-count-of-the-number-of-documents-in-an-elasticsearch-index/)
 - [How does Cartesian Product Join work in Spark?](https://www.hadoopinrealworld.com/how-does-cartesian-product-join-work-in-spark/)
 - [How to create a folder in Amazon S3 using AWS CLI?](https://www.hadoopinrealworld.com/how-to-create-a-folder-in-amazon-s3-using-aws-cli/)
 - [How to control log settings in Spark and stop INFO messages?](https://www.hadoopinrealworld.com/how-to-control-log-settings-in-spark-and-stop-info-messages/)
@@ -282,7 +290,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 - [How does Broadcast Hash Join work in Spark?](https://www.hadoopinrealworld.com/how-does-broadcast-hash-join-work-in-spark/)
 - [How to merge multiple output files from MapReduce or Spark jobs to one?](https://www.hadoopinrealworld.com/how-to-merge-multiple-output-files-from-mapreduce-or-spark-jobs-to-one/)
 - [How to list all the available brokers in a Kafka cluster?](https://www.hadoopinrealworld.com/how-to-list-all-the-available-brokers-in-a-kafka-cluster/)
-- [How does Broadcast Nested Loop Join work in Spark?](https://www.hadoopinrealworld.com/how-does-broadcast-nested-loop-join-work-in-spark/)
 <!-- HADOOPINREALWORLD-POST-LIST:END -->
 
 ### _Kognitio posts_
