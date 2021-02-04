@@ -252,6 +252,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 ### _Hadoop posts_
 
 <!-- HADOOP-POST-LIST:START -->
+- [Why does Hadoop need classes like Text instead of String?](https://www.hadoopinrealworld.com/why-does-hadoop-need-classes-like-text-instead-of-string/)
 - [How to get a count of the number of documents in an Elasticsearch Index?](https://www.hadoopinrealworld.com/how-to-get-a-count-of-the-number-of-documents-in-an-elasticsearch-index/)
 - [How does Cartesian Product Join work in Spark?](https://www.hadoopinrealworld.com/how-does-cartesian-product-join-work-in-spark/)
 - [How to create a folder in Amazon S3 using AWS CLI?](https://www.hadoopinrealworld.com/how-to-create-a-folder-in-amazon-s3-using-aws-cli/)
@@ -261,7 +262,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 - [How to check size of a directory in HDFS?](https://www.hadoopinrealworld.com/how-to-check-size-of-a-directory-in-hdfs/)
 - [How does Broadcast Hash Join work in Spark?](https://www.hadoopinrealworld.com/how-does-broadcast-hash-join-work-in-spark/)
 - [How to merge multiple output files from MapReduce or Spark jobs to one?](https://www.hadoopinrealworld.com/how-to-merge-multiple-output-files-from-mapreduce-or-spark-jobs-to-one/)
-- [How to list all the available brokers in a Kafka cluster?](https://www.hadoopinrealworld.com/how-to-list-all-the-available-brokers-in-a-kafka-cluster/)
 <!-- HADOOP-POST-LIST:END -->
 
 ### _InfoWorld Hadoop posts_
