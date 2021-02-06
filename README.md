@@ -255,6 +255,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 ### _Hadoop posts_
 
 <!-- HADOOP-POST-LIST:START -->
+- [How to specify join hints with Spark 3.0?](https://www.hadoopinrealworld.com/how-to-specify-join-hints-with-spark-3-0/)
 - [Why does Hadoop need classes like Text instead of String?](https://www.hadoopinrealworld.com/why-does-hadoop-need-classes-like-text-instead-of-string/)
 - [How to get a count of the number of documents in an Elasticsearch Index?](https://www.hadoopinrealworld.com/how-to-get-a-count-of-the-number-of-documents-in-an-elasticsearch-index/)
 - [How does Cartesian Product Join work in Spark?](https://www.hadoopinrealworld.com/how-does-cartesian-product-join-work-in-spark/)
@@ -264,7 +265,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 - [What is the difference between Hive internal tables and external tables?](https://www.hadoopinrealworld.com/what-is-the-difference-between-hive-internal-tables-and-external-tables/)
 - [How to check size of a directory in HDFS?](https://www.hadoopinrealworld.com/how-to-check-size-of-a-directory-in-hdfs/)
 - [How does Broadcast Hash Join work in Spark?](https://www.hadoopinrealworld.com/how-does-broadcast-hash-join-work-in-spark/)
-- [How to merge multiple output files from MapReduce or Spark jobs to one?](https://www.hadoopinrealworld.com/how-to-merge-multiple-output-files-from-mapreduce-or-spark-jobs-to-one/)
 <!-- HADOOP-POST-LIST:END -->
 
 ### _InfoWorld Hadoop posts_
@@ -283,6 +283,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 ### _Hadoop in real world posts_
 
 <!-- HADOOPINREALWORLD-POST-LIST:START -->
+- [How to specify join hints with Spark 3.0?](https://www.hadoopinrealworld.com/how-to-specify-join-hints-with-spark-3-0/)
 - [Why does Hadoop need classes like Text instead of String?](https://www.hadoopinrealworld.com/why-does-hadoop-need-classes-like-text-instead-of-string/)
 - [How to get a count of the number of documents in an Elasticsearch Index?](https://www.hadoopinrealworld.com/how-to-get-a-count-of-the-number-of-documents-in-an-elasticsearch-index/)
 - [How does Cartesian Product Join work in Spark?](https://www.hadoopinrealworld.com/how-does-cartesian-product-join-work-in-spark/)
@@ -292,7 +293,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 - [What is the difference between Hive internal tables and external tables?](https://www.hadoopinrealworld.com/what-is-the-difference-between-hive-internal-tables-and-external-tables/)
 - [How to check size of a directory in HDFS?](https://www.hadoopinrealworld.com/how-to-check-size-of-a-directory-in-hdfs/)
 - [How does Broadcast Hash Join work in Spark?](https://www.hadoopinrealworld.com/how-does-broadcast-hash-join-work-in-spark/)
-- [How to merge multiple output files from MapReduce or Spark jobs to one?](https://www.hadoopinrealworld.com/how-to-merge-multiple-output-files-from-mapreduce-or-spark-jobs-to-one/)
 <!-- HADOOPINREALWORLD-POST-LIST:END -->
 
 ### _Kognitio posts_
