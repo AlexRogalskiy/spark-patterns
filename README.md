@@ -222,6 +222,12 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 
 [![Stargazers repo roster for @AlexRogalskiy/spark-patterns](https://reporoster.com/stars/AlexRogalskiy/spark-patterns)][stars]
 
+## 📎 _OpenGraph Card_
+
+<p align="center" style="text-align:center;">
+    <img alt="OpenGraph card" src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/master/images/opengraph-card.png"/>
+</p>
+
 ## 🔥 _Feeds and Podcasts_
 
 ### _Reddit posts_
