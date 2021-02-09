@@ -262,6 +262,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 ### _Hadoop posts_
 
 <!-- HADOOP-POST-LIST:START -->
+- [How to make an Amazon S3 bucket read-only?](https://www.hadoopinrealworld.com/how-to-make-an-amazon-s3-bucket-read-only/)
 - [How to specify join hints with Spark 3.0?](https://www.hadoopinrealworld.com/how-to-specify-join-hints-with-spark-3-0/)
 - [Why does Hadoop need classes like Text instead of String?](https://www.hadoopinrealworld.com/why-does-hadoop-need-classes-like-text-instead-of-string/)
 - [How to get a count of the number of documents in an Elasticsearch Index?](https://www.hadoopinrealworld.com/how-to-get-a-count-of-the-number-of-documents-in-an-elasticsearch-index/)
@@ -271,7 +272,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 - [How does Shuffle Sort Merge Join work in Spark?](https://www.hadoopinrealworld.com/how-does-shuffle-sort-merge-join-work-in-spark/)
 - [What is the difference between Hive internal tables and external tables?](https://www.hadoopinrealworld.com/what-is-the-difference-between-hive-internal-tables-and-external-tables/)
 - [How to check size of a directory in HDFS?](https://www.hadoopinrealworld.com/how-to-check-size-of-a-directory-in-hdfs/)
-- [How does Broadcast Hash Join work in Spark?](https://www.hadoopinrealworld.com/how-does-broadcast-hash-join-work-in-spark/)
 <!-- HADOOP-POST-LIST:END -->
 
 ### _InfoWorld Hadoop posts_
@@ -290,6 +290,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 ### _Hadoop in real world posts_
 
 <!-- HADOOPINREALWORLD-POST-LIST:START -->
+- [How to make an Amazon S3 bucket read-only?](https://www.hadoopinrealworld.com/how-to-make-an-amazon-s3-bucket-read-only/)
 - [How to specify join hints with Spark 3.0?](https://www.hadoopinrealworld.com/how-to-specify-join-hints-with-spark-3-0/)
 - [Why does Hadoop need classes like Text instead of String?](https://www.hadoopinrealworld.com/why-does-hadoop-need-classes-like-text-instead-of-string/)
 - [How to get a count of the number of documents in an Elasticsearch Index?](https://www.hadoopinrealworld.com/how-to-get-a-count-of-the-number-of-documents-in-an-elasticsearch-index/)
@@ -299,7 +300,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 - [How does Shuffle Sort Merge Join work in Spark?](https://www.hadoopinrealworld.com/how-does-shuffle-sort-merge-join-work-in-spark/)
 - [What is the difference between Hive internal tables and external tables?](https://www.hadoopinrealworld.com/what-is-the-difference-between-hive-internal-tables-and-external-tables/)
 - [How to check size of a directory in HDFS?](https://www.hadoopinrealworld.com/how-to-check-size-of-a-directory-in-hdfs/)
-- [How does Broadcast Hash Join work in Spark?](https://www.hadoopinrealworld.com/how-does-broadcast-hash-join-work-in-spark/)
 <!-- HADOOPINREALWORLD-POST-LIST:END -->
 
 ### _Kognitio posts_
@@ -320,6 +320,8 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 ### _Curated SQL posts_
 
 <!-- CURATEDSQL-POST-LIST:START -->
+- [Secure Cluster Connectivity in Azure Databricks](https://curatedsql.com/2021/02/08/secure-cluster-connectivity-in-azure-databricks/)
+- [Connecting Confluent and Databricks on Azure](https://curatedsql.com/2021/02/08/connecting-confluent-and-databricks-on-azure/)
 - [Using Spark Pools in Azure Synapse Analytics](https://curatedsql.com/2021/01/29/using-spark-pools-in-azure-synapse-analytics/)
 - [A Review of AWS Athena](https://curatedsql.com/2021/01/29/a-review-of-aws-athena/)
 - [Joins in Synapse Analytics Spark](https://curatedsql.com/2021/01/28/joins-in-synapse-analytics-spark/)
@@ -328,8 +330,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 - [Common Table Expressions in Spark](https://curatedsql.com/2021/01/21/common-table-expressions-in-spark/)
 - [Window Functions in Spark](https://curatedsql.com/2021/01/20/window-functions-in-spark/)
 - [Grouping Data with Spark](https://curatedsql.com/2021/01/19/grouping-data-with-spark/)
-- [Loading a Spark DataFrame in .NET](https://curatedsql.com/2021/01/18/loading-a-spark-dataframe-in-net/)
-- [Answering NiFi Questions](https://curatedsql.com/2021/01/14/answering-nifi-questions/)
 <!-- CURATEDSQL-POST-LIST:END -->
 
 ### _Hadoop Quiz posts_
