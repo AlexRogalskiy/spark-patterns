@@ -320,6 +320,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 ### _Curated SQL posts_
 
 <!-- CURATEDSQL-POST-LIST:START -->
+- [Time-Saving Tips for Databricks](https://curatedsql.com/2021/02/09/time-saving-tips-for-databricks/)
 - [Secure Cluster Connectivity in Azure Databricks](https://curatedsql.com/2021/02/08/secure-cluster-connectivity-in-azure-databricks/)
 - [Connecting Confluent and Databricks on Azure](https://curatedsql.com/2021/02/08/connecting-confluent-and-databricks-on-azure/)
 - [Using Spark Pools in Azure Synapse Analytics](https://curatedsql.com/2021/01/29/using-spark-pools-in-azure-synapse-analytics/)
@@ -329,7 +330,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 - [Delta Table Compatibility between Azure Databricks and Azure Synapse Analytics](https://curatedsql.com/2021/01/26/delta-table-compatibility-between-azure-databricks-and-azure-synapse-analytics/)
 - [Common Table Expressions in Spark](https://curatedsql.com/2021/01/21/common-table-expressions-in-spark/)
 - [Window Functions in Spark](https://curatedsql.com/2021/01/20/window-functions-in-spark/)
-- [Grouping Data with Spark](https://curatedsql.com/2021/01/19/grouping-data-with-spark/)
 <!-- CURATEDSQL-POST-LIST:END -->
 
 ### _Hadoop Quiz posts_
