@@ -320,6 +320,8 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 ### _Curated SQL posts_
 
 <!-- CURATEDSQL-POST-LIST:START -->
+- [Join Hints in Spark 3](https://curatedsql.com/2021/02/10/join-hints-in-spark-3/)
+- [Clustering with Apache NiFi](https://curatedsql.com/2021/02/10/clustering-with-apache-nifi/)
 - [Time-Saving Tips for Databricks](https://curatedsql.com/2021/02/09/time-saving-tips-for-databricks/)
 - [Secure Cluster Connectivity in Azure Databricks](https://curatedsql.com/2021/02/08/secure-cluster-connectivity-in-azure-databricks/)
 - [Connecting Confluent and Databricks on Azure](https://curatedsql.com/2021/02/08/connecting-confluent-and-databricks-on-azure/)
@@ -328,8 +330,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 - [Joins in Synapse Analytics Spark](https://curatedsql.com/2021/01/28/joins-in-synapse-analytics-spark/)
 - [Parquet 1.x Footer Content](https://curatedsql.com/2021/01/28/parquet-1-x-footer-content/)
 - [Delta Table Compatibility between Azure Databricks and Azure Synapse Analytics](https://curatedsql.com/2021/01/26/delta-table-compatibility-between-azure-databricks-and-azure-synapse-analytics/)
-- [Common Table Expressions in Spark](https://curatedsql.com/2021/01/21/common-table-expressions-in-spark/)
-- [Window Functions in Spark](https://curatedsql.com/2021/01/20/window-functions-in-spark/)
 <!-- CURATEDSQL-POST-LIST:END -->
 
 ### _Hadoop Quiz posts_
