@@ -290,6 +290,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 ### _Hadoop in real world posts_
 
 <!-- HADOOPINREALWORLD-POST-LIST:START -->
+- [How does Spark choose the join algorithm to use at runtime?](https://www.hadoopinrealworld.com/how-does-spark-choose-the-join-algorithm-to-use-at-runtime/)
 - [How to convert RDD to DataFrame and Dataset in Spark?](https://www.hadoopinrealworld.com/how-to-convert-rdd-to-dataframe-and-dataset-in-spark/)
 - [How to make an Amazon S3 bucket read-only?](https://www.hadoopinrealworld.com/how-to-make-an-amazon-s3-bucket-read-only/)
 - [How to specify join hints with Spark 3.0?](https://www.hadoopinrealworld.com/how-to-specify-join-hints-with-spark-3-0/)
@@ -299,7 +300,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 - [How to create a folder in Amazon S3 using AWS CLI?](https://www.hadoopinrealworld.com/how-to-create-a-folder-in-amazon-s3-using-aws-cli/)
 - [How to control log settings in Spark and stop INFO messages?](https://www.hadoopinrealworld.com/how-to-control-log-settings-in-spark-and-stop-info-messages/)
 - [How does Shuffle Sort Merge Join work in Spark?](https://www.hadoopinrealworld.com/how-does-shuffle-sort-merge-join-work-in-spark/)
-- [What is the difference between Hive internal tables and external tables?](https://www.hadoopinrealworld.com/what-is-the-difference-between-hive-internal-tables-and-external-tables/)
 <!-- HADOOPINREALWORLD-POST-LIST:END -->
 
 ### _Kognitio posts_
