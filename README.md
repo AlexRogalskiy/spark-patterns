@@ -320,8 +320,8 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 ### _Curated SQL posts_
 
 <!-- CURATEDSQL-POST-LIST:START -->
-- [Join Hints in Spark 3](https://curatedsql.com/2021/02/10/join-hints-in-spark-3/)
 - [Clustering with Apache NiFi](https://curatedsql.com/2021/02/10/clustering-with-apache-nifi/)
+- [Join Hints in Spark 3](https://curatedsql.com/2021/02/10/join-hints-in-spark-3/)
 - [Time-Saving Tips for Databricks](https://curatedsql.com/2021/02/09/time-saving-tips-for-databricks/)
 - [Secure Cluster Connectivity in Azure Databricks](https://curatedsql.com/2021/02/08/secure-cluster-connectivity-in-azure-databricks/)
 - [Connecting Confluent and Databricks on Azure](https://curatedsql.com/2021/02/08/connecting-confluent-and-databricks-on-azure/)
