@@ -326,6 +326,8 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 ### _Curated SQL posts_
 
 <!-- CURATEDSQL-POST-LIST:START -->
+- [RBAC in Hadoop with Kudu and Ranger](https://curatedsql.com/2021/02/17/rbac-in-hadoop-with-kudu-and-ranger/)
+- [Join Algorithm Selection in Spark](https://curatedsql.com/2021/02/17/join-algorithm-selection-in-spark/)
 - [Synchronizing Metadata between Spark Tables and Serverless Pool](https://curatedsql.com/2021/02/16/synchronizing-metadata-between-spark-tables-and-serverless-pool/)
 - [Join Hints in Spark 3](https://curatedsql.com/2021/02/10/join-hints-in-spark-3/)
 - [Clustering with Apache NiFi](https://curatedsql.com/2021/02/10/clustering-with-apache-nifi/)
@@ -334,8 +336,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 - [Connecting Confluent and Databricks on Azure](https://curatedsql.com/2021/02/08/connecting-confluent-and-databricks-on-azure/)
 - [Using Spark Pools in Azure Synapse Analytics](https://curatedsql.com/2021/01/29/using-spark-pools-in-azure-synapse-analytics/)
 - [A Review of AWS Athena](https://curatedsql.com/2021/01/29/a-review-of-aws-athena/)
-- [Joins in Synapse Analytics Spark](https://curatedsql.com/2021/01/28/joins-in-synapse-analytics-spark/)
-- [Parquet 1.x Footer Content](https://curatedsql.com/2021/01/28/parquet-1-x-footer-content/)
 <!-- CURATEDSQL-POST-LIST:END -->
 
 ### _Hadoop Quiz posts_
