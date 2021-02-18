@@ -29,6 +29,7 @@
 ![GitHub Repository branches](https://badgen.net/github/branches/AlexRogalskiy/spark-patterns)
 ![GitHub Repository dependents](https://badgen.net/github/dependents-repo/AlexRogalskiy/spark-patterns)
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAlexRogalskiy%2Fspark-patterns.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAlexRogalskiy%2Fspark-patterns?ref=badge_shield)
+[![Renovatebot](https://badgen.net/badge/renovate/enabled/green?cache=300)](https://renovatebot.com/)
 [![Dependabot](https://img.shields.io/badge/dependabot-enabled-1f8ceb.svg?style=flat-square)](https://dependabot.com/)
 [![NewReleases](https://newreleases.io/badge.svg)](https://newreleases.io/github/AlexRogalskiy/spark-patterns)
 [![Hits-of-Code](https://hitsofcode.com/github/alexrogalskiy/spark-patterns?branch=master)](https://hitsofcode.com/github/alexrogalskiy/spark-patterns?branch=master/view?branch=master)
