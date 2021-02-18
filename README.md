@@ -269,6 +269,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 ### _Hadoop posts_
 
 <!-- HADOOP-POST-LIST:START -->
+- [How to migrate an Amazon S3 bucket from one region to another?](https://www.hadoopinrealworld.com/how-to-migrate-an-amazon-s3-bucket-from-one-region-to-another/)
 - [Apache Kafka vs Apache Storm](https://www.hadoopinrealworld.com/apache-kafka-vs-apache-storm/)
 - [How does Spark choose the join algorithm to use at runtime?](https://www.hadoopinrealworld.com/how-does-spark-choose-the-join-algorithm-to-use-at-runtime/)
 - [How to convert RDD to DataFrame and Dataset in Spark?](https://www.hadoopinrealworld.com/how-to-convert-rdd-to-dataframe-and-dataset-in-spark/)
@@ -278,7 +279,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 - [How to get a count of the number of documents in an Elasticsearch Index?](https://www.hadoopinrealworld.com/how-to-get-a-count-of-the-number-of-documents-in-an-elasticsearch-index/)
 - [How does Cartesian Product Join work in Spark?](https://www.hadoopinrealworld.com/how-does-cartesian-product-join-work-in-spark/)
 - [How to create a folder in Amazon S3 using AWS CLI?](https://www.hadoopinrealworld.com/how-to-create-a-folder-in-amazon-s3-using-aws-cli/)
-- [How to control log settings in Spark and stop INFO messages?](https://www.hadoopinrealworld.com/how-to-control-log-settings-in-spark-and-stop-info-messages/)
 <!-- HADOOP-POST-LIST:END -->
 
 ### _InfoWorld Hadoop posts_
@@ -297,6 +297,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 ### _Hadoop in real world posts_
 
 <!-- HADOOPINREALWORLD-POST-LIST:START -->
+- [How to migrate an Amazon S3 bucket from one region to another?](https://www.hadoopinrealworld.com/how-to-migrate-an-amazon-s3-bucket-from-one-region-to-another/)
 - [Apache Kafka vs Apache Storm](https://www.hadoopinrealworld.com/apache-kafka-vs-apache-storm/)
 - [How does Spark choose the join algorithm to use at runtime?](https://www.hadoopinrealworld.com/how-does-spark-choose-the-join-algorithm-to-use-at-runtime/)
 - [How to convert RDD to DataFrame and Dataset in Spark?](https://www.hadoopinrealworld.com/how-to-convert-rdd-to-dataframe-and-dataset-in-spark/)
@@ -306,7 +307,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 - [How to get a count of the number of documents in an Elasticsearch Index?](https://www.hadoopinrealworld.com/how-to-get-a-count-of-the-number-of-documents-in-an-elasticsearch-index/)
 - [How does Cartesian Product Join work in Spark?](https://www.hadoopinrealworld.com/how-does-cartesian-product-join-work-in-spark/)
 - [How to create a folder in Amazon S3 using AWS CLI?](https://www.hadoopinrealworld.com/how-to-create-a-folder-in-amazon-s3-using-aws-cli/)
-- [How to control log settings in Spark and stop INFO messages?](https://www.hadoopinrealworld.com/how-to-control-log-settings-in-spark-and-stop-info-messages/)
 <!-- HADOOPINREALWORLD-POST-LIST:END -->
 
 ### _Kognitio posts_
@@ -327,6 +327,8 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 ### _Curated SQL posts_
 
 <!-- CURATEDSQL-POST-LIST:START -->
+- [RBAC in Hadoop with Kudu and Ranger](https://curatedsql.com/2021/02/17/rbac-in-hadoop-with-kudu-and-ranger/)
+- [Join Algorithm Selection in Spark](https://curatedsql.com/2021/02/17/join-algorithm-selection-in-spark/)
 - [Synchronizing Metadata between Spark Tables and Serverless Pool](https://curatedsql.com/2021/02/16/synchronizing-metadata-between-spark-tables-and-serverless-pool/)
 - [Join Hints in Spark 3](https://curatedsql.com/2021/02/10/join-hints-in-spark-3/)
 - [Clustering with Apache NiFi](https://curatedsql.com/2021/02/10/clustering-with-apache-nifi/)
@@ -335,8 +337,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 - [Connecting Confluent and Databricks on Azure](https://curatedsql.com/2021/02/08/connecting-confluent-and-databricks-on-azure/)
 - [Using Spark Pools in Azure Synapse Analytics](https://curatedsql.com/2021/01/29/using-spark-pools-in-azure-synapse-analytics/)
 - [A Review of AWS Athena](https://curatedsql.com/2021/01/29/a-review-of-aws-athena/)
-- [Joins in Synapse Analytics Spark](https://curatedsql.com/2021/01/28/joins-in-synapse-analytics-spark/)
-- [Parquet 1.x Footer Content](https://curatedsql.com/2021/01/28/parquet-1-x-footer-content/)
 <!-- CURATEDSQL-POST-LIST:END -->
 
 ### _Hadoop Quiz posts_
