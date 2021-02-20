@@ -270,6 +270,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 ### _Hadoop posts_
 
 <!-- HADOOP-POST-LIST:START -->
+- [How to force Spark to use Shuffle Hash Join when it defaults to Sort Merge Join?](https://www.hadoopinrealworld.com/how-to-force-spark-to-use-shuffle-hash-join-when-it-defaults-to-sort-merge-join/)
 - [How to migrate an Amazon S3 bucket from one region to another?](https://www.hadoopinrealworld.com/how-to-migrate-an-amazon-s3-bucket-from-one-region-to-another/)
 - [Apache Kafka vs Apache Storm](https://www.hadoopinrealworld.com/apache-kafka-vs-apache-storm/)
 - [How does Spark choose the join algorithm to use at runtime?](https://www.hadoopinrealworld.com/how-does-spark-choose-the-join-algorithm-to-use-at-runtime/)
@@ -279,7 +280,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 - [Why does Hadoop need classes like Text instead of String?](https://www.hadoopinrealworld.com/why-does-hadoop-need-classes-like-text-instead-of-string/)
 - [How to get a count of the number of documents in an Elasticsearch Index?](https://www.hadoopinrealworld.com/how-to-get-a-count-of-the-number-of-documents-in-an-elasticsearch-index/)
 - [How does Cartesian Product Join work in Spark?](https://www.hadoopinrealworld.com/how-does-cartesian-product-join-work-in-spark/)
-- [How to create a folder in Amazon S3 using AWS CLI?](https://www.hadoopinrealworld.com/how-to-create-a-folder-in-amazon-s3-using-aws-cli/)
 <!-- HADOOP-POST-LIST:END -->
 
 ### _InfoWorld Hadoop posts_
