@@ -329,8 +329,8 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 
 <!-- CURATEDSQL-POST-LIST:START -->
 - [Kafka in .NET](https://curatedsql.com/2021/02/18/kafka-in-net/)
-- [Join Algorithm Selection in Spark](https://curatedsql.com/2021/02/17/join-algorithm-selection-in-spark/)
 - [RBAC in Hadoop with Kudu and Ranger](https://curatedsql.com/2021/02/17/rbac-in-hadoop-with-kudu-and-ranger/)
+- [Join Algorithm Selection in Spark](https://curatedsql.com/2021/02/17/join-algorithm-selection-in-spark/)
 - [Synchronizing Metadata between Spark Tables and Serverless Pool](https://curatedsql.com/2021/02/16/synchronizing-metadata-between-spark-tables-and-serverless-pool/)
 - [Join Hints in Spark 3](https://curatedsql.com/2021/02/10/join-hints-in-spark-3/)
 - [Clustering with Apache NiFi](https://curatedsql.com/2021/02/10/clustering-with-apache-nifi/)
