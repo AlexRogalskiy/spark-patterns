@@ -328,6 +328,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 ### _Curated SQL posts_
 
 <!-- CURATEDSQL-POST-LIST:START -->
+- [Updates to Message Keys in ksqlDB](https://curatedsql.com/2021/02/24/updates-to-message-keys-in-ksqldb/)
 - [Kafka in .NET](https://curatedsql.com/2021/02/18/kafka-in-net/)
 - [RBAC in Hadoop with Kudu and Ranger](https://curatedsql.com/2021/02/17/rbac-in-hadoop-with-kudu-and-ranger/)
 - [Join Algorithm Selection in Spark](https://curatedsql.com/2021/02/17/join-algorithm-selection-in-spark/)
@@ -337,7 +338,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 - [Time-Saving Tips for Databricks](https://curatedsql.com/2021/02/09/time-saving-tips-for-databricks/)
 - [Secure Cluster Connectivity in Azure Databricks](https://curatedsql.com/2021/02/08/secure-cluster-connectivity-in-azure-databricks/)
 - [Connecting Confluent and Databricks on Azure](https://curatedsql.com/2021/02/08/connecting-confluent-and-databricks-on-azure/)
-- [Using Spark Pools in Azure Synapse Analytics](https://curatedsql.com/2021/01/29/using-spark-pools-in-azure-synapse-analytics/)
 <!-- CURATEDSQL-POST-LIST:END -->
 
 ### _Hadoop Quiz posts_
