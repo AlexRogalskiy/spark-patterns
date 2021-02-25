@@ -298,6 +298,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 ### _Hadoop in real world posts_
 
 <!-- HADOOPINREALWORLD-POST-LIST:START -->
+- [What is the difference between hadoop fs put and copyFromLocal?](https://www.hadoopinrealworld.com/what-is-the-difference-between-hadoop-fs-put-and-copyfromlocal/)
 - [What is the difference between Query and Filter in Elasticsearch?](https://www.hadoopinrealworld.com/what-is-the-difference-between-query-and-filter-in-elasticsearch/)
 - [How to force Spark to use Shuffle Hash Join when it defaults to Sort Merge Join?](https://www.hadoopinrealworld.com/how-to-force-spark-to-use-shuffle-hash-join-when-it-defaults-to-sort-merge-join/)
 - [How to migrate an Amazon S3 bucket from one region to another?](https://www.hadoopinrealworld.com/how-to-migrate-an-amazon-s3-bucket-from-one-region-to-another/)
@@ -307,7 +308,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 - [How to make an Amazon S3 bucket read-only?](https://www.hadoopinrealworld.com/how-to-make-an-amazon-s3-bucket-read-only/)
 - [How to specify join hints with Spark 3.0?](https://www.hadoopinrealworld.com/how-to-specify-join-hints-with-spark-3-0/)
 - [Why does Hadoop need classes like Text instead of String?](https://www.hadoopinrealworld.com/why-does-hadoop-need-classes-like-text-instead-of-string/)
-- [How to get a count of the number of documents in an Elasticsearch Index?](https://www.hadoopinrealworld.com/how-to-get-a-count-of-the-number-of-documents-in-an-elasticsearch-index/)
 <!-- HADOOPINREALWORLD-POST-LIST:END -->
 
 ### _Kognitio posts_
