@@ -298,6 +298,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 ### _Hadoop in real world posts_
 
 <!-- HADOOPINREALWORLD-POST-LIST:START -->
+- [Difference between EBS, S3 and Glacier in AWS?](https://www.hadoopinrealworld.com/difference-between-ebs-s3-and-glacier-in-aws/)
 - [How to skip the first line or header when reading a file in Hive?](https://www.hadoopinrealworld.com/how-to-skip-the-first-line-or-header-when-reading-a-file-in-hive/)
 - [How to avoid a Broadcast Nested Loop join in Spark?](https://www.hadoopinrealworld.com/how-to-avoid-a-broadcast-nested-loop-join-in-spark/)
 - [What is the difference between hadoop fs put and copyFromLocal?](https://www.hadoopinrealworld.com/what-is-the-difference-between-hadoop-fs-put-and-copyfromlocal/)
@@ -307,7 +308,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 - [Apache Kafka vs Apache Storm](https://www.hadoopinrealworld.com/apache-kafka-vs-apache-storm/)
 - [How does Spark choose the join algorithm to use at runtime?](https://www.hadoopinrealworld.com/how-does-spark-choose-the-join-algorithm-to-use-at-runtime/)
 - [How to convert RDD to DataFrame and Dataset in Spark?](https://www.hadoopinrealworld.com/how-to-convert-rdd-to-dataframe-and-dataset-in-spark/)
-- [How to make an Amazon S3 bucket read-only?](https://www.hadoopinrealworld.com/how-to-make-an-amazon-s3-bucket-read-only/)
 <!-- HADOOPINREALWORLD-POST-LIST:END -->
 
 ### _Kognitio posts_
