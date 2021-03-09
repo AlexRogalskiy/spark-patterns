@@ -270,6 +270,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 ### _Hadoop posts_
 
 <!-- HADOOP-POST-LIST:START -->
+- [Differences between RabbitMQ and Kafka](https://www.hadoopinrealworld.com/differences-between-rabbitmq-and-kafka/)
 - [Why does Cartesian Product Join aka Shuffle-and-Replication Nested Loop Join does not cause a shuffle?](https://www.hadoopinrealworld.com/why-does-cartesian-product-join-aka-shuffle-and-replication-nested-loop-join-does-not-cause-a-shuffle/)
 - [Difference between EBS, S3 and Glacier in AWS?](https://www.hadoopinrealworld.com/difference-between-ebs-s3-and-glacier-in-aws/)
 - [How to skip the first line or header when reading a file in Hive?](https://www.hadoopinrealworld.com/how-to-skip-the-first-line-or-header-when-reading-a-file-in-hive/)
@@ -279,7 +280,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 - [How to force Spark to use Shuffle Hash Join when it defaults to Sort Merge Join?](https://www.hadoopinrealworld.com/how-to-force-spark-to-use-shuffle-hash-join-when-it-defaults-to-sort-merge-join/)
 - [How to migrate an Amazon S3 bucket from one region to another?](https://www.hadoopinrealworld.com/how-to-migrate-an-amazon-s3-bucket-from-one-region-to-another/)
 - [Apache Kafka vs Apache Storm](https://www.hadoopinrealworld.com/apache-kafka-vs-apache-storm/)
-- [How does Spark choose the join algorithm to use at runtime?](https://www.hadoopinrealworld.com/how-does-spark-choose-the-join-algorithm-to-use-at-runtime/)
 <!-- HADOOP-POST-LIST:END -->
 
 ### _InfoWorld Hadoop posts_
