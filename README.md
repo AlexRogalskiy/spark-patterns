@@ -328,6 +328,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 ### _Curated SQL posts_
 
 <!-- CURATEDSQL-POST-LIST:START -->
+- [Date Cleaning with PySpark](https://curatedsql.com/2021/03/10/date-cleaning-with-pyspark/)
 - [Testing Kafka with Kerberos and SSH](https://curatedsql.com/2021/03/05/testing-kafka-with-kerberos-and-ssh/)
 - [Apache Spark 3.1 Released](https://curatedsql.com/2021/03/04/apache-spark-3-1-released/)
 - [Installing Spark on Windows Subsystem for Linux](https://curatedsql.com/2021/03/02/installing-spark-on-windows-subsystem-for-linux/)
@@ -337,7 +338,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 - [Updates to Message Keys in ksqlDB](https://curatedsql.com/2021/02/24/updates-to-message-keys-in-ksqldb/)
 - [Kafka in .NET](https://curatedsql.com/2021/02/18/kafka-in-net/)
 - [RBAC in Hadoop with Kudu and Ranger](https://curatedsql.com/2021/02/17/rbac-in-hadoop-with-kudu-and-ranger/)
-- [Join Algorithm Selection in Spark](https://curatedsql.com/2021/02/17/join-algorithm-selection-in-spark/)
 <!-- CURATEDSQL-POST-LIST:END -->
 
 ### _Hadoop Quiz posts_
