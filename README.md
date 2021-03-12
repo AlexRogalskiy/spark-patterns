@@ -328,6 +328,8 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 ### _Curated SQL posts_
 
 <!-- CURATEDSQL-POST-LIST:START -->
+- [Batch Execution Mode in Flink’s DataStream API](https://curatedsql.com/2021/03/11/batch-execution-mode-in-flinks-datastream-api/)
+- [Namenode Formatting in Hadoop](https://curatedsql.com/2021/03/11/namenode-formatting-in-hadoop/)
 - [Date Cleaning with PySpark](https://curatedsql.com/2021/03/10/date-cleaning-with-pyspark/)
 - [Testing Kafka with Kerberos and SSH](https://curatedsql.com/2021/03/05/testing-kafka-with-kerberos-and-ssh/)
 - [Apache Spark 3.1 Released](https://curatedsql.com/2021/03/04/apache-spark-3-1-released/)
@@ -336,8 +338,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 - [Power BI Connector for Databricks](https://curatedsql.com/2021/03/01/power-bi-connector-for-databricks/)
 - [Survival Analysis Notebooks](https://curatedsql.com/2021/02/25/survival-analysis-notebooks/)
 - [Updates to Message Keys in ksqlDB](https://curatedsql.com/2021/02/24/updates-to-message-keys-in-ksqldb/)
-- [Kafka in .NET](https://curatedsql.com/2021/02/18/kafka-in-net/)
-- [RBAC in Hadoop with Kudu and Ranger](https://curatedsql.com/2021/02/17/rbac-in-hadoop-with-kudu-and-ranger/)
 <!-- CURATEDSQL-POST-LIST:END -->
 
 ### _Hadoop Quiz posts_
