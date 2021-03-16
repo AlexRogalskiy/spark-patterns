@@ -270,6 +270,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 ### _Hadoop posts_
 
 <!-- HADOOP-POST-LIST:START -->
+- [What is the difference between INNER JOIN and LEFT SEMI JOIN in Hive?](https://www.hadoopinrealworld.com/what-is-the-difference-between-inner-join-and-left-semi-join-in-hive/)
 - [Definitive guide on Spark join algorithms](https://www.hadoopinrealworld.com/definitive-guide-on-spark-join-algorithms/)
 - [What does hadoop namenode -format do and is it safe to run?](https://www.hadoopinrealworld.com/what-does-hadoop-namenode-format-do-and-is-it-safe-to-run/)
 - [Differences between RabbitMQ and Kafka](https://www.hadoopinrealworld.com/differences-between-rabbitmq-and-kafka/)
@@ -279,7 +280,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 - [How to avoid a Broadcast Nested Loop join in Spark?](https://www.hadoopinrealworld.com/how-to-avoid-a-broadcast-nested-loop-join-in-spark/)
 - [What is the difference between hadoop fs put and copyFromLocal?](https://www.hadoopinrealworld.com/what-is-the-difference-between-hadoop-fs-put-and-copyfromlocal/)
 - [What is the difference between Query and Filter in Elasticsearch?](https://www.hadoopinrealworld.com/what-is-the-difference-between-query-and-filter-in-elasticsearch/)
-- [How to force Spark to use Shuffle Hash Join when it defaults to Sort Merge Join?](https://www.hadoopinrealworld.com/how-to-force-spark-to-use-shuffle-hash-join-when-it-defaults-to-sort-merge-join/)
 <!-- HADOOP-POST-LIST:END -->
 
 ### _InfoWorld Hadoop posts_
