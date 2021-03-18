@@ -298,6 +298,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 ### _Hadoop in real world posts_
 
 <!-- HADOOPINREALWORLD-POST-LIST:START -->
+- [How to get a specific version of a file from S3 using AWS CLI?](https://www.hadoopinrealworld.com/how-to-get-a-specific-version-of-a-file-from-s3-using-aws-cli/)
 - [What is the difference between INNER JOIN and LEFT SEMI JOIN in Hive?](https://www.hadoopinrealworld.com/what-is-the-difference-between-inner-join-and-left-semi-join-in-hive/)
 - [Definitive guide on Spark join algorithms](https://www.hadoopinrealworld.com/definitive-guide-on-spark-join-algorithms/)
 - [What does hadoop namenode -format do and is it safe to run?](https://www.hadoopinrealworld.com/what-does-hadoop-namenode-format-do-and-is-it-safe-to-run/)
@@ -307,7 +308,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 - [How to skip the first line or header when reading a file in Hive?](https://www.hadoopinrealworld.com/how-to-skip-the-first-line-or-header-when-reading-a-file-in-hive/)
 - [How to avoid a Broadcast Nested Loop join in Spark?](https://www.hadoopinrealworld.com/how-to-avoid-a-broadcast-nested-loop-join-in-spark/)
 - [What is the difference between hadoop fs put and copyFromLocal?](https://www.hadoopinrealworld.com/what-is-the-difference-between-hadoop-fs-put-and-copyfromlocal/)
-- [What is the difference between Query and Filter in Elasticsearch?](https://www.hadoopinrealworld.com/what-is-the-difference-between-query-and-filter-in-elasticsearch/)
 <!-- HADOOPINREALWORLD-POST-LIST:END -->
 
 ### _Kognitio posts_
