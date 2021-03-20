@@ -328,6 +328,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 ### _Curated SQL posts_
 
 <!-- CURATEDSQL-POST-LIST:START -->
+- [Kafka Replication with MIrrorMaker](https://curatedsql.com/2021/03/19/kafka-replication-with-mirrormaker/)
 - [Batch Execution Mode in Flink’s DataStream API](https://curatedsql.com/2021/03/11/batch-execution-mode-in-flinks-datastream-api/)
 - [Namenode Formatting in Hadoop](https://curatedsql.com/2021/03/11/namenode-formatting-in-hadoop/)
 - [Date Cleaning with PySpark](https://curatedsql.com/2021/03/10/date-cleaning-with-pyspark/)
@@ -337,7 +338,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 - [Applied ML Prototypes](https://curatedsql.com/2021/03/02/applied-ml-prototypes/)
 - [Power BI Connector for Databricks](https://curatedsql.com/2021/03/01/power-bi-connector-for-databricks/)
 - [Survival Analysis Notebooks](https://curatedsql.com/2021/02/25/survival-analysis-notebooks/)
-- [Updates to Message Keys in ksqlDB](https://curatedsql.com/2021/02/24/updates-to-message-keys-in-ksqldb/)
 <!-- CURATEDSQL-POST-LIST:END -->
 
 ### _Hadoop Quiz posts_
