@@ -270,6 +270,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 ### _Hadoop posts_
 
 <!-- HADOOP-POST-LIST:START -->
+- [What is the difference between cache and persist in Spark?](https://www.hadoopinrealworld.com/what-is-the-difference-between-cache-and-persist-in-spark/)
 - [Where HDFS stores files locally in Datanodes?](https://www.hadoopinrealworld.com/where-hdfs-stores-files-locally-in-datanodes/)
 - [How to fix the LEADER_NOT_AVAILABLE error in Kafka?](https://www.hadoopinrealworld.com/how-to-fix-the-leader_not_available-error-in-kafka/)
 - [When to use cache and persist functions in Spark?](https://www.hadoopinrealworld.com/when-to-use-cache-and-persist-functions-in-spark/)
@@ -279,7 +280,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 - [What does hadoop namenode -format do and is it safe to run?](https://www.hadoopinrealworld.com/what-does-hadoop-namenode-format-do-and-is-it-safe-to-run/)
 - [Differences between RabbitMQ and Kafka](https://www.hadoopinrealworld.com/differences-between-rabbitmq-and-kafka/)
 - [Why does Cartesian Product Join aka Shuffle-and-Replication Nested Loop Join does not cause a shuffle?](https://www.hadoopinrealworld.com/why-does-cartesian-product-join-aka-shuffle-and-replication-nested-loop-join-does-not-cause-a-shuffle/)
-- [Difference between EBS, S3 and Glacier in AWS?](https://www.hadoopinrealworld.com/difference-between-ebs-s3-and-glacier-in-aws/)
 <!-- HADOOP-POST-LIST:END -->
 
 ### _InfoWorld Hadoop posts_
