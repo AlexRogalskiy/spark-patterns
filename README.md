@@ -334,8 +334,8 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 - [Date Cleaning with PySpark](https://curatedsql.com/2021/03/10/date-cleaning-with-pyspark/)
 - [Testing Kafka with Kerberos and SSH](https://curatedsql.com/2021/03/05/testing-kafka-with-kerberos-and-ssh/)
 - [Apache Spark 3.1 Released](https://curatedsql.com/2021/03/04/apache-spark-3-1-released/)
-- [Installing Spark on Windows Subsystem for Linux](https://curatedsql.com/2021/03/02/installing-spark-on-windows-subsystem-for-linux/)
 - [Applied ML Prototypes](https://curatedsql.com/2021/03/02/applied-ml-prototypes/)
+- [Installing Spark on Windows Subsystem for Linux](https://curatedsql.com/2021/03/02/installing-spark-on-windows-subsystem-for-linux/)
 - [Power BI Connector for Databricks](https://curatedsql.com/2021/03/01/power-bi-connector-for-databricks/)
 - [Survival Analysis Notebooks](https://curatedsql.com/2021/02/25/survival-analysis-notebooks/)
 <!-- CURATEDSQL-POST-LIST:END -->
