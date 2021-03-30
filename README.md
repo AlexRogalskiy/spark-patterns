@@ -298,6 +298,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 ### _Hadoop in real world posts_
 
 <!-- HADOOPINREALWORLD-POST-LIST:START -->
+- [How to get specific fields from a document in Elasticsearch?](https://www.hadoopinrealworld.com/how-to-get-specific-fields-from-a-document-in-elasticsearch/)
 - [What is the difference between cache and persist in Spark?](https://www.hadoopinrealworld.com/what-is-the-difference-between-cache-and-persist-in-spark/)
 - [Where HDFS stores files locally in Datanodes?](https://www.hadoopinrealworld.com/where-hdfs-stores-files-locally-in-datanodes/)
 - [How to fix the LEADER_NOT_AVAILABLE error in Kafka?](https://www.hadoopinrealworld.com/how-to-fix-the-leader_not_available-error-in-kafka/)
@@ -307,7 +308,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 - [Definitive guide on Spark join algorithms](https://www.hadoopinrealworld.com/definitive-guide-on-spark-join-algorithms/)
 - [What does hadoop namenode -format do and is it safe to run?](https://www.hadoopinrealworld.com/what-does-hadoop-namenode-format-do-and-is-it-safe-to-run/)
 - [Differences between RabbitMQ and Kafka](https://www.hadoopinrealworld.com/differences-between-rabbitmq-and-kafka/)
-- [Why does Cartesian Product Join aka Shuffle-and-Replication Nested Loop Join does not cause a shuffle?](https://www.hadoopinrealworld.com/why-does-cartesian-product-join-aka-shuffle-and-replication-nested-loop-join-does-not-cause-a-shuffle/)
 <!-- HADOOPINREALWORLD-POST-LIST:END -->
 
 ### _Kognitio posts_
