@@ -298,6 +298,8 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 ### _Hadoop in real world posts_
 
 <!-- HADOOPINREALWORLD-POST-LIST:START -->
+- [How to recursively list files and directories in HDFS?](https://www.hadoopinrealworld.com/how-to-recursively-list-files-and-directories-in-hdfs/)
+- [Different ways to insert data into Hive table](https://www.hadoopinrealworld.com/different-ways-to-insert-data-into-hive-table/)
 - [How to get specific fields from a document in Elasticsearch?](https://www.hadoopinrealworld.com/how-to-get-specific-fields-from-a-document-in-elasticsearch/)
 - [What is the difference between cache and persist in Spark?](https://www.hadoopinrealworld.com/what-is-the-difference-between-cache-and-persist-in-spark/)
 - [Where HDFS stores files locally in Datanodes?](https://www.hadoopinrealworld.com/where-hdfs-stores-files-locally-in-datanodes/)
@@ -306,8 +308,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 - [How to get a specific version of a file from S3 using AWS CLI?](https://www.hadoopinrealworld.com/how-to-get-a-specific-version-of-a-file-from-s3-using-aws-cli/)
 - [What is the difference between INNER JOIN and LEFT SEMI JOIN in Hive?](https://www.hadoopinrealworld.com/what-is-the-difference-between-inner-join-and-left-semi-join-in-hive/)
 - [Definitive guide on Spark join algorithms](https://www.hadoopinrealworld.com/definitive-guide-on-spark-join-algorithms/)
-- [What does hadoop namenode -format do and is it safe to run?](https://www.hadoopinrealworld.com/what-does-hadoop-namenode-format-do-and-is-it-safe-to-run/)
-- [Differences between RabbitMQ and Kafka](https://www.hadoopinrealworld.com/differences-between-rabbitmq-and-kafka/)
 <!-- HADOOPINREALWORLD-POST-LIST:END -->
 
 ### _Kognitio posts_
