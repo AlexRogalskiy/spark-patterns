@@ -328,6 +328,8 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 ### _Curated SQL posts_
 
 <!-- CURATEDSQL-POST-LIST:START -->
+- [Ways to Insert Data into a Hive Table](https://curatedsql.com/2021/04/05/ways-to-insert-data-into-a-hive-table/)
+- [Kafka Sans ZooKeeper](https://curatedsql.com/2021/04/05/kafka-sans-zookeeper/)
 - [Caching versus Persisting in Spark](https://curatedsql.com/2021/03/31/caching-versus-persisting-in-spark/)
 - [Spark Performance in Azure Synapse Analytics](https://curatedsql.com/2021/03/31/spark-performance-in-azure-synapse-analytics/)
 - [Kafka Replication with MIrrorMaker](https://curatedsql.com/2021/03/19/kafka-replication-with-mirrormaker/)
@@ -336,8 +338,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 - [Date Cleaning with PySpark](https://curatedsql.com/2021/03/10/date-cleaning-with-pyspark/)
 - [Testing Kafka with Kerberos and SSH](https://curatedsql.com/2021/03/05/testing-kafka-with-kerberos-and-ssh/)
 - [Apache Spark 3.1 Released](https://curatedsql.com/2021/03/04/apache-spark-3-1-released/)
-- [Installing Spark on Windows Subsystem for Linux](https://curatedsql.com/2021/03/02/installing-spark-on-windows-subsystem-for-linux/)
-- [Applied ML Prototypes](https://curatedsql.com/2021/03/02/applied-ml-prototypes/)
 <!-- CURATEDSQL-POST-LIST:END -->
 
 ### _Hadoop Quiz posts_
