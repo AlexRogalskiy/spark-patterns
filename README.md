@@ -270,6 +270,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 ### _Hadoop posts_
 
 <!-- HADOOP-POST-LIST:START -->
+- [What is the difference between groupByKey and reduceByKey in Spark?](https://www.hadoopinrealworld.com/what-is-the-difference-between-groupbykey-and-reducebykey-in-spark/)
 - [How to send large messages in Kafka?](https://www.hadoopinrealworld.com/how-to-send-large-messages-in-kafka/)
 - [How to recursively list files and directories in HDFS?](https://www.hadoopinrealworld.com/how-to-recursively-list-files-and-directories-in-hdfs/)
 - [Different ways to insert data into Hive table](https://www.hadoopinrealworld.com/different-ways-to-insert-data-into-hive-table/)
@@ -279,7 +280,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 - [How to fix the LEADER_NOT_AVAILABLE error in Kafka?](https://www.hadoopinrealworld.com/how-to-fix-the-leader_not_available-error-in-kafka/)
 - [When to use cache and persist functions in Spark?](https://www.hadoopinrealworld.com/when-to-use-cache-and-persist-functions-in-spark/)
 - [How to get a specific version of a file from S3 using AWS CLI?](https://www.hadoopinrealworld.com/how-to-get-a-specific-version-of-a-file-from-s3-using-aws-cli/)
-- [What is the difference between INNER JOIN and LEFT SEMI JOIN in Hive?](https://www.hadoopinrealworld.com/what-is-the-difference-between-inner-join-and-left-semi-join-in-hive/)
 <!-- HADOOP-POST-LIST:END -->
 
 ### _InfoWorld Hadoop posts_
