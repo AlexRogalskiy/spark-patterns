@@ -343,6 +343,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 ### _Hadoop Quiz posts_
 
 <!-- HADOOPQUIZ-POST-LIST:START -->
+- [Common Hadoop questions, errors and there answers](http://hadoopquiz.blogspot.com/2021/04/common-hadoop-questions-errors-and.html)
 - [How to Convert Python script to shell script online](http://hadoopquiz.blogspot.com/2020/04/how-to-convert-python-script-to-shell.html)
 - [how to read  HDFS file in spark or Scala](http://hadoopquiz.blogspot.com/2020/04/how-to-read-hdfs-file-in-spark-or-scala.html)
 - [Python script to check disk space Windows](http://hadoopquiz.blogspot.com/2020/04/python-script-to-check-disk-space.html)
@@ -352,7 +353,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 - [How to Run Word Count program in Eclipse with screenshot](http://hadoopquiz.blogspot.com/2017/07/how-to-run-word-count-program-in.html)
 - [MapReduce | Hadoop Developer Self Learning Outline](http://hadoopquiz.blogspot.com/2017/07/mapreduce-hadoop-developer-self.html)
 - [HDFS2 | Hadoop Developer Self Learning Outline](http://hadoopquiz.blogspot.com/2017/06/hdfs2-hadoop-developer-self-learning.html)
-- [HDFS | Hadoop Developer Self Learning Outline](http://hadoopquiz.blogspot.com/2017/06/hdfs-hadoop-developer-self-learning.html)
 <!-- HADOOPQUIZ-POST-LIST:END -->
 
 ### _Understanding Hadoop posts_
