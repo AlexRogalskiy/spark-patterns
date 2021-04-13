@@ -270,6 +270,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 ### _Hadoop posts_
 
 <!-- HADOOP-POST-LIST:START -->
+- [How to see the first few lines from a file in S3 using AWS CLI?](https://www.hadoopinrealworld.com/how-to-see-the-first-few-lines-from-a-file-in-s3-using-aws-cli/)
 - [How to solve word count problem in Hive?](https://www.hadoopinrealworld.com/how-to-solve-word-count-problem-in-hive/)
 - [What is the difference between groupByKey and reduceByKey in Spark?](https://www.hadoopinrealworld.com/what-is-the-difference-between-groupbykey-and-reducebykey-in-spark/)
 - [How to send large messages in Kafka?](https://www.hadoopinrealworld.com/how-to-send-large-messages-in-kafka/)
@@ -279,7 +280,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 - [What is the difference between cache and persist in Spark?](https://www.hadoopinrealworld.com/what-is-the-difference-between-cache-and-persist-in-spark/)
 - [Where HDFS stores files locally in Datanodes?](https://www.hadoopinrealworld.com/where-hdfs-stores-files-locally-in-datanodes/)
 - [How to fix the LEADER_NOT_AVAILABLE error in Kafka?](https://www.hadoopinrealworld.com/how-to-fix-the-leader_not_available-error-in-kafka/)
-- [When to use cache and persist functions in Spark?](https://www.hadoopinrealworld.com/when-to-use-cache-and-persist-functions-in-spark/)
 <!-- HADOOP-POST-LIST:END -->
 
 ### _InfoWorld Hadoop posts_
