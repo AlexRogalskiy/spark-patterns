@@ -328,6 +328,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 ### _Curated SQL posts_
 
 <!-- CURATEDSQL-POST-LIST:START -->
+- [SCD2 Dimensions on Spark with Apache Hudi](https://curatedsql.com/2021/04/13/scd2-dimensions-on-spark-with-apache-hudi/)
 - [Ordering and Sorting Data in Spark](https://curatedsql.com/2021/04/07/ordering-and-sorting-data-in-spark/)
 - [Sending Large Messages in Kafka](https://curatedsql.com/2021/04/06/sending-large-messages-in-kafka/)
 - [spkarlyr 1.6 Released](https://curatedsql.com/2021/04/06/spkarlyr-1-6-released/)
@@ -337,7 +338,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 - [Spark Performance in Azure Synapse Analytics](https://curatedsql.com/2021/03/31/spark-performance-in-azure-synapse-analytics/)
 - [Kafka Replication with MIrrorMaker](https://curatedsql.com/2021/03/19/kafka-replication-with-mirrormaker/)
 - [Batch Execution Mode in Flink’s DataStream API](https://curatedsql.com/2021/03/11/batch-execution-mode-in-flinks-datastream-api/)
-- [Namenode Formatting in Hadoop](https://curatedsql.com/2021/03/11/namenode-formatting-in-hadoop/)
 <!-- CURATEDSQL-POST-LIST:END -->
 
 ### _Hadoop Quiz posts_
