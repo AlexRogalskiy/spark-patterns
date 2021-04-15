@@ -298,6 +298,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 ### _Hadoop in real world posts_
 
 <!-- HADOOPINREALWORLD-POST-LIST:START -->
+- [How to specify conditional expressions (OR, AND, NOT) when searching documents in Elasticsearch?](https://www.hadoopinrealworld.com/how-to-specify-conditional-expressions-or-and-not-when-searching-documents-in-elasticsearch/)
 - [How to see the first few lines from a file in S3 using AWS CLI?](https://www.hadoopinrealworld.com/how-to-see-the-first-few-lines-from-a-file-in-s3-using-aws-cli/)
 - [How to solve word count problem in Hive?](https://www.hadoopinrealworld.com/how-to-solve-word-count-problem-in-hive/)
 - [What is the difference between groupByKey and reduceByKey in Spark?](https://www.hadoopinrealworld.com/what-is-the-difference-between-groupbykey-and-reducebykey-in-spark/)
@@ -307,7 +308,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 - [How to get specific fields from a document in Elasticsearch?](https://www.hadoopinrealworld.com/how-to-get-specific-fields-from-a-document-in-elasticsearch/)
 - [What is the difference between cache and persist in Spark?](https://www.hadoopinrealworld.com/what-is-the-difference-between-cache-and-persist-in-spark/)
 - [Where HDFS stores files locally in Datanodes?](https://www.hadoopinrealworld.com/where-hdfs-stores-files-locally-in-datanodes/)
-- [How to fix the LEADER_NOT_AVAILABLE error in Kafka?](https://www.hadoopinrealworld.com/how-to-fix-the-leader_not_available-error-in-kafka/)
 <!-- HADOOPINREALWORLD-POST-LIST:END -->
 
 ### _Kognitio posts_
