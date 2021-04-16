@@ -328,6 +328,8 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 ### _Curated SQL posts_
 
 <!-- CURATEDSQL-POST-LIST:START -->
+- [A Modern C++ Kafka API](https://curatedsql.com/2021/04/15/a-modern-c-kafka-api/)
+- [Geospatial Fraud Detection](https://curatedsql.com/2021/04/15/geospatial-fraud-detection/)
 - [SCD2 Dimensions on Spark with Apache Hudi](https://curatedsql.com/2021/04/13/scd2-dimensions-on-spark-with-apache-hudi/)
 - [Ordering and Sorting Data in Spark](https://curatedsql.com/2021/04/07/ordering-and-sorting-data-in-spark/)
 - [Sending Large Messages in Kafka](https://curatedsql.com/2021/04/06/sending-large-messages-in-kafka/)
@@ -336,8 +338,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 - [Kafka Sans ZooKeeper](https://curatedsql.com/2021/04/05/kafka-sans-zookeeper/)
 - [Caching versus Persisting in Spark](https://curatedsql.com/2021/03/31/caching-versus-persisting-in-spark/)
 - [Spark Performance in Azure Synapse Analytics](https://curatedsql.com/2021/03/31/spark-performance-in-azure-synapse-analytics/)
-- [Kafka Replication with MIrrorMaker](https://curatedsql.com/2021/03/19/kafka-replication-with-mirrormaker/)
-- [Batch Execution Mode in Flink’s DataStream API](https://curatedsql.com/2021/03/11/batch-execution-mode-in-flinks-datastream-api/)
 <!-- CURATEDSQL-POST-LIST:END -->
 
 ### _Hadoop Quiz posts_
