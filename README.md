@@ -330,6 +330,8 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 ### _Curated SQL posts_
 
 <!-- CURATEDSQL-POST-LIST:START -->
+- [Querying Serverless SQL Pools from Spark Notebooks in Scala](https://curatedsql.com/2021/04/19/querying-serverless-sql-pools-from-spark-notebooks-in-scala/)
+- [Removing a Node from a Hadoop Cluster](https://curatedsql.com/2021/04/19/removing-a-node-from-a-hadoop-cluster/)
 - [A Modern C++ Kafka API](https://curatedsql.com/2021/04/15/a-modern-c-kafka-api/)
 - [Geospatial Fraud Detection](https://curatedsql.com/2021/04/15/geospatial-fraud-detection/)
 - [SCD2 Dimensions on Spark with Apache Hudi](https://curatedsql.com/2021/04/13/scd2-dimensions-on-spark-with-apache-hudi/)
@@ -338,8 +340,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 - [spkarlyr 1.6 Released](https://curatedsql.com/2021/04/06/spkarlyr-1-6-released/)
 - [Ways to Insert Data into a Hive Table](https://curatedsql.com/2021/04/05/ways-to-insert-data-into-a-hive-table/)
 - [Kafka Sans ZooKeeper](https://curatedsql.com/2021/04/05/kafka-sans-zookeeper/)
-- [Caching versus Persisting in Spark](https://curatedsql.com/2021/03/31/caching-versus-persisting-in-spark/)
-- [Spark Performance in Azure Synapse Analytics](https://curatedsql.com/2021/03/31/spark-performance-in-azure-synapse-analytics/)
 <!-- CURATEDSQL-POST-LIST:END -->
 
 ### _Hadoop Quiz posts_
