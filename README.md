@@ -300,6 +300,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 ### _Hadoop in real world posts_
 
 <!-- HADOOPINREALWORLD-POST-LIST:START -->
+- [What is the difference between reduceByKey and aggregateByKey in Spark?](https://www.hadoopinrealworld.com/what-is-the-difference-between-reducebykey-and-aggregatebykey-in-spark/)
 - [How to properly remove a node from a Hadoop cluster?](https://www.hadoopinrealworld.com/how-to-properly-remove-a-node-from-a-hadoop-cluster/)
 - [How to specify conditional expressions (OR, AND, NOT) when searching documents in Elasticsearch?](https://www.hadoopinrealworld.com/how-to-specify-conditional-expressions-or-and-not-when-searching-documents-in-elasticsearch/)
 - [How to see the first few lines from a file in S3 using AWS CLI?](https://www.hadoopinrealworld.com/how-to-see-the-first-few-lines-from-a-file-in-s3-using-aws-cli/)
@@ -309,7 +310,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 - [How to recursively list files and directories in HDFS?](https://www.hadoopinrealworld.com/how-to-recursively-list-files-and-directories-in-hdfs/)
 - [Different ways to insert data into Hive table](https://www.hadoopinrealworld.com/different-ways-to-insert-data-into-hive-table/)
 - [How to get specific fields from a document in Elasticsearch?](https://www.hadoopinrealworld.com/how-to-get-specific-fields-from-a-document-in-elasticsearch/)
-- [What is the difference between cache and persist in Spark?](https://www.hadoopinrealworld.com/what-is-the-difference-between-cache-and-persist-in-spark/)
 <!-- HADOOPINREALWORLD-POST-LIST:END -->
 
 ### _Kognitio posts_
