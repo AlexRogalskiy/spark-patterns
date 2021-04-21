@@ -330,6 +330,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 ### _Curated SQL posts_
 
 <!-- CURATEDSQL-POST-LIST:START -->
+- [Apache Kafka 2.8 Released](https://curatedsql.com/2021/04/20/apache-kafka-2-8-released/)
 - [Querying Serverless SQL Pools from Spark Notebooks in Scala](https://curatedsql.com/2021/04/19/querying-serverless-sql-pools-from-spark-notebooks-in-scala/)
 - [Removing a Node from a Hadoop Cluster](https://curatedsql.com/2021/04/19/removing-a-node-from-a-hadoop-cluster/)
 - [A Modern C++ Kafka API](https://curatedsql.com/2021/04/15/a-modern-c-kafka-api/)
@@ -339,7 +340,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 - [Sending Large Messages in Kafka](https://curatedsql.com/2021/04/06/sending-large-messages-in-kafka/)
 - [spkarlyr 1.6 Released](https://curatedsql.com/2021/04/06/spkarlyr-1-6-released/)
 - [Ways to Insert Data into a Hive Table](https://curatedsql.com/2021/04/05/ways-to-insert-data-into-a-hive-table/)
-- [Kafka Sans ZooKeeper](https://curatedsql.com/2021/04/05/kafka-sans-zookeeper/)
 <!-- CURATEDSQL-POST-LIST:END -->
 
 ### _Hadoop Quiz posts_
