@@ -1,7 +1,7 @@
 # Spark Design Patterns
 
 <p align="center" style="text-align:center;">
-	<img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/master/images/banner.png" width="100%" height="60%" alt="Spark Design patterns"/>
+    <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/master/images/banner.png" width="100%" height="60%" alt="Spark Design patterns"/>
 </p>
 
 <p align="center" style="text-align:center;">
@@ -40,36 +40,38 @@
 [![NetflixOSS Lifecycle](https://img.shields.io/osslifecycle/AlexRogalskiy/spark-patterns.svg)]()
 [![CI](https://github.com/AlexRogalskiy/spark-patterns/workflows/CI/badge.svg)](https://github.com/AlexRogalskiy/spark-patterns/actions/workflows/build.yml)
 
-## 🎹 _Table of contents_
+## 🎹 *Table of contents*
 
 <!--ts-->
-   * [Spark Design Patterns](#spark-design-patterns)
-      * [<em>Table of contents</em>](#-table-of-contents)
-      * [<em>Summary</em>](#-summary)
-      * [<em>Documentation</em>](#-documentation)
-      * [<em>Statistics</em>](#-statistics)
-      * [<em>Versioning</em>](#-versioning)
-      * [<em>Authors</em>](#-authors)
-      * [<em>Contributing</em>](#-contributing)
-      * [<em>Visitor stats</em>](#-visitor-stats)
-      * [<em>Licensing</em>](#-licensing)
-      * [<em>Development Support</em>](#-development-support)
-      * [<em>Acknowledgement</em>](#-acknowledgement)
-      * [<em>OpenGraph Card</em>](#-opengraph-card)
-      * [<em>Feeds and Podcasts</em>](#-feeds-and-podcasts)
-         * [<em>Reddit posts</em>](#reddit-posts)
-         * [<em>InfoWorld Spark posts</em>](#infoworld-spark-posts)
-         * [<em>Hadoop posts</em>](#hadoop-posts)
-         * [<em>InfoWorld Hadoop posts</em>](#infoworld-hadoop-posts)
-         * [<em>Hadoop in real world posts</em>](#hadoop-in-real-world-posts)
-         * [<em>Kognitio posts</em>](#kognitio-posts)
-         * [<em>Curated SQL posts</em>](#curated-sql-posts)
-         * [<em>Hadoop Quiz posts</em>](#hadoop-quiz-posts)
-         * [<em>Understanding Hadoop posts</em>](#understanding-hadoop-posts)
-         * [<em>RedHat posts</em>](#redhat-posts)
+
+- [Spark Design Patterns](#spark-design-patterns)
+  - [<em>Table of contents</em>](#-table-of-contents)
+  - [<em>Summary</em>](#-summary)
+  - [<em>Documentation</em>](#-documentation)
+  - [<em>Statistics</em>](#-statistics)
+  - [<em>Versioning</em>](#-versioning)
+  - [<em>Authors</em>](#-authors)
+  - [<em>Contributing</em>](#-contributing)
+  - [<em>Visitor stats</em>](#-visitor-stats)
+  - [<em>Licensing</em>](#-licensing)
+  - [<em>Development Support</em>](#-development-support)
+  - [<em>Acknowledgement</em>](#-acknowledgement)
+  - [<em>OpenGraph Card</em>](#-opengraph-card)
+  - [<em>Feeds and Podcasts</em>](#-feeds-and-podcasts)
+    - [<em>Reddit posts</em>](#reddit-posts)
+    - [<em>InfoWorld Spark posts</em>](#infoworld-spark-posts)
+    - [<em>Hadoop posts</em>](#hadoop-posts)
+    - [<em>InfoWorld Hadoop posts</em>](#infoworld-hadoop-posts)
+    - [<em>Hadoop in real world posts</em>](#hadoop-in-real-world-posts)
+    - [<em>Kognitio posts</em>](#kognitio-posts)
+    - [<em>Curated SQL posts</em>](#curated-sql-posts)
+    - [<em>Hadoop Quiz posts</em>](#hadoop-quiz-posts)
+    - [<em>Understanding Hadoop posts</em>](#understanding-hadoop-posts)
+    - [<em>RedHat posts</em>](#redhat-posts)
+
 <!--te-->
 
-## ☝ _Summary_
+## ☝ *Summary*
 
 <p align="center" style="text-align:center;">
     <img alt="Apache" src="https://img.shields.io/badge/apache%20-%23D42029.svg?logo=apache%20spark&logoColor=white"/>
@@ -84,7 +86,7 @@
     </a>
 </p>
 
-_**Spark Design Patterns**_ is intended to provide various use case scenarios and architectural concepts on prototyping adaptive applications.
+***Spark Design Patterns*** is intended to provide various use case scenarios and architectural concepts on prototyping adaptive applications.
 
 ```text
 mkdocs.yml    # Configuration file.
@@ -118,27 +120,27 @@ docs/
         info.md # Links page
 ```
 
-## 📝 _Documentation_
+## 📝 *Documentation*
 
 The Website documentation is provided by [gitbook](https://www.gitbook.com/) and can be discovered at url:
 
 [**Spark Patterns**][docs]
 
-To enable documentation serving at _**localhost**_ the following steps should be considered:
+To enable documentation serving at ***localhost*** the following steps should be considered:
 
-1\) Install/upgrade _**pip**_ command-line utility:
+1\) Install/upgrade ***pip*** command-line utility:
 
 ```text
 pip install --upgrade pip
 ```
 
-or if you need to install _**pip**_ for the first time:
+or if you need to install ***pip*** for the first time:
 
 ```text
 python get-pip.py
 ```
 
-2\) Install the _**mkdocs**_ package using pip:
+2\) Install the ***mkdocs*** package using pip:
 
 ```text
 pip install mkdocs
@@ -158,7 +160,7 @@ pip install mkdocs-material
 pip install markdown-include
 ```
 
-4\) Start the server at _**localhost**_ by running the following command:
+4\) Start the server at ***localhost*** by running the following command:
 
 ```text
 mkdocs serve --verbose --dirtyreload
@@ -172,27 +174,27 @@ mkdocs --verbose gh-deploy --force --remote-branch gh-pages
 
 5\) Open up [localhost](http://127.0.0.1:8000/) in browser to get the default documentation homepage.
 
-## ⏰ _Statistics_
+## ⏰ *Statistics*
 
 <p align="center" style="text-align:center;">
     <img alt="Documentation PageSpeed result dashboard" src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/master/reports/pagespeedresultmobile.svg"/>
 </p>
 
-## 📝 _Versioning_
+## 📝 *Versioning*
 
 The project uses [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository][tags].
 
-## 🌹 _Authors_
+## 🌹 *Authors*
 
-_**Spark Patterns**_ is maintained by the following GitHub team-members:
+***Spark Patterns*** is maintained by the following GitHub team-members:
 
-* [![Author](https://img.shields.io/badge/author-AlexRogalskiy-FB8F0A)](https://github.com/AlexRogalskiy)
+- [![Author](https://img.shields.io/badge/author-AlexRogalskiy-FB8F0A)](https://github.com/AlexRogalskiy)
 
 with community support please contact with us if you have some question or proposition.
 
-## 💕 _Contributing_
+## 💕 *Contributing*
 
-[![Contributors Display](https://badges.pufler.dev/contributors/AlexRogalskiy/spark-patterns?size=50&padding=5&bots=true)](https://badges.pufler.dev)
+[![Contributors Display](https://badges.pufler.dev/contributors/AlexRogalskiy/spark-patterns?size=50\&padding=5\&bots=true)](https://badges.pufler.dev)
 
 Please read
 [CONTRIBUTING.md](https://github.com/AlexRogalskiy/spark-patterns/blob/master/.github/CONTRIBUTING.md)
@@ -207,60 +209,63 @@ specification. Contributions of any kind are welcome!
 
 See also the list of [contributors][contributors] who participated in this project.
 
-## 🚨 _Visitor stats_
+## 🚨 *Visitor stats*
 
-[![GitHub page hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAlexRogalskiy%2Fspark-patterns&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+[![GitHub page hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAlexRogalskiy%2Fspark-patterns\&count_bg=%2379C83D\&title_bg=%23555555\&icon=\&icon_color=%23E7E7E7\&title=hits\&edge_flat=true)](https://hits.seeyoufarm.com)
 
 ![GitHub stars](https://img.shields.io/github/stars/AlexRogalskiy/spark-patterns?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/AlexRogalskiy/spark-patterns?style=social)
 ![GitHub watchers](https://img.shields.io/github/watchers/AlexRogalskiy/spark-patterns?style=social)
 
-## ⚽ _Licensing_
+## ⚽ *Licensing*
 
-_**Spark Patterns**_ is distributed under LGPL version 3 or later, [[License](https://github.com/AlexRogalskiy/spark-patterns/blob/master/LICENSE.txt)].
+***Spark Patterns*** is distributed under LGPL version 3 or later, \[[License](https://github.com/AlexRogalskiy/spark-patterns/blob/master/LICENSE.txt)].
 LGPLv3 is additional permissions on top of GPLv3.
 
 ![image](https://user-images.githubusercontent.com/19885116/48661948-6cf97e80-ea7a-11e8-97e7-b45332a13e49.png)
 
-## 🌟 _Development Support_
+## 🌟 *Development Support*
 
 Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/master/images/icon.png" width="20" height="20" alt="Spark Design patterns"/>
- and _**Spark Patterns**_ ? Consider buying me a coffee :\)
+and ***Spark Patterns*** ? Consider buying me a coffee :)
 
-[![Become a Patron](https://img.shields.io/badge/Become_Patron-Support_me_on_Patreon-blue.svg?style=flat-square&logo=patreon&color=e64413)](https://www.patreon.com/alexrogalskiy)
+[![Become a Patron](https://img.shields.io/badge/Become_Patron-Support_me_on_Patreon-blue.svg?style=flat-square\&logo=patreon\&color=e64413)](https://www.patreon.com/alexrogalskiy)
 [![Buy Me A Coffee](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellow.svg?logo=buy%20me%20a%20coffee)](https://www.buymeacoffee.com/AlexRogalskiy)
 [![KoFi](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellow.svg?logo=ko-fi)](https://ko-fi.com/alexrogalskiy)
 
-## 👨‍👨‍👧‍👦 _Acknowledgement_
+## 👨‍👨‍👧‍👦 *Acknowledgement*
 
 [![Stargazers repo roster for @AlexRogalskiy/spark-patterns](https://reporoster.com/stars/AlexRogalskiy/spark-patterns)][stars]
 
-## 📎 _OpenGraph Card_
+## 📎 *OpenGraph Card*
 
 <p align="center" style="text-align:center;">
     <img alt="OpenGraph card" src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/master/images/opengraph-card.png"/>
 </p>
 
-## 🔥 _Feeds and Podcasts_
+## 🔥 *Feeds and Podcasts*
 
-### _Reddit posts_
+### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+
 - [VDM and SPARK: papers or results?](https://www.reddit.com/r/spark/comments/mh4fx2/vdm_and_spark_papers_or_results/)
 - [First beta release of Alire, the package manager for Ada/SPARK](https://www.reddit.com/r/spark/comments/jlyih0/first_beta_release_of_alire_the_package_manager/)
-- [[ VIDEO ] FOSDEM 2020 - Securing Existing Software using Formally Verified Libraries](https://www.reddit.com/r/spark/comments/j7h5eo/video_fosdem_2020_securing_existing_software/)
-- [FOSDEM 2020 - A Component-based Environment for Android Apps](https://www.reddit.com/r/spark/comments/j7g0p4/fosdem_2020_a_componentbased_environment_for/)
+- [\[ VIDEO \] FOSDEM 2020 - Securing Existing Software using Formally Verified Libraries](https://www.reddit.com/r/spark/comments/j7h5eo/video_fosdem\_2020\_securing_existing_software/)
+- [FOSDEM 2020 - A Component-based Environment for Android Apps](https://www.reddit.com/r/spark/comments/j7g0p4/fosdem\_2020\_a_componentbased_environment_for/)
 - [Major milestone: SPARK now allows to prove code with partially initialized data being passed around!](https://www.reddit.com/r/spark/comments/hzgnx2/major_milestone_spark_now_allows_to_prove_code/)
 - [Gneiss: Framework for platform-independent SPARK components](https://www.reddit.com/r/spark/comments/gzolxl/gneiss_framework_for_platformindependent_spark/)
 - [From Ada to Platinum SPARK: A Case Study for Reusable Bounded Stacks](https://www.reddit.com/r/spark/comments/gjo2ac/from_ada_to_platinum_spark_a_case_study_for/)
 - [Making An RC Car with Ada and SPARK](https://www.reddit.com/r/spark/comments/fgwnje/making_an_rc_car_with_ada_and_spark/)
 - [AdaCore Announces Winners of Fourth Annual “Make with Ada” Competition](https://www.reddit.com/r/spark/comments/fcyheg/adacore_announces_winners_of_fourth_annual_make/)
-- [SPARKNaCl - A SPARK 2014 implemenation of the NaCl cryptographic library, *proven to be free of runtime errors*](https://www.reddit.com/r/spark/comments/fa7cug/sparknacl_a_spark_2014_implemenation_of_the_nacl/)
+- [SPARKNaCl - A SPARK 2014 implemenation of the NaCl cryptographic library, *proven to be free of runtime errors*](https://www.reddit.com/r/spark/comments/fa7cug/sparknacl_a_spark\_2014\_implemenation_of_the_nacl/)
+
 <!-- REDDIT-POST-LIST:END -->
 
-### _InfoWorld Spark posts_
+### *InfoWorld Spark posts*
 
 <!-- INFOWORLD-SPARK-POST-LIST:START -->
+
 - [Microsoft brings .NET dev to Apache Spark](https://www.infoworld.com/article/3587595/microsoft-brings-net-dev-to-apache-spark.html#tk.rss_apachespark)
 - [Azure Databricks previews parallelized Photon query engine](https://www.infoworld.com/article/3583657/azure-databricks-previews-parallelized-photon-query-engine.html#tk.rss_apachespark)
 - [Apache Spark 3.0 adds Nvidia GPU support for machine learning](https://www.infoworld.com/article/3543319/apache-spark-30-adds-nvidia-gpu-support-for-machine-learning.html#tk.rss_apachespark)
@@ -269,11 +274,13 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 - [How to do real-time analytics across historical and live data](https://www.infoworld.com/article/3430787/how-to-perform-real-time-analytics-across-live-and-historical-data.html#tk.rss_apachespark)
 - [Time series analysis with KNIME and Spark](https://www.infoworld.com/article/3405256/time-series-analysis-with-knime-and-spark.html#tk.rss_apachespark)
 - [Delta Lake gives Apache Spark data sets new powers](https://www.infoworld.com/article/3391065/delta-lake-gives-apache-spark-data-sets-new-powers.html#tk.rss_apachespark)
+
 <!-- INFOWORLD-SPARK-POST-LIST:END -->
 
-### _Hadoop posts_
+### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+
 - [How to alter the type of the column in a Hive table?](https://www.hadoopinrealworld.com/how-to-alter-the-type-of-the-column-in-a-hive-table/)
 - [What is the difference between reduceByKey and aggregateByKey in Spark?](https://www.hadoopinrealworld.com/what-is-the-difference-between-reducebykey-and-aggregatebykey-in-spark/)
 - [How to properly remove a node from a Hadoop cluster?](https://www.hadoopinrealworld.com/how-to-properly-remove-a-node-from-a-hadoop-cluster/)
@@ -284,11 +291,13 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 - [How to send large messages in Kafka?](https://www.hadoopinrealworld.com/how-to-send-large-messages-in-kafka/)
 - [How to recursively list files and directories in HDFS?](https://www.hadoopinrealworld.com/how-to-recursively-list-files-and-directories-in-hdfs/)
 - [Different ways to insert data into Hive table](https://www.hadoopinrealworld.com/different-ways-to-insert-data-into-hive-table/)
+
 <!-- HADOOP-POST-LIST:END -->
 
-### _InfoWorld Hadoop posts_
+### *InfoWorld Hadoop posts*
 
 <!-- INFOWORLD-HADOOP-POST-LIST:START -->
+
 - [Why you should use Presto for ad hoc analytics](https://www.infoworld.com/article/3573576/why-you-should-use-presto-for-ad-hoc-analytics.html#tk.rss_hadoop)
 - [Rakuten frees itself of Hadoop investment in two years](https://www.infoworld.com/article/3563828/rakuten-frees-itself-of-hadoop-investment-in-two-years.html#tk.rss_hadoop)
 - [What is Apache Spark? The big data platform that crushed Hadoop](https://www.infoworld.com/article/3236869/what-is-apache-spark-the-big-data-platform-that-crushed-hadoop.html#tk.rss_hadoop)
@@ -297,11 +306,13 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 - [HPE plus MapR: Too much Hadoop, not enough cloud](https://www.infoworld.com/article/3431416/hpe-plus-mapr-too-much-hadoop-not-enough-cloud.html#tk.rss_hadoop)
 - [Hadoop runs out of gas](https://www.infoworld.com/article/3401917/hadoop-runs-out-of-gas.html#tk.rss_hadoop)
 - [Hadoop runs out of gas](https://www.infoworld.com/article/3400864/hadoop-runs-out-of-gas.html#tk.rss_hadoop)
+
 <!-- INFOWORLD-HADOOP-POST-LIST:END -->
 
-### _Hadoop in real world posts_
+### *Hadoop in real world posts*
 
 <!-- HADOOPINREALWORLD-POST-LIST:START -->
+
 - [How to alter the type of the column in a Hive table?](https://www.hadoopinrealworld.com/how-to-alter-the-type-of-the-column-in-a-hive-table/)
 - [What is the difference between reduceByKey and aggregateByKey in Spark?](https://www.hadoopinrealworld.com/what-is-the-difference-between-reducebykey-and-aggregatebykey-in-spark/)
 - [How to properly remove a node from a Hadoop cluster?](https://www.hadoopinrealworld.com/how-to-properly-remove-a-node-from-a-hadoop-cluster/)
@@ -312,11 +323,13 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 - [How to send large messages in Kafka?](https://www.hadoopinrealworld.com/how-to-send-large-messages-in-kafka/)
 - [How to recursively list files and directories in HDFS?](https://www.hadoopinrealworld.com/how-to-recursively-list-files-and-directories-in-hdfs/)
 - [Different ways to insert data into Hive table](https://www.hadoopinrealworld.com/different-ways-to-insert-data-into-hive-table/)
+
 <!-- HADOOPINREALWORLD-POST-LIST:END -->
 
-### _Kognitio posts_
+### *Kognitio posts*
 
 <!-- KOGNITIO-POST-LIST:START -->
+
 - [Rewriting filters for partition columns](https://kognitio.com/blog/rewriting-filters-for-partition-columns/)
 - [Cloudera and Hortonworks — why the merger?](https://kognitio.com/blog/cloudera-and-hortonworks-why-the-merger/)
 - [Query Hive tables directly from Kognitio](https://kognitio.com/blog/query-hive-tables-directly-from-kognitio/)
@@ -327,11 +340,13 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 - [I’ve put data in Hadoop so analytics will be quick, right?](https://kognitio.com/blog/data-hadoop-analytics-will-quick-right/)
 - [How will Kognitio on Hadoop work for you?](https://kognitio.com/blog/how-will-kognitio-hadoop-work-for-you/)
 - [Need faster analytics on data held in MapR? Try Kognitio.](https://kognitio.com/blog/need-faster-analytics-mapr/)
+
 <!-- KOGNITIO-POST-LIST:END -->
 
-### _Curated SQL posts_
+### *Curated SQL posts*
 
 <!-- CURATEDSQL-POST-LIST:START -->
+
 - [reduceByKey and aggregateByKey in Spark](https://curatedsql.com/2021/04/21/reducebykey-and-aggregatebykey-in-spark/)
 - [Apache Kafka 2.8 Released](https://curatedsql.com/2021/04/20/apache-kafka-2-8-released/)
 - [Querying Serverless SQL Pools from Spark Notebooks in Scala](https://curatedsql.com/2021/04/19/querying-serverless-sql-pools-from-spark-notebooks-in-scala/)
@@ -342,11 +357,13 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 - [Ordering and Sorting Data in Spark](https://curatedsql.com/2021/04/07/ordering-and-sorting-data-in-spark/)
 - [Sending Large Messages in Kafka](https://curatedsql.com/2021/04/06/sending-large-messages-in-kafka/)
 - [spkarlyr 1.6 Released](https://curatedsql.com/2021/04/06/spkarlyr-1-6-released/)
+
 <!-- CURATEDSQL-POST-LIST:END -->
 
-### _Hadoop Quiz posts_
+### *Hadoop Quiz posts*
 
 <!-- HADOOPQUIZ-POST-LIST:START -->
+
 - [Common Hadoop questions, errors and there answers](http://hadoopquiz.blogspot.com/2021/04/common-hadoop-questions-errors-and.html)
 - [How to Convert Python script to shell script online](http://hadoopquiz.blogspot.com/2020/04/how-to-convert-python-script-to-shell.html)
 - [how to read  HDFS file in spark or Scala](http://hadoopquiz.blogspot.com/2020/04/how-to-read-hdfs-file-in-spark-or-scala.html)
@@ -357,11 +374,13 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 - [How to Run Word Count program in Eclipse with screenshot](http://hadoopquiz.blogspot.com/2017/07/how-to-run-word-count-program-in.html)
 - [MapReduce | Hadoop Developer Self Learning Outline](http://hadoopquiz.blogspot.com/2017/07/mapreduce-hadoop-developer-self.html)
 - [HDFS2 | Hadoop Developer Self Learning Outline](http://hadoopquiz.blogspot.com/2017/06/hdfs2-hadoop-developer-self-learning.html)
+
 <!-- HADOOPQUIZ-POST-LIST:END -->
 
-### _Understanding Hadoop posts_
+### *Understanding Hadoop posts*
 
 <!-- UNDERSTANDHADOOP-POST-LIST:START -->
+
 - [CRUNCH YOUR WAY IN HADOOP](https://understanding-hadoop-by-mahesh.blogspot.com/2017/06/crunch-your-way-in-hadoop.html)
 - [HIVE INTERVIEW RELATED PREPARATION](https://understanding-hadoop-by-mahesh.blogspot.com/2017/04/hive-interview-related-preparation.html)
 - [A USECASE ON TRAVEL APP](https://understanding-hadoop-by-mahesh.blogspot.com/2017/03/a-usecase-on-travel-app.html)
@@ -372,26 +391,35 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 - [HADOOP POC ON EXCEL DATA WEATHER REPORT ANALYSIS](https://understanding-hadoop-by-mahesh.blogspot.com/2017/01/hadoop-poc-on-excel-data-weather-report.html)
 - [HADOOP (PROOF OF CONCEPTS) WEATHER REPORT ANALYSIS](https://understanding-hadoop-by-mahesh.blogspot.com/2017/01/hadoop-proof-of-concepts-weather-report.html)
 - [HIVE 2.1.1 INSTALLATION IN HADOOP 2.7.3 IN UBUNTU 16](https://understanding-hadoop-by-mahesh.blogspot.com/2017/01/hive-211-installation-in-hadoop-273-in.html)
+
 <!-- UNDERSTANDHADOOP-POST-LIST:END -->
 
-### _RedHat posts_
+### *RedHat posts*
 
 <!-- REDHAT-POST-LIST:START -->
+
 - [Running Spark Jobs On OpenShift](https://developers.redhat.com/blog/2017/01/20/running-spark-jobs-on-openshift/)
+
 <!-- REDHAT-POST-LIST:END -->
 
----
+***
 
-[![forthebadge](https://img.shields.io/badge/made%20with-%20markdown-C1282D.svg?logo=markdown&style=for-the-badge)](https://www.markdownguide.org/)
-[![forthebadge](https://img.shields.io/badge/powered%20by-%20gitbook-7116FB.svg?logo=gitbook&style=for-the-badge)](https://www.gitbook.com/)
-[![forthebadge](https://img.shields.io/badge/build%20with-%20%E2%9D%A4-B6FF9B.svg?logo=heart&style=for-the-badge)](https://forthebadge.com/)
+[![forthebadge](https://img.shields.io/badge/made%20with-%20markdown-C1282D.svg?logo=markdown\&style=for-the-badge)](https://www.markdownguide.org/)
+[![forthebadge](https://img.shields.io/badge/powered%20by-%20gitbook-7116FB.svg?logo=gitbook\&style=for-the-badge)](https://www.gitbook.com/)
+[![forthebadge](https://img.shields.io/badge/build%20with-%20%E2%9D%A4-B6FF9B.svg?logo=heart\&style=for-the-badge)](https://forthebadge.com/)
 
+[repo]: https://github.com/AlexRogalskiy/spark-patterns
 
-  [repo]:           https://github.com/AlexRogalskiy/spark-patterns
-  [tags]:           https://github.com/AlexRogalskiy/spark-patterns/tags
-  [issues]:         https://github.com/AlexRogalskiy/spark-patterns/issues
-  [pulls]:          https://github.com/AlexRogalskiy/spark-patterns/pulls
-  [wiki]:           https://github.com/AlexRogalskiy/spark-patterns/wiki
-  [stars]:          https://github.com/AlexRogalskiy/spark-patterns/stargazers
-  [contributors]:   https://github.com/AlexRogalskiy/spark-patterns/graphs/contributors
-  [docs]:           https://alexander-rogalsky.gitbook.io/spark-patterns/
+[tags]: https://github.com/AlexRogalskiy/spark-patterns/tags
+
+[issues]: https://github.com/AlexRogalskiy/spark-patterns/issues
+
+[pulls]: https://github.com/AlexRogalskiy/spark-patterns/pulls
+
+[wiki]: https://github.com/AlexRogalskiy/spark-patterns/wiki
+
+[stars]: https://github.com/AlexRogalskiy/spark-patterns/stargazers
+
+[contributors]: https://github.com/AlexRogalskiy/spark-patterns/graphs/contributors
+
+[docs]: https://alexander-rogalsky.gitbook.io/spark-patterns/
