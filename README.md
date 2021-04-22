@@ -37,6 +37,8 @@
 [![ComVer](https://img.shields.io/badge/ComVer-compliant-brightgreen.svg)][repo]
 [![GitHub Super-Linter](https://github.com/alexrogalskiy/spark-patterns/workflows/Lint%20Code%20Base/badge.svg)](https://github.com/marketplace/actions/super-linter)
 [![Documentation Status](https://readthedocs.org/projects/spark-patterns/badge/?version=latest)](https://spark-patterns.readthedocs.io/en/latest/?badge=latest)
+[![NetflixOSS Lifecycle](https://img.shields.io/osslifecycle/AlexRogalskiy/spark-patterns.svg)]()
+[![CI](https://github.com/AlexRogalskiy/spark-patterns/workflows/CI/badge.svg)](https://github.com/AlexRogalskiy/spark-patterns/actions/workflows/build.yml)
 
 ## 🎹 _Table of contents_
 
