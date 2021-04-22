@@ -330,6 +330,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 ### _Curated SQL posts_
 
 <!-- CURATEDSQL-POST-LIST:START -->
+- [reduceByKey and aggregateByKey in Spark](https://curatedsql.com/2021/04/21/reducebykey-and-aggregatebykey-in-spark/)
 - [Apache Kafka 2.8 Released](https://curatedsql.com/2021/04/20/apache-kafka-2-8-released/)
 - [Querying Serverless SQL Pools from Spark Notebooks in Scala](https://curatedsql.com/2021/04/19/querying-serverless-sql-pools-from-spark-notebooks-in-scala/)
 - [Removing a Node from a Hadoop Cluster](https://curatedsql.com/2021/04/19/removing-a-node-from-a-hadoop-cluster/)
@@ -339,7 +340,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 - [Ordering and Sorting Data in Spark](https://curatedsql.com/2021/04/07/ordering-and-sorting-data-in-spark/)
 - [Sending Large Messages in Kafka](https://curatedsql.com/2021/04/06/sending-large-messages-in-kafka/)
 - [spkarlyr 1.6 Released](https://curatedsql.com/2021/04/06/spkarlyr-1-6-released/)
-- [Ways to Insert Data into a Hive Table](https://curatedsql.com/2021/04/05/ways-to-insert-data-into-a-hive-table/)
 <!-- CURATEDSQL-POST-LIST:END -->
 
 ### _Hadoop Quiz posts_
