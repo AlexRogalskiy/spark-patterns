@@ -272,6 +272,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 ### _Hadoop posts_
 
 <!-- HADOOP-POST-LIST:START -->
+- [How to alter the type of the column in a Hive table?](https://www.hadoopinrealworld.com/how-to-alter-the-type-of-the-column-in-a-hive-table/)
 - [What is the difference between reduceByKey and aggregateByKey in Spark?](https://www.hadoopinrealworld.com/what-is-the-difference-between-reducebykey-and-aggregatebykey-in-spark/)
 - [How to properly remove a node from a Hadoop cluster?](https://www.hadoopinrealworld.com/how-to-properly-remove-a-node-from-a-hadoop-cluster/)
 - [How to specify conditional expressions (OR, AND, NOT) when searching documents in Elasticsearch?](https://www.hadoopinrealworld.com/how-to-specify-conditional-expressions-or-and-not-when-searching-documents-in-elasticsearch/)
@@ -281,7 +282,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/spark-patterns/ma
 - [How to send large messages in Kafka?](https://www.hadoopinrealworld.com/how-to-send-large-messages-in-kafka/)
 - [How to recursively list files and directories in HDFS?](https://www.hadoopinrealworld.com/how-to-recursively-list-files-and-directories-in-hdfs/)
 - [Different ways to insert data into Hive table](https://www.hadoopinrealworld.com/different-ways-to-insert-data-into-hive-table/)
-- [How to get specific fields from a document in Elasticsearch?](https://www.hadoopinrealworld.com/how-to-get-specific-fields-from-a-document-in-elasticsearch/)
 <!-- HADOOP-POST-LIST:END -->
 
 ### _InfoWorld Hadoop posts_
