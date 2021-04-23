@@ -43,30 +43,32 @@
 ## 🎹 *Table of contents*
 
 <!--ts-->
-   * [Spark Design Patterns](#spark-design-patterns)
-      * [<em>Table of contents</em>](#-table-of-contents)
-      * [<em>Summary</em>](#-summary)
-      * [<em>Documentation</em>](#-documentation)
-      * [<em>Statistics</em>](#-statistics)
-      * [<em>Versioning</em>](#-versioning)
-      * [<em>Authors</em>](#-authors)
-      * [<em>Contributing</em>](#-contributing)
-      * [<em>Visitor stats</em>](#-visitor-stats)
-      * [<em>Licensing</em>](#-licensing)
-      * [<em>Development Support</em>](#-development-support)
-      * [<em>Acknowledgement</em>](#-acknowledgement)
-      * [<em>OpenGraph Card</em>](#-opengraph-card)
-      * [<em>Feeds and Podcasts</em>](#-feeds-and-podcasts)
-         * [<em>Reddit posts</em>](#reddit-posts)
-         * [<em>InfoWorld Spark posts</em>](#infoworld-spark-posts)
-         * [<em>Hadoop posts</em>](#hadoop-posts)
-         * [<em>InfoWorld Hadoop posts</em>](#infoworld-hadoop-posts)
-         * [<em>Hadoop in real world posts</em>](#hadoop-in-real-world-posts)
-         * [<em>Kognitio posts</em>](#kognitio-posts)
-         * [<em>Curated SQL posts</em>](#curated-sql-posts)
-         * [<em>Hadoop Quiz posts</em>](#hadoop-quiz-posts)
-         * [<em>Understanding Hadoop posts</em>](#understanding-hadoop-posts)
-         * [<em>RedHat posts</em>](#redhat-posts)
+
+- [Spark Design Patterns](#spark-design-patterns)
+  - [<em>Table of contents</em>](#-table-of-contents)
+  - [<em>Summary</em>](#-summary)
+  - [<em>Documentation</em>](#-documentation)
+  - [<em>Statistics</em>](#-statistics)
+  - [<em>Versioning</em>](#-versioning)
+  - [<em>Authors</em>](#-authors)
+  - [<em>Contributing</em>](#-contributing)
+  - [<em>Visitor stats</em>](#-visitor-stats)
+  - [<em>Licensing</em>](#-licensing)
+  - [<em>Development Support</em>](#-development-support)
+  - [<em>Acknowledgement</em>](#-acknowledgement)
+  - [<em>OpenGraph Card</em>](#-opengraph-card)
+  - [<em>Feeds and Podcasts</em>](#-feeds-and-podcasts)
+    - [<em>Reddit posts</em>](#reddit-posts)
+    - [<em>InfoWorld Spark posts</em>](#infoworld-spark-posts)
+    - [<em>Hadoop posts</em>](#hadoop-posts)
+    - [<em>InfoWorld Hadoop posts</em>](#infoworld-hadoop-posts)
+    - [<em>Hadoop in real world posts</em>](#hadoop-in-real-world-posts)
+    - [<em>Kognitio posts</em>](#kognitio-posts)
+    - [<em>Curated SQL posts</em>](#curated-sql-posts)
+    - [<em>Hadoop Quiz posts</em>](#hadoop-quiz-posts)
+    - [<em>Understanding Hadoop posts</em>](#understanding-hadoop-posts)
+    - [<em>RedHat posts</em>](#redhat-posts)
+
 <!--te-->
 
 ## ☝ *Summary*
@@ -124,50 +126,57 @@ The Website documentation is provided by [gitbook](https://www.gitbook.com/) and
 
 [**Spark Patterns**][docs]
 
-To enable documentation serving at ***localhost*** the following steps should be considered:
+To enable documentation serving at ***localhost*** you can run the following script
+
+```shell script
+./scripts/build-docs.sh
+```
+
+otherwise, the next steps should be considered:
 
 1\) Install/upgrade ***pip*** command-line utility:
 
-```text
+```shell script
 pip install --upgrade pip
 ```
 
 or if you need to install ***pip*** for the first time:
 
-```text
+```shell script
+wget --no-check-certificate https://bootstrap.pypa.io/get-pip.py
 python get-pip.py
 ```
 
 2\) Install the ***mkdocs*** package using pip:
 
-```text
+```shell script
 pip install mkdocs
 ```
 
 or more conveniently for Windows subsystem:
 
-```text
+```shell script
 python -m pip install mkdocs
 python -m mkdocs
 ```
 
 3\) Install the material theme for the website:
 
-```text
-pip install mkdocs-material
-pip install markdown-include
+```shell script
+python -m pip install mkdocs-material
+python -m pip install markdown-include
 ```
 
 4\) Start the server at ***localhost*** by running the following command:
 
-```text
-mkdocs serve --verbose --dirtyreload
+```shell script
+python -m mkdocs serve --verbose --dirtyreload
 ```
 
 5\) Deploy to GitHub pages:
 
-```text
-mkdocs --verbose gh-deploy --force --remote-branch gh-pages
+```shell script
+python -m mkdocs --verbose gh-deploy --force --remote-branch gh-pages
 ```
 
 5\) Open up [localhost](http://127.0.0.1:8000/) in browser to get the default documentation homepage.
@@ -246,21 +255,24 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+
 - [VDM and SPARK: papers or results?](https://www.reddit.com/r/spark/comments/mh4fx2/vdm_and_spark_papers_or_results/)
 - [First beta release of Alire, the package manager for Ada/SPARK](https://www.reddit.com/r/spark/comments/jlyih0/first_beta_release_of_alire_the_package_manager/)
-- [[ VIDEO ] FOSDEM 2020 - Securing Existing Software using Formally Verified Libraries](https://www.reddit.com/r/spark/comments/j7h5eo/video_fosdem_2020_securing_existing_software/)
-- [FOSDEM 2020 - A Component-based Environment for Android Apps](https://www.reddit.com/r/spark/comments/j7g0p4/fosdem_2020_a_componentbased_environment_for/)
+- [\[ VIDEO \] FOSDEM 2020 - Securing Existing Software using Formally Verified Libraries](https://www.reddit.com/r/spark/comments/j7h5eo/video_fosdem\_2020\_securing_existing_software/)
+- [FOSDEM 2020 - A Component-based Environment for Android Apps](https://www.reddit.com/r/spark/comments/j7g0p4/fosdem\_2020\_a_componentbased_environment_for/)
 - [Major milestone: SPARK now allows to prove code with partially initialized data being passed around!](https://www.reddit.com/r/spark/comments/hzgnx2/major_milestone_spark_now_allows_to_prove_code/)
 - [Gneiss: Framework for platform-independent SPARK components](https://www.reddit.com/r/spark/comments/gzolxl/gneiss_framework_for_platformindependent_spark/)
 - [From Ada to Platinum SPARK: A Case Study for Reusable Bounded Stacks](https://www.reddit.com/r/spark/comments/gjo2ac/from_ada_to_platinum_spark_a_case_study_for/)
 - [Making An RC Car with Ada and SPARK](https://www.reddit.com/r/spark/comments/fgwnje/making_an_rc_car_with_ada_and_spark/)
 - [AdaCore Announces Winners of Fourth Annual “Make with Ada” Competition](https://www.reddit.com/r/spark/comments/fcyheg/adacore_announces_winners_of_fourth_annual_make/)
-- [SPARKNaCl - A SPARK 2014 implemenation of the NaCl cryptographic library, *proven to be free of runtime errors*](https://www.reddit.com/r/spark/comments/fa7cug/sparknacl_a_spark_2014_implemenation_of_the_nacl/)
+- [SPARKNaCl - A SPARK 2014 implemenation of the NaCl cryptographic library, *proven to be free of runtime errors*](https://www.reddit.com/r/spark/comments/fa7cug/sparknacl_a_spark\_2014\_implemenation_of_the_nacl/)
+
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld Spark posts*
 
 <!-- INFOWORLD-SPARK-POST-LIST:START -->
+
 - [Microsoft brings .NET dev to Apache Spark](https://www.infoworld.com/article/3587595/microsoft-brings-net-dev-to-apache-spark.html#tk.rss_apachespark)
 - [Azure Databricks previews parallelized Photon query engine](https://www.infoworld.com/article/3583657/azure-databricks-previews-parallelized-photon-query-engine.html#tk.rss_apachespark)
 - [Apache Spark 3.0 adds Nvidia GPU support for machine learning](https://www.infoworld.com/article/3543319/apache-spark-30-adds-nvidia-gpu-support-for-machine-learning.html#tk.rss_apachespark)
@@ -269,11 +281,13 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [How to do real-time analytics across historical and live data](https://www.infoworld.com/article/3430787/how-to-perform-real-time-analytics-across-live-and-historical-data.html#tk.rss_apachespark)
 - [Time series analysis with KNIME and Spark](https://www.infoworld.com/article/3405256/time-series-analysis-with-knime-and-spark.html#tk.rss_apachespark)
 - [Delta Lake gives Apache Spark data sets new powers](https://www.infoworld.com/article/3391065/delta-lake-gives-apache-spark-data-sets-new-powers.html#tk.rss_apachespark)
+
 <!-- INFOWORLD-SPARK-POST-LIST:END -->
 
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+
 - [How to alter the type of the column in a Hive table?](https://www.hadoopinrealworld.com/how-to-alter-the-type-of-the-column-in-a-hive-table/)
 - [What is the difference between reduceByKey and aggregateByKey in Spark?](https://www.hadoopinrealworld.com/what-is-the-difference-between-reducebykey-and-aggregatebykey-in-spark/)
 - [How to properly remove a node from a Hadoop cluster?](https://www.hadoopinrealworld.com/how-to-properly-remove-a-node-from-a-hadoop-cluster/)
@@ -284,11 +298,13 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [How to send large messages in Kafka?](https://www.hadoopinrealworld.com/how-to-send-large-messages-in-kafka/)
 - [How to recursively list files and directories in HDFS?](https://www.hadoopinrealworld.com/how-to-recursively-list-files-and-directories-in-hdfs/)
 - [Different ways to insert data into Hive table](https://www.hadoopinrealworld.com/different-ways-to-insert-data-into-hive-table/)
+
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
 
 <!-- INFOWORLD-HADOOP-POST-LIST:START -->
+
 - [Why you should use Presto for ad hoc analytics](https://www.infoworld.com/article/3573576/why-you-should-use-presto-for-ad-hoc-analytics.html#tk.rss_hadoop)
 - [Rakuten frees itself of Hadoop investment in two years](https://www.infoworld.com/article/3563828/rakuten-frees-itself-of-hadoop-investment-in-two-years.html#tk.rss_hadoop)
 - [What is Apache Spark? The big data platform that crushed Hadoop](https://www.infoworld.com/article/3236869/what-is-apache-spark-the-big-data-platform-that-crushed-hadoop.html#tk.rss_hadoop)
@@ -297,11 +313,13 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [HPE plus MapR: Too much Hadoop, not enough cloud](https://www.infoworld.com/article/3431416/hpe-plus-mapr-too-much-hadoop-not-enough-cloud.html#tk.rss_hadoop)
 - [Hadoop runs out of gas](https://www.infoworld.com/article/3401917/hadoop-runs-out-of-gas.html#tk.rss_hadoop)
 - [Hadoop runs out of gas](https://www.infoworld.com/article/3400864/hadoop-runs-out-of-gas.html#tk.rss_hadoop)
+
 <!-- INFOWORLD-HADOOP-POST-LIST:END -->
 
 ### *Hadoop in real world posts*
 
 <!-- HADOOPINREALWORLD-POST-LIST:START -->
+
 - [How to alter the type of the column in a Hive table?](https://www.hadoopinrealworld.com/how-to-alter-the-type-of-the-column-in-a-hive-table/)
 - [What is the difference between reduceByKey and aggregateByKey in Spark?](https://www.hadoopinrealworld.com/what-is-the-difference-between-reducebykey-and-aggregatebykey-in-spark/)
 - [How to properly remove a node from a Hadoop cluster?](https://www.hadoopinrealworld.com/how-to-properly-remove-a-node-from-a-hadoop-cluster/)
@@ -312,11 +330,13 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [How to send large messages in Kafka?](https://www.hadoopinrealworld.com/how-to-send-large-messages-in-kafka/)
 - [How to recursively list files and directories in HDFS?](https://www.hadoopinrealworld.com/how-to-recursively-list-files-and-directories-in-hdfs/)
 - [Different ways to insert data into Hive table](https://www.hadoopinrealworld.com/different-ways-to-insert-data-into-hive-table/)
+
 <!-- HADOOPINREALWORLD-POST-LIST:END -->
 
 ### *Kognitio posts*
 
 <!-- KOGNITIO-POST-LIST:START -->
+
 - [Rewriting filters for partition columns](https://kognitio.com/blog/rewriting-filters-for-partition-columns/)
 - [Cloudera and Hortonworks — why the merger?](https://kognitio.com/blog/cloudera-and-hortonworks-why-the-merger/)
 - [Query Hive tables directly from Kognitio](https://kognitio.com/blog/query-hive-tables-directly-from-kognitio/)
@@ -327,11 +347,13 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [I’ve put data in Hadoop so analytics will be quick, right?](https://kognitio.com/blog/data-hadoop-analytics-will-quick-right/)
 - [How will Kognitio on Hadoop work for you?](https://kognitio.com/blog/how-will-kognitio-hadoop-work-for-you/)
 - [Need faster analytics on data held in MapR? Try Kognitio.](https://kognitio.com/blog/need-faster-analytics-mapr/)
+
 <!-- KOGNITIO-POST-LIST:END -->
 
 ### *Curated SQL posts*
 
 <!-- CURATEDSQL-POST-LIST:START -->
+
 - [reduceByKey and aggregateByKey in Spark](https://curatedsql.com/2021/04/21/reducebykey-and-aggregatebykey-in-spark/)
 - [Apache Kafka 2.8 Released](https://curatedsql.com/2021/04/20/apache-kafka-2-8-released/)
 - [Querying Serverless SQL Pools from Spark Notebooks in Scala](https://curatedsql.com/2021/04/19/querying-serverless-sql-pools-from-spark-notebooks-in-scala/)
@@ -342,11 +364,13 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Ordering and Sorting Data in Spark](https://curatedsql.com/2021/04/07/ordering-and-sorting-data-in-spark/)
 - [Sending Large Messages in Kafka](https://curatedsql.com/2021/04/06/sending-large-messages-in-kafka/)
 - [spkarlyr 1.6 Released](https://curatedsql.com/2021/04/06/spkarlyr-1-6-released/)
+
 <!-- CURATEDSQL-POST-LIST:END -->
 
 ### *Hadoop Quiz posts*
 
 <!-- HADOOPQUIZ-POST-LIST:START -->
+
 - [Common Hadoop questions, errors and there answers](http://hadoopquiz.blogspot.com/2021/04/common-hadoop-questions-errors-and.html)
 - [How to Convert Python script to shell script online](http://hadoopquiz.blogspot.com/2020/04/how-to-convert-python-script-to-shell.html)
 - [how to read  HDFS file in spark or Scala](http://hadoopquiz.blogspot.com/2020/04/how-to-read-hdfs-file-in-spark-or-scala.html)
@@ -357,11 +381,13 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [How to Run Word Count program in Eclipse with screenshot](http://hadoopquiz.blogspot.com/2017/07/how-to-run-word-count-program-in.html)
 - [MapReduce | Hadoop Developer Self Learning Outline](http://hadoopquiz.blogspot.com/2017/07/mapreduce-hadoop-developer-self.html)
 - [HDFS2 | Hadoop Developer Self Learning Outline](http://hadoopquiz.blogspot.com/2017/06/hdfs2-hadoop-developer-self-learning.html)
+
 <!-- HADOOPQUIZ-POST-LIST:END -->
 
 ### *Understanding Hadoop posts*
 
 <!-- UNDERSTANDHADOOP-POST-LIST:START -->
+
 - [CRUNCH YOUR WAY IN HADOOP](https://understanding-hadoop-by-mahesh.blogspot.com/2017/06/crunch-your-way-in-hadoop.html)
 - [HIVE INTERVIEW RELATED PREPARATION](https://understanding-hadoop-by-mahesh.blogspot.com/2017/04/hive-interview-related-preparation.html)
 - [A USECASE ON TRAVEL APP](https://understanding-hadoop-by-mahesh.blogspot.com/2017/03/a-usecase-on-travel-app.html)
@@ -372,12 +398,15 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [HADOOP POC ON EXCEL DATA WEATHER REPORT ANALYSIS](https://understanding-hadoop-by-mahesh.blogspot.com/2017/01/hadoop-poc-on-excel-data-weather-report.html)
 - [HADOOP (PROOF OF CONCEPTS) WEATHER REPORT ANALYSIS](https://understanding-hadoop-by-mahesh.blogspot.com/2017/01/hadoop-proof-of-concepts-weather-report.html)
 - [HIVE 2.1.1 INSTALLATION IN HADOOP 2.7.3 IN UBUNTU 16](https://understanding-hadoop-by-mahesh.blogspot.com/2017/01/hive-211-installation-in-hadoop-273-in.html)
+
 <!-- UNDERSTANDHADOOP-POST-LIST:END -->
 
 ### *RedHat posts*
 
 <!-- REDHAT-POST-LIST:START -->
+
 - [Running Spark Jobs On OpenShift](https://developers.redhat.com/blog/2017/01/20/running-spark-jobs-on-openshift/)
+
 <!-- REDHAT-POST-LIST:END -->
 
 ***
