@@ -332,7 +332,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Curated SQL posts*
 
 <!-- CURATEDSQL-POST-LIST:START -->
-
 - [reduceByKey and aggregateByKey in Spark](https://curatedsql.com/2021/04/21/reducebykey-and-aggregatebykey-in-spark/)
 - [Apache Kafka 2.8 Released](https://curatedsql.com/2021/04/20/apache-kafka-2-8-released/)
 - [Querying Serverless SQL Pools from Spark Notebooks in Scala](https://curatedsql.com/2021/04/19/querying-serverless-sql-pools-from-spark-notebooks-in-scala/)
@@ -343,7 +342,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Ordering and Sorting Data in Spark](https://curatedsql.com/2021/04/07/ordering-and-sorting-data-in-spark/)
 - [Sending Large Messages in Kafka](https://curatedsql.com/2021/04/06/sending-large-messages-in-kafka/)
 - [spkarlyr 1.6 Released](https://curatedsql.com/2021/04/06/spkarlyr-1-6-released/)
-
 <!-- CURATEDSQL-POST-LIST:END -->
 
 ### *Hadoop Quiz posts*
