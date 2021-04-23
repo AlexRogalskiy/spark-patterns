@@ -317,7 +317,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Kognitio posts*
 
 <!-- KOGNITIO-POST-LIST:START -->
-
 - [Rewriting filters for partition columns](https://kognitio.com/blog/rewriting-filters-for-partition-columns/)
 - [Cloudera and Hortonworks — why the merger?](https://kognitio.com/blog/cloudera-and-hortonworks-why-the-merger/)
 - [Query Hive tables directly from Kognitio](https://kognitio.com/blog/query-hive-tables-directly-from-kognitio/)
@@ -328,7 +327,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [I’ve put data in Hadoop so analytics will be quick, right?](https://kognitio.com/blog/data-hadoop-analytics-will-quick-right/)
 - [How will Kognitio on Hadoop work for you?](https://kognitio.com/blog/how-will-kognitio-hadoop-work-for-you/)
 - [Need faster analytics on data held in MapR? Try Kognitio.](https://kognitio.com/blog/need-faster-analytics-mapr/)
-
 <!-- KOGNITIO-POST-LIST:END -->
 
 ### *Curated SQL posts*
