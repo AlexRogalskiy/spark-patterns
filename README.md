@@ -377,9 +377,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *RedHat posts*
 
 <!-- REDHAT-POST-LIST:START -->
-
 - [Running Spark Jobs On OpenShift](https://developers.redhat.com/blog/2017/01/20/running-spark-jobs-on-openshift/)
-
 <!-- REDHAT-POST-LIST:END -->
 
 ***
