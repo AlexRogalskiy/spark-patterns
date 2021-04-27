@@ -280,6 +280,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [What is consumer offset and the purpose of consumer offset in Kafka?](https://www.hadoopinrealworld.com/what-is-consumer-offset-and-the-purpose-of-consumer-offset-in-kafka/)
 - [How to fix “Could not locate executable winutils.exe” issue in Hadoop?](https://www.hadoopinrealworld.com/how-to-fix-could-not-locate-executable-winutils-exe-issue-in-hadoop/)
 - [How to alter the type of the column in a Hive table?](https://www.hadoopinrealworld.com/how-to-alter-the-type-of-the-column-in-a-hive-table/)
 - [What is the difference between reduceByKey and aggregateByKey in Spark?](https://www.hadoopinrealworld.com/what-is-the-difference-between-reducebykey-and-aggregatebykey-in-spark/)
@@ -289,7 +290,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [How to solve word count problem in Hive?](https://www.hadoopinrealworld.com/how-to-solve-word-count-problem-in-hive/)
 - [What is the difference between groupByKey and reduceByKey in Spark?](https://www.hadoopinrealworld.com/what-is-the-difference-between-groupbykey-and-reducebykey-in-spark/)
 - [How to send large messages in Kafka?](https://www.hadoopinrealworld.com/how-to-send-large-messages-in-kafka/)
-- [How to recursively list files and directories in HDFS?](https://www.hadoopinrealworld.com/how-to-recursively-list-files-and-directories-in-hdfs/)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
