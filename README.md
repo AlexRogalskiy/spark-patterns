@@ -353,7 +353,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop Quiz posts*
 
 <!-- HADOOPQUIZ-POST-LIST:START -->
-
 - [Common Hadoop questions, errors and there answers](http://hadoopquiz.blogspot.com/2021/04/common-hadoop-questions-errors-and.html)
 - [How to Convert Python script to shell script online](http://hadoopquiz.blogspot.com/2020/04/how-to-convert-python-script-to-shell.html)
 - [how to read  HDFS file in spark or Scala](http://hadoopquiz.blogspot.com/2020/04/how-to-read-hdfs-file-in-spark-or-scala.html)
@@ -364,7 +363,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [How to Run Word Count program in Eclipse with screenshot](http://hadoopquiz.blogspot.com/2017/07/how-to-run-word-count-program-in.html)
 - [MapReduce | Hadoop Developer Self Learning Outline](http://hadoopquiz.blogspot.com/2017/07/mapreduce-hadoop-developer-self.html)
 - [HDFS2 | Hadoop Developer Self Learning Outline](http://hadoopquiz.blogspot.com/2017/06/hdfs2-hadoop-developer-self-learning.html)
-
 <!-- HADOOPQUIZ-POST-LIST:END -->
 
 ### *Understanding Hadoop posts*
