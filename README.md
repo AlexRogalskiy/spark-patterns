@@ -295,7 +295,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld Hadoop posts*
 
 <!-- INFOWORLD-HADOOP-POST-LIST:START -->
-
 - [Why you should use Presto for ad hoc analytics](https://www.infoworld.com/article/3573576/why-you-should-use-presto-for-ad-hoc-analytics.html#tk.rss_hadoop)
 - [Rakuten frees itself of Hadoop investment in two years](https://www.infoworld.com/article/3563828/rakuten-frees-itself-of-hadoop-investment-in-two-years.html#tk.rss_hadoop)
 - [What is Apache Spark? The big data platform that crushed Hadoop](https://www.infoworld.com/article/3236869/what-is-apache-spark-the-big-data-platform-that-crushed-hadoop.html#tk.rss_hadoop)
@@ -304,7 +303,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [HPE plus MapR: Too much Hadoop, not enough cloud](https://www.infoworld.com/article/3431416/hpe-plus-mapr-too-much-hadoop-not-enough-cloud.html#tk.rss_hadoop)
 - [Hadoop runs out of gas](https://www.infoworld.com/article/3401917/hadoop-runs-out-of-gas.html#tk.rss_hadoop)
 - [Hadoop runs out of gas](https://www.infoworld.com/article/3400864/hadoop-runs-out-of-gas.html#tk.rss_hadoop)
-
 <!-- INFOWORLD-HADOOP-POST-LIST:END -->
 
 ### *Hadoop in real world posts*
