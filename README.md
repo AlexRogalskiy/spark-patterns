@@ -280,6 +280,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [How to get a list of YARN applications that are currently running in a Hadoop cluster?](https://www.hadoopinrealworld.com/how-to-get-a-list-of-yarn-applications-that-are-currently-running-in-a-hadoop-cluster/)
 - [What is consumer offset and the purpose of consumer offset in Kafka?](https://www.hadoopinrealworld.com/what-is-consumer-offset-and-the-purpose-of-consumer-offset-in-kafka/)
 - [How to fix “Could not locate executable winutils.exe” issue in Hadoop?](https://www.hadoopinrealworld.com/how-to-fix-could-not-locate-executable-winutils-exe-issue-in-hadoop/)
 - [How to alter the type of the column in a Hive table?](https://www.hadoopinrealworld.com/how-to-alter-the-type-of-the-column-in-a-hive-table/)
@@ -289,7 +290,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [How to see the first few lines from a file in S3 using AWS CLI?](https://www.hadoopinrealworld.com/how-to-see-the-first-few-lines-from-a-file-in-s3-using-aws-cli/)
 - [How to solve word count problem in Hive?](https://www.hadoopinrealworld.com/how-to-solve-word-count-problem-in-hive/)
 - [What is the difference between groupByKey and reduceByKey in Spark?](https://www.hadoopinrealworld.com/what-is-the-difference-between-groupbykey-and-reducebykey-in-spark/)
-- [How to send large messages in Kafka?](https://www.hadoopinrealworld.com/how-to-send-large-messages-in-kafka/)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
