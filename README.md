@@ -308,6 +308,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop in real world posts*
 
 <!-- HADOOPINREALWORLD-POST-LIST:START -->
+- [What is the difference between map and mapPartitions in Spark?](https://www.hadoopinrealworld.com/what-is-the-difference-between-map-and-mappartitions-in-spark/)
 - [What is the difference between UDF, UDAF and UDTF in Hive?](https://www.hadoopinrealworld.com/what-is-the-difference-between-udf-udaf-and-udtf-in-hive/)
 - [How to get a list of YARN applications that are currently running in a Hadoop cluster?](https://www.hadoopinrealworld.com/how-to-get-a-list-of-yarn-applications-that-are-currently-running-in-a-hadoop-cluster/)
 - [What is consumer offset and the purpose of consumer offset in Kafka?](https://www.hadoopinrealworld.com/what-is-consumer-offset-and-the-purpose-of-consumer-offset-in-kafka/)
@@ -317,7 +318,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [How to properly remove a node from a Hadoop cluster?](https://www.hadoopinrealworld.com/how-to-properly-remove-a-node-from-a-hadoop-cluster/)
 - [How to specify conditional expressions (OR, AND, NOT) when searching documents in Elasticsearch?](https://www.hadoopinrealworld.com/how-to-specify-conditional-expressions-or-and-not-when-searching-documents-in-elasticsearch/)
 - [How to see the first few lines from a file in S3 using AWS CLI?](https://www.hadoopinrealworld.com/how-to-see-the-first-few-lines-from-a-file-in-s3-using-aws-cli/)
-- [How to solve word count problem in Hive?](https://www.hadoopinrealworld.com/how-to-solve-word-count-problem-in-hive/)
 <!-- HADOOPINREALWORLD-POST-LIST:END -->
 
 ### *Kognitio posts*
