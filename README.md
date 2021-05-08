@@ -338,6 +338,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Curated SQL posts*
 
 <!-- CURATEDSQL-POST-LIST:START -->
+- [Securing Amazon Managed Streaming for Kafka](https://curatedsql.com/2021/05/07/securing-amazon-managed-streaming-for-kafka/)
 - [Surviving a Kafka Outage](https://curatedsql.com/2021/05/05/surviving-a-kafka-outage/)
 - [Recent Apache NiFi Updates](https://curatedsql.com/2021/05/03/recent-apache-nifi-updates/)
 - [HDFS Data Encryption at Rest](https://curatedsql.com/2021/04/26/hdfs-data-encryption-at-rest/)
@@ -347,7 +348,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Removing a Node from a Hadoop Cluster](https://curatedsql.com/2021/04/19/removing-a-node-from-a-hadoop-cluster/)
 - [A Modern C++ Kafka API](https://curatedsql.com/2021/04/15/a-modern-c-kafka-api/)
 - [Geospatial Fraud Detection](https://curatedsql.com/2021/04/15/geospatial-fraud-detection/)
-- [SCD2 Dimensions on Spark with Apache Hudi](https://curatedsql.com/2021/04/13/scd2-dimensions-on-spark-with-apache-hudi/)
 <!-- CURATEDSQL-POST-LIST:END -->
 
 ### *Hadoop Quiz posts*
