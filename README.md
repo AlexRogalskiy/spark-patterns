@@ -308,6 +308,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop in real world posts*
 
 <!-- HADOOPINREALWORLD-POST-LIST:START -->
+- [How to change or reset consumer offset in Kafka?](https://www.hadoopinrealworld.com/how-to-change-or-reset-consumer-offset-in-kafka/)
 - [How to read multiple files into a single RDD or DataFrame in Spark?](https://www.hadoopinrealworld.com/how-to-read-multiple-files-into-a-single-rdd-or-dataframe-in-spark/)
 - [What is the difference between HiveServer1 and HiveServer2?](https://www.hadoopinrealworld.com/what-is-the-difference-between-hiveserver1-and-hiveserver2/)
 - [How to perform range filtering like greater than, less than in Elasticsearch?](https://www.hadoopinrealworld.com/how-to-perform-range-filtering-like-greater-than-less-than-in-elasticsearch/)
@@ -317,7 +318,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [What is consumer offset and the purpose of consumer offset in Kafka?](https://www.hadoopinrealworld.com/what-is-consumer-offset-and-the-purpose-of-consumer-offset-in-kafka/)
 - [How to fix “Could not locate executable winutils.exe” issue in Hadoop?](https://www.hadoopinrealworld.com/how-to-fix-could-not-locate-executable-winutils-exe-issue-in-hadoop/)
 - [How to alter the type of the column in a Hive table?](https://www.hadoopinrealworld.com/how-to-alter-the-type-of-the-column-in-a-hive-table/)
-- [What is the difference between reduceByKey and aggregateByKey in Spark?](https://www.hadoopinrealworld.com/what-is-the-difference-between-reducebykey-and-aggregatebykey-in-spark/)
 <!-- HADOOPINREALWORLD-POST-LIST:END -->
 
 ### *Kognitio posts*
