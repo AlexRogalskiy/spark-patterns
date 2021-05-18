@@ -338,6 +338,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Curated SQL posts*
 
 <!-- CURATEDSQL-POST-LIST:START -->
+- [Explode and PosExplode in Hive](https://curatedsql.com/2021/05/17/explode-and-posexplode-in-hive/)
 - [Learning the Basics of Kafka via Notebook](https://curatedsql.com/2021/05/14/learning-the-basics-of-kafka-via-notebook/)
 - [Resetting a Consumer Offset in Kafka](https://curatedsql.com/2021/05/13/resetting-a-consumer-offset-in-kafka/)
 - [Building a Kafka Test Environment with Kafdrop](https://curatedsql.com/2021/05/12/building-a-kafka-test-environment-with-kafdrop/)
@@ -347,7 +348,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [HDFS Data Encryption at Rest](https://curatedsql.com/2021/04/26/hdfs-data-encryption-at-rest/)
 - [reduceByKey and aggregateByKey in Spark](https://curatedsql.com/2021/04/21/reducebykey-and-aggregatebykey-in-spark/)
 - [Apache Kafka 2.8 Released](https://curatedsql.com/2021/04/20/apache-kafka-2-8-released/)
-- [Querying Serverless SQL Pools from Spark Notebooks in Scala](https://curatedsql.com/2021/04/19/querying-serverless-sql-pools-from-spark-notebooks-in-scala/)
 <!-- CURATEDSQL-POST-LIST:END -->
 
 ### *Hadoop Quiz posts*
