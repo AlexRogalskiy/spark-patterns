@@ -308,6 +308,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop in real world posts*
 
 <!-- HADOOPINREALWORLD-POST-LIST:START -->
+- [How to deal with corrupt files in HDFS?](https://www.hadoopinrealworld.com/how-to-deal-with-corrupt-files-in-hdfs/)
 - [What is the difference between explode and posexplode functions in Hive?](https://www.hadoopinrealworld.com/what-is-the-difference-between-explode-and-posexplode-functions-in-hive/)
 - [How to change or reset consumer offset in Kafka?](https://www.hadoopinrealworld.com/how-to-change-or-reset-consumer-offset-in-kafka/)
 - [How to read multiple files into a single RDD or DataFrame in Spark?](https://www.hadoopinrealworld.com/how-to-read-multiple-files-into-a-single-rdd-or-dataframe-in-spark/)
@@ -317,7 +318,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [What is the difference between UDF, UDAF and UDTF in Hive?](https://www.hadoopinrealworld.com/what-is-the-difference-between-udf-udaf-and-udtf-in-hive/)
 - [How to get a list of YARN applications that are currently running in a Hadoop cluster?](https://www.hadoopinrealworld.com/how-to-get-a-list-of-yarn-applications-that-are-currently-running-in-a-hadoop-cluster/)
 - [What is consumer offset and the purpose of consumer offset in Kafka?](https://www.hadoopinrealworld.com/what-is-consumer-offset-and-the-purpose-of-consumer-offset-in-kafka/)
-- [How to fix “Could not locate executable winutils.exe” issue in Hadoop?](https://www.hadoopinrealworld.com/how-to-fix-could-not-locate-executable-winutils-exe-issue-in-hadoop/)
 <!-- HADOOPINREALWORLD-POST-LIST:END -->
 
 ### *Kognitio posts*
