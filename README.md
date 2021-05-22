@@ -280,6 +280,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [What is the difference between Apache Pig and Hive?](https://www.hadoopinrealworld.com/what-is-the-difference-between-apache-pig-and-hive/)
 - [How to find duplicate elements or rows in a Spark DataFrame?](https://www.hadoopinrealworld.com/how-to-find-duplicate-elements-or-rows-in-a-spark-dataframe/)
 - [How to deal with corrupt files in HDFS?](https://www.hadoopinrealworld.com/how-to-deal-with-corrupt-files-in-hdfs/)
 - [What is the difference between explode and posexplode functions in Hive?](https://www.hadoopinrealworld.com/what-is-the-difference-between-explode-and-posexplode-functions-in-hive/)
@@ -289,7 +290,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [How to perform range filtering like greater than, less than in Elasticsearch?](https://www.hadoopinrealworld.com/how-to-perform-range-filtering-like-greater-than-less-than-in-elasticsearch/)
 - [What is the difference between map and mapPartitions in Spark?](https://www.hadoopinrealworld.com/what-is-the-difference-between-map-and-mappartitions-in-spark/)
 - [What is the difference between UDF, UDAF and UDTF in Hive?](https://www.hadoopinrealworld.com/what-is-the-difference-between-udf-udaf-and-udtf-in-hive/)
-- [How to get a list of YARN applications that are currently running in a Hadoop cluster?](https://www.hadoopinrealworld.com/how-to-get-a-list-of-yarn-applications-that-are-currently-running-in-a-hadoop-cluster/)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
