@@ -280,6 +280,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [What are broadcast variables in Spark and when to use them?](https://www.hadoopinrealworld.com/what-are-broadcast-variables-in-spark-and-when-to-use-them/)
 - [What is the difference between Apache Pig and Hive?](https://www.hadoopinrealworld.com/what-is-the-difference-between-apache-pig-and-hive/)
 - [How to find duplicate elements or rows in a Spark DataFrame?](https://www.hadoopinrealworld.com/how-to-find-duplicate-elements-or-rows-in-a-spark-dataframe/)
 - [How to deal with corrupt files in HDFS?](https://www.hadoopinrealworld.com/how-to-deal-with-corrupt-files-in-hdfs/)
@@ -289,7 +290,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [What is the difference between HiveServer1 and HiveServer2?](https://www.hadoopinrealworld.com/what-is-the-difference-between-hiveserver1-and-hiveserver2/)
 - [How to perform range filtering like greater than, less than in Elasticsearch?](https://www.hadoopinrealworld.com/how-to-perform-range-filtering-like-greater-than-less-than-in-elasticsearch/)
 - [What is the difference between map and mapPartitions in Spark?](https://www.hadoopinrealworld.com/what-is-the-difference-between-map-and-mappartitions-in-spark/)
-- [What is the difference between UDF, UDAF and UDTF in Hive?](https://www.hadoopinrealworld.com/what-is-the-difference-between-udf-udaf-and-udtf-in-hive/)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
