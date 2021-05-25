@@ -338,6 +338,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Curated SQL posts*
 
 <!-- CURATEDSQL-POST-LIST:START -->
+- [Data Pipeline Error Handling with Apache NiFi](https://curatedsql.com/2021/05/24/data-pipeline-error-handling-with-apache-nifi/)
 - [Finding Duplicates in a Spark DataFrame](https://curatedsql.com/2021/05/21/finding-duplicates-in-a-spark-dataframe/)
 - [Explode and PosExplode in Hive](https://curatedsql.com/2021/05/17/explode-and-posexplode-in-hive/)
 - [Learning the Basics of Kafka via Notebook](https://curatedsql.com/2021/05/14/learning-the-basics-of-kafka-via-notebook/)
@@ -347,7 +348,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Surviving a Kafka Outage](https://curatedsql.com/2021/05/05/surviving-a-kafka-outage/)
 - [Recent Apache NiFi Updates](https://curatedsql.com/2021/05/03/recent-apache-nifi-updates/)
 - [HDFS Data Encryption at Rest](https://curatedsql.com/2021/04/26/hdfs-data-encryption-at-rest/)
-- [reduceByKey and aggregateByKey in Spark](https://curatedsql.com/2021/04/21/reducebykey-and-aggregatebykey-in-spark/)
 <!-- CURATEDSQL-POST-LIST:END -->
 
 ### *Hadoop Quiz posts*
