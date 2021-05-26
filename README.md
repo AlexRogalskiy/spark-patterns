@@ -338,6 +338,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Curated SQL posts*
 
 <!-- CURATEDSQL-POST-LIST:START -->
+- [Broadcast Variables in Apache Spark](https://curatedsql.com/2021/05/25/broadcast-variables-in-apache-spark/)
+- [Understanding Consumer Lag in Apache Kafka](https://curatedsql.com/2021/05/25/understanding-consumer-lag-in-apache-kafka/)
 - [Data Pipeline Error Handling with Apache NiFi](https://curatedsql.com/2021/05/24/data-pipeline-error-handling-with-apache-nifi/)
 - [Finding Duplicates in a Spark DataFrame](https://curatedsql.com/2021/05/21/finding-duplicates-in-a-spark-dataframe/)
 - [Explode and PosExplode in Hive](https://curatedsql.com/2021/05/17/explode-and-posexplode-in-hive/)
@@ -346,8 +348,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Building a Kafka Test Environment with Kafdrop](https://curatedsql.com/2021/05/12/building-a-kafka-test-environment-with-kafdrop/)
 - [Securing Amazon Managed Streaming for Kafka](https://curatedsql.com/2021/05/07/securing-amazon-managed-streaming-for-kafka/)
 - [Surviving a Kafka Outage](https://curatedsql.com/2021/05/05/surviving-a-kafka-outage/)
-- [Recent Apache NiFi Updates](https://curatedsql.com/2021/05/03/recent-apache-nifi-updates/)
-- [HDFS Data Encryption at Rest](https://curatedsql.com/2021/04/26/hdfs-data-encryption-at-rest/)
 <!-- CURATEDSQL-POST-LIST:END -->
 
 ### *Hadoop Quiz posts*
