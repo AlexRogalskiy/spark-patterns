@@ -251,18 +251,16 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-
 - [From Rust to SPARK: Formally Proven Bip-Buffers](https://www.reddit.com/r/spark/comments/n647py/from_rust_to_spark_formally_proven_bipbuffers/)
 - [VDM and SPARK: papers or results?](https://www.reddit.com/r/spark/comments/mh4fx2/vdm_and_spark_papers_or_results/)
 - [First beta release of Alire, the package manager for Ada/SPARK](https://www.reddit.com/r/spark/comments/jlyih0/first_beta_release_of_alire_the_package_manager/)
-- [\[ VIDEO \] FOSDEM 2020 - Securing Existing Software using Formally Verified Libraries](https://www.reddit.com/r/spark/comments/j7h5eo/video_fosdem\_2020\_securing_existing_software/)
-- [FOSDEM 2020 - A Component-based Environment for Android Apps](https://www.reddit.com/r/spark/comments/j7g0p4/fosdem\_2020\_a_componentbased_environment_for/)
+- [[ VIDEO ] FOSDEM 2020 - Securing Existing Software using Formally Verified Libraries](https://www.reddit.com/r/spark/comments/j7h5eo/video_fosdem_2020_securing_existing_software/)
+- [FOSDEM 2020 - A Component-based Environment for Android Apps](https://www.reddit.com/r/spark/comments/j7g0p4/fosdem_2020_a_componentbased_environment_for/)
 - [Major milestone: SPARK now allows to prove code with partially initialized data being passed around!](https://www.reddit.com/r/spark/comments/hzgnx2/major_milestone_spark_now_allows_to_prove_code/)
 - [Gneiss: Framework for platform-independent SPARK components](https://www.reddit.com/r/spark/comments/gzolxl/gneiss_framework_for_platformindependent_spark/)
 - [From Ada to Platinum SPARK: A Case Study for Reusable Bounded Stacks](https://www.reddit.com/r/spark/comments/gjo2ac/from_ada_to_platinum_spark_a_case_study_for/)
 - [Making An RC Car with Ada and SPARK](https://www.reddit.com/r/spark/comments/fgwnje/making_an_rc_car_with_ada_and_spark/)
 - [AdaCore Announces Winners of Fourth Annual “Make with Ada” Competition](https://www.reddit.com/r/spark/comments/fcyheg/adacore_announces_winners_of_fourth_annual_make/)
-
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld Spark posts*
