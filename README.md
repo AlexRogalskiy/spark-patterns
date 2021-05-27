@@ -336,7 +336,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Curated SQL posts*
 
 <!-- CURATEDSQL-POST-LIST:START -->
-
+- [Azure Synapse Analytics Supports Apache Spark 3.0](https://curatedsql.com/2021/05/26/azure-synapse-analytics-supports-apache-spark-3-0/)
 - [Broadcast Variables in Apache Spark](https://curatedsql.com/2021/05/25/broadcast-variables-in-apache-spark/)
 - [Understanding Consumer Lag in Apache Kafka](https://curatedsql.com/2021/05/25/understanding-consumer-lag-in-apache-kafka/)
 - [Data Pipeline Error Handling with Apache NiFi](https://curatedsql.com/2021/05/24/data-pipeline-error-handling-with-apache-nifi/)
@@ -346,8 +346,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Resetting a Consumer Offset in Kafka](https://curatedsql.com/2021/05/13/resetting-a-consumer-offset-in-kafka/)
 - [Building a Kafka Test Environment with Kafdrop](https://curatedsql.com/2021/05/12/building-a-kafka-test-environment-with-kafdrop/)
 - [Securing Amazon Managed Streaming for Kafka](https://curatedsql.com/2021/05/07/securing-amazon-managed-streaming-for-kafka/)
-- [Surviving a Kafka Outage](https://curatedsql.com/2021/05/05/surviving-a-kafka-outage/)
-
 <!-- CURATEDSQL-POST-LIST:END -->
 
 ### *Hadoop Quiz posts*
