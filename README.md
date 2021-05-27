@@ -278,7 +278,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
-
+- [Can multiple Kafka consumers read the same message from a partition?](https://www.hadoopinrealworld.com/can-multiple-kafka-consumers-read-the-same-message-from-a-partition/)
 - [What are broadcast variables in Spark and when to use them?](https://www.hadoopinrealworld.com/what-are-broadcast-variables-in-spark-and-when-to-use-them/)
 - [What is the difference between Apache Pig and Hive?](https://www.hadoopinrealworld.com/what-is-the-difference-between-apache-pig-and-hive/)
 - [How to find duplicate elements or rows in a Spark DataFrame?](https://www.hadoopinrealworld.com/how-to-find-duplicate-elements-or-rows-in-a-spark-dataframe/)
@@ -288,8 +288,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [How to read multiple files into a single RDD or DataFrame in Spark?](https://www.hadoopinrealworld.com/how-to-read-multiple-files-into-a-single-rdd-or-dataframe-in-spark/)
 - [What is the difference between HiveServer1 and HiveServer2?](https://www.hadoopinrealworld.com/what-is-the-difference-between-hiveserver1-and-hiveserver2/)
 - [How to perform range filtering like greater than, less than in Elasticsearch?](https://www.hadoopinrealworld.com/how-to-perform-range-filtering-like-greater-than-less-than-in-elasticsearch/)
-- [What is the difference between map and mapPartitions in Spark?](https://www.hadoopinrealworld.com/what-is-the-difference-between-map-and-mappartitions-in-spark/)
-
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
