@@ -336,6 +336,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Curated SQL posts*
 
 <!-- CURATEDSQL-POST-LIST:START -->
+- [Securing Databricks on AWS](https://curatedsql.com/2021/05/27/securing-databricks-on-aws/)
+- [Error Handling Patterns in Kafka](https://curatedsql.com/2021/05/27/error-handling-patterns-in-kafka/)
 - [Azure Synapse Analytics Supports Apache Spark 3.0](https://curatedsql.com/2021/05/26/azure-synapse-analytics-supports-apache-spark-3-0/)
 - [Broadcast Variables in Apache Spark](https://curatedsql.com/2021/05/25/broadcast-variables-in-apache-spark/)
 - [Understanding Consumer Lag in Apache Kafka](https://curatedsql.com/2021/05/25/understanding-consumer-lag-in-apache-kafka/)
@@ -344,8 +346,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Explode and PosExplode in Hive](https://curatedsql.com/2021/05/17/explode-and-posexplode-in-hive/)
 - [Learning the Basics of Kafka via Notebook](https://curatedsql.com/2021/05/14/learning-the-basics-of-kafka-via-notebook/)
 - [Resetting a Consumer Offset in Kafka](https://curatedsql.com/2021/05/13/resetting-a-consumer-offset-in-kafka/)
-- [Building a Kafka Test Environment with Kafdrop](https://curatedsql.com/2021/05/12/building-a-kafka-test-environment-with-kafdrop/)
-- [Securing Amazon Managed Streaming for Kafka](https://curatedsql.com/2021/05/07/securing-amazon-managed-streaming-for-kafka/)
 <!-- CURATEDSQL-POST-LIST:END -->
 
 ### *Hadoop Quiz posts*
