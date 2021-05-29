@@ -336,6 +336,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Curated SQL posts*
 
 <!-- CURATEDSQL-POST-LIST:START -->
+- [Querying Delta Lake Files with T-SQL in Azure Synapse Analytics](https://curatedsql.com/2021/05/28/querying-delta-lake-files-with-t-sql-in-azure-synapse-analytics/)
 - [Securing Databricks on AWS](https://curatedsql.com/2021/05/27/securing-databricks-on-aws/)
 - [Error Handling Patterns in Kafka](https://curatedsql.com/2021/05/27/error-handling-patterns-in-kafka/)
 - [Azure Synapse Analytics Supports Apache Spark 3.0](https://curatedsql.com/2021/05/26/azure-synapse-analytics-supports-apache-spark-3-0/)
@@ -345,7 +346,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Finding Duplicates in a Spark DataFrame](https://curatedsql.com/2021/05/21/finding-duplicates-in-a-spark-dataframe/)
 - [Explode and PosExplode in Hive](https://curatedsql.com/2021/05/17/explode-and-posexplode-in-hive/)
 - [Learning the Basics of Kafka via Notebook](https://curatedsql.com/2021/05/14/learning-the-basics-of-kafka-via-notebook/)
-- [Resetting a Consumer Offset in Kafka](https://curatedsql.com/2021/05/13/resetting-a-consumer-offset-in-kafka/)
 <!-- CURATEDSQL-POST-LIST:END -->
 
 ### *Hadoop Quiz posts*
