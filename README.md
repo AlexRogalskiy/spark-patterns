@@ -278,6 +278,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [How to save Spark DataFrame directly to a Hive table?](https://www.hadoopinrealworld.com/how-to-save-spark-dataframe-directly-to-a-hive-table/)
 - [What is the difference between NameNode and Secondary NameNode?](https://www.hadoopinrealworld.com/what-is-the-difference-between-namenode-and-secondary-namenode/)
 - [Can multiple Kafka consumers read the same message from a partition?](https://www.hadoopinrealworld.com/can-multiple-kafka-consumers-read-the-same-message-from-a-partition/)
 - [What are broadcast variables in Spark and when to use them?](https://www.hadoopinrealworld.com/what-are-broadcast-variables-in-spark-and-when-to-use-them/)
@@ -287,7 +288,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [What is the difference between explode and posexplode functions in Hive?](https://www.hadoopinrealworld.com/what-is-the-difference-between-explode-and-posexplode-functions-in-hive/)
 - [How to change or reset consumer offset in Kafka?](https://www.hadoopinrealworld.com/how-to-change-or-reset-consumer-offset-in-kafka/)
 - [How to read multiple files into a single RDD or DataFrame in Spark?](https://www.hadoopinrealworld.com/how-to-read-multiple-files-into-a-single-rdd-or-dataframe-in-spark/)
-- [What is the difference between HiveServer1 and HiveServer2?](https://www.hadoopinrealworld.com/what-is-the-difference-between-hiveserver1-and-hiveserver2/)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
