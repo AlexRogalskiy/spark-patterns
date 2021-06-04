@@ -336,6 +336,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Curated SQL posts*
 
 <!-- CURATEDSQL-POST-LIST:START -->
+- [Saving Spark DataFrames as Hive Tables](https://curatedsql.com/2021/06/03/saving-spark-dataframes-as-hive-tables/)
 - [Scaling HDFS to an Exabyte](https://curatedsql.com/2021/06/02/scaling-hdfs-to-an-exabyte/)
 - [NameNode and Secondary NameNode in Hadoop](https://curatedsql.com/2021/06/01/namenode-and-secondary-namenode-in-hadoop/)
 - [Querying Delta Lake Files with T-SQL in Azure Synapse Analytics](https://curatedsql.com/2021/05/28/querying-delta-lake-files-with-t-sql-in-azure-synapse-analytics/)
@@ -345,7 +346,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Broadcast Variables in Apache Spark](https://curatedsql.com/2021/05/25/broadcast-variables-in-apache-spark/)
 - [Understanding Consumer Lag in Apache Kafka](https://curatedsql.com/2021/05/25/understanding-consumer-lag-in-apache-kafka/)
 - [Data Pipeline Error Handling with Apache NiFi](https://curatedsql.com/2021/05/24/data-pipeline-error-handling-with-apache-nifi/)
-- [Finding Duplicates in a Spark DataFrame](https://curatedsql.com/2021/05/21/finding-duplicates-in-a-spark-dataframe/)
 <!-- CURATEDSQL-POST-LIST:END -->
 
 ### *Hadoop Quiz posts*
