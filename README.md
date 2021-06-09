@@ -336,6 +336,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Curated SQL posts*
 
 <!-- CURATEDSQL-POST-LIST:START -->
+- [Announcements from Data+AI Summit](https://curatedsql.com/2021/06/08/announcements-from-dataai-summit/)
+- [Ranger and Jersey Clients](https://curatedsql.com/2021/06/08/ranger-and-jersey-clients/)
 - [Saving Spark DataFrames as Hive Tables](https://curatedsql.com/2021/06/03/saving-spark-dataframes-as-hive-tables/)
 - [Scaling HDFS to an Exabyte](https://curatedsql.com/2021/06/02/scaling-hdfs-to-an-exabyte/)
 - [NameNode and Secondary NameNode in Hadoop](https://curatedsql.com/2021/06/01/namenode-and-secondary-namenode-in-hadoop/)
@@ -344,8 +346,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Error Handling Patterns in Kafka](https://curatedsql.com/2021/05/27/error-handling-patterns-in-kafka/)
 - [Azure Synapse Analytics Supports Apache Spark 3.0](https://curatedsql.com/2021/05/26/azure-synapse-analytics-supports-apache-spark-3-0/)
 - [Broadcast Variables in Apache Spark](https://curatedsql.com/2021/05/25/broadcast-variables-in-apache-spark/)
-- [Understanding Consumer Lag in Apache Kafka](https://curatedsql.com/2021/05/25/understanding-consumer-lag-in-apache-kafka/)
-- [Data Pipeline Error Handling with Apache NiFi](https://curatedsql.com/2021/05/24/data-pipeline-error-handling-with-apache-nifi/)
 <!-- CURATEDSQL-POST-LIST:END -->
 
 ### *Hadoop Quiz posts*
