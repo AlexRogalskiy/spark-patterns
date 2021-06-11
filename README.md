@@ -299,7 +299,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Qubole review: Self-service big data analytics](https://www.infoworld.com/article/3449896/qubole-review-self-service-big-data-analytics.html#tk.rss_hadoop)
 - [How to do real-time analytics across historical and live data](https://www.infoworld.com/article/3430787/how-to-perform-real-time-analytics-across-live-and-historical-data.html#tk.rss_hadoop)
 - [HPE plus MapR: Too much Hadoop, not enough cloud](https://www.infoworld.com/article/3431416/hpe-plus-mapr-too-much-hadoop-not-enough-cloud.html#tk.rss_hadoop)
-- [Hadoop runs out of gas](https://www.infoworld.com/article/3401917/hadoop-runs-out-of-gas.html#tk.rss_hadoop)
 <!-- INFOWORLD-HADOOP-POST-LIST:END -->
 
 ### *Hadoop in real world posts*
