@@ -334,6 +334,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Curated SQL posts*
 
 <!-- CURATEDSQL-POST-LIST:START -->
+- [Using Spark in CDP’s Operational Database Experience](https://curatedsql.com/2021/06/14/using-spark-in-cdps-operational-database-experience/)
+- [Change Data Capture in Delta Lake](https://curatedsql.com/2021/06/14/change-data-capture-in-delta-lake/)
 - [Announcements from Data+AI Summit](https://curatedsql.com/2021/06/08/announcements-from-dataai-summit/)
 - [Ranger and Jersey Clients](https://curatedsql.com/2021/06/08/ranger-and-jersey-clients/)
 - [Saving Spark DataFrames as Hive Tables](https://curatedsql.com/2021/06/03/saving-spark-dataframes-as-hive-tables/)
@@ -342,8 +344,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Querying Delta Lake Files with T-SQL in Azure Synapse Analytics](https://curatedsql.com/2021/05/28/querying-delta-lake-files-with-t-sql-in-azure-synapse-analytics/)
 - [Securing Databricks on AWS](https://curatedsql.com/2021/05/27/securing-databricks-on-aws/)
 - [Error Handling Patterns in Kafka](https://curatedsql.com/2021/05/27/error-handling-patterns-in-kafka/)
-- [Azure Synapse Analytics Supports Apache Spark 3.0](https://curatedsql.com/2021/05/26/azure-synapse-analytics-supports-apache-spark-3-0/)
-- [Broadcast Variables in Apache Spark](https://curatedsql.com/2021/05/25/broadcast-variables-in-apache-spark/)
 <!-- CURATEDSQL-POST-LIST:END -->
 
 ### *Hadoop Quiz posts*
