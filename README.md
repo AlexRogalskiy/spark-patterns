@@ -334,6 +334,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Curated SQL posts*
 
 <!-- CURATEDSQL-POST-LIST:START -->
+- [Spark SQL and Merge Errors from Multiple Source Rows Matched](https://curatedsql.com/2021/06/18/spark-sql-and-merge-errors-from-multiple-source-rows-matched/)
 - [Using Spark in CDP’s Operational Database Experience](https://curatedsql.com/2021/06/14/using-spark-in-cdps-operational-database-experience/)
 - [Change Data Capture in Delta Lake](https://curatedsql.com/2021/06/14/change-data-capture-in-delta-lake/)
 - [Announcements from Data+AI Summit](https://curatedsql.com/2021/06/08/announcements-from-dataai-summit/)
@@ -343,7 +344,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [NameNode and Secondary NameNode in Hadoop](https://curatedsql.com/2021/06/01/namenode-and-secondary-namenode-in-hadoop/)
 - [Querying Delta Lake Files with T-SQL in Azure Synapse Analytics](https://curatedsql.com/2021/05/28/querying-delta-lake-files-with-t-sql-in-azure-synapse-analytics/)
 - [Securing Databricks on AWS](https://curatedsql.com/2021/05/27/securing-databricks-on-aws/)
-- [Error Handling Patterns in Kafka](https://curatedsql.com/2021/05/27/error-handling-patterns-in-kafka/)
 <!-- CURATEDSQL-POST-LIST:END -->
 
 ### *Hadoop Quiz posts*
