@@ -272,7 +272,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Qubole review: Self-service big data analytics](https://www.infoworld.com/article/3449896/qubole-review-self-service-big-data-analytics.html#tk.rss_apachespark)
 - [How Qubole addresses Apache Spark challenges](https://www.infoworld.com/article/3434013/how-qubole-addresses-apache-spark-challenges.html#tk.rss_apachespark)
 - [How to do real-time analytics across historical and live data](https://www.infoworld.com/article/3430787/how-to-perform-real-time-analytics-across-live-and-historical-data.html#tk.rss_apachespark)
-- [Time series analysis with KNIME and Spark](https://www.infoworld.com/article/3405256/time-series-analysis-with-knime-and-spark.html#tk.rss_apachespark)
 <!-- INFOWORLD-SPARK-POST-LIST:END -->
 
 ### *Hadoop posts*
