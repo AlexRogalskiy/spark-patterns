@@ -266,14 +266,12 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld Spark posts*
 
 <!-- INFOWORLD-SPARK-POST-LIST:START -->
-
 - [Microsoft brings .NET dev to Apache Spark](https://www.infoworld.com/article/3587595/microsoft-brings-net-dev-to-apache-spark.html#tk.rss_apachespark)
 - [Azure Databricks previews parallelized Photon query engine](https://www.infoworld.com/article/3583657/azure-databricks-previews-parallelized-photon-query-engine.html#tk.rss_apachespark)
 - [Apache Spark 3.0 adds Nvidia GPU support for machine learning](https://www.infoworld.com/article/3543319/apache-spark-30-adds-nvidia-gpu-support-for-machine-learning.html#tk.rss_apachespark)
 - [Qubole review: Self-service big data analytics](https://www.infoworld.com/article/3449896/qubole-review-self-service-big-data-analytics.html#tk.rss_apachespark)
 - [How Qubole addresses Apache Spark challenges](https://www.infoworld.com/article/3434013/how-qubole-addresses-apache-spark-challenges.html#tk.rss_apachespark)
 - [How to do real-time analytics across historical and live data](https://www.infoworld.com/article/3430787/how-to-perform-real-time-analytics-across-live-and-historical-data.html#tk.rss_apachespark)
-
 <!-- INFOWORLD-SPARK-POST-LIST:END -->
 
 ### *Hadoop posts*
