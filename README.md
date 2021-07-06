@@ -277,18 +277,16 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
-
-- [How to save Spark DataFrame directly to a Hive table?](https://www.hadoopinrealworld.com/how-to-save-spark-dataframe-directly-to-a-hive-table/)
-- [What is the difference between NameNode and Secondary NameNode?](https://www.hadoopinrealworld.com/what-is-the-difference-between-namenode-and-secondary-namenode/)
-- [Can multiple Kafka consumers read the same message from a partition?](https://www.hadoopinrealworld.com/can-multiple-kafka-consumers-read-the-same-message-from-a-partition/)
-- [What are broadcast variables in Spark and when to use them?](https://www.hadoopinrealworld.com/what-are-broadcast-variables-in-spark-and-when-to-use-them/)
-- [What is the difference between Apache Pig and Hive?](https://www.hadoopinrealworld.com/what-is-the-difference-between-apache-pig-and-hive/)
-- [How to find duplicate elements or rows in a Spark DataFrame?](https://www.hadoopinrealworld.com/how-to-find-duplicate-elements-or-rows-in-a-spark-dataframe/)
-- [How to deal with corrupt files in HDFS?](https://www.hadoopinrealworld.com/how-to-deal-with-corrupt-files-in-hdfs/)
-- [What is the difference between explode and posexplode functions in Hive?](https://www.hadoopinrealworld.com/what-is-the-difference-between-explode-and-posexplode-functions-in-hive/)
-- [How to change or reset consumer offset in Kafka?](https://www.hadoopinrealworld.com/how-to-change-or-reset-consumer-offset-in-kafka/)
-- [How to read multiple files into a single RDD or DataFrame in Spark?](https://www.hadoopinrealworld.com/how-to-read-multiple-files-into-a-single-rdd-or-dataframe-in-spark/)
-
+- [Read this before getting started with Apache Spark](https://medium.com/nerd-for-tech/read-this-before-getting-started-with-apache-spark-5ffd61953a3d?source=rss------hadoop-5)
+- [Review on Existing Distributed File System](https://inthiraj1994.medium.com/review-on-existing-distributed-file-system-1d78ad0a9a5d?source=rss------hadoop-5)
+- [PIG: How to install in 5 Steps in Windows 10](https://medium.com/geekculture/pig-how-to-install-in-5-steps-in-windows-10-c12deeca45a2?source=rss------hadoop-5)
+- [Simple Way to Setup Hadoop Development Env with Kerberos enable using Docker](https://chrisyen8341.medium.com/simple-way-to-setup-hadoop-single-node-cluster-with-kerberos-enable-from-docker-1dc0d9803c08?source=rss------hadoop-5)
+- [빅데이터 처리에 쓰이는 하둡이란 무엇인가?](https://soniacomp.medium.com/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%B2%98%EB%A6%AC%EC%97%90-%EC%93%B0%EC%9D%B4%EB%8A%94-%ED%95%98%EB%91%A1%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-627df41dc3c3?source=rss------hadoop-5)
+- [Primeiros passos em Linux](https://medium.com/data-hackers/primeiros-passos-em-linux-325621b58d1d?source=rss------hadoop-5)
+- [Hadoop Ecosystem: Notes](https://tyagi-sudarshini.medium.com/hadoop-ecosystem-notes-ab0616ec427?source=rss------hadoop-5)
+- [Build your own Google](https://medium.datadriveninvestor.com/build-your-own-google-24c67b72592a?source=rss------hadoop-5)
+- [Instalasi dan Konfigurasi hadoop dan spark di raspberry pi — Part 4seri cluster raspberry pi 3](https://riskaka.medium.com/7-1-berkas-dokumentasi-implementasi-instalasi-hadoop-dan-spark-di-raspberry-pi-392e7e063d3d?source=rss------hadoop-5)
+- [Кейс потоковой аналитики больших данных с Apache Kafka, Spark (Flink) и BI-системами](https://medium.com/@bigdataschool/%D0%BA%D0%B5%D0%B9%D1%81-%D0%BF%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%B2%D0%BE%D0%B9-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B8-%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%B8%D1%85-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-%D1%81-apache-kafka-spark-flink-%D0%B8-bi-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%D0%BC%D0%B8-d13f9e49cfa5?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
