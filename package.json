@@ -49,7 +49,7 @@
         "conventional-changelog-cli": "^2.0.0",
         "dockerfile_lint": "0.3.4",
         "git-cz": "^4.1.0",
-        "husky": "^5.0.8",
+        "husky": "^7.0.1",
         "jsonlint": "^1.6.3",
         "license-checker": "^25.0.1",
         "lint-staged": "^10.1.6",
