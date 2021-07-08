@@ -277,6 +277,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Map Reduce —You have been Wrongly Taught](https://blog.devgenius.io/map-reduce-you-have-been-wrongly-taught-a9e2bff49931?source=rss------hadoop-5)
 - [Upgrade Cloudera CDH cluster to CDP Private Cloud Base](https://blog.clairvoyantsoft.com/upgrade-cloudera-cdh-cluster-to-cdp-private-cloud-base-6640aa4b83b3?source=rss------hadoop-5)
 - [RocksDB как хранилище состояний для stateful-приложений Apache Flink](https://medium.com/@bigdataschool/rocksdb-%D0%BA%D0%B0%D0%BA-%D1%85%D1%80%D0%B0%D0%BD%D0%B8%D0%BB%D0%B8%D1%89%D0%B5-%D1%81%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D0%B9-%D0%B4%D0%BB%D1%8F-stateful-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9-apache-flink-1acd37cf20ea?source=rss------hadoop-5)
 - [JindoTable for Data Optimization and Query Acceleration in a Data Lake](https://alibaba-cloud.medium.com/jindotable-for-data-optimization-and-query-acceleration-in-a-data-lake-a4f7bd57b172?source=rss------hadoop-5)
@@ -286,7 +287,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Simple Way to Setup Hadoop Development Env with Kerberos enable using Docker](https://chrisyen8341.medium.com/simple-way-to-setup-hadoop-single-node-cluster-with-kerberos-enable-from-docker-1dc0d9803c08?source=rss------hadoop-5)
 - [빅데이터 처리에 쓰이는 하둡이란 무엇인가?](https://soniacomp.medium.com/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%B2%98%EB%A6%AC%EC%97%90-%EC%93%B0%EC%9D%B4%EB%8A%94-%ED%95%98%EB%91%A1%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-627df41dc3c3?source=rss------hadoop-5)
 - [Primeiros passos em Linux](https://medium.com/data-hackers/primeiros-passos-em-linux-325621b58d1d?source=rss------hadoop-5)
-- [Hadoop Ecosystem: Notes](https://tyagi-sudarshini.medium.com/hadoop-ecosystem-notes-ab0616ec427?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
