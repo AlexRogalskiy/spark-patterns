@@ -333,6 +333,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Curated SQL posts*
 
 <!-- CURATEDSQL-POST-LIST:START -->
+- [Streaming Foreign Key Joins in Kafka Streams](https://curatedsql.com/2021/07/08/streaming-foreign-key-joins-in-kafka-streams/)
 - [Consistency and Completeness in Kafka Streams](https://curatedsql.com/2021/06/23/consistency-and-completeness-in-kafka-streams/)
 - [Spark SQL and Merge Errors from Multiple Source Rows Matched](https://curatedsql.com/2021/06/18/spark-sql-and-merge-errors-from-multiple-source-rows-matched/)
 - [Using Spark in CDP’s Operational Database Experience](https://curatedsql.com/2021/06/14/using-spark-in-cdps-operational-database-experience/)
@@ -342,7 +343,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Saving Spark DataFrames as Hive Tables](https://curatedsql.com/2021/06/03/saving-spark-dataframes-as-hive-tables/)
 - [Scaling HDFS to an Exabyte](https://curatedsql.com/2021/06/02/scaling-hdfs-to-an-exabyte/)
 - [NameNode and Secondary NameNode in Hadoop](https://curatedsql.com/2021/06/01/namenode-and-secondary-namenode-in-hadoop/)
-- [Querying Delta Lake Files with T-SQL in Azure Synapse Analytics](https://curatedsql.com/2021/05/28/querying-delta-lake-files-with-t-sql-in-azure-synapse-analytics/)
 <!-- CURATEDSQL-POST-LIST:END -->
 
 ### *Hadoop Quiz posts*
