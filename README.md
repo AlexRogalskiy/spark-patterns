@@ -277,6 +277,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Fetch data from Twitter using Flume](https://ansariusman.medium.com/fetch-data-from-twitter-using-flume-4a8db4cd7b9a?source=rss------hadoop-5)
+- [Install Apache Flume and Fetching Twitter Data through Flume](https://muhammadtayab55.medium.com/install-apache-flume-and-fetching-twitter-data-through-flume-ecc661e1310c?source=rss------hadoop-5)
 - [Ansible playbook for Hadoop configuration](https://aakash0005.medium.com/ansible-playbook-for-hadoop-configuration-4ad924763b88?source=rss------hadoop-5)
 - [Final year Project in Big Data](https://projectwale.medium.com/final-year-project-in-big-data-3cfb106df30f?source=rss------hadoop-5)
 - [Hadoop HDFS Cluster using Ansible](https://mtabishk999.medium.com/hadoop-cluster-using-ansible-fd44d6bf6c9?source=rss------hadoop-5)
@@ -285,8 +287,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [RocksDB как хранилище состояний для stateful-приложений Apache Flink](https://medium.com/@bigdataschool/rocksdb-%D0%BA%D0%B0%D0%BA-%D1%85%D1%80%D0%B0%D0%BD%D0%B8%D0%BB%D0%B8%D1%89%D0%B5-%D1%81%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D0%B9-%D0%B4%D0%BB%D1%8F-stateful-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9-apache-flink-1acd37cf20ea?source=rss------hadoop-5)
 - [JindoTable for Data Optimization and Query Acceleration in a Data Lake](https://alibaba-cloud.medium.com/jindotable-for-data-optimization-and-query-acceleration-in-a-data-lake-a4f7bd57b172?source=rss------hadoop-5)
 - [Read this before getting started with Apache Spark](https://medium.com/nerd-for-tech/read-this-before-getting-started-with-apache-spark-5ffd61953a3d?source=rss------hadoop-5)
-- [Review on Existing Distributed File System](https://inthiraj1994.medium.com/review-on-existing-distributed-file-system-1d78ad0a9a5d?source=rss------hadoop-5)
-- [PIG: How to install in 5 Steps in Windows 10](https://medium.com/geekculture/pig-how-to-install-in-5-steps-in-windows-10-c12deeca45a2?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
