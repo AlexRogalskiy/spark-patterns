@@ -277,6 +277,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Data Engineering Fundamentals](https://sakshi8699.medium.com/data-engineering-fundamentals-832132eea4e5?source=rss------hadoop-5)
+- [Что посмотреть в Apache Spark UI: 5 полезных кейсов для разработчика Big Data](https://medium.com/@bigdataschool/%D1%87%D1%82%D0%BE-%D0%BF%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%B5%D1%82%D1%8C-%D0%B2-apache-spark-ui-5-%D0%BF%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D1%8B%D1%85-%D0%BA%D0%B5%D0%B9%D1%81%D0%BE%D0%B2-%D0%B4%D0%BB%D1%8F-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%D0%B0-big-data-e318dd0a22a?source=rss------hadoop-5)
 - [Integrasi Dask - Hadoop File System & YARN](https://danau-data.medium.com/integrasi-dask-hadoop-file-system-yarn-fc059d65f900?source=rss------hadoop-5)
 - [Integrating LVM with Hadoop](https://aakash0005.medium.com/integrating-lvm-with-hadoop-a6b8ebffe464?source=rss------hadoop-5)
 - [Fetch data from Twitter using Flume](https://ansariusman.medium.com/fetch-data-from-twitter-using-flume-4a8db4cd7b9a?source=rss------hadoop-5)
@@ -285,8 +287,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Final year Project in Big Data](https://projectwale.medium.com/final-year-project-in-big-data-3cfb106df30f?source=rss------hadoop-5)
 - [Hadoop HDFS Cluster using Ansible](https://mtabishk999.medium.com/hadoop-cluster-using-ansible-fd44d6bf6c9?source=rss------hadoop-5)
 - [Map Reduce —You have been Wrongly Taught](https://blog.devgenius.io/map-reduce-you-have-been-wrongly-taught-a9e2bff49931?source=rss------hadoop-5)
-- [Upgrade Cloudera CDH cluster to CDP Private Cloud Base](https://blog.clairvoyantsoft.com/upgrade-cloudera-cdh-cluster-to-cdp-private-cloud-base-6640aa4b83b3?source=rss------hadoop-5)
-- [RocksDB как хранилище состояний для stateful-приложений Apache Flink](https://medium.com/@bigdataschool/rocksdb-%D0%BA%D0%B0%D0%BA-%D1%85%D1%80%D0%B0%D0%BD%D0%B8%D0%BB%D0%B8%D1%89%D0%B5-%D1%81%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D0%B9-%D0%B4%D0%BB%D1%8F-stateful-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9-apache-flink-1acd37cf20ea?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
