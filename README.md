@@ -277,16 +277,16 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Data Forest에서 Spark, Hive로 데이터 처리하기 Part.1](https://medium.com/naver-cloud-platform/data-forest%EC%97%90%EC%84%9C-spark-hive%EB%A1%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0-part-1-b6f090efd628?source=rss------hadoop-5)
+- [Hive Tutorial 1](https://medium.com/mlearning-ai/hive-tutorial-1-1c4192389c02?source=rss------hadoop-5)
+- [Running a Multi-Node Hadoop Cluster](https://saeiddadkhah.medium.com/running-a-multi-node-hadoop-cluster-257068e5f276?source=rss------hadoop-5)
+- [Почему stateful-приложения Apache Flink падают в AWS: RocksDB и IOPS облачных SSD](https://medium.com/@bigdataschool/%D0%BF%D0%BE%D1%87%D0%B5%D0%BC%D1%83-stateful-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F-apache-flink-%D0%BF%D0%B0%D0%B4%D0%B0%D1%8E%D1%82-%D0%B2-aws-rocksdb-%D0%B8-iops-%D0%BE%D0%B1%D0%BB%D0%B0%D1%87%D0%BD%D1%8B%D1%85-ssd-aebec454aed?source=rss------hadoop-5)
 - [Data Engineering Fundamentals](https://sakshi8699.medium.com/data-engineering-fundamentals-832132eea4e5?source=rss------hadoop-5)
 - [Что посмотреть в Apache Spark UI: 5 полезных кейсов для разработчика Big Data](https://medium.com/@bigdataschool/%D1%87%D1%82%D0%BE-%D0%BF%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%B5%D1%82%D1%8C-%D0%B2-apache-spark-ui-5-%D0%BF%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D1%8B%D1%85-%D0%BA%D0%B5%D0%B9%D1%81%D0%BE%D0%B2-%D0%B4%D0%BB%D1%8F-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%D0%B0-big-data-e318dd0a22a?source=rss------hadoop-5)
 - [Integrasi Dask - Hadoop File System & YARN](https://danau-data.medium.com/integrasi-dask-hadoop-file-system-yarn-fc059d65f900?source=rss------hadoop-5)
 - [Integrating LVM with Hadoop](https://aakash0005.medium.com/integrating-lvm-with-hadoop-a6b8ebffe464?source=rss------hadoop-5)
 - [Fetch data from Twitter using Flume](https://ansariusman.medium.com/fetch-data-from-twitter-using-flume-4a8db4cd7b9a?source=rss------hadoop-5)
 - [Install Apache Flume and Fetching Twitter Data through Flume](https://muhammadtayab55.medium.com/install-apache-flume-and-fetching-twitter-data-through-flume-ecc661e1310c?source=rss------hadoop-5)
-- [Ansible playbook for Hadoop configuration](https://aakash0005.medium.com/ansible-playbook-for-hadoop-configuration-4ad924763b88?source=rss------hadoop-5)
-- [Final year Project in Big Data](https://projectwale.medium.com/final-year-project-in-big-data-3cfb106df30f?source=rss------hadoop-5)
-- [Hadoop HDFS Cluster using Ansible](https://mtabishk999.medium.com/hadoop-cluster-using-ansible-fd44d6bf6c9?source=rss------hadoop-5)
-- [Map Reduce —You have been Wrongly Taught](https://blog.devgenius.io/map-reduce-you-have-been-wrongly-taught-a9e2bff49931?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
