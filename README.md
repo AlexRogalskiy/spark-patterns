@@ -277,6 +277,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Little Walk With Hadoop](https://medium.com/@belou1234/little-walk-with-hadoop-81061f680fe0?source=rss------hadoop-5)
 - [Accessing Data in Distributed Environment from Non-Distributed Systems](https://rukmanivaithy.medium.com/accessing-data-in-distributed-environment-from-non-distributed-systems-467331c2227e?source=rss------hadoop-5)
 - [Hadoop Fundamentals : HDFS & MapReduce](https://sharmashorya1996.medium.com/hadoop-fundamentals-hdfs-mapreduce-fabedd7d3b35?source=rss------hadoop-5)
 - [Big Data features](https://thewebbazar2.medium.com/big-data-features-2c978bc73ab?source=rss------hadoop-5)
@@ -286,7 +287,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Почему stateful-приложения Apache Flink падают в AWS: RocksDB и IOPS облачных SSD](https://medium.com/@bigdataschool/%D0%BF%D0%BE%D1%87%D0%B5%D0%BC%D1%83-stateful-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F-apache-flink-%D0%BF%D0%B0%D0%B4%D0%B0%D1%8E%D1%82-%D0%B2-aws-rocksdb-%D0%B8-iops-%D0%BE%D0%B1%D0%BB%D0%B0%D1%87%D0%BD%D1%8B%D1%85-ssd-aebec454aed?source=rss------hadoop-5)
 - [Data Engineering Fundamentals](https://sakshi8699.medium.com/data-engineering-fundamentals-832132eea4e5?source=rss------hadoop-5)
 - [Что посмотреть в Apache Spark UI: 5 полезных кейсов для разработчика Big Data](https://medium.com/@bigdataschool/%D1%87%D1%82%D0%BE-%D0%BF%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%B5%D1%82%D1%8C-%D0%B2-apache-spark-ui-5-%D0%BF%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D1%8B%D1%85-%D0%BA%D0%B5%D0%B9%D1%81%D0%BE%D0%B2-%D0%B4%D0%BB%D1%8F-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%D0%B0-big-data-e318dd0a22a?source=rss------hadoop-5)
-- [Integrasi Dask - Hadoop File System & YARN](https://danau-data.medium.com/integrasi-dask-hadoop-file-system-yarn-fc059d65f900?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
