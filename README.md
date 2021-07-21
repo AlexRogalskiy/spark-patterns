@@ -333,6 +333,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Curated SQL posts*
 
 <!-- CURATEDSQL-POST-LIST:START -->
+- [Contrasting Scala and Python wrt Spark](https://curatedsql.com/2021/07/20/contrasting-scala-and-python-wrt-spark/)
 - [Using Kafka for Security Situational Awareness](https://curatedsql.com/2021/07/15/using-kafka-for-security-situational-awareness/)
 - [Event Streaming for Security](https://curatedsql.com/2021/07/09/event-streaming-for-security/)
 - [Streaming Foreign Key Joins in Kafka Streams](https://curatedsql.com/2021/07/08/streaming-foreign-key-joins-in-kafka-streams/)
@@ -342,7 +343,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Change Data Capture in Delta Lake](https://curatedsql.com/2021/06/14/change-data-capture-in-delta-lake/)
 - [Announcements from Data+AI Summit](https://curatedsql.com/2021/06/08/announcements-from-dataai-summit/)
 - [Ranger and Jersey Clients](https://curatedsql.com/2021/06/08/ranger-and-jersey-clients/)
-- [Saving Spark DataFrames as Hive Tables](https://curatedsql.com/2021/06/03/saving-spark-dataframes-as-hive-tables/)
 <!-- CURATEDSQL-POST-LIST:END -->
 
 ### *Hadoop Quiz posts*
