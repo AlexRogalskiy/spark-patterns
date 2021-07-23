@@ -277,6 +277,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Cannot execute libexec/hdfs-config.sh](https://medium.com/@hema-chandra/cannot-execute-libexec-hdfs-config-sh-ec7c3b1a45bd?source=rss------hadoop-5)
 - [8 Best Big Data Hadoop Analytics Tools in 2021](https://tiffany-carter.medium.com/8-best-big-data-hadoop-analytics-tools-in-2021-bbf862b5702d?source=rss------hadoop-5)
 - [Apache Spark: Out Of Memory Issue?](https://blog.clairvoyantsoft.com/apache-spark-out-of-memory-issue-b63c7987fff?source=rss------hadoop-5)
 - [Data Forest에서 Spark, Hive로 데이터 처리하기 Part.2](https://medium.com/naver-cloud-platform/data-forest%EC%97%90%EC%84%9C-spark-hive%EB%A1%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0-part-2-97d8bcaaaa77?source=rss------hadoop-5)
@@ -286,7 +287,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Big Data features](https://thewebbazar2.medium.com/big-data-features-2c978bc73ab?source=rss------hadoop-5)
 - [Data Forest에서 Spark, Hive로 데이터 처리하기 Part.1](https://medium.com/naver-cloud-platform/data-forest%EC%97%90%EC%84%9C-spark-hive%EB%A1%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0-part-1-b6f090efd628?source=rss------hadoop-5)
 - [Hive Tutorial 1](https://medium.com/mlearning-ai/hive-tutorial-1-1c4192389c02?source=rss------hadoop-5)
-- [Running a Multi-Node Hadoop Cluster](https://medium.com/codex/running-a-multi-node-hadoop-cluster-257068e5f276?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
