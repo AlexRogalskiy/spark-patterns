@@ -333,6 +333,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Curated SQL posts*
 
 <!-- CURATEDSQL-POST-LIST:START -->
+- [ksqldb 0.19.0 Released](https://curatedsql.com/2021/07/22/ksqldb-0-19-0-released/)
+- [Feeding Data from Kafka into Splunk](https://curatedsql.com/2021/07/22/feeding-data-from-kafka-into-splunk/)
 - [Two Ways to Access Kafka Topics from R](https://curatedsql.com/2021/07/21/two-ways-to-access-kafka-topics-from-r/)
 - [Contrasting Scala and Python wrt Spark](https://curatedsql.com/2021/07/20/contrasting-scala-and-python-wrt-spark/)
 - [Using Kafka for Security Situational Awareness](https://curatedsql.com/2021/07/15/using-kafka-for-security-situational-awareness/)
@@ -341,8 +343,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Consistency and Completeness in Kafka Streams](https://curatedsql.com/2021/06/23/consistency-and-completeness-in-kafka-streams/)
 - [Spark SQL and Merge Errors from Multiple Source Rows Matched](https://curatedsql.com/2021/06/18/spark-sql-and-merge-errors-from-multiple-source-rows-matched/)
 - [Using Spark in CDP’s Operational Database Experience](https://curatedsql.com/2021/06/14/using-spark-in-cdps-operational-database-experience/)
-- [Change Data Capture in Delta Lake](https://curatedsql.com/2021/06/14/change-data-capture-in-delta-lake/)
-- [Announcements from Data+AI Summit](https://curatedsql.com/2021/06/08/announcements-from-dataai-summit/)
 <!-- CURATEDSQL-POST-LIST:END -->
 
 ### *Hadoop Quiz posts*
