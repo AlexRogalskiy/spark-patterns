@@ -333,6 +333,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Curated SQL posts*
 
 <!-- CURATEDSQL-POST-LIST:START -->
+- [Threat Intelligence and Kafka](https://curatedsql.com/2021/07/23/threat-intelligence-and-kafka/)
 - [ksqldb 0.19.0 Released](https://curatedsql.com/2021/07/22/ksqldb-0-19-0-released/)
 - [Feeding Data from Kafka into Splunk](https://curatedsql.com/2021/07/22/feeding-data-from-kafka-into-splunk/)
 - [Two Ways to Access Kafka Topics from R](https://curatedsql.com/2021/07/21/two-ways-to-access-kafka-topics-from-r/)
@@ -342,7 +343,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Streaming Foreign Key Joins in Kafka Streams](https://curatedsql.com/2021/07/08/streaming-foreign-key-joins-in-kafka-streams/)
 - [Consistency and Completeness in Kafka Streams](https://curatedsql.com/2021/06/23/consistency-and-completeness-in-kafka-streams/)
 - [Spark SQL and Merge Errors from Multiple Source Rows Matched](https://curatedsql.com/2021/06/18/spark-sql-and-merge-errors-from-multiple-source-rows-matched/)
-- [Using Spark in CDP’s Operational Database Experience](https://curatedsql.com/2021/06/14/using-spark-in-cdps-operational-database-experience/)
 <!-- CURATEDSQL-POST-LIST:END -->
 
 ### *Hadoop Quiz posts*
