@@ -277,16 +277,16 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [How to fetch data from twitter using Flume](https://medium.com/@m.ismail4543/how-to-fetch-data-from-twitter-using-flume-b0f90f6cfb20?source=rss------hadoop-5)
 - [Internals of YARN architecture](https://karthiksharma1227.medium.com/internals-of-yarn-architecture-c16abf93c?source=rss------hadoop-5)
-- [UNBOXING [HADOOP FRAMEWORK]](https://medium.com/@mnb1832000/unboxing-hadoop-framework-5dc9ad4d3138?source=rss------hadoop-5)
+- [UNBOXING [HADOOP FRAMEWORK]](https://medium.com/@meghashyam-nb/unboxing-hadoop-framework-5dc9ad4d3138?source=rss------hadoop-5)
 - [Tez vs Spark: что выбрать для Apache Hive](https://medium.com/@bigdataschool/tez-vs-spark-%D1%87%D1%82%D0%BE-%D0%B2%D1%8B%D0%B1%D1%80%D0%B0%D1%82%D1%8C-%D0%B4%D0%BB%D1%8F-apache-hive-b9766d184c0?source=rss------hadoop-5)
-- [Big Data Explained in Plain and Simple English](https://medium.com/@mnb1832000/big-data-explained-in-plain-and-simple-english-b1c6cd57193d?source=rss------hadoop-5)
+- [Big Data Explained in Plain and Simple English](https://medium.com/@meghashyam-nb/big-data-explained-in-plain-and-simple-english-b1c6cd57193d?source=rss------hadoop-5)
 - [Как ускорить SQL-запросы в Apache Hive: ТОП-5 методов оптимизации](https://medium.com/@bigdataschool/%D0%BA%D0%B0%D0%BA-%D1%83%D1%81%D0%BA%D0%BE%D1%80%D0%B8%D1%82%D1%8C-sql-%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D1%8B-%D0%B2-apache-hive-%D1%82%D0%BE%D0%BF-5-%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%BE%D0%B2-%D0%BE%D0%BF%D1%82%D0%B8%D0%BC%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8-cbd5d2c38e85?source=rss------hadoop-5)
 - [Apache HBase — a Brief Introduction](https://medium.com/@wangwei09310931/apache-hbase-a-brief-introduction-7e2e3a1bbc91?source=rss------hadoop-5)
 - [Cannot execute libexec/hdfs-config.sh](https://medium.com/@hema-chandra/cannot-execute-libexec-hdfs-config-sh-ec7c3b1a45bd?source=rss------hadoop-5)
 - [8 Best Big Data Hadoop Analytics Tools in 2021](https://tiffany-carter.medium.com/8-best-big-data-hadoop-analytics-tools-in-2021-bbf862b5702d?source=rss------hadoop-5)
 - [Apache Spark: Out Of Memory Issue?](https://blog.clairvoyantsoft.com/apache-spark-out-of-memory-issue-b63c7987fff?source=rss------hadoop-5)
-- [Data Forest에서 Spark, Hive로 데이터 처리하기 Part.2](https://medium.com/naver-cloud-platform/data-forest%EC%97%90%EC%84%9C-spark-hive%EB%A1%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0-part-2-97d8bcaaaa77?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
