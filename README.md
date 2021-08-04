@@ -277,6 +277,9 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Dockerizing an Apache Spark Standalone Cluster](https://medium.com/geekculture/dockerizing-an-apache-spark-standalone-cluster-eeb7d3f8efeb?source=rss------hadoop-5)
+- [Upgrade Your Career From Data Warehouse to Big Data & Hadoop](https://tiffany-carter.medium.com/upgrade-your-career-from-data-warehouse-to-big-data-hadoop-8a2a3bb8a352?source=rss------hadoop-5)
+- [Основы Hadoop HDFS для начинающих администраторов: как вывести узел из кластера без потери данных](https://medium.com/@bigdataschool/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-hadoop-hdfs-%D0%B4%D0%BB%D1%8F-%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D1%85-%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BE%D0%B2-%D0%BA%D0%B0%D0%BA-%D0%B2%D1%8B%D0%B2%D0%B5%D1%81%D1%82%D0%B8-%D1%83%D0%B7%D0%B5%D0%BB-%D0%B8%D0%B7-%D0%BA%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%B0-%D0%B1%D0%B5%D0%B7-%D0%BF%D0%BE%D1%82%D0%B5%D1%80%D0%B8-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-ecf33041fd32?source=rss------hadoop-5)
 - [How to fetch data from twitter using Flume](https://medium.com/@m.ismail4543/how-to-fetch-data-from-twitter-using-flume-b0f90f6cfb20?source=rss------hadoop-5)
 - [Internals of YARN architecture](https://karthiksharma1227.medium.com/internals-of-yarn-architecture-c16abf93c?source=rss------hadoop-5)
 - [UNBOXING [HADOOP FRAMEWORK]](https://medium.com/@meghashyam-nb/unboxing-hadoop-framework-5dc9ad4d3138?source=rss------hadoop-5)
@@ -284,9 +287,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Big Data Explained in Plain and Simple English](https://medium.com/@meghashyam-nb/big-data-explained-in-plain-and-simple-english-b1c6cd57193d?source=rss------hadoop-5)
 - [Как ускорить SQL-запросы в Apache Hive: ТОП-5 методов оптимизации](https://medium.com/@bigdataschool/%D0%BA%D0%B0%D0%BA-%D1%83%D1%81%D0%BA%D0%BE%D1%80%D0%B8%D1%82%D1%8C-sql-%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D1%8B-%D0%B2-apache-hive-%D1%82%D0%BE%D0%BF-5-%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%BE%D0%B2-%D0%BE%D0%BF%D1%82%D0%B8%D0%BC%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8-cbd5d2c38e85?source=rss------hadoop-5)
 - [Apache HBase — a Brief Introduction](https://medium.com/@wangwei09310931/apache-hbase-a-brief-introduction-7e2e3a1bbc91?source=rss------hadoop-5)
-- [Cannot execute libexec/hdfs-config.sh](https://medium.com/@hema-chandra/cannot-execute-libexec-hdfs-config-sh-ec7c3b1a45bd?source=rss------hadoop-5)
-- [8 Best Big Data Hadoop Analytics Tools in 2021](https://tiffany-carter.medium.com/8-best-big-data-hadoop-analytics-tools-in-2021-bbf862b5702d?source=rss------hadoop-5)
-- [Apache Spark: Out Of Memory Issue?](https://blog.clairvoyantsoft.com/apache-spark-out-of-memory-issue-b63c7987fff?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
