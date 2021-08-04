@@ -43,30 +43,32 @@
 ## 🎹 *Table of contents*
 
 <!--ts-->
-   * [Spark Design Patterns](#spark-design-patterns)
-      * [<em>Table of contents</em>](#-table-of-contents)
-      * [<em>Summary</em>](#-summary)
-      * [<em>Documentation</em>](#-documentation)
-      * [<em>Statistics</em>](#-statistics)
-      * [<em>Versioning</em>](#-versioning)
-      * [<em>Authors</em>](#-authors)
-      * [<em>Contributing</em>](#-contributing)
-      * [<em>Visitor stats</em>](#-visitor-stats)
-      * [<em>Licensing</em>](#-licensing)
-      * [<em>Development Support</em>](#-development-support)
-      * [<em>Acknowledgement</em>](#-acknowledgement)
-      * [<em>OpenGraph Card</em>](#-opengraph-card)
-      * [<em>Feeds and Podcasts</em>](#-feeds-and-podcasts)
-         * [<em>Reddit posts</em>](#reddit-posts)
-         * [<em>InfoWorld Spark posts</em>](#infoworld-spark-posts)
-         * [<em>Hadoop posts</em>](#hadoop-posts)
-         * [<em>InfoWorld Hadoop posts</em>](#infoworld-hadoop-posts)
-         * [<em>Hadoop in real world posts</em>](#hadoop-in-real-world-posts)
-         * [<em>Kognitio posts</em>](#kognitio-posts)
-         * [<em>Curated SQL posts</em>](#curated-sql-posts)
-         * [<em>Hadoop Quiz posts</em>](#hadoop-quiz-posts)
-         * [<em>Understanding Hadoop posts</em>](#understanding-hadoop-posts)
-         * [<em>RedHat posts</em>](#redhat-posts)
+
+- [Spark Design Patterns](#spark-design-patterns)
+  - [<em>Table of contents</em>](#-table-of-contents)
+  - [<em>Summary</em>](#-summary)
+  - [<em>Documentation</em>](#-documentation)
+  - [<em>Statistics</em>](#-statistics)
+  - [<em>Versioning</em>](#-versioning)
+  - [<em>Authors</em>](#-authors)
+  - [<em>Contributing</em>](#-contributing)
+  - [<em>Visitor stats</em>](#-visitor-stats)
+  - [<em>Licensing</em>](#-licensing)
+  - [<em>Development Support</em>](#-development-support)
+  - [<em>Acknowledgement</em>](#-acknowledgement)
+  - [<em>OpenGraph Card</em>](#-opengraph-card)
+  - [<em>Feeds and Podcasts</em>](#-feeds-and-podcasts)
+    - [<em>Reddit posts</em>](#reddit-posts)
+    - [<em>InfoWorld Spark posts</em>](#infoworld-spark-posts)
+    - [<em>Hadoop posts</em>](#hadoop-posts)
+    - [<em>InfoWorld Hadoop posts</em>](#infoworld-hadoop-posts)
+    - [<em>Hadoop in real world posts</em>](#hadoop-in-real-world-posts)
+    - [<em>Kognitio posts</em>](#kognitio-posts)
+    - [<em>Curated SQL posts</em>](#curated-sql-posts)
+    - [<em>Hadoop Quiz posts</em>](#hadoop-quiz-posts)
+    - [<em>Understanding Hadoop posts</em>](#understanding-hadoop-posts)
+    - [<em>RedHat posts</em>](#redhat-posts)
+
 <!--te-->
 
 ## ☝ *Summary*
@@ -239,6 +241,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ## 👨‍👨‍👧‍👦 *Acknowledgement*
 
 [![Stargazers repo roster for @AlexRogalskiy/spark-patterns](https://reporoster.com/stars/AlexRogalskiy/spark-patterns)][stars]
+
+[![Stargazers over time](https://starchart.cc/AlexRogalskiy/spark-patterns.svg)][stars_chart]
 
 ## 📎 *OpenGraph Card*
 
@@ -418,6 +422,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 [wiki]: https://github.com/AlexRogalskiy/spark-patterns/wiki
 
 [stars]: https://github.com/AlexRogalskiy/spark-patterns/stargazers
+
+[stars_chart]: https://starchart.cc/AlexRogalskiy/spark-patterns
 
 [contributors]: https://github.com/AlexRogalskiy/spark-patterns/graphs/contributors
 
