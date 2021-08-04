@@ -286,16 +286,16 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 
 <!-- HADOOP-POST-LIST:START -->
 
-- [How to save Spark DataFrame directly to a Hive table?](https://www.hadoopinrealworld.com/how-to-save-spark-dataframe-directly-to-a-hive-table/)
-- [What is the difference between NameNode and Secondary NameNode?](https://www.hadoopinrealworld.com/what-is-the-difference-between-namenode-and-secondary-namenode/)
-- [Can multiple Kafka consumers read the same message from a partition?](https://www.hadoopinrealworld.com/can-multiple-kafka-consumers-read-the-same-message-from-a-partition/)
-- [What are broadcast variables in Spark and when to use them?](https://www.hadoopinrealworld.com/what-are-broadcast-variables-in-spark-and-when-to-use-them/)
-- [What is the difference between Apache Pig and Hive?](https://www.hadoopinrealworld.com/what-is-the-difference-between-apache-pig-and-hive/)
-- [How to find duplicate elements or rows in a Spark DataFrame?](https://www.hadoopinrealworld.com/how-to-find-duplicate-elements-or-rows-in-a-spark-dataframe/)
-- [How to deal with corrupt files in HDFS?](https://www.hadoopinrealworld.com/how-to-deal-with-corrupt-files-in-hdfs/)
-- [What is the difference between explode and posexplode functions in Hive?](https://www.hadoopinrealworld.com/what-is-the-difference-between-explode-and-posexplode-functions-in-hive/)
-- [How to change or reset consumer offset in Kafka?](https://www.hadoopinrealworld.com/how-to-change-or-reset-consumer-offset-in-kafka/)
-- [How to read multiple files into a single RDD or DataFrame in Spark?](https://www.hadoopinrealworld.com/how-to-read-multiple-files-into-a-single-rdd-or-dataframe-in-spark/)
+- [Dockerizing an Apache Spark Standalone Cluster](https://medium.com/geekculture/dockerizing-an-apache-spark-standalone-cluster-eeb7d3f8efeb?source=rss------hadoop-5)
+- [Upgrade Your Career From Data Warehouse to Big Data & Hadoop](https://tiffany-carter.medium.com/upgrade-your-career-from-data-warehouse-to-big-data-hadoop-8a2a3bb8a352?source=rss------hadoop-5)
+- [Основы Hadoop HDFS для начинающих администраторов: как вывести узел из кластера без потери данных](https://medium.com/@bigdataschool/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-hadoop-hdfs-%D0%B4%D0%BB%D1%8F-%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D1%85-%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BE%D0%B2-%D0%BA%D0%B0%D0%BA-%D0%B2%D1%8B%D0%B2%D0%B5%D1%81%D1%82%D0%B8-%D1%83%D0%B7%D0%B5%D0%BB-%D0%B8%D0%B7-%D0%BA%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%B0-%D0%B1%D0%B5%D0%B7-%D0%BF%D0%BE%D1%82%D0%B5%D1%80%D0%B8-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-ecf33041fd32?source=rss------hadoop-5)
+- [How to fetch data from twitter using Flume](https://medium.com/@m.ismail4543/how-to-fetch-data-from-twitter-using-flume-b0f90f6cfb20?source=rss------hadoop-5)
+- [Internals of YARN architecture](https://karthiksharma1227.medium.com/internals-of-yarn-architecture-c16abf93c?source=rss------hadoop-5)
+- [UNBOXING \[HADOOP FRAMEWORK\]](https://medium.com/@meghashyam-nb/unboxing-hadoop-framework-5dc9ad4d3138?source=rss------hadoop-5)
+- [Tez vs Spark: что выбрать для Apache Hive](https://medium.com/@bigdataschool/tez-vs-spark-%D1%87%D1%82%D0%BE-%D0%B2%D1%8B%D0%B1%D1%80%D0%B0%D1%82%D1%8C-%D0%B4%D0%BB%D1%8F-apache-hive-b9766d184c0?source=rss------hadoop-5)
+- [Big Data Explained in Plain and Simple English](https://medium.com/@meghashyam-nb/big-data-explained-in-plain-and-simple-english-b1c6cd57193d?source=rss------hadoop-5)
+- [Как ускорить SQL-запросы в Apache Hive: ТОП-5 методов оптимизации](https://medium.com/@bigdataschool/%D0%BA%D0%B0%D0%BA-%D1%83%D1%81%D0%BA%D0%BE%D1%80%D0%B8%D1%82%D1%8C-sql-%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D1%8B-%D0%B2-apache-hive-%D1%82%D0%BE%D0%BF-5-%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%BE%D0%B2-%D0%BE%D0%BF%D1%82%D0%B8%D0%BC%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8-cbd5d2c38e85?source=rss------hadoop-5)
+- [Apache HBase — a Brief Introduction](https://medium.com/@wangwei09310931/apache-hbase-a-brief-introduction-7e2e3a1bbc91?source=rss------hadoop-5)
 
 <!-- HADOOP-POST-LIST:END -->
 
@@ -350,16 +350,16 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 
 <!-- CURATEDSQL-POST-LIST:START -->
 
-- [Consistency and Completeness in Kafka Streams](https://curatedsql.com/2021/06/23/consistency-and-completeness-in-kafka-streams/)
-- [Spark SQL and Merge Errors from Multiple Source Rows Matched](https://curatedsql.com/2021/06/18/spark-sql-and-merge-errors-from-multiple-source-rows-matched/)
-- [Using Spark in CDP’s Operational Database Experience](https://curatedsql.com/2021/06/14/using-spark-in-cdps-operational-database-experience/)
-- [Change Data Capture in Delta Lake](https://curatedsql.com/2021/06/14/change-data-capture-in-delta-lake/)
-- [Announcements from Data+AI Summit](https://curatedsql.com/2021/06/08/announcements-from-dataai-summit/)
-- [Ranger and Jersey Clients](https://curatedsql.com/2021/06/08/ranger-and-jersey-clients/)
-- [Saving Spark DataFrames as Hive Tables](https://curatedsql.com/2021/06/03/saving-spark-dataframes-as-hive-tables/)
-- [Scaling HDFS to an Exabyte](https://curatedsql.com/2021/06/02/scaling-hdfs-to-an-exabyte/)
-- [NameNode and Secondary NameNode in Hadoop](https://curatedsql.com/2021/06/01/namenode-and-secondary-namenode-in-hadoop/)
-- [Querying Delta Lake Files with T-SQL in Azure Synapse Analytics](https://curatedsql.com/2021/05/28/querying-delta-lake-files-with-t-sql-in-azure-synapse-analytics/)
+- [A Warning:  VPCs and Distributed Database Platforms](https://curatedsql.com/2021/08/02/a-warning-vpcs-and-distributed-database-platforms/)
+- [Tips for Decreasing the Impact of Rebalancing in Kafka Streams](https://curatedsql.com/2021/07/28/tips-for-decreasing-the-impact-of-rebalancing-in-kafka-streams/)
+- [Digital Forensics with Apache Kafka](https://curatedsql.com/2021/07/26/digital-forensics-with-apache-kafka/)
+- [Threat Intelligence and Kafka](https://curatedsql.com/2021/07/23/threat-intelligence-and-kafka/)
+- [ksqldb 0.19.0 Released](https://curatedsql.com/2021/07/22/ksqldb-0-19-0-released/)
+- [Feeding Data from Kafka into Splunk](https://curatedsql.com/2021/07/22/feeding-data-from-kafka-into-splunk/)
+- [Two Ways to Access Kafka Topics from R](https://curatedsql.com/2021/07/21/two-ways-to-access-kafka-topics-from-r/)
+- [Contrasting Scala and Python wrt Spark](https://curatedsql.com/2021/07/20/contrasting-scala-and-python-wrt-spark/)
+- [Using Kafka for Security Situational Awareness](https://curatedsql.com/2021/07/15/using-kafka-for-security-situational-awareness/)
+- [Event Streaming for Security](https://curatedsql.com/2021/07/09/event-streaming-for-security/)
 
 <!-- CURATEDSQL-POST-LIST:END -->
 
