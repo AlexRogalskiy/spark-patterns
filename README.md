@@ -335,7 +335,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Curated SQL posts*
 
 <!-- CURATEDSQL-POST-LIST:START -->
-
 - [A Warning:  VPCs and Distributed Database Platforms](https://curatedsql.com/2021/08/02/a-warning-vpcs-and-distributed-database-platforms/)
 - [Tips for Decreasing the Impact of Rebalancing in Kafka Streams](https://curatedsql.com/2021/07/28/tips-for-decreasing-the-impact-of-rebalancing-in-kafka-streams/)
 - [Digital Forensics with Apache Kafka](https://curatedsql.com/2021/07/26/digital-forensics-with-apache-kafka/)
@@ -346,7 +345,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Contrasting Scala and Python wrt Spark](https://curatedsql.com/2021/07/20/contrasting-scala-and-python-wrt-spark/)
 - [Using Kafka for Security Situational Awareness](https://curatedsql.com/2021/07/15/using-kafka-for-security-situational-awareness/)
 - [Event Streaming for Security](https://curatedsql.com/2021/07/09/event-streaming-for-security/)
-
 <!-- CURATEDSQL-POST-LIST:END -->
 
 ### *Hadoop Quiz posts*
