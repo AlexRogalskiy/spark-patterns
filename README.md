@@ -279,15 +279,15 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Data & BigData – databare.com](https://dataguyin.medium.com/data-bigdata-41f331e1af48?source=rss------hadoop-5)
 - [Apache Hadoop: O poder do processamento paralelo e distribuído](https://medium.com/data-hackers/apache-hadoop-o-poder-do-processamento-paralelo-e-distribu%C3%ADdo-6364bbc2ee8b?source=rss------hadoop-5)
-- [Joining Strategies in Apache Spark](https://krishnaprasad-k.medium.com/joining-strategies-in-apache-spark-f802a7dab150?source=rss------hadoop-5)
+- [Joining Strategies in Apache Spark](https://medium.com/nerd-for-tech/joining-strategies-in-apache-spark-f802a7dab150?source=rss------hadoop-5)
 - [Create a Hadoop Cluster by Ansible !!](https://medium.com/@lalityadav1212/create-a-hadoop-cluster-by-ansible-f9f16f38e4e4?source=rss------hadoop-5)
 - [Providing elasticity to the HDFS cluster.](https://medium.com/@lalityadav1212/providing-elasticity-to-the-hdfs-cluster-2fdd8011a822?source=rss------hadoop-5)
 - [Set up Apache Spark to Run Clusters](https://gitstacks.com/set-up-apache-spark-to-run-clusters-7d7821a6b1a4?source=rss------hadoop-5)
 - [Под капотом кластера Apache Hadoop: как работает YARN, где он может сломаться и что чинить](https://medium.com/@bigdataschool/%D0%BF%D0%BE%D0%B4-%D0%BA%D0%B0%D0%BF%D0%BE%D1%82%D0%BE%D0%BC-%D0%BA%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%B0-apache-hadoop-%D0%BA%D0%B0%D0%BA-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D0%B5%D1%82-yarn-%D0%B3%D0%B4%D0%B5-%D0%BE%D0%BD-%D0%BC%D0%BE%D0%B6%D0%B5%D1%82-%D1%81%D0%BB%D0%BE%D0%BC%D0%B0%D1%82%D1%8C%D1%81%D1%8F-%D0%B8-%D1%87%D1%82%D0%BE-%D1%87%D0%B8%D0%BD%D0%B8%D1%82%D1%8C-661079fe11ae?source=rss------hadoop-5)
 - [Big data ဘာလဲ။ ဘာလို့လဲ။](https://medium.com/@minsithu_53495/big-data-%E1%80%98%E1%80%AC%E1%80%9C%E1%80%B2-%E1%80%98%E1%80%AC%E1%80%9C%E1%80%AD%E1%80%AF%E1%80%B7%E1%80%9C%E1%80%B2-9315218a1d9b?source=rss------hadoop-5)
 - [Dockerizing an Apache Spark Standalone Cluster](https://medium.com/geekculture/dockerizing-an-apache-spark-standalone-cluster-eeb7d3f8efeb?source=rss------hadoop-5)
-- [Upgrade Your Career From Data Warehouse to Big Data & Hadoop](https://tiffany-carter.medium.com/upgrade-your-career-from-data-warehouse-to-big-data-hadoop-8a2a3bb8a352?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
