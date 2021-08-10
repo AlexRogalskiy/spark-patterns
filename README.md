@@ -304,6 +304,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop in real world posts*
 
 <!-- HADOOPINREALWORLD-POST-LIST:START -->
+- [What does “Stage Skipped” mean in Apache Spark web UI?](https://www.hadoopinrealworld.com/what-does-stage-skipped-mean-in-apache-spark-web-ui/)
 - [How to export a Hive table into a CSV file?](https://www.hadoopinrealworld.com/how-to-export-a-hive-table-into-a-csv-file/)
 - [How does Spark decide the number of tasks and number of tasks to execute in parallel?](https://www.hadoopinrealworld.com/how-does-spark-decide-the-number-of-tasks-and-number-of-tasks-to-execute-in-parallel/)
 - [How to save Spark DataFrame directly to a Hive table?](https://www.hadoopinrealworld.com/how-to-save-spark-dataframe-directly-to-a-hive-table/)
@@ -313,7 +314,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [What is the difference between Apache Pig and Hive?](https://www.hadoopinrealworld.com/what-is-the-difference-between-apache-pig-and-hive/)
 - [How to find duplicate elements or rows in a Spark DataFrame?](https://www.hadoopinrealworld.com/how-to-find-duplicate-elements-or-rows-in-a-spark-dataframe/)
 - [How to deal with corrupt files in HDFS?](https://www.hadoopinrealworld.com/how-to-deal-with-corrupt-files-in-hdfs/)
-- [What is the difference between explode and posexplode functions in Hive?](https://www.hadoopinrealworld.com/what-is-the-difference-between-explode-and-posexplode-functions-in-hive/)
 <!-- HADOOPINREALWORLD-POST-LIST:END -->
 
 ### *Kognitio posts*
