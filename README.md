@@ -279,15 +279,18 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [How big MNC’s like
+Google, Facebook, Instagram, etc stores manage and manipulate
+thousands of…](https://upadhyay-shivam.medium.com/how-big-mncs-like-google-facebook-instagram-etc-stores-manage-and-manipulate-thousands-of-9d8ddfef6836?source=rss------hadoop-5)
+- [Новый релиз Apache Hadoop 3.3.1: ТОП-15 обновлений](https://medium.com/@bigdataschool/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9-%D1%80%D0%B5%D0%BB%D0%B8%D0%B7-apache-hadoop-3-3-1-%D1%82%D0%BE%D0%BF-15-%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9-53f9dc72c580?source=rss------hadoop-5)
 - [Hadoop Cluster Setup/Configure with HDFS Architecture On RHEL 8.0](https://medium.com/@abdhesh_7570/hadoop-cluster-setup-configure-with-hdfs-architecture-on-rhel-8-0-29f35a665eb8?source=rss------hadoop-5)
 - [In a Hadoop cluster, find how to contribute limited/specific amount of storage as slave to the…](https://medium.com/@abdhesh_7570/in-a-hadoop-cluster-find-how-to-contribute-limited-specific-amount-of-storage-as-slave-to-the-a8ce0fe322e8?source=rss------hadoop-5)
 - [Setting up an Apache Hive Data Warehouse](https://medium.com/codex/setting-up-an-apache-hive-data-warehouse-6074775cf66?source=rss------hadoop-5)
+- [The Modern Cloud Data Platform war — Hadoop Data Platform (Part 2)](https://medium.com/data-arena/the-modern-cloud-data-platform-war-hadoop-data-platform-part-2-51aa577939c6?source=rss------hadoop-5)
+- [The Modern Cloud Data Platform war — Hadoop Data Platform (Part 1)](https://medium.com/data-arena/the-modern-cloud-data-platform-war-hadoop-data-platform-part-1-9ed2d453c201?source=rss------hadoop-5)
 - [Data & BigData – databare.com](https://dataguyin.medium.com/data-bigdata-41f331e1af48?source=rss------hadoop-5)
 - [Apache Hadoop: O poder do processamento paralelo e distribuído](https://medium.com/data-hackers/apache-hadoop-o-poder-do-processamento-paralelo-e-distribu%C3%ADdo-6364bbc2ee8b?source=rss------hadoop-5)
 - [Joining Strategies in Apache Spark](https://medium.com/nerd-for-tech/joining-strategies-in-apache-spark-f802a7dab150?source=rss------hadoop-5)
-- [Create a Hadoop Cluster by Ansible !!](https://medium.com/@lalityadav1212/create-a-hadoop-cluster-by-ansible-f9f16f38e4e4?source=rss------hadoop-5)
-- [Providing elasticity to the HDFS cluster.](https://medium.com/@lalityadav1212/providing-elasticity-to-the-hdfs-cluster-2fdd8011a822?source=rss------hadoop-5)
-- [Set up Apache Spark to Run Clusters](https://gitstacks.com/set-up-apache-spark-to-run-clusters-7d7821a6b1a4?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
