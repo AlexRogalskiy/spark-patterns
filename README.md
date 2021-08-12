@@ -353,8 +353,8 @@ thousands of…](https://upadhyay-shivam.medium.com/how-big-mncs-like-google-fac
 ### *Curated SQL posts*
 
 <!-- CURATEDSQL-POST-LIST:START -->
-- [Helpful Tools for Apache Kafka Developers](https://curatedsql.com/2021/08/06/helpful-tools-for-apache-kafka-developers/)
 - [How Spark Determines Task Numbers and Parallelism](https://curatedsql.com/2021/08/06/how-spark-determines-task-numbers-and-parallelism/)
+- [Helpful Tools for Apache Kafka Developers](https://curatedsql.com/2021/08/06/helpful-tools-for-apache-kafka-developers/)
 - [A Warning:  VPCs and Distributed Database Platforms](https://curatedsql.com/2021/08/02/a-warning-vpcs-and-distributed-database-platforms/)
 - [Tips for Decreasing the Impact of Rebalancing in Kafka Streams](https://curatedsql.com/2021/07/28/tips-for-decreasing-the-impact-of-rebalancing-in-kafka-streams/)
 - [Digital Forensics with Apache Kafka](https://curatedsql.com/2021/07/26/digital-forensics-with-apache-kafka/)
