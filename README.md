@@ -296,6 +296,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Hadoop Developer Job Description: Role and Duties](https://medium.com/@alexeysemeney/hadoop-developer-job-description-role-and-duties-cd81fe847ad4?source=rss------hadoop-5)
+- [HDFS Must Die](https://medium.com/@quobjorn/hdfs-must-die-f65b104c3232?source=rss------hadoop-5)
 - [How big MNC’s like
 Google, Facebook, Instagram, etc stores manage and manipulate
 thousands of…](https://upadhyay-shivam.medium.com/how-big-mncs-like-google-facebook-instagram-etc-stores-manage-and-manipulate-thousands-of-9d8ddfef6836?source=rss------hadoop-5)
@@ -306,8 +308,6 @@ thousands of…](https://upadhyay-shivam.medium.com/how-big-mncs-like-google-fac
 - [The Modern Cloud Data Platform war — Hadoop Data Platform (Part 2)](https://medium.com/data-arena/the-modern-cloud-data-platform-war-hadoop-data-platform-part-2-51aa577939c6?source=rss------hadoop-5)
 - [The Modern Cloud Data Platform war — Hadoop Data Platform (Part 1)](https://medium.com/data-arena/the-modern-cloud-data-platform-war-hadoop-data-platform-part-1-9ed2d453c201?source=rss------hadoop-5)
 - [Data & BigData – databare.com](https://dataguyin.medium.com/data-bigdata-41f331e1af48?source=rss------hadoop-5)
-- [Apache Hadoop: O poder do processamento paralelo e distribuído](https://medium.com/data-hackers/apache-hadoop-o-poder-do-processamento-paralelo-e-distribu%C3%ADdo-6364bbc2ee8b?source=rss------hadoop-5)
-- [Joining Strategies in Apache Spark](https://medium.com/nerd-for-tech/joining-strategies-in-apache-spark-f802a7dab150?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
