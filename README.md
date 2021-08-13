@@ -353,6 +353,8 @@ thousands of…](https://upadhyay-shivam.medium.com/how-big-mncs-like-google-fac
 ### *Curated SQL posts*
 
 <!-- CURATEDSQL-POST-LIST:START -->
+- [Kafka and SIEM/SOAR Tools](https://curatedsql.com/2021/08/12/kafka-and-siem-soar-tools/)
+- [Exporting a Hive Table to CSV](https://curatedsql.com/2021/08/12/exporting-a-hive-table-to-csv/)
 - [How Spark Determines Task Numbers and Parallelism](https://curatedsql.com/2021/08/06/how-spark-determines-task-numbers-and-parallelism/)
 - [Helpful Tools for Apache Kafka Developers](https://curatedsql.com/2021/08/06/helpful-tools-for-apache-kafka-developers/)
 - [A Warning:  VPCs and Distributed Database Platforms](https://curatedsql.com/2021/08/02/a-warning-vpcs-and-distributed-database-platforms/)
@@ -361,8 +363,6 @@ thousands of…](https://upadhyay-shivam.medium.com/how-big-mncs-like-google-fac
 - [Threat Intelligence and Kafka](https://curatedsql.com/2021/07/23/threat-intelligence-and-kafka/)
 - [ksqldb 0.19.0 Released](https://curatedsql.com/2021/07/22/ksqldb-0-19-0-released/)
 - [Feeding Data from Kafka into Splunk](https://curatedsql.com/2021/07/22/feeding-data-from-kafka-into-splunk/)
-- [Two Ways to Access Kafka Topics from R](https://curatedsql.com/2021/07/21/two-ways-to-access-kafka-topics-from-r/)
-- [Contrasting Scala and Python wrt Spark](https://curatedsql.com/2021/07/20/contrasting-scala-and-python-wrt-spark/)
 <!-- CURATEDSQL-POST-LIST:END -->
 
 ### *Hadoop Quiz posts*
