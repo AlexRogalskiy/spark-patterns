@@ -295,6 +295,9 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Re-platforming from Hadoop based Systems into Azure Part 2](https://medium.com/@lackshub/re-platforming-from-hadoop-based-systems-into-azure-part-2-8de3c85a1239?source=rss------hadoop-5)
+- [Зачем Apache Hive внешняя база данных для MetaStore: смотрим на примере Arenadata Hadoop 2.1.4](https://medium.com/@bigdataschool/%D0%B7%D0%B0%D1%87%D0%B5%D0%BC-apache-hive-%D0%B2%D0%BD%D0%B5%D1%88%D0%BD%D1%8F%D1%8F-%D0%B1%D0%B0%D0%B7%D0%B0-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-%D0%B4%D0%BB%D1%8F-metastore-%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%B8%D0%BC-%D0%BD%D0%B0-%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D0%B5-arenadata-hadoop-2-1-4-3038edeab3e9?source=rss------hadoop-5)
+- [Aplicando Big data en la vida real con Java @Datahack](https://medium.com/@alexalvarezcasas/aplicando-big-data-n-la-vida-real-datahack-968cbcae1b36?source=rss------hadoop-5)
 - [Hadoop Developer Job Description: Role and Duties](https://medium.com/@alexeysemeney/hadoop-developer-job-description-role-and-duties-cd81fe847ad4?source=rss------hadoop-5)
 - [HDFS Must Die](https://medium.com/@quobjorn/hdfs-must-die-f65b104c3232?source=rss------hadoop-5)
 - [How big MNC’s like
@@ -304,9 +307,6 @@ thousands of…](https://upadhyay-shivam.medium.com/how-big-mncs-like-google-fac
 - [Hadoop Cluster Setup/Configure with HDFS Architecture On RHEL 8.0](https://medium.com/@abdhesh_7570/hadoop-cluster-setup-configure-with-hdfs-architecture-on-rhel-8-0-29f35a665eb8?source=rss------hadoop-5)
 - [In a Hadoop cluster, find how to contribute limited/specific amount of storage as slave to the…](https://medium.com/@abdhesh_7570/in-a-hadoop-cluster-find-how-to-contribute-limited-specific-amount-of-storage-as-slave-to-the-a8ce0fe322e8?source=rss------hadoop-5)
 - [Setting up an Apache Hive Data Warehouse](https://medium.com/codex/setting-up-an-apache-hive-data-warehouse-6074775cf66?source=rss------hadoop-5)
-- [The Modern Cloud Data Platform war — Hadoop Data Platform (Part 2)](https://medium.com/data-arena/the-modern-cloud-data-platform-war-hadoop-data-platform-part-2-51aa577939c6?source=rss------hadoop-5)
-- [The Modern Cloud Data Platform war — Hadoop Data Platform (Part 1)](https://medium.com/data-arena/the-modern-cloud-data-platform-war-hadoop-data-platform-part-1-9ed2d453c201?source=rss------hadoop-5)
-- [Data & BigData – databare.com](https://dataguyin.medium.com/data-bigdata-41f331e1af48?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
