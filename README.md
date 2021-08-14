@@ -351,6 +351,9 @@ thousands of…](https://upadhyay-shivam.medium.com/how-big-mncs-like-google-fac
 ### *Curated SQL posts*
 
 <!-- CURATEDSQL-POST-LIST:START -->
+- [Change Data Capture with Kafka Connect and Cassandra](https://curatedsql.com/2021/08/13/change-data-capture-with-kafka-connect-and-cassandra/)
+- [Moving Data from Confluent Cloud to Cosmos DB](https://curatedsql.com/2021/08/13/moving-data-from-confluent-cloud-to-cosmos-db/)
+- [Generating Artificial Data with Databricks Generator](https://curatedsql.com/2021/08/13/generating-artificial-data-with-databricks-generator/)
 - [Kafka and SIEM/SOAR Tools](https://curatedsql.com/2021/08/12/kafka-and-siem-soar-tools/)
 - [Exporting a Hive Table to CSV](https://curatedsql.com/2021/08/12/exporting-a-hive-table-to-csv/)
 - [How Spark Determines Task Numbers and Parallelism](https://curatedsql.com/2021/08/06/how-spark-determines-task-numbers-and-parallelism/)
@@ -358,9 +361,6 @@ thousands of…](https://upadhyay-shivam.medium.com/how-big-mncs-like-google-fac
 - [A Warning:  VPCs and Distributed Database Platforms](https://curatedsql.com/2021/08/02/a-warning-vpcs-and-distributed-database-platforms/)
 - [Tips for Decreasing the Impact of Rebalancing in Kafka Streams](https://curatedsql.com/2021/07/28/tips-for-decreasing-the-impact-of-rebalancing-in-kafka-streams/)
 - [Digital Forensics with Apache Kafka](https://curatedsql.com/2021/07/26/digital-forensics-with-apache-kafka/)
-- [Threat Intelligence and Kafka](https://curatedsql.com/2021/07/23/threat-intelligence-and-kafka/)
-- [ksqldb 0.19.0 Released](https://curatedsql.com/2021/07/22/ksqldb-0-19-0-released/)
-- [Feeding Data from Kafka into Splunk](https://curatedsql.com/2021/07/22/feeding-data-from-kafka-into-splunk/)
 <!-- CURATEDSQL-POST-LIST:END -->
 
 ### *Hadoop Quiz posts*
