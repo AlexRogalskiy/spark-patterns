@@ -316,7 +316,6 @@ thousands of…](https://upadhyay-shivam.medium.com/how-big-mncs-like-google-fac
 - [Rakuten frees itself of Hadoop investment in two years](https://www.infoworld.com/article/3563828/rakuten-frees-itself-of-hadoop-investment-in-two-years.html#tk.rss_hadoop)
 - [What is Apache Spark? The big data platform that crushed Hadoop](https://www.infoworld.com/article/3236869/what-is-apache-spark-the-big-data-platform-that-crushed-hadoop.html#tk.rss_hadoop)
 - [Qubole review: Self-service big data analytics](https://www.infoworld.com/article/3449896/qubole-review-self-service-big-data-analytics.html#tk.rss_hadoop)
-- [How to do real-time analytics across historical and live data](https://www.infoworld.com/article/3430787/how-to-perform-real-time-analytics-across-live-and-historical-data.html#tk.rss_hadoop)
 <!-- INFOWORLD-HADOOP-POST-LIST:END -->
 
 ### *Hadoop in real world posts*
