@@ -295,6 +295,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [The current shift of bundling database services is enabling increased efficiency and AI/ML…](https://vijayaphanindra.medium.com/the-current-shift-of-bundling-database-services-is-enabling-increased-efficiency-and-ai-ml-fa954cdb22ee?source=rss------hadoop-5)
+- [How you can make Hive 3 works with Hadoop 3](https://medium.com/@marshallgo/how-hive-3-works-with-hadoop-3-d25c84bde37b?source=rss------hadoop-5)
 - [Re-platforming from Hadoop based Systems into Azure Part 2](https://medium.com/@lackshub/re-platforming-from-hadoop-based-systems-into-azure-part-2-8de3c85a1239?source=rss------hadoop-5)
 - [Зачем Apache Hive внешняя база данных для MetaStore: смотрим на примере Arenadata Hadoop 2.1.4](https://medium.com/@bigdataschool/%D0%B7%D0%B0%D1%87%D0%B5%D0%BC-apache-hive-%D0%B2%D0%BD%D0%B5%D1%88%D0%BD%D1%8F%D1%8F-%D0%B1%D0%B0%D0%B7%D0%B0-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-%D0%B4%D0%BB%D1%8F-metastore-%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%B8%D0%BC-%D0%BD%D0%B0-%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D0%B5-arenadata-hadoop-2-1-4-3038edeab3e9?source=rss------hadoop-5)
 - [Aplicando Big data en la vida real con Java @Datahack](https://medium.com/@alexalvarezcasas/aplicando-big-data-n-la-vida-real-datahack-968cbcae1b36?source=rss------hadoop-5)
@@ -305,8 +307,6 @@ Google, Facebook, Instagram, etc stores manage and manipulate
 thousands of…](https://upadhyay-shivam.medium.com/how-big-mncs-like-google-facebook-instagram-etc-stores-manage-and-manipulate-thousands-of-9d8ddfef6836?source=rss------hadoop-5)
 - [Новый релиз Apache Hadoop 3.3.1: ТОП-15 обновлений](https://medium.com/@bigdataschool/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9-%D1%80%D0%B5%D0%BB%D0%B8%D0%B7-apache-hadoop-3-3-1-%D1%82%D0%BE%D0%BF-15-%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9-53f9dc72c580?source=rss------hadoop-5)
 - [Hadoop Cluster Setup/Configure with HDFS Architecture On RHEL 8.0](https://medium.com/@abdhesh_7570/hadoop-cluster-setup-configure-with-hdfs-architecture-on-rhel-8-0-29f35a665eb8?source=rss------hadoop-5)
-- [In a Hadoop cluster, find how to contribute limited/specific amount of storage as slave to the…](https://medium.com/@abdhesh_7570/in-a-hadoop-cluster-find-how-to-contribute-limited-specific-amount-of-storage-as-slave-to-the-a8ce0fe322e8?source=rss------hadoop-5)
-- [Setting up an Apache Hive Data Warehouse](https://medium.com/codex/setting-up-an-apache-hive-data-warehouse-6074775cf66?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
