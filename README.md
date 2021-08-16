@@ -295,6 +295,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Basics of HDFS and installation steps on MacOS](https://dhruv-saksena.medium.com/basics-of-hdfs-and-installation-steps-on-macos-bcb4352895d9?source=rss------hadoop-5)
 - [The current shift of bundling database services is enabling increased efficiency and AI/ML…](https://vijayaphanindra.medium.com/the-current-shift-of-bundling-database-services-is-enabling-increased-efficiency-and-ai-ml-fa954cdb22ee?source=rss------hadoop-5)
 - [How you can make Hive 3 works with Hadoop 3](https://medium.com/@marshallgo/how-hive-3-works-with-hadoop-3-d25c84bde37b?source=rss------hadoop-5)
 - [Re-platforming from Hadoop based Systems into Azure Part 2](https://medium.com/@lackshub/re-platforming-from-hadoop-based-systems-into-azure-part-2-8de3c85a1239?source=rss------hadoop-5)
@@ -306,7 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 Google, Facebook, Instagram, etc stores manage and manipulate
 thousands of…](https://upadhyay-shivam.medium.com/how-big-mncs-like-google-facebook-instagram-etc-stores-manage-and-manipulate-thousands-of-9d8ddfef6836?source=rss------hadoop-5)
 - [Новый релиз Apache Hadoop 3.3.1: ТОП-15 обновлений](https://medium.com/@bigdataschool/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9-%D1%80%D0%B5%D0%BB%D0%B8%D0%B7-apache-hadoop-3-3-1-%D1%82%D0%BE%D0%BF-15-%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9-53f9dc72c580?source=rss------hadoop-5)
-- [Hadoop Cluster Setup/Configure with HDFS Architecture On RHEL 8.0](https://medium.com/@abdhesh_7570/hadoop-cluster-setup-configure-with-hdfs-architecture-on-rhel-8-0-29f35a665eb8?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
