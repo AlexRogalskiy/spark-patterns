@@ -321,6 +321,7 @@ thousands of…](https://upadhyay-shivam.medium.com/how-big-mncs-like-google-fac
 ### *Hadoop in real world posts*
 
 <!-- HADOOPINREALWORLD-POST-LIST:START -->
+- [What is the difference between RDD, Dataframe and Dataset in Spark?](https://www.hadoopinrealworld.com/what-is-the-difference-between-rdd-dataframe-and-dataset-in-spark/)
 - [Why is Namenode stuck in safe mode and how to fix it?](https://www.hadoopinrealworld.com/why-is-namenode-stuck-in-safe-mode-and-how-to-fix-it/)
 - [How to download an entire bucket from S3?](https://www.hadoopinrealworld.com/how-to-download-an-entire-bucket-from-s3/)
 - [What does “Stage Skipped” mean in Apache Spark web UI?](https://www.hadoopinrealworld.com/what-does-stage-skipped-mean-in-apache-spark-web-ui/)
@@ -330,7 +331,6 @@ thousands of…](https://upadhyay-shivam.medium.com/how-big-mncs-like-google-fac
 - [What is the difference between NameNode and Secondary NameNode?](https://www.hadoopinrealworld.com/what-is-the-difference-between-namenode-and-secondary-namenode/)
 - [Can multiple Kafka consumers read the same message from a partition?](https://www.hadoopinrealworld.com/can-multiple-kafka-consumers-read-the-same-message-from-a-partition/)
 - [What are broadcast variables in Spark and when to use them?](https://www.hadoopinrealworld.com/what-are-broadcast-variables-in-spark-and-when-to-use-them/)
-- [What is the difference between Apache Pig and Hive?](https://www.hadoopinrealworld.com/what-is-the-difference-between-apache-pig-and-hive/)
 <!-- HADOOPINREALWORLD-POST-LIST:END -->
 
 ### *Kognitio posts*
