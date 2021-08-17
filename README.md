@@ -351,16 +351,16 @@ thousands of…](https://upadhyay-shivam.medium.com/how-big-mncs-like-google-fac
 ### *Curated SQL posts*
 
 <!-- CURATEDSQL-POST-LIST:START -->
+- [Fixing Hadoop Namenodes in Safe Mode](https://curatedsql.com/2021/08/16/fixing-hadoop-namenodes-in-safe-mode/)
 - [Change Data Capture with Kafka Connect and Cassandra](https://curatedsql.com/2021/08/13/change-data-capture-with-kafka-connect-and-cassandra/)
 - [Moving Data from Confluent Cloud to Cosmos DB](https://curatedsql.com/2021/08/13/moving-data-from-confluent-cloud-to-cosmos-db/)
 - [Generating Artificial Data with Databricks Generator](https://curatedsql.com/2021/08/13/generating-artificial-data-with-databricks-generator/)
 - [Kafka and SIEM/SOAR Tools](https://curatedsql.com/2021/08/12/kafka-and-siem-soar-tools/)
 - [Exporting a Hive Table to CSV](https://curatedsql.com/2021/08/12/exporting-a-hive-table-to-csv/)
-- [Helpful Tools for Apache Kafka Developers](https://curatedsql.com/2021/08/06/helpful-tools-for-apache-kafka-developers/)
 - [How Spark Determines Task Numbers and Parallelism](https://curatedsql.com/2021/08/06/how-spark-determines-task-numbers-and-parallelism/)
+- [Helpful Tools for Apache Kafka Developers](https://curatedsql.com/2021/08/06/helpful-tools-for-apache-kafka-developers/)
 - [A Warning:  VPCs and Distributed Database Platforms](https://curatedsql.com/2021/08/02/a-warning-vpcs-and-distributed-database-platforms/)
 - [Tips for Decreasing the Impact of Rebalancing in Kafka Streams](https://curatedsql.com/2021/07/28/tips-for-decreasing-the-impact-of-rebalancing-in-kafka-streams/)
-- [Digital Forensics with Apache Kafka](https://curatedsql.com/2021/07/26/digital-forensics-with-apache-kafka/)
 <!-- CURATEDSQL-POST-LIST:END -->
 
 ### *Hadoop Quiz posts*
