@@ -295,6 +295,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Northwind demo database ported to Apache Spark SQL](https://jentekllc8888.medium.com/northwind-demo-database-ported-to-apache-spark-sql-ff617a526e2a?source=rss------hadoop-5)
+- [Setting up a Hadoop Cluster on Ubuntu](https://medium.com/featurepreneur/setting-up-a-hadoop-cluster-on-ubuntu-89a2a8d9b1d9?source=rss------hadoop-5)
 - [Basics of HDFS and installation steps on MacOS](https://dhruv-saksena.medium.com/basics-of-hdfs-and-installation-steps-on-macos-bcb4352895d9?source=rss------hadoop-5)
 - [The current shift of bundling database services is enabling increased efficiency and AI/ML…](https://vijayaphanindra.medium.com/the-current-shift-of-bundling-database-services-is-enabling-increased-efficiency-and-ai-ml-fa954cdb22ee?source=rss------hadoop-5)
 - [How you can make Hive 3 works with Hadoop 3](https://medium.com/@marshallgo/how-hive-3-works-with-hadoop-3-d25c84bde37b?source=rss------hadoop-5)
@@ -303,10 +305,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Aplicando Big data en la vida real con Java @Datahack](https://medium.com/@alexalvarezcasas/aplicando-big-data-n-la-vida-real-datahack-968cbcae1b36?source=rss------hadoop-5)
 - [Hadoop Developer Job Description: Role and Duties](https://medium.com/@alexeysemeney/hadoop-developer-job-description-role-and-duties-cd81fe847ad4?source=rss------hadoop-5)
 - [HDFS Must Die](https://medium.com/@quobjorn/hdfs-must-die-f65b104c3232?source=rss------hadoop-5)
-- [How big MNC’s like
-Google, Facebook, Instagram, etc stores manage and manipulate
-thousands of…](https://upadhyay-shivam.medium.com/how-big-mncs-like-google-facebook-instagram-etc-stores-manage-and-manipulate-thousands-of-9d8ddfef6836?source=rss------hadoop-5)
-- [Новый релиз Apache Hadoop 3.3.1: ТОП-15 обновлений](https://medium.com/@bigdataschool/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9-%D1%80%D0%B5%D0%BB%D0%B8%D0%B7-apache-hadoop-3-3-1-%D1%82%D0%BE%D0%BF-15-%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9-53f9dc72c580?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
