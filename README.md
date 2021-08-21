@@ -319,6 +319,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop in real world posts*
 
 <!-- HADOOPINREALWORLD-POST-LIST:START -->
+- [Error initializing SparkContext with java.net.BindException](https://www.hadoopinrealworld.com/error-initializing-sparkcontext-with-java-net-bindexception/)
 - [How to get a list of consumers connected to a Kafka topic?](https://www.hadoopinrealworld.com/how-to-get-a-list-of-consumers-connected-to-a-kafka-topic/)
 - [What is the difference between RDD, Dataframe and Dataset in Spark?](https://www.hadoopinrealworld.com/what-is-the-difference-between-rdd-dataframe-and-dataset-in-spark/)
 - [Why is Namenode stuck in safe mode and how to fix it?](https://www.hadoopinrealworld.com/why-is-namenode-stuck-in-safe-mode-and-how-to-fix-it/)
@@ -328,7 +329,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [How does Spark decide the number of tasks and number of tasks to execute in parallel?](https://www.hadoopinrealworld.com/how-does-spark-decide-the-number-of-tasks-and-number-of-tasks-to-execute-in-parallel/)
 - [How to save Spark DataFrame directly to a Hive table?](https://www.hadoopinrealworld.com/how-to-save-spark-dataframe-directly-to-a-hive-table/)
 - [What is the difference between NameNode and Secondary NameNode?](https://www.hadoopinrealworld.com/what-is-the-difference-between-namenode-and-secondary-namenode/)
-- [Can multiple Kafka consumers read the same message from a partition?](https://www.hadoopinrealworld.com/can-multiple-kafka-consumers-read-the-same-message-from-a-partition/)
 <!-- HADOOPINREALWORLD-POST-LIST:END -->
 
 ### *Kognitio posts*
