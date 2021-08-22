@@ -295,16 +295,16 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Settings Make Your Hive Jobs Faster & More Robust](https://medium.com/@seals_xyz/settings-make-your-hive-jobs-faster-more-robust-43024c850280?source=rss------hadoop-5)
+- [Exploring Yarn](https://dhruv-saksena.medium.com/exploring-yarn-2e21ba888040?source=rss------hadoop-5)
+- [What are needed for a Maven project to play with Hive](https://medium.com/@marshallgo/what-are-needed-for-a-maven-project-to-play-with-hive-c4f57b3d38d2?source=rss------hadoop-5)
+- [Deploy Sandbox-hdp via Docker (debug note)](https://jae-huang111.medium.com/deploy-sandbox-hdp-via-docker-debug-note-b082b33db3e?source=rss------hadoop-5)
+- [How is Facebook dealing with Big data?](https://sainadh086.medium.com/how-is-facebook-dealing-with-big-data-6781aa65d6d0?source=rss------hadoop-5)
 - [Handling big, nested, and growing table schemas in data pipelines](https://medium.com/virtuslab/handling-big-nested-and-growing-table-schemas-in-data-pipelines-45e840a780ad?source=rss------hadoop-5)
 - [Setting Up PySpark on AWS EC2](https://medium.com/@nagasai317/setting-up-pyspark-on-aws-ec2-29da649caf01?source=rss------hadoop-5)
 - [Northwind demo database ported to Apache Spark SQL](https://jentekllc8888.medium.com/northwind-demo-database-ported-to-apache-spark-sql-ff617a526e2a?source=rss------hadoop-5)
 - [Setting up a Hadoop Cluster on Ubuntu](https://medium.com/featurepreneur/setting-up-a-hadoop-cluster-on-ubuntu-89a2a8d9b1d9?source=rss------hadoop-5)
 - [Basics of HDFS and installation steps on MacOS](https://dhruv-saksena.medium.com/basics-of-hdfs-and-installation-steps-on-macos-bcb4352895d9?source=rss------hadoop-5)
-- [The current shift of bundling database services is enabling increased efficiency and AI/ML…](https://vijayaphanindra.medium.com/the-current-shift-of-bundling-database-services-is-enabling-increased-efficiency-and-ai-ml-fa954cdb22ee?source=rss------hadoop-5)
-- [How you can make Hive 3 works with Hadoop 3](https://medium.com/@marshallgo/how-hive-3-works-with-hadoop-3-d25c84bde37b?source=rss------hadoop-5)
-- [Re-platforming from Hadoop based Systems into Azure Part 2](https://medium.com/@lackshub/re-platforming-from-hadoop-based-systems-into-azure-part-2-8de3c85a1239?source=rss------hadoop-5)
-- [Зачем Apache Hive внешняя база данных для MetaStore: смотрим на примере Arenadata Hadoop 2.1.4](https://medium.com/@bigdataschool/%D0%B7%D0%B0%D1%87%D0%B5%D0%BC-apache-hive-%D0%B2%D0%BD%D0%B5%D1%88%D0%BD%D1%8F%D1%8F-%D0%B1%D0%B0%D0%B7%D0%B0-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-%D0%B4%D0%BB%D1%8F-metastore-%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%B8%D0%BC-%D0%BD%D0%B0-%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D0%B5-arenadata-hadoop-2-1-4-3038edeab3e9?source=rss------hadoop-5)
-- [Aplicando Big data en la vida real con Java @Datahack](https://medium.com/@alexalvarezcasas/aplicando-big-data-n-la-vida-real-datahack-968cbcae1b36?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
