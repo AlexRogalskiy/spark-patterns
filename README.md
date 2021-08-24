@@ -295,6 +295,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [MapReduce with Python](https://medium.com/geekculture/mapreduce-with-python-5d12a772d5b3?source=rss------hadoop-5)
 - [Settings Make Your Hive Jobs Faster & More Robust](https://medium.com/@seals_xyz/settings-make-your-hive-jobs-faster-more-robust-43024c850280?source=rss------hadoop-5)
 - [Exploring Yarn](https://dhruv-saksena.medium.com/exploring-yarn-2e21ba888040?source=rss------hadoop-5)
 - [What are needed for a Maven project to play with Hive](https://medium.com/@marshallgo/what-are-needed-for-a-maven-project-to-play-with-hive-c4f57b3d38d2?source=rss------hadoop-5)
@@ -304,7 +305,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Setting Up PySpark on AWS EC2](https://medium.com/@nagasai317/setting-up-pyspark-on-aws-ec2-29da649caf01?source=rss------hadoop-5)
 - [Northwind demo database ported to Apache Spark SQL](https://jentekllc8888.medium.com/northwind-demo-database-ported-to-apache-spark-sql-ff617a526e2a?source=rss------hadoop-5)
 - [Setting up a Hadoop Cluster on Ubuntu](https://medium.com/featurepreneur/setting-up-a-hadoop-cluster-on-ubuntu-89a2a8d9b1d9?source=rss------hadoop-5)
-- [Basics of HDFS and installation steps on MacOS](https://dhruv-saksena.medium.com/basics-of-hdfs-and-installation-steps-on-macos-bcb4352895d9?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
