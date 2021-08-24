@@ -319,6 +319,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop in real world posts*
 
 <!-- HADOOPINREALWORLD-POST-LIST:START -->
+- [LeaseExpiredException: No lease error on HDFS](https://www.hadoopinrealworld.com/leaseexpiredexception-no-lease-error-on-hdfs/)
 - [Error initializing SparkContext with java.net.BindException](https://www.hadoopinrealworld.com/error-initializing-sparkcontext-with-java-net-bindexception/)
 - [How to get a list of consumers connected to a Kafka topic?](https://www.hadoopinrealworld.com/how-to-get-a-list-of-consumers-connected-to-a-kafka-topic/)
 - [What is the difference between RDD, Dataframe and Dataset in Spark?](https://www.hadoopinrealworld.com/what-is-the-difference-between-rdd-dataframe-and-dataset-in-spark/)
@@ -328,7 +329,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [How to export a Hive table into a CSV file?](https://www.hadoopinrealworld.com/how-to-export-a-hive-table-into-a-csv-file/)
 - [How does Spark decide the number of tasks and number of tasks to execute in parallel?](https://www.hadoopinrealworld.com/how-does-spark-decide-the-number-of-tasks-and-number-of-tasks-to-execute-in-parallel/)
 - [How to save Spark DataFrame directly to a Hive table?](https://www.hadoopinrealworld.com/how-to-save-spark-dataframe-directly-to-a-hive-table/)
-- [What is the difference between NameNode and Secondary NameNode?](https://www.hadoopinrealworld.com/what-is-the-difference-between-namenode-and-secondary-namenode/)
 <!-- HADOOPINREALWORLD-POST-LIST:END -->
 
 ### *Kognitio posts*
