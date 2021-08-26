@@ -295,6 +295,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Multi-Node Cluster Spark Kurulumu](https://medium.com/@ilkertnkr/multi-node-cluster-spark-kurulumu-a04dbcea2711?source=rss------hadoop-5)
 - [Increase OR decrease the size of the static partition in linux>-](https://gulshachawla.medium.com/increase-or-decrease-the-size-of-the-static-partition-in-linux-ae6026755af?source=rss------hadoop-5)
 - [Integration of LVM with Hadoop-Cluster using AWS Cloud](https://gulshachawla.medium.com/integration-of-lvm-with-hadoop-cluster-using-aws-cloud-66edc98992cd?source=rss------hadoop-5)
 - [Зачем вам Beekeeper или как очистить метаданные таблицы Apache Hive](https://medium.com/@bigdataschool/%D0%B7%D0%B0%D1%87%D0%B5%D0%BC-%D0%B2%D0%B0%D0%BC-beekeeper-%D0%B8%D0%BB%D0%B8-%D0%BA%D0%B0%D0%BA-%D0%BE%D1%87%D0%B8%D1%81%D1%82%D0%B8%D1%82%D1%8C-%D0%BC%D0%B5%D1%82%D0%B0%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5-%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D1%8B-apache-hive-52c8baf9a5b8?source=rss------hadoop-5)
@@ -304,7 +305,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [What are needed for a Maven project to play with Hive](https://medium.com/@marshallgo/what-are-needed-for-a-maven-project-to-play-with-hive-c4f57b3d38d2?source=rss------hadoop-5)
 - [Deploy Sandbox-hdp via Docker (debug note)](https://jae-huang111.medium.com/deploy-sandbox-hdp-via-docker-debug-note-b082b33db3e?source=rss------hadoop-5)
 - [How is Facebook dealing with Big data?](https://sainadh086.medium.com/how-is-facebook-dealing-with-big-data-6781aa65d6d0?source=rss------hadoop-5)
-- [Handling big, nested, and growing table schemas in data pipelines](https://medium.com/virtuslab/handling-big-nested-and-growing-table-schemas-in-data-pipelines-45e840a780ad?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
