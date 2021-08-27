@@ -295,16 +295,16 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Criando seu próprio Big Data com Spark, Hadoop e Hive — Parte 2](https://lucasmanerich.medium.com/criando-seu-pr%C3%B3prio-big-data-com-spark-hadoop-e-hive-parte-2-b9ecd07e4451?source=rss------hadoop-5)
+- [Criando seu próprio Big Data com Spark, Hadoop e Hive — Parte 1](https://lucasmanerich.medium.com/criando-seu-pr%C3%B3prio-big-data-com-spark-hadoop-e-hive-parte-1-bffa4f7c0e70?source=rss------hadoop-5)
+- [EMR — Hadoop Dissonance](https://medium.com/everything-full-stack/emr-hadoop-dissonance-330f322a1d40?source=rss------hadoop-5)
+- [Что такое Erasure Coding и как это устроено: под капотом Apache Hadoop HDFS 3.3.1](https://medium.com/@bigdataschool/%D1%87%D1%82%D0%BE-%D1%82%D0%B0%D0%BA%D0%BE%D0%B5-erasure-coding-%D0%B8-%D0%BA%D0%B0%D0%BA-%D1%8D%D1%82%D0%BE-%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BD%D0%BE-%D0%BF%D0%BE%D0%B4-%D0%BA%D0%B0%D0%BF%D0%BE%D1%82%D0%BE%D0%BC-apache-hadoop-hdfs-3-3-1-6239acfba941?source=rss------hadoop-5)
 - [Multi-Node Cluster Spark Kurulumu](https://medium.com/@ilkertnkr/multi-node-cluster-spark-kurulumu-a04dbcea2711?source=rss------hadoop-5)
 - [Increase OR decrease the size of the static partition in linux>-](https://gulshachawla.medium.com/increase-or-decrease-the-size-of-the-static-partition-in-linux-ae6026755af?source=rss------hadoop-5)
 - [Integration of LVM with Hadoop-Cluster using AWS Cloud](https://gulshachawla.medium.com/integration-of-lvm-with-hadoop-cluster-using-aws-cloud-66edc98992cd?source=rss------hadoop-5)
 - [Зачем вам Beekeeper или как очистить метаданные таблицы Apache Hive](https://medium.com/@bigdataschool/%D0%B7%D0%B0%D1%87%D0%B5%D0%BC-%D0%B2%D0%B0%D0%BC-beekeeper-%D0%B8%D0%BB%D0%B8-%D0%BA%D0%B0%D0%BA-%D0%BE%D1%87%D0%B8%D1%81%D1%82%D0%B8%D1%82%D1%8C-%D0%BC%D0%B5%D1%82%D0%B0%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5-%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D1%8B-apache-hive-52c8baf9a5b8?source=rss------hadoop-5)
 - [MapReduce with Python](https://medium.com/geekculture/mapreduce-with-python-5d12a772d5b3?source=rss------hadoop-5)
 - [Settings Make Your Hive Jobs Faster & More Robust](https://medium.com/@seals_xyz/settings-make-your-hive-jobs-faster-more-robust-43024c850280?source=rss------hadoop-5)
-- [Exploring Yarn](https://dhruv-saksena.medium.com/exploring-yarn-2e21ba888040?source=rss------hadoop-5)
-- [What are needed for a Maven project to play with Hive](https://medium.com/@marshallgo/what-are-needed-for-a-maven-project-to-play-with-hive-c4f57b3d38d2?source=rss------hadoop-5)
-- [Deploy Sandbox-hdp via Docker (debug note)](https://jae-huang111.medium.com/deploy-sandbox-hdp-via-docker-debug-note-b082b33db3e?source=rss------hadoop-5)
-- [How is Facebook dealing with Big data?](https://sainadh086.medium.com/how-is-facebook-dealing-with-big-data-6781aa65d6d0?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
