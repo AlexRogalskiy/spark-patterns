@@ -294,6 +294,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Understanding Apache Spark](https://medium.com/@Sanjay007/understanding-apache-spark-e1746c9262d9?source=rss------hadoop-5)
 - [Criando seu próprio Big Data com Spark, Hadoop e Hive — Parte 3](https://lucasmanerich.medium.com/criando-seu-pr%C3%B3prio-big-data-com-spark-hadoop-e-hive-parte-3-be9afaff287?source=rss------hadoop-5)
 - [Criando seu próprio Big Data com Spark, Hadoop e Hive — Parte 2](https://lucasmanerich.medium.com/criando-seu-pr%C3%B3prio-big-data-com-spark-hadoop-e-hive-parte-2-b9ecd07e4451?source=rss------hadoop-5)
 - [Criando seu próprio Big Data com Spark, Hadoop e Hive — Parte 1](https://lucasmanerich.medium.com/criando-seu-pr%C3%B3prio-big-data-com-spark-hadoop-e-hive-parte-1-bffa4f7c0e70?source=rss------hadoop-5)
@@ -303,7 +304,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Increase OR decrease the size of the static partition in linux>-](https://gulshachawla.medium.com/increase-or-decrease-the-size-of-the-static-partition-in-linux-ae6026755af?source=rss------hadoop-5)
 - [Integration of LVM with Hadoop-Cluster using AWS Cloud](https://gulshachawla.medium.com/integration-of-lvm-with-hadoop-cluster-using-aws-cloud-66edc98992cd?source=rss------hadoop-5)
 - [Зачем вам Beekeeper или как очистить метаданные таблицы Apache Hive](https://medium.com/@bigdataschool/%D0%B7%D0%B0%D1%87%D0%B5%D0%BC-%D0%B2%D0%B0%D0%BC-beekeeper-%D0%B8%D0%BB%D0%B8-%D0%BA%D0%B0%D0%BA-%D0%BE%D1%87%D0%B8%D1%81%D1%82%D0%B8%D1%82%D1%8C-%D0%BC%D0%B5%D1%82%D0%B0%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5-%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D1%8B-apache-hive-52c8baf9a5b8?source=rss------hadoop-5)
-- [MapReduce with Python](https://medium.com/geekculture/mapreduce-with-python-5d12a772d5b3?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
