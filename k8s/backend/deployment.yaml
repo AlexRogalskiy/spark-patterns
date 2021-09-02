@@ -34,6 +34,7 @@ spec:
   - name: http
     protocol: TCP
     port: 8000
+    targetPort: http
   selector:
     app.kubernetes.io/name: backend-spark-patterns
     app.kubernetes.io/version: v1
@@ -121,8 +122,8 @@ spec:
               memory: "3G"
               ephemeral-storage: "3G"
           securityContext:
-            allowPrivilegeEsparktion: false
-            allowPrivilegeEsparktion: false
+            allowPrivilegeEscalation: false
+            allowPrivilegeEscalation: false
             privileged: false
             readOnlyRootFilesystem: false
             runAsNonRoot: false
