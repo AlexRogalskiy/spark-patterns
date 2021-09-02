@@ -294,6 +294,9 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [HDFS Must Die](https://quobyte.medium.com/hdfs-must-die-1234459cd3dd?source=rss------hadoop-5)
+- [Hive Interview Questions with Answers — Part 2](https://medium.com/technexthere/hive-interview-questions-with-answers-part-2-1c43a88b694d?source=rss------hadoop-5)
+- [Hive Interview Questions with Answers — Part 1](https://medium.com/technexthere/hive-interview-questions-with-answers-part-1-95092f58f38f?source=rss------hadoop-5)
 - [Understanding Apache Spark](https://medium.com/@Sanjay007/understanding-apache-spark-e1746c9262d9?source=rss------hadoop-5)
 - [Criando seu próprio Big Data com Spark, Hadoop e Hive — Parte 3](https://lucasmanerich.medium.com/criando-seu-pr%C3%B3prio-big-data-com-spark-hadoop-e-hive-parte-3-be9afaff287?source=rss------hadoop-5)
 - [Criando seu próprio Big Data com Spark, Hadoop e Hive — Parte 2](https://lucasmanerich.medium.com/criando-seu-pr%C3%B3prio-big-data-com-spark-hadoop-e-hive-parte-2-b9ecd07e4451?source=rss------hadoop-5)
@@ -301,9 +304,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [EMR — Hadoop Dissonance](https://medium.com/everything-full-stack/emr-hadoop-dissonance-330f322a1d40?source=rss------hadoop-5)
 - [Что такое Erasure Coding и как это устроено: под капотом Apache Hadoop HDFS 3.3.1](https://medium.com/@bigdataschool/%D1%87%D1%82%D0%BE-%D1%82%D0%B0%D0%BA%D0%BE%D0%B5-erasure-coding-%D0%B8-%D0%BA%D0%B0%D0%BA-%D1%8D%D1%82%D0%BE-%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BD%D0%BE-%D0%BF%D0%BE%D0%B4-%D0%BA%D0%B0%D0%BF%D0%BE%D1%82%D0%BE%D0%BC-apache-hadoop-hdfs-3-3-1-6239acfba941?source=rss------hadoop-5)
 - [Multi-Node Cluster Spark Kurulumu](https://medium.com/@ilkertnkr/multi-node-cluster-spark-kurulumu-a04dbcea2711?source=rss------hadoop-5)
-- [Increase OR decrease the size of the static partition in linux>-](https://gulshachawla.medium.com/increase-or-decrease-the-size-of-the-static-partition-in-linux-ae6026755af?source=rss------hadoop-5)
-- [Integration of LVM with Hadoop-Cluster using AWS Cloud](https://gulshachawla.medium.com/integration-of-lvm-with-hadoop-cluster-using-aws-cloud-66edc98992cd?source=rss------hadoop-5)
-- [Зачем вам Beekeeper или как очистить метаданные таблицы Apache Hive](https://medium.com/@bigdataschool/%D0%B7%D0%B0%D1%87%D0%B5%D0%BC-%D0%B2%D0%B0%D0%BC-beekeeper-%D0%B8%D0%BB%D0%B8-%D0%BA%D0%B0%D0%BA-%D0%BE%D1%87%D0%B8%D1%81%D1%82%D0%B8%D1%82%D1%8C-%D0%BC%D0%B5%D1%82%D0%B0%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5-%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D1%8B-apache-hive-52c8baf9a5b8?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
