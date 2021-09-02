@@ -318,6 +318,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop in real world posts*
 
 <!-- HADOOPINREALWORLD-POST-LIST:START -->
+- [How to fix Incompatible clusterIDs error during DataNode startup?](https://www.hadoopinrealworld.com/how-to-fix-incompatible-clusterids-error-during-datanode-startup/)
 - [How to change the number of replicas of a Kafka topic?](https://www.hadoopinrealworld.com/how-to-change-the-number-of-replicas-of-a-kafka-topic/)
 - [How to calculate median in Hive?](https://www.hadoopinrealworld.com/how-to-calculate-median-in-hive/)
 - [How to subtract or see differences between two DataFrames in Spark?](https://www.hadoopinrealworld.com/how-to-subtract-or-see-differences-between-two-dataframes-in-spark/)
@@ -327,7 +328,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [What is the difference between RDD, Dataframe and Dataset in Spark?](https://www.hadoopinrealworld.com/what-is-the-difference-between-rdd-dataframe-and-dataset-in-spark/)
 - [Why is Namenode stuck in safe mode and how to fix it?](https://www.hadoopinrealworld.com/why-is-namenode-stuck-in-safe-mode-and-how-to-fix-it/)
 - [How to download an entire bucket from S3?](https://www.hadoopinrealworld.com/how-to-download-an-entire-bucket-from-s3/)
-- [What does “Stage Skipped” mean in Apache Spark web UI?](https://www.hadoopinrealworld.com/what-does-stage-skipped-mean-in-apache-spark-web-ui/)
 <!-- HADOOPINREALWORLD-POST-LIST:END -->
 
 ### *Kognitio posts*
