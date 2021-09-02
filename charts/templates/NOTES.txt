@@ -1,12 +1,12 @@
 
-Thank you for installing Java Patterns Docs!
+Thank you for installing Spark Patterns Docs!
 
 - The application has been deployed, but it could take a few minutes to be ready.
   You can check the rollout using:
 
   kubectl rollout status deployment {{ include "backend-spark-patterns.fullname" . }}
 
-- The Java Patterns Docs webapp are accessible through the landing page:
+- The Spark Patterns Docs webapp are accessible through the landing page:
 {{ if .Values.ingress.enabled }}
 {{- range $host := .Values.ingress.hosts }}
   {{- range .paths }}
@@ -27,6 +27,7 @@ Thank you for installing Java Patterns Docs!
 
 {{- else if contains "ClusterIP" .Values.service.type }}
   kubectl --namespace {{ .Release.Namespace }} port-forward svc/{{ include "backend-spark-patterns.fullname" . }} {{ .Values.service.port }}
+  kubectl port-forward $POD_NAME 8000:8000
   http://localhost:8000/spark-patterns/
 {{- end }}
 
