@@ -317,6 +317,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop in real world posts*
 
 <!-- HADOOPINREALWORLD-POST-LIST:START -->
+- [How does LATERAL VIEW work in Hive?](https://www.hadoopinrealworld.com/how-does-lateral-view-work-in-hive/)
 - [How to fix Incompatible clusterIDs error during DataNode startup?](https://www.hadoopinrealworld.com/how-to-fix-incompatible-clusterids-error-during-datanode-startup/)
 - [How to change the number of replicas of a Kafka topic?](https://www.hadoopinrealworld.com/how-to-change-the-number-of-replicas-of-a-kafka-topic/)
 - [How to calculate median in Hive?](https://www.hadoopinrealworld.com/how-to-calculate-median-in-hive/)
@@ -326,7 +327,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [How to get a list of consumers connected to a Kafka topic?](https://www.hadoopinrealworld.com/how-to-get-a-list-of-consumers-connected-to-a-kafka-topic/)
 - [What is the difference between RDD, Dataframe and Dataset in Spark?](https://www.hadoopinrealworld.com/what-is-the-difference-between-rdd-dataframe-and-dataset-in-spark/)
 - [Why is Namenode stuck in safe mode and how to fix it?](https://www.hadoopinrealworld.com/why-is-namenode-stuck-in-safe-mode-and-how-to-fix-it/)
-- [How to download an entire bucket from S3?](https://www.hadoopinrealworld.com/how-to-download-an-entire-bucket-from-s3/)
 <!-- HADOOPINREALWORLD-POST-LIST:END -->
 
 ### *Kognitio posts*
