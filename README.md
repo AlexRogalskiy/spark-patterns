@@ -294,6 +294,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Hive Metastore — Why It’s Still Here and What Can Replace it?](https://medium.com/whispering-data/hive-metastore-why-its-still-here-and-what-can-replace-it-4cf66c761803?source=rss------hadoop-5)
+- [Architecting a Scalable Stock Price Prediction Service with Hadoop, Kafka, Spark & FBProphet](https://ganlida.medium.com/architecting-a-scalable-stock-price-prediction-service-with-hadoop-kafka-spark-fbprophet-392a457738ae?source=rss------hadoop-5)
 - [Hive Interview Questions with Answers — Part 3](https://medium.com/technexthere/hive-interview-questions-with-answers-part-3-821014f810b?source=rss------hadoop-5)
 - [Управление кластерами Apache Hadoop и Spark с YARN: 3 варианта планирования ресурсов](https://medium.com/@bigdataschool/%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BA%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%B0%D0%BC%D0%B8-apache-hadoop-%D0%B8-spark-%D1%81-yarn-3-%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D0%B0-%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D1%80%D0%B5%D1%81%D1%83%D1%80%D1%81%D0%BE%D0%B2-3b84c63d64fe?source=rss------hadoop-5)
 - [Hive Interview Questions with Answers — Part 2](https://medium.com/technexthere/hive-interview-questions-with-answers-part-2-1c43a88b694d?source=rss------hadoop-5)
@@ -301,8 +303,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Understanding Apache Spark](https://medium.com/@Sanjay007/understanding-apache-spark-e1746c9262d9?source=rss------hadoop-5)
 - [Criando seu próprio Big Data com Spark, Hadoop e Hive — Parte 3](https://lucasmanerich.medium.com/criando-seu-pr%C3%B3prio-big-data-com-spark-hadoop-e-hive-parte-3-be9afaff287?source=rss------hadoop-5)
 - [Criando seu próprio Big Data com Spark, Hadoop e Hive — Parte 2](https://lucasmanerich.medium.com/criando-seu-pr%C3%B3prio-big-data-com-spark-hadoop-e-hive-parte-2-b9ecd07e4451?source=rss------hadoop-5)
-- [Criando seu próprio Big Data com Spark, Hadoop e Hive — Parte 1](https://lucasmanerich.medium.com/criando-seu-pr%C3%B3prio-big-data-com-spark-hadoop-e-hive-parte-1-bffa4f7c0e70?source=rss------hadoop-5)
-- [EMR — Hadoop Dissonance](https://medium.com/everything-full-stack/emr-hadoop-dissonance-330f322a1d40?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
