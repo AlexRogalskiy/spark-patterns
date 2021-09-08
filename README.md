@@ -296,6 +296,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [hbase 도입 검토](https://sig03.medium.com/hbase-%EB%8F%84%EC%9E%85-%EA%B2%80%ED%86%A0-e165fd439f5b?source=rss------hadoop-5)
 - [Hive Metastore — Why It’s Still Here and What Can Replace it?](https://medium.com/whispering-data/hive-metastore-why-its-still-here-and-what-can-replace-it-4cf66c761803?source=rss------hadoop-5)
 - [Architecting a Scalable Stock Price Prediction Service with Hadoop, Kafka, Spark & FBProphet](https://ganlida.medium.com/architecting-a-scalable-stock-price-prediction-service-with-hadoop-kafka-spark-fbprophet-392a457738ae?source=rss------hadoop-5)
 - [Hive Interview Questions with Answers — Part 3](https://medium.com/technexthere/hive-interview-questions-with-answers-part-3-821014f810b?source=rss------hadoop-5)
@@ -304,7 +305,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Hive Interview Questions with Answers — Part 1](https://medium.com/technexthere/hive-interview-questions-with-answers-part-1-95092f58f38f?source=rss------hadoop-5)
 - [Understanding Apache Spark](https://medium.com/@Sanjay007/understanding-apache-spark-e1746c9262d9?source=rss------hadoop-5)
 - [Criando seu próprio Big Data com Spark, Hadoop e Hive — Parte 3](https://lucasmanerich.medium.com/criando-seu-pr%C3%B3prio-big-data-com-spark-hadoop-e-hive-parte-3-be9afaff287?source=rss------hadoop-5)
-- [Criando seu próprio Big Data com Spark, Hadoop e Hive — Parte 2](https://lucasmanerich.medium.com/criando-seu-pr%C3%B3prio-big-data-com-spark-hadoop-e-hive-parte-2-b9ecd07e4451?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
