@@ -319,6 +319,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop in real world posts*
 
 <!-- HADOOPINREALWORLD-POST-LIST:START -->
+- [How to find the available free space in HDFS?](https://www.hadoopinrealworld.com/how-to-find-the-available-free-space-in-hdfs/)
 - [What do the numbers on the progress bar mean in Spark shell or Spark UI?](https://www.hadoopinrealworld.com/what-do-the-numbers-on-the-progress-bar-mean-in-spark-shell-or-spark-ui/)
 - [How does LATERAL VIEW work in Hive?](https://www.hadoopinrealworld.com/how-does-lateral-view-work-in-hive/)
 - [How to fix Incompatible clusterIDs error during DataNode startup?](https://www.hadoopinrealworld.com/how-to-fix-incompatible-clusterids-error-during-datanode-startup/)
@@ -328,7 +329,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [LeaseExpiredException: No lease error on HDFS](https://www.hadoopinrealworld.com/leaseexpiredexception-no-lease-error-on-hdfs/)
 - [Error initializing SparkContext with java.net.BindException](https://www.hadoopinrealworld.com/error-initializing-sparkcontext-with-java-net-bindexception/)
 - [How to get a list of consumers connected to a Kafka topic?](https://www.hadoopinrealworld.com/how-to-get-a-list-of-consumers-connected-to-a-kafka-topic/)
-- [What is the difference between RDD, Dataframe and Dataset in Spark?](https://www.hadoopinrealworld.com/what-is-the-difference-between-rdd-dataframe-and-dataset-in-spark/)
 <!-- HADOOPINREALWORLD-POST-LIST:END -->
 
 ### *Kognitio posts*
