@@ -319,6 +319,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop in real world posts*
 
 <!-- HADOOPINREALWORLD-POST-LIST:START -->
+- [What is the difference between order by, sort by, cluster by and distribute by in Hive?](https://www.hadoopinrealworld.com/what-is-the-difference-between-order-by-sort-by-cluster-by-and-distribute-by-in-hive/)
 - [How to find the available free space in HDFS?](https://www.hadoopinrealworld.com/how-to-find-the-available-free-space-in-hdfs/)
 - [What do the numbers on the progress bar mean in Spark shell or Spark UI?](https://www.hadoopinrealworld.com/what-do-the-numbers-on-the-progress-bar-mean-in-spark-shell-or-spark-ui/)
 - [How does LATERAL VIEW work in Hive?](https://www.hadoopinrealworld.com/how-does-lateral-view-work-in-hive/)
@@ -328,7 +329,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [How to subtract or see differences between two DataFrames in Spark?](https://www.hadoopinrealworld.com/how-to-subtract-or-see-differences-between-two-dataframes-in-spark/)
 - [LeaseExpiredException: No lease error on HDFS](https://www.hadoopinrealworld.com/leaseexpiredexception-no-lease-error-on-hdfs/)
 - [Error initializing SparkContext with java.net.BindException](https://www.hadoopinrealworld.com/error-initializing-sparkcontext-with-java-net-bindexception/)
-- [How to get a list of consumers connected to a Kafka topic?](https://www.hadoopinrealworld.com/how-to-get-a-list-of-consumers-connected-to-a-kafka-topic/)
 <!-- HADOOPINREALWORLD-POST-LIST:END -->
 
 ### *Kognitio posts*
