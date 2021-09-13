@@ -296,7 +296,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
-- [Ingesting Petabytes of Data Per Week Into Hadoop From Kafka](https://medium.com/agoda-engineering/ingesting-petabytes-of-data-per-week-into-hadoop-from-kafka-457718cc308c?source=rss------hadoop-5)
+- [How our data scientists get their petabytes of data in Hadoop](https://medium.com/agoda-engineering/ingesting-petabytes-of-data-per-week-into-hadoop-from-kafka-457718cc308c?source=rss------hadoop-5)
 - [hbase 도입 검토](https://sig03.medium.com/hbase-%EB%8F%84%EC%9E%85-%EA%B2%80%ED%86%A0-e165fd439f5b?source=rss------hadoop-5)
 - [Hive Metastore — Why It’s Still Here and What Can Replace it?](https://medium.com/whispering-data/hive-metastore-why-its-still-here-and-what-can-replace-it-4cf66c761803?source=rss------hadoop-5)
 - [Architecting a Scalable Stock Price Prediction Service with Hadoop, Kafka, Spark & FBProphet](https://ganlida.medium.com/architecting-a-scalable-stock-price-prediction-service-with-hadoop-kafka-spark-fbprophet-392a457738ae?source=rss------hadoop-5)
