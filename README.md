@@ -319,6 +319,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop in real world posts*
 
 <!-- HADOOPINREALWORLD-POST-LIST:START -->
+- [How to get a few lines of data from a file in HDFS?](https://www.hadoopinrealworld.com/how-to-get-a-few-lines-of-data-from-a-file-in-hdfs/)
 - [What is the difference between order by, sort by, cluster by and distribute by in Hive?](https://www.hadoopinrealworld.com/what-is-the-difference-between-order-by-sort-by-cluster-by-and-distribute-by-in-hive/)
 - [How to find the available free space in HDFS?](https://www.hadoopinrealworld.com/how-to-find-the-available-free-space-in-hdfs/)
 - [What do the numbers on the progress bar mean in Spark shell or Spark UI?](https://www.hadoopinrealworld.com/what-do-the-numbers-on-the-progress-bar-mean-in-spark-shell-or-spark-ui/)
@@ -328,7 +329,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [How to calculate median in Hive?](https://www.hadoopinrealworld.com/how-to-calculate-median-in-hive/)
 - [How to subtract or see differences between two DataFrames in Spark?](https://www.hadoopinrealworld.com/how-to-subtract-or-see-differences-between-two-dataframes-in-spark/)
 - [LeaseExpiredException: No lease error on HDFS](https://www.hadoopinrealworld.com/leaseexpiredexception-no-lease-error-on-hdfs/)
-- [Error initializing SparkContext with java.net.BindException](https://www.hadoopinrealworld.com/error-initializing-sparkcontext-with-java-net-bindexception/)
 <!-- HADOOPINREALWORLD-POST-LIST:END -->
 
 ### *Kognitio posts*
