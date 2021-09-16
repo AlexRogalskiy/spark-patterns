@@ -319,6 +319,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop in real world posts*
 
 <!-- HADOOPINREALWORLD-POST-LIST:START -->
+- [What are accumulators in Spark, when and when not to use them?](https://www.hadoopinrealworld.com/what-are-accumulators-in-spark-when-and-when-not-to-use-them/)
 - [How to get a few lines of data from a file in HDFS?](https://www.hadoopinrealworld.com/how-to-get-a-few-lines-of-data-from-a-file-in-hdfs/)
 - [What is the difference between order by, sort by, cluster by and distribute by in Hive?](https://www.hadoopinrealworld.com/what-is-the-difference-between-order-by-sort-by-cluster-by-and-distribute-by-in-hive/)
 - [How to find the available free space in HDFS?](https://www.hadoopinrealworld.com/how-to-find-the-available-free-space-in-hdfs/)
@@ -328,7 +329,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [How to change the number of replicas of a Kafka topic?](https://www.hadoopinrealworld.com/how-to-change-the-number-of-replicas-of-a-kafka-topic/)
 - [How to calculate median in Hive?](https://www.hadoopinrealworld.com/how-to-calculate-median-in-hive/)
 - [How to subtract or see differences between two DataFrames in Spark?](https://www.hadoopinrealworld.com/how-to-subtract-or-see-differences-between-two-dataframes-in-spark/)
-- [LeaseExpiredException: No lease error on HDFS](https://www.hadoopinrealworld.com/leaseexpiredexception-no-lease-error-on-hdfs/)
 <!-- HADOOPINREALWORLD-POST-LIST:END -->
 
 ### *Kognitio posts*
