@@ -296,6 +296,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [От JDBC-подключения до SQL-запросов: пара примеров по Apache Hive, HBase и Spark](https://medium.com/@bigdataschool/%D0%BE%D1%82-jdbc-%D0%BF%D0%BE%D0%B4%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B4%D0%BE-sql-%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2-%D0%BF%D0%B0%D1%80%D0%B0-%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D0%BE%D0%B2-%D0%BF%D0%BE-apache-hive-hbase-%D0%B8-spark-8bc56bd1bff1?source=rss------hadoop-5)
 - [How our data scientists get their petabytes of data in Hadoop](https://medium.com/agoda-engineering/ingesting-petabytes-of-data-per-week-into-hadoop-from-kafka-457718cc308c?source=rss------hadoop-5)
 - [hbase 도입 검토](https://sig03.medium.com/hbase-%EB%8F%84%EC%9E%85-%EA%B2%80%ED%86%A0-e165fd439f5b?source=rss------hadoop-5)
 - [Hive Metastore — Why It’s Still Here and What Can Replace it?](https://medium.com/whispering-data/hive-metastore-why-its-still-here-and-what-can-replace-it-4cf66c761803?source=rss------hadoop-5)
@@ -304,7 +305,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Управление кластерами Apache Hadoop и Spark с YARN: 3 варианта планирования ресурсов](https://medium.com/@bigdataschool/%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BA%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%B0%D0%BC%D0%B8-apache-hadoop-%D0%B8-spark-%D1%81-yarn-3-%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D0%B0-%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D1%80%D0%B5%D1%81%D1%83%D1%80%D1%81%D0%BE%D0%B2-3b84c63d64fe?source=rss------hadoop-5)
 - [Hive Interview Questions with Answers — Part 2](https://medium.com/technexthere/hive-interview-questions-with-answers-part-2-1c43a88b694d?source=rss------hadoop-5)
 - [Hive Interview Questions with Answers — Part 1](https://medium.com/technexthere/hive-interview-questions-with-answers-part-1-95092f58f38f?source=rss------hadoop-5)
-- [Understanding Apache Spark](https://medium.com/@Sanjay007/understanding-apache-spark-e1746c9262d9?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
