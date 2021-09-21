@@ -320,6 +320,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop in real world posts*
 
 <!-- HADOOPINREALWORLD-POST-LIST:START -->
+- [What is the difference between partitioning and bucketing a table in Hive?](https://www.hadoopinrealworld.com/what-is-the-difference-between-partitioning-and-bucketing-a-table-in-hive/)
 - [How does Spark decide stages and tasks during execution of a Job?](https://www.hadoopinrealworld.com/how-does-spark-decide-stages-and-tasks-during-execution-of-a-job/)
 - [What are accumulators in Spark, when and when not to use them?](https://www.hadoopinrealworld.com/what-are-accumulators-in-spark-when-and-when-not-to-use-them/)
 - [How to get a few lines of data from a file in HDFS?](https://www.hadoopinrealworld.com/how-to-get-a-few-lines-of-data-from-a-file-in-hdfs/)
@@ -329,7 +330,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [How does LATERAL VIEW work in Hive?](https://www.hadoopinrealworld.com/how-does-lateral-view-work-in-hive/)
 - [How to fix Incompatible clusterIDs error during DataNode startup?](https://www.hadoopinrealworld.com/how-to-fix-incompatible-clusterids-error-during-datanode-startup/)
 - [How to change the number of replicas of a Kafka topic?](https://www.hadoopinrealworld.com/how-to-change-the-number-of-replicas-of-a-kafka-topic/)
-- [How to calculate median in Hive?](https://www.hadoopinrealworld.com/how-to-calculate-median-in-hive/)
 <!-- HADOOPINREALWORLD-POST-LIST:END -->
 
 ### *Kognitio posts*
