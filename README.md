@@ -296,6 +296,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Spark Deep Dive — The Anatomy (Part 2)](https://medium.com/analytics-vidhya/spark-deep-dive-the-anatomy-part-2-b6bb9f84c64d?source=rss------hadoop-5)
+- [YARN](https://medium.com/@bigdataschool/yarn-208501cebe6c?source=rss------hadoop-5)
 - [Installing Hadoop with HIVE on macOS Catalina using Homebrew](https://medium.com/@hannahstrakna/installing-hadoop-with-hive-on-macos-catalina-using-homebrew-b4d384d455e4?source=rss------hadoop-5)
 - [Port numbers used in Hadoop](https://medium.com/@somu2k16/port-numbers-used-in-hadoop-5a141fea780b?source=rss------hadoop-5)
 - [Significance of Big Data](https://medium.com/@somu2k16/significance-of-big-data-4207288ca85a?source=rss------hadoop-5)
@@ -304,8 +306,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [hbase 도입 검토](https://sig03.medium.com/hbase-%EB%8F%84%EC%9E%85-%EA%B2%80%ED%86%A0-e165fd439f5b?source=rss------hadoop-5)
 - [Hive Metastore — Why It’s Still Here and What Can Replace it?](https://medium.com/whispering-data/hive-metastore-why-its-still-here-and-what-can-replace-it-4cf66c761803?source=rss------hadoop-5)
 - [Architecting a Scalable Stock Price Prediction Service with Hadoop, Kafka, Spark & FBProphet](https://ganlida.medium.com/architecting-a-scalable-stock-price-prediction-service-with-hadoop-kafka-spark-fbprophet-392a457738ae?source=rss------hadoop-5)
-- [Hive Interview Questions with Answers — Part 3](https://medium.com/technexthere/hive-interview-questions-with-answers-part-3-821014f810b?source=rss------hadoop-5)
-- [Управление кластерами Apache Hadoop и Spark с YARN: 3 варианта планирования ресурсов](https://medium.com/@bigdataschool/%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BA%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%B0%D0%BC%D0%B8-apache-hadoop-%D0%B8-spark-%D1%81-yarn-3-%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D0%B0-%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D1%80%D0%B5%D1%81%D1%83%D1%80%D1%81%D0%BE%D0%B2-3b84c63d64fe?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
