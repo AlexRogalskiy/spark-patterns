@@ -320,6 +320,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop in real world posts*
 
 <!-- HADOOPINREALWORLD-POST-LIST:START -->
+- [How to list all the columns in a Hive table?](https://www.hadoopinrealworld.com/how-to-list-all-the-columns-in-a-hive-table/)
 - [What is the difference between partitioning and bucketing a table in Hive?](https://www.hadoopinrealworld.com/what-is-the-difference-between-partitioning-and-bucketing-a-table-in-hive/)
 - [How does Spark decide stages and tasks during execution of a Job?](https://www.hadoopinrealworld.com/how-does-spark-decide-stages-and-tasks-during-execution-of-a-job/)
 - [What are accumulators in Spark, when and when not to use them?](https://www.hadoopinrealworld.com/what-are-accumulators-in-spark-when-and-when-not-to-use-them/)
@@ -329,7 +330,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [What do the numbers on the progress bar mean in Spark shell or Spark UI?](https://www.hadoopinrealworld.com/what-do-the-numbers-on-the-progress-bar-mean-in-spark-shell-or-spark-ui/)
 - [How does LATERAL VIEW work in Hive?](https://www.hadoopinrealworld.com/how-does-lateral-view-work-in-hive/)
 - [How to fix Incompatible clusterIDs error during DataNode startup?](https://www.hadoopinrealworld.com/how-to-fix-incompatible-clusterids-error-during-datanode-startup/)
-- [How to change the number of replicas of a Kafka topic?](https://www.hadoopinrealworld.com/how-to-change-the-number-of-replicas-of-a-kafka-topic/)
 <!-- HADOOPINREALWORLD-POST-LIST:END -->
 
 ### *Kognitio posts*
