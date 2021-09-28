@@ -296,6 +296,9 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Menu Driven Automation Program using Python](https://ananyamudgal21.medium.com/menu-driven-automation-program-using-python-2ae3b72ba8da?source=rss------hadoop-5)
+- [A10 — Major Big Data Technologies](https://medium.com/xnewdata/a10-major-big-data-technologies-d30bbb9fd226?source=rss------hadoop-5)
+- [5 Hive Optimization Techniques](https://medium.com/@somu2k16/5-hive-optimization-techniques-eb6d9203eb6c?source=rss------hadoop-5)
 - [✨Integrating LVM with Hadoop and providing Elasticity to DataNode Storage✨](https://sunil-sirvi1921.medium.com/integrating-lvm-with-hadoop-and-providing-elasticity-to-datanode-storage-24efbba5f5f6?source=rss------hadoop-5)
 - [Hbase Installation on Mac](https://ashwani-singh-nitk.medium.com/hbase-installation-on-mac-505b90dd1635?source=rss------hadoop-5)
 - [Hadoop Installation From Scratch](https://medium.com/@radwanelourhmati7/hadoop-installation-from-scratch-78ce534f5e40?source=rss------hadoop-5)
@@ -303,9 +306,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Spark Deep Dive — The Anatomy (Part 2)](https://medium.com/analytics-vidhya/spark-deep-dive-the-anatomy-part-2-b6bb9f84c64d?source=rss------hadoop-5)
 - [YARN](https://medium.com/@bigdataschool/yarn-208501cebe6c?source=rss------hadoop-5)
 - [Installing Hadoop with HIVE on macOS Catalina using Homebrew](https://medium.com/@hannahstrakna/installing-hadoop-with-hive-on-macos-catalina-using-homebrew-b4d384d455e4?source=rss------hadoop-5)
-- [Port numbers used in Hadoop](https://medium.com/@somu2k16/port-numbers-used-in-hadoop-5a141fea780b?source=rss------hadoop-5)
-- [Significance of Big Data](https://medium.com/@somu2k16/significance-of-big-data-4207288ca85a?source=rss------hadoop-5)
-- [От JDBC-подключения до SQL-запросов: пара примеров по Apache Hive, HBase и Spark](https://medium.com/@bigdataschool/%D0%BE%D1%82-jdbc-%D0%BF%D0%BE%D0%B4%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B4%D0%BE-sql-%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2-%D0%BF%D0%B0%D1%80%D0%B0-%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D0%BE%D0%B2-%D0%BF%D0%BE-apache-hive-hbase-%D0%B8-spark-8bc56bd1bff1?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
