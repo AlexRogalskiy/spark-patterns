@@ -296,16 +296,16 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Executing Mapreduce tasks using python](https://medium.com/@radwanelourhmati7/executing-mapreduce-tasks-using-python-5e95d48ee52b?source=rss------hadoop-5)
+- [A11 — Hadoop Ecosystem (Summary)](https://medium.com/xnewdata/a11-hadoop-ecosystem-summary-db8e588dddde?source=rss------hadoop-5)
+- [How Big MNC’s manage Big Data?](https://yashhirulkar701.medium.com/how-big-mncs-manage-big-data-e7e7a0015f6c?source=rss------hadoop-5)
+- [Еще пара примеров по Apache Hive и Spark: безопасный доступ и реализация SCD](https://medium.com/@bigdataschool/%D0%B5%D1%89%D0%B5-%D0%BF%D0%B0%D1%80%D0%B0-%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D0%BE%D0%B2-%D0%BF%D0%BE-apache-hive-%D0%B8-spark-%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D1%8B%D0%B9-%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF-%D0%B8-%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F-scd-5af44ab89bf4?source=rss------hadoop-5)
 - [Menu Driven Automation Program using Python](https://ananyamudgal21.medium.com/menu-driven-automation-program-using-python-2ae3b72ba8da?source=rss------hadoop-5)
 - [A10 — Major Big Data Technologies](https://medium.com/xnewdata/a10-major-big-data-technologies-d30bbb9fd226?source=rss------hadoop-5)
 - [5 Hive Optimization Techniques](https://medium.com/@somu2k16/5-hive-optimization-techniques-eb6d9203eb6c?source=rss------hadoop-5)
 - [✨Integrating LVM with Hadoop and providing Elasticity to DataNode Storage✨](https://sunil-sirvi1921.medium.com/integrating-lvm-with-hadoop-and-providing-elasticity-to-datanode-storage-24efbba5f5f6?source=rss------hadoop-5)
 - [Hbase Installation on Mac](https://ashwani-singh-nitk.medium.com/hbase-installation-on-mac-505b90dd1635?source=rss------hadoop-5)
 - [Hadoop Installation From Scratch](https://medium.com/@radwanelourhmati7/hadoop-installation-from-scratch-78ce534f5e40?source=rss------hadoop-5)
-- [Строим масштабируемые ETL/ELT-конвейеры обработки данных с Apache Spark и AirFlow: 4 совета…](https://medium.com/@bigdataschool/%D1%81%D1%82%D1%80%D0%BE%D0%B8%D0%BC-%D0%BC%D0%B0%D1%81%D1%88%D1%82%D0%B0%D0%B1%D0%B8%D1%80%D1%83%D0%B5%D0%BC%D1%8B%D0%B5-etl-elt-%D0%BA%D0%BE%D0%BD%D0%B2%D0%B5%D0%B9%D0%B5%D1%80%D1%8B-%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-%D1%81-apache-spark-%D0%B8-airflow-4-%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D0%B0-d9eb8d8eb92b?source=rss------hadoop-5)
-- [Spark Deep Dive — The Anatomy (Part 2)](https://medium.com/analytics-vidhya/spark-deep-dive-the-anatomy-part-2-b6bb9f84c64d?source=rss------hadoop-5)
-- [YARN](https://medium.com/@bigdataschool/yarn-208501cebe6c?source=rss------hadoop-5)
-- [Installing Hadoop with HIVE on macOS Catalina using Homebrew](https://medium.com/@hannahstrakna/installing-hadoop-with-hive-on-macos-catalina-using-homebrew-b4d384d455e4?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
