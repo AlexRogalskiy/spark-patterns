@@ -296,6 +296,9 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Map-Reduce with Java, Clojure, Scala, Spark, and yes, Lisp!](https://medium.com/@alex_alves/map-reduce-with-java-clojure-scala-spark-and-yes-lisp-dccaa8aeb243?source=rss------hadoop-5)
+- [A12 — Introduction to MapReduce (Summary)](https://medium.com/xnewdata/a12-introduction-to-mapreduce-summary-50277ff8c08a?source=rss------hadoop-5)
+- [Some basic information about Hadoop](https://medium.com/@sreedathps19/some-basic-information-about-hadoop-5afaa81ab13d?source=rss------hadoop-5)
 - [Executing Mapreduce tasks using python](https://medium.com/@radwanelourhmati7/executing-mapreduce-tasks-using-python-5e95d48ee52b?source=rss------hadoop-5)
 - [A11 — Hadoop Ecosystem (Summary)](https://medium.com/xnewdata/a11-hadoop-ecosystem-summary-db8e588dddde?source=rss------hadoop-5)
 - [How Big MNC’s manage Big Data?](https://yashhirulkar701.medium.com/how-big-mncs-manage-big-data-e7e7a0015f6c?source=rss------hadoop-5)
@@ -303,9 +306,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Menu Driven Automation Program using Python](https://ananyamudgal21.medium.com/menu-driven-automation-program-using-python-2ae3b72ba8da?source=rss------hadoop-5)
 - [A10 — Major Big Data Technologies](https://medium.com/xnewdata/a10-major-big-data-technologies-d30bbb9fd226?source=rss------hadoop-5)
 - [5 Hive Optimization Techniques](https://medium.com/@somu2k16/5-hive-optimization-techniques-eb6d9203eb6c?source=rss------hadoop-5)
-- [✨Integrating LVM with Hadoop and providing Elasticity to DataNode Storage✨](https://sunil-sirvi1921.medium.com/integrating-lvm-with-hadoop-and-providing-elasticity-to-datanode-storage-24efbba5f5f6?source=rss------hadoop-5)
-- [Hbase Installation on Mac](https://ashwani-singh-nitk.medium.com/hbase-installation-on-mac-505b90dd1635?source=rss------hadoop-5)
-- [Hadoop Installation From Scratch](https://medium.com/@radwanelourhmati7/hadoop-installation-from-scratch-78ce534f5e40?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
