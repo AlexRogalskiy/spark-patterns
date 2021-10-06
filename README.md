@@ -296,16 +296,16 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Tools for Hadoop](https://techguysfdc.medium.com/tools-for-hadoop-1d10b0268793?source=rss------hadoop-5)
+- [Components of Hadoop](https://techguysfdc.medium.com/components-of-hadoop-36d699b56d86?source=rss------hadoop-5)
+- [Components of HDFS](https://techguysfdc.medium.com/components-of-hdfs-218b1825313?source=rss------hadoop-5)
+- [Apache Hadoop & HDFS](https://medium.com/cagataytuylu/apache-hadoop-hdfs-d6d7c06831f3?source=rss------hadoop-5)
 - [Hadoop Training in Chennai](https://medium.com/@gceb.intell90/hadoop-training-in-chennai-33468f669eb7?source=rss------hadoop-5)
 - [Map-Reduce with Java, Clojure, Scala, Spark, and yes, Lisp!](https://medium.com/@alex_alves/map-reduce-with-java-clojure-scala-spark-and-yes-lisp-dccaa8aeb243?source=rss------hadoop-5)
 - [A12 — Introduction to MapReduce (Summary)](https://medium.com/xnewdata/a12-introduction-to-mapreduce-summary-50277ff8c08a?source=rss------hadoop-5)
 - [Some basic information about Hadoop](https://medium.com/@sreedathps19/some-basic-information-about-hadoop-5afaa81ab13d?source=rss------hadoop-5)
 - [Executing Mapreduce tasks using python](https://radwanelourhmati7.medium.com/executing-mapreduce-tasks-using-python-5e95d48ee52b?source=rss------hadoop-5)
 - [A11 — Hadoop Ecosystem (Summary)](https://medium.com/xnewdata/a11-hadoop-ecosystem-summary-db8e588dddde?source=rss------hadoop-5)
-- [How Big MNC’s manage Big Data?](https://yashhirulkar701.medium.com/how-big-mncs-manage-big-data-e7e7a0015f6c?source=rss------hadoop-5)
-- [Еще пара примеров по Apache Hive и Spark: безопасный доступ и реализация SCD](https://medium.com/@bigdataschool/%D0%B5%D1%89%D0%B5-%D0%BF%D0%B0%D1%80%D0%B0-%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D0%BE%D0%B2-%D0%BF%D0%BE-apache-hive-%D0%B8-spark-%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D1%8B%D0%B9-%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF-%D0%B8-%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F-scd-5af44ab89bf4?source=rss------hadoop-5)
-- [Menu Driven Automation Program using Python](https://ananyamudgal21.medium.com/menu-driven-automation-program-using-python-2ae3b72ba8da?source=rss------hadoop-5)
-- [A10 — Major Big Data Technologies](https://medium.com/xnewdata/a10-major-big-data-technologies-d30bbb9fd226?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
