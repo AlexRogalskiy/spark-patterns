@@ -261,6 +261,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 
 [![Stargazers over time](https://starchart.cc/AlexRogalskiy/spark-patterns.svg)][stars_chart]
 
+[![Statistics report](https://cauldron.io/project/5123/stats.svg)][stats_chart]
+
 ## 📎 *OpenGraph Card*
 
 <p align="center" style="text-align:center;">
@@ -420,6 +422,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 
 [stars_chart]: https://starchart.cc/AlexRogalskiy/spark-patterns
 
+[stats_chart]: https://cauldron.io/project/5123
+
 [contributors]: https://github.com/AlexRogalskiy/spark-patterns/graphs/contributors
 
-[docs]: https://alexander-rogalsky.gitbook.io/spark-patterns/
+[docs]: https://alexander-rogalsky.gitbook.io/spark-patterns
