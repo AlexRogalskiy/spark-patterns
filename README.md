@@ -298,6 +298,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Installation Of Hadoop for the big data analytics(For Windows only)](https://medium.com/@mahantyshiv/installation-of-hadoop-for-the-big-data-analytics-for-windows-only-d7738d29264c?source=rss------hadoop-5)
 - [Tools for Hadoop](https://techguysfdc.medium.com/tools-for-hadoop-1d10b0268793?source=rss------hadoop-5)
 - [Components of Hadoop](https://techguysfdc.medium.com/components-of-hadoop-36d699b56d86?source=rss------hadoop-5)
 - [Components of HDFS](https://techguysfdc.medium.com/components-of-hdfs-218b1825313?source=rss------hadoop-5)
@@ -307,7 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [A12 — Introduction to MapReduce (Summary)](https://medium.com/xnewdata/a12-introduction-to-mapreduce-summary-50277ff8c08a?source=rss------hadoop-5)
 - [Some basic information about Hadoop](https://medium.com/@sreedathps19/some-basic-information-about-hadoop-5afaa81ab13d?source=rss------hadoop-5)
 - [Executing Mapreduce tasks using python](https://radwanelourhmati7.medium.com/executing-mapreduce-tasks-using-python-5e95d48ee52b?source=rss------hadoop-5)
-- [A11 — Hadoop Ecosystem (Summary)](https://medium.com/xnewdata/a11-hadoop-ecosystem-summary-db8e588dddde?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
