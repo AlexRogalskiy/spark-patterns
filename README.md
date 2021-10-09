@@ -322,6 +322,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop in real world posts*
 
 <!-- HADOOPINREALWORLD-POST-LIST:START -->
+- [How to select top N rows in Hive?](https://www.hadoopinrealworld.com/how-to-select-top-n-rows-in-hive/)
 - [What is the difference between foreach and foreachPartition in Spark?](https://www.hadoopinrealworld.com/what-is-the-difference-between-foreach-and-foreachpartition-in-spark/)
 - [How to replace characters in Hive?](https://www.hadoopinrealworld.com/how-to-replace-characters-in-hive/)
 - [What are applications, jobs, stages and tasks in Spark?](https://www.hadoopinrealworld.com/what-are-applications-jobs-stages-and-tasks-in-spark/)
@@ -331,7 +332,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [What is the difference between partitioning and bucketing a table in Hive?](https://www.hadoopinrealworld.com/what-is-the-difference-between-partitioning-and-bucketing-a-table-in-hive/)
 - [How does Spark decide stages and tasks during execution of a Job?](https://www.hadoopinrealworld.com/how-does-spark-decide-stages-and-tasks-during-execution-of-a-job/)
 - [What are accumulators in Spark, when and when not to use them?](https://www.hadoopinrealworld.com/what-are-accumulators-in-spark-when-and-when-not-to-use-them/)
-- [How to get a few lines of data from a file in HDFS?](https://www.hadoopinrealworld.com/how-to-get-a-few-lines-of-data-from-a-file-in-hdfs/)
 <!-- HADOOPINREALWORLD-POST-LIST:END -->
 
 ### *Kognitio posts*
