@@ -298,6 +298,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Hadoop Admin Interview Questions and Answers : Part 1](https://balachandar-paulraj.medium.com/hadoop-admin-interview-questions-and-answers-part-1-126b0e531165?source=rss------hadoop-5)
 - [Apache Hadoop 概要入門](https://naoto0822.medium.com/apache-hadoop-%E6%A6%82%E8%A6%81%E5%85%A5%E9%96%80-f57f855f4de2?source=rss------hadoop-5)
 - [Installation Of Hadoop for the big data analytics(For Windows only)](https://medium.com/@mahantyshiv/installation-of-hadoop-for-the-big-data-analytics-for-windows-only-d7738d29264c?source=rss------hadoop-5)
 - [Tools for Hadoop](https://techguysfdc.medium.com/tools-for-hadoop-1d10b0268793?source=rss------hadoop-5)
@@ -307,7 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Hadoop Training in Chennai](https://medium.com/@gceb.intell90/hadoop-training-in-chennai-33468f669eb7?source=rss------hadoop-5)
 - [Map-Reduce with Java, Clojure, Scala, Spark, and yes, Lisp!](https://medium.com/@alex_alves/map-reduce-with-java-clojure-scala-spark-and-yes-lisp-dccaa8aeb243?source=rss------hadoop-5)
 - [A12 — Introduction to MapReduce (Summary)](https://medium.com/xnewdata/a12-introduction-to-mapreduce-summary-50277ff8c08a?source=rss------hadoop-5)
-- [Some basic information about Hadoop](https://medium.com/@sreedathps19/some-basic-information-about-hadoop-5afaa81ab13d?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
