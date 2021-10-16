@@ -322,6 +322,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop in real world posts*
 
 <!-- HADOOPINREALWORLD-POST-LIST:START -->
+- [What is the difference between EXPLODE and LATERAL VIEW EXPLODE in Hive?](https://www.hadoopinrealworld.com/what-is-the-difference-between-explode-and-lateral-view-explode-in-hive/)
 - [How to calculate the difference between 2 dates in Hive?](https://www.hadoopinrealworld.com/how-to-calculate-the-difference-between-2-dates-in-hive/)
 - [How to select top N rows in Hive?](https://www.hadoopinrealworld.com/how-to-select-top-n-rows-in-hive/)
 - [What is the difference between foreach and foreachPartition in Spark?](https://www.hadoopinrealworld.com/what-is-the-difference-between-foreach-and-foreachpartition-in-spark/)
@@ -331,7 +332,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Why do I see 200 tasks in Spark execution?](https://www.hadoopinrealworld.com/why-do-i-see-200-tasks-in-spark-execution/)
 - [How to list all the columns in a Hive table?](https://www.hadoopinrealworld.com/how-to-list-all-the-columns-in-a-hive-table/)
 - [What is the difference between partitioning and bucketing a table in Hive?](https://www.hadoopinrealworld.com/what-is-the-difference-between-partitioning-and-bucketing-a-table-in-hive/)
-- [How does Spark decide stages and tasks during execution of a Job?](https://www.hadoopinrealworld.com/how-does-spark-decide-stages-and-tasks-during-execution-of-a-job/)
 <!-- HADOOPINREALWORLD-POST-LIST:END -->
 
 ### *Kognitio posts*
