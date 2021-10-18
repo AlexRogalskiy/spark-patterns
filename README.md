@@ -299,6 +299,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 
 <!-- HADOOP-POST-LIST:START -->
 - [How big MNC’s like Google, Facebook, Instagram, etc store, manages, and manipulate Thousands of…](https://deadlock415.medium.com/how-big-mncs-like-google-facebook-instagram-etc-store-manages-and-manipulate-thousands-of-3210baa4cb47?source=rss------hadoop-5)
+- [Apache Kudu: Una Introducción Sencilla — AprenderBigData.com](https://oscarfmdc.medium.com/apache-kudu-una-introducci%C3%B3n-sencilla-aprenderbigdata-com-18e85f61336?source=rss------hadoop-5)
 - [Big Data features](https://thewebbazar2.medium.com/big-data-features-8acb71f44f0?source=rss------hadoop-5)
 - [Перспективы Apache Hive: развитие или забвение?](https://medium.com/@bigdataschool/%D0%BF%D0%B5%D1%80%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D1%8B-apache-hive-%D1%80%D0%B0%D0%B7%D0%B2%D0%B8%D1%82%D0%B8%D0%B5-%D0%B8%D0%BB%D0%B8-%D0%B7%D0%B0%D0%B1%D0%B2%D0%B5%D0%BD%D0%B8%D0%B5-9922dd66a98e?source=rss------hadoop-5)
 - [Hadoop Admin Interview Questions and Answers : Part 1](https://balachandar-paulraj.medium.com/hadoop-admin-interview-questions-and-answers-part-1-126b0e531165?source=rss------hadoop-5)
@@ -307,7 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Tools for Hadoop](https://techguysfdc.medium.com/tools-for-hadoop-1d10b0268793?source=rss------hadoop-5)
 - [Components of Hadoop](https://techguysfdc.medium.com/components-of-hadoop-36d699b56d86?source=rss------hadoop-5)
 - [Components of HDFS](https://techguysfdc.medium.com/components-of-hdfs-218b1825313?source=rss------hadoop-5)
-- [Apache Hadoop & HDFS](https://medium.com/cagataytuylu/apache-hadoop-hdfs-d6d7c06831f3?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
