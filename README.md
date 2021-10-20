@@ -298,6 +298,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [How to Install Hadoop 3.3.1 on Mac](https://medium.com/@marylandinkorea/how-to-install-hadoop-3-3-1-on-mac-6eddbd233d07?source=rss------hadoop-5)
 - [All in one custom and comprehensive Docker Image for the data engineering developer on Apache Spark](https://jentekllc8888.medium.com/all-in-one-custom-and-comprehensive-docker-image-for-the-data-engineering-developer-on-apache-spark-399e875aa59f?source=rss------hadoop-5)
 - [How big MNC’s like Google, Facebook, Instagram, etc store, manages, and manipulate Thousands of…](https://deadlock415.medium.com/how-big-mncs-like-google-facebook-instagram-etc-store-manages-and-manipulate-thousands-of-3210baa4cb47?source=rss------hadoop-5)
 - [Apache Kudu: Una Introducción Sencilla — AprenderBigData.com](https://oscarfmdc.medium.com/apache-kudu-una-introducci%C3%B3n-sencilla-aprenderbigdata-com-18e85f61336?source=rss------hadoop-5)
@@ -307,7 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Apache Hadoop 概要入門](https://naoto0822.medium.com/apache-hadoop-%E6%A6%82%E8%A6%81%E5%85%A5%E9%96%80-f57f855f4de2?source=rss------hadoop-5)
 - [Installation Of Hadoop for the big data analytics(For Windows only)](https://medium.com/@mahantyshiv/installation-of-hadoop-for-the-big-data-analytics-for-windows-only-d7738d29264c?source=rss------hadoop-5)
 - [Tools for Hadoop](https://techguysfdc.medium.com/tools-for-hadoop-1d10b0268793?source=rss------hadoop-5)
-- [Components of Hadoop](https://techguysfdc.medium.com/components-of-hadoop-36d699b56d86?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
