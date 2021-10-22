@@ -298,6 +298,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [What is Hadoop?](https://blog.devgenius.io/what-is-hadoop-5047a94f44fb?source=rss------hadoop-5)
+- [Hadoop MapReduce phases](https://medium.com/@paulamaranon/hadoop-mapreduce-phases-382a02d77fb2?source=rss------hadoop-5)
 - [The HADOOP ECOSYSTEM](https://medium.com/@patelriddhi724/the-hadoop-ecosystem-bac4b4b6395b?source=rss------hadoop-5)
 - [Install Hadoop on MacOS](https://arjuncodes.medium.com/install-hadoop-on-macos-efe7c860c3ed?source=rss------hadoop-5)
 - [How to Install Hadoop 3.3.1 on Mac](https://medium.com/@marylandinkorea/how-to-install-hadoop-3-3-1-on-mac-6eddbd233d07?source=rss------hadoop-5)
@@ -306,8 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Apache Kudu: Una Introducción Sencilla — AprenderBigData.com](https://oscarfmdc.medium.com/apache-kudu-una-introducci%C3%B3n-sencilla-aprenderbigdata-com-18e85f61336?source=rss------hadoop-5)
 - [Big Data features](https://thewebbazar2.medium.com/big-data-features-8acb71f44f0?source=rss------hadoop-5)
 - [Перспективы Apache Hive: развитие или забвение?](https://medium.com/@bigdataschool/%D0%BF%D0%B5%D1%80%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D1%8B-apache-hive-%D1%80%D0%B0%D0%B7%D0%B2%D0%B8%D1%82%D0%B8%D0%B5-%D0%B8%D0%BB%D0%B8-%D0%B7%D0%B0%D0%B1%D0%B2%D0%B5%D0%BD%D0%B8%D0%B5-9922dd66a98e?source=rss------hadoop-5)
-- [Hadoop Admin Interview Questions and Answers : Part 1](https://balachandar-paulraj.medium.com/hadoop-admin-interview-questions-and-answers-part-1-126b0e531165?source=rss------hadoop-5)
-- [Apache Hadoop 概要入門](https://naoto0822.medium.com/apache-hadoop-%E6%A6%82%E8%A6%81%E5%85%A5%E9%96%80-f57f855f4de2?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
