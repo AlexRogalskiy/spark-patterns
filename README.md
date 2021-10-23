@@ -322,6 +322,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop in real world posts*
 
 <!-- HADOOPINREALWORLD-POST-LIST:START -->
+- [Hive architecture](https://www.hadoopinrealworld.com/hive-architecture/)
 - [How to find the version of Hadoop and Hive?](https://www.hadoopinrealworld.com/how-to-find-the-version-of-hadoop-and-hive/)
 - [What is the difference between EXPLODE and LATERAL VIEW EXPLODE in Hive?](https://www.hadoopinrealworld.com/what-is-the-difference-between-explode-and-lateral-view-explode-in-hive/)
 - [How to calculate the difference between 2 dates in Hive?](https://www.hadoopinrealworld.com/how-to-calculate-the-difference-between-2-dates-in-hive/)
@@ -331,7 +332,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [What are applications, jobs, stages and tasks in Spark?](https://www.hadoopinrealworld.com/what-are-applications-jobs-stages-and-tasks-in-spark/)
 - [How to get the current date and time in Hive?](https://www.hadoopinrealworld.com/how-to-get-the-current-date-and-time-in-hive/)
 - [Why do I see 200 tasks in Spark execution?](https://www.hadoopinrealworld.com/why-do-i-see-200-tasks-in-spark-execution/)
-- [How to list all the columns in a Hive table?](https://www.hadoopinrealworld.com/how-to-list-all-the-columns-in-a-hive-table/)
 <!-- HADOOPINREALWORLD-POST-LIST:END -->
 
 ### *Kognitio posts*
