@@ -298,6 +298,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Big Data features](https://thewebbazar2.medium.com/big-data-features-ce97c1d43d45?source=rss------hadoop-5)
 - [What is Hadoop?](https://blog.devgenius.io/what-is-hadoop-5047a94f44fb?source=rss------hadoop-5)
 - [Hadoop MapReduce phases](https://medium.com/@paulamaranon/hadoop-mapreduce-phases-382a02d77fb2?source=rss------hadoop-5)
 - [The HADOOP ECOSYSTEM](https://medium.com/@patelriddhi724/the-hadoop-ecosystem-bac4b4b6395b?source=rss------hadoop-5)
@@ -307,7 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [How big MNC’s like Google, Facebook, Instagram, etc store, manages, and manipulate Thousands of…](https://deadlock415.medium.com/how-big-mncs-like-google-facebook-instagram-etc-store-manages-and-manipulate-thousands-of-3210baa4cb47?source=rss------hadoop-5)
 - [Apache Kudu: Una Introducción Sencilla — AprenderBigData.com](https://oscarfmdc.medium.com/apache-kudu-una-introducci%C3%B3n-sencilla-aprenderbigdata-com-18e85f61336?source=rss------hadoop-5)
 - [Big Data features](https://thewebbazar2.medium.com/big-data-features-8acb71f44f0?source=rss------hadoop-5)
-- [Перспективы Apache Hive: развитие или забвение?](https://medium.com/@bigdataschool/%D0%BF%D0%B5%D1%80%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D1%8B-apache-hive-%D1%80%D0%B0%D0%B7%D0%B2%D0%B8%D1%82%D0%B8%D0%B5-%D0%B8%D0%BB%D0%B8-%D0%B7%D0%B0%D0%B1%D0%B2%D0%B5%D0%BD%D0%B8%D0%B5-9922dd66a98e?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
