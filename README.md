@@ -298,6 +298,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [I deleted data from production](https://medium.com/@_blef/i-deleted-data-from-production-a8bc08ee7c13?source=rss------hadoop-5)
+- [Hadoop to Snowflake: Steps to Migrate Schema & Data](https://medium.com/@nadakkannu.smart/hadoop-to-snowflake-steps-to-migrate-schema-data-670eedfc99b4?source=rss------hadoop-5)
 - [Big Data features](https://thewebbazar2.medium.com/big-data-features-ce97c1d43d45?source=rss------hadoop-5)
 - [What is Hadoop?](https://blog.devgenius.io/what-is-hadoop-5047a94f44fb?source=rss------hadoop-5)
 - [Hadoop MapReduce phases](https://medium.com/@paulamaranon/hadoop-mapreduce-phases-382a02d77fb2?source=rss------hadoop-5)
@@ -306,8 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [How to Install Hadoop 3.3.1 on Mac](https://medium.com/@marylandinkorea/how-to-install-hadoop-3-3-1-on-mac-6eddbd233d07?source=rss------hadoop-5)
 - [All in one custom and comprehensive Docker Image for the data engineering developer on Apache Spark](https://jentekllc8888.medium.com/all-in-one-custom-and-comprehensive-docker-image-for-the-data-engineering-developer-on-apache-spark-399e875aa59f?source=rss------hadoop-5)
 - [How big MNC’s like Google, Facebook, Instagram, etc store, manages, and manipulate Thousands of…](https://deadlock415.medium.com/how-big-mncs-like-google-facebook-instagram-etc-store-manages-and-manipulate-thousands-of-3210baa4cb47?source=rss------hadoop-5)
-- [Apache Kudu: Una Introducción Sencilla — AprenderBigData.com](https://oscarfmdc.medium.com/apache-kudu-una-introducci%C3%B3n-sencilla-aprenderbigdata-com-18e85f61336?source=rss------hadoop-5)
-- [Big Data features](https://thewebbazar2.medium.com/big-data-features-8acb71f44f0?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
