@@ -298,6 +298,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Object Storage에 보관한 CSV 데이터를 CloudHadoop의 Hive External Table로 연동하여 사용하기](https://medium.com/naver-cloud-platform/object-storage%EC%97%90-%EB%B3%B4%EA%B4%80%ED%95%9C-csv-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-cloudhadoop%EC%9D%98-hive-external-table%EB%A1%9C-%EC%97%B0%EB%8F%99%ED%95%98%EC%97%AC-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-b494c3fae649?source=rss------hadoop-5)
 - [I deleted data from production](https://medium.com/@_blef/i-deleted-data-from-production-a8bc08ee7c13?source=rss------hadoop-5)
 - [Hadoop to Snowflake: Steps to Migrate Schema & Data](https://medium.com/@nadakkannu.smart/hadoop-to-snowflake-steps-to-migrate-schema-data-670eedfc99b4?source=rss------hadoop-5)
 - [Big Data features](https://thewebbazar2.medium.com/big-data-features-ce97c1d43d45?source=rss------hadoop-5)
@@ -306,8 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [The HADOOP ECOSYSTEM](https://medium.com/@patelriddhi724/the-hadoop-ecosystem-bac4b4b6395b?source=rss------hadoop-5)
 - [Install Hadoop on MacOS](https://arjuncodes.medium.com/install-hadoop-on-macos-efe7c860c3ed?source=rss------hadoop-5)
 - [How to Install Hadoop 3.3.1 on Mac](https://medium.com/@marylandinkorea/how-to-install-hadoop-3-3-1-on-mac-6eddbd233d07?source=rss------hadoop-5)
-- [All in one custom and comprehensive Docker Image for the data engineering developer on Apache Spark](https://jentekllc8888.medium.com/all-in-one-custom-and-comprehensive-docker-image-for-the-data-engineering-developer-on-apache-spark-399e875aa59f?source=rss------hadoop-5)
-- [How big MNC’s like Google, Facebook, Instagram, etc store, manages, and manipulate Thousands of…](https://deadlock415.medium.com/how-big-mncs-like-google-facebook-instagram-etc-store-manages-and-manipulate-thousands-of-3210baa4cb47?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
