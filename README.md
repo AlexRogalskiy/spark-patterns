@@ -297,15 +297,14 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Hadoop Installation on Ubuntu, Linux OS](https://medium.com/@aveenfaheem02/hadoop-installation-on-ubuntu-linux-os-f417bbb9e710?source=rss------hadoop-5)
+- [Hadoop Sqoop Tool for transferring data between Hadoop and Relational Databases](https://nareshj.medium.com/hadoop-sqoop-tool-for-transferring-data-between-hadoop-and-relational-databases-fa114eb0cd46?source=rss------hadoop-5)
+- [Installing Hadoop on Windows 11 with WSL2](https://towardsdatascience.com/installing-hadoop-on-windows-11-with-wsl2-f11a585e41cf?source=rss------hadoop-5)
+- [Run pySpark job on YARN cluster using JEG](https://medium.com/@fengliplatform/run-pyspark-job-on-yarn-cluster-using-jeg-cef33748314a?source=rss------hadoop-5)
+- [Future of Big Data](https://medium.com/@sreyobhilashiinstitute/future-of-big-data-dd88d325555?source=rss------hadoop-5)
+- [Hadoop Installation using virtual VMWARE Workstation](https://medium.com/@msj.masood/hadoop-installation-using-virtual-vmware-workstation-b757b1aab1ee?source=rss------hadoop-5)
 - [Object Storage에 보관한 CSV 데이터를 CloudHadoop의 Hive External Table로 연동하여 사용하기](https://medium.com/naver-cloud-platform/object-storage%EC%97%90-%EB%B3%B4%EA%B4%80%ED%95%9C-csv-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-cloudhadoop%EC%9D%98-hive-external-table%EB%A1%9C-%EC%97%B0%EB%8F%99%ED%95%98%EC%97%AC-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-b494c3fae649?source=rss------hadoop-5)
-- [I deleted data from production](https://medium.com/@_blef/i-deleted-data-from-production-a8bc08ee7c13?source=rss------hadoop-5)
 - [Hadoop to Snowflake: Steps to Migrate Schema & Data](https://medium.com/@nadakkannu.smart/hadoop-to-snowflake-steps-to-migrate-schema-data-670eedfc99b4?source=rss------hadoop-5)
-- [Big Data features](https://thewebbazar2.medium.com/big-data-features-ce97c1d43d45?source=rss------hadoop-5)
-- [What is Hadoop?](https://blog.devgenius.io/what-is-hadoop-5047a94f44fb?source=rss------hadoop-5)
-- [Hadoop MapReduce phases](https://medium.com/@paulamaranon/hadoop-mapreduce-phases-382a02d77fb2?source=rss------hadoop-5)
-- [The HADOOP ECOSYSTEM](https://medium.com/@patelriddhi724/the-hadoop-ecosystem-bac4b4b6395b?source=rss------hadoop-5)
-- [Install Hadoop on MacOS](https://arjuncodes.medium.com/install-hadoop-on-macos-efe7c860c3ed?source=rss------hadoop-5)
-- [How to Install Hadoop 3.3.1 on Mac](https://medium.com/@marylandinkorea/how-to-install-hadoop-3-3-1-on-mac-6eddbd233d07?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
