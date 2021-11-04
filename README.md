@@ -318,6 +318,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop in real world posts*
 
 <!-- HADOOPINREALWORLD-POST-LIST:START -->
+- [Where does Hive store files for Hive tables?](https://www.hadoopinrealworld.com/where-does-hive-store-files-for-hive-tables/)
 - [How to get DDL or create script of an existing Hive table?](https://www.hadoopinrealworld.com/how-to-get-ddl-or-create-script-of-an-existing-hive-table/)
 - [Hive architecture](https://www.hadoopinrealworld.com/hive-architecture/)
 - [How to find the version of Hadoop and Hive?](https://www.hadoopinrealworld.com/how-to-find-the-version-of-hadoop-and-hive/)
@@ -327,7 +328,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [What is the difference between foreach and foreachPartition in Spark?](https://www.hadoopinrealworld.com/what-is-the-difference-between-foreach-and-foreachpartition-in-spark/)
 - [How to replace characters in Hive?](https://www.hadoopinrealworld.com/how-to-replace-characters-in-hive/)
 - [What are applications, jobs, stages and tasks in Spark?](https://www.hadoopinrealworld.com/what-are-applications-jobs-stages-and-tasks-in-spark/)
-- [How to get the current date and time in Hive?](https://www.hadoopinrealworld.com/how-to-get-the-current-date-and-time-in-hive/)
 <!-- HADOOPINREALWORLD-POST-LIST:END -->
 
 ### *Kognitio posts*
