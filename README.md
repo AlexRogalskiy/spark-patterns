@@ -292,7 +292,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Microsoft brings .NET dev to Apache Spark](https://www.infoworld.com/article/3587595/microsoft-brings-net-dev-to-apache-spark.html#tk.rss_apachespark)
 - [Azure Databricks previews parallelized Photon query engine](https://www.infoworld.com/article/3583657/azure-databricks-previews-parallelized-photon-query-engine.html#tk.rss_apachespark)
 - [Apache Spark 3.0 adds Nvidia GPU support for machine learning](https://www.infoworld.com/article/3543319/apache-spark-30-adds-nvidia-gpu-support-for-machine-learning.html#tk.rss_apachespark)
-- [Qubole review: Self-service big data analytics](https://www.infoworld.com/article/3449896/qubole-review-self-service-big-data-analytics.html#tk.rss_apachespark)
 <!-- INFOWORLD-SPARK-POST-LIST:END -->
 
 ### *Hadoop posts*
