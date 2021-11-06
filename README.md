@@ -297,6 +297,9 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [How to install and configure Apache Hadoop in Ubuntu](https://medium.com/@fatima.pg3401112/how-to-install-and-configure-apache-hadoop-in-ubuntu-5db086c89376?source=rss------hadoop-5)
+- [Installing Hadoop on the new M1 Pro and M1 Max MacBook Pro](https://towardsdatascience.com/installing-hadoop-on-the-new-m1-pro-and-m1-max-macbook-pro-d076355f5428?source=rss------hadoop-5)
+- [Apache Iceberg для Data Lake: что это такое, зачем нужно и как работает](https://medium.com/@bigdataschool/apache-iceberg-%D0%B4%D0%BB%D1%8F-data-lake-%D1%87%D1%82%D0%BE-%D1%8D%D1%82%D0%BE-%D1%82%D0%B0%D0%BA%D0%BE%D0%B5-%D0%B7%D0%B0%D1%87%D0%B5%D0%BC-%D0%BD%D1%83%D0%B6%D0%BD%D0%BE-%D0%B8-%D0%BA%D0%B0%D0%BA-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D0%B5%D1%82-abef71217023?source=rss------hadoop-5)
 - [Hadoop Installation on Ubuntu, Linux OS](https://medium.com/@aveenfaheem02/hadoop-installation-on-ubuntu-linux-os-f417bbb9e710?source=rss------hadoop-5)
 - [Hadoop Sqoop Tool for transferring data between Hadoop and Relational Databases](https://nareshj.medium.com/hadoop-sqoop-tool-for-transferring-data-between-hadoop-and-relational-databases-fa114eb0cd46?source=rss------hadoop-5)
 - [Installing Hadoop on Windows 11 with WSL2](https://towardsdatascience.com/installing-hadoop-on-windows-11-with-wsl2-f11a585e41cf?source=rss------hadoop-5)
@@ -304,7 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Future of Big Data](https://medium.com/@sreyobhilashiinstitute/future-of-big-data-dd88d325555?source=rss------hadoop-5)
 - [Hadoop Installation using virtual VMWARE Workstation](https://medium.com/@msj.masood/hadoop-installation-using-virtual-vmware-workstation-b757b1aab1ee?source=rss------hadoop-5)
 - [Object Storage에 보관한 CSV 데이터를 CloudHadoop의 Hive External Table로 연동하여 사용하기](https://medium.com/naver-cloud-platform/object-storage%EC%97%90-%EB%B3%B4%EA%B4%80%ED%95%9C-csv-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-cloudhadoop%EC%9D%98-hive-external-table%EB%A1%9C-%EC%97%B0%EB%8F%99%ED%95%98%EC%97%AC-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-b494c3fae649?source=rss------hadoop-5)
-- [Hadoop to Snowflake: Steps to Migrate Schema & Data](https://medium.com/@nadakkannu.smart/hadoop-to-snowflake-steps-to-migrate-schema-data-670eedfc99b4?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
