@@ -297,6 +297,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Connecting to SQL Databases for Data Scientists, Analysts, and Engineers](https://towardsdatascience.com/connecting-to-sql-databases-for-data-scientists-analysts-and-engineers-58dc77a9165e?source=rss------hadoop-5)
+- [Big Data](https://ahamedbasha-n.medium.com/big-data-3eb8d6038680?source=rss------hadoop-5)
 - [Apache Hadoop — An Open Source for beginners in big data](https://umair-iftikhar.medium.com/apache-hadoop-an-open-source-for-beginners-in-big-data-9973d4dd04c5?source=rss------hadoop-5)
 - [Installing of Hadoop and Using Hive to Get Data](https://soomromumtaz.medium.com/installing-of-hadoop-and-using-hive-to-get-data-b87dd79e6df1?source=rss------hadoop-5)
 - [How to install and configure Apache Hadoop in Ubuntu](https://medium.com/@fatima.pg3401112/how-to-install-and-configure-apache-hadoop-in-ubuntu-5db086c89376?source=rss------hadoop-5)
@@ -305,8 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Hadoop Installation on Ubuntu, Linux OS](https://medium.com/@aveenfaheem02/hadoop-installation-on-ubuntu-linux-os-f417bbb9e710?source=rss------hadoop-5)
 - [Hadoop Sqoop Tool for transferring data between Hadoop and Relational Databases](https://nareshj.medium.com/hadoop-sqoop-tool-for-transferring-data-between-hadoop-and-relational-databases-fa114eb0cd46?source=rss------hadoop-5)
 - [Installing Hadoop on Windows 11 with WSL2](https://towardsdatascience.com/installing-hadoop-on-windows-11-with-wsl2-f11a585e41cf?source=rss------hadoop-5)
-- [Run pySpark job on YARN cluster using JEG](https://medium.com/@fengliplatform/run-pyspark-job-on-yarn-cluster-using-jeg-cef33748314a?source=rss------hadoop-5)
-- [Future of Big Data](https://medium.com/@sreyobhilashiinstitute/future-of-big-data-dd88d325555?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
