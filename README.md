@@ -297,6 +297,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [How to flatten a json structure in Hive?](https://medium.com/@ishant.kaushik0102/how-to-flatten-a-json-structure-in-hive-21c7ff560aa?source=rss------hadoop-5)
+- [Running Spark on Yarn with RPi Cluster](https://medium.com/@rpi.camera.craig/running-spark-on-yarn-with-rpi-cluster-b167abb6a468?source=rss------hadoop-5)
 - [Hive Partitioning and Bucketing](https://medium.com/@deepa.account/hive-partitioning-and-bucketing-3a04c21a8789?source=rss------hadoop-5)
 - [Connecting to SQL Databases for Data Scientists, Analysts, and Engineers](https://towardsdatascience.com/connecting-to-sql-databases-for-data-scientists-analysts-and-engineers-58dc77a9165e?source=rss------hadoop-5)
 - [Big Data](https://ahamedbasha-n.medium.com/big-data-3eb8d6038680?source=rss------hadoop-5)
@@ -305,8 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [How to install and configure Apache Hadoop in Ubuntu](https://medium.com/@fatima.pg3401112/how-to-install-and-configure-apache-hadoop-in-ubuntu-5db086c89376?source=rss------hadoop-5)
 - [Installing Hadoop on the new M1 Pro and M1 Max MacBook Pro](https://medium.com/dataseries/installing-hadoop-on-the-new-m1-pro-and-m1-max-macbook-pro-d076355f5428?source=rss------hadoop-5)
 - [Apache Iceberg для Data Lake: что это такое, зачем нужно и как работает](https://medium.com/@bigdataschool/apache-iceberg-%D0%B4%D0%BB%D1%8F-data-lake-%D1%87%D1%82%D0%BE-%D1%8D%D1%82%D0%BE-%D1%82%D0%B0%D0%BA%D0%BE%D0%B5-%D0%B7%D0%B0%D1%87%D0%B5%D0%BC-%D0%BD%D1%83%D0%B6%D0%BD%D0%BE-%D0%B8-%D0%BA%D0%B0%D0%BA-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D0%B5%D1%82-abef71217023?source=rss------hadoop-5)
-- [Hadoop Installation on Ubuntu, Linux OS](https://medium.com/@aveenfaheem02/hadoop-installation-on-ubuntu-linux-os-f417bbb9e710?source=rss------hadoop-5)
-- [Hadoop Sqoop Tool for transferring data between Hadoop and Relational Databases](https://nareshj.medium.com/hadoop-sqoop-tool-for-transferring-data-between-hadoop-and-relational-databases-fa114eb0cd46?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
