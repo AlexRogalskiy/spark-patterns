@@ -297,6 +297,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [The Difference Between Real-time data processing and batch processing](https://medium.com/dataprophet/the-difference-between-real-time-data-processing-and-batch-processing-c7f6c7c452a1?source=rss------hadoop-5)
+- [Бакетирование vs партиционирование в Apache Hive и Spark](https://medium.com/@bigdataschool/%D0%B1%D0%B0%D0%BA%D0%B5%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-vs-%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D1%86%D0%B8%D0%BE%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B2-apache-hive-%D0%B8-spark-5bd8cd30e221?source=rss------hadoop-5)
 - [How to flatten a json structure in Hive?](https://medium.com/@ishant.kaushik0102/how-to-flatten-a-json-structure-in-hive-21c7ff560aa?source=rss------hadoop-5)
 - [Running Spark on Yarn with RPi Cluster](https://medium.com/@rpi.camera.craig/running-spark-on-yarn-with-rpi-cluster-b167abb6a468?source=rss------hadoop-5)
 - [Hive Partitioning and Bucketing](https://medium.com/@deepa.account/hive-partitioning-and-bucketing-3a04c21a8789?source=rss------hadoop-5)
@@ -305,8 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Apache Hadoop — An Open Source for beginners in big data](https://umair-iftikhar.medium.com/apache-hadoop-an-open-source-for-beginners-in-big-data-9973d4dd04c5?source=rss------hadoop-5)
 - [Installing of Hadoop and Using Hive to Get Data](https://soomromumtaz.medium.com/installing-of-hadoop-and-using-hive-to-get-data-b87dd79e6df1?source=rss------hadoop-5)
 - [How to install and configure Apache Hadoop in Ubuntu](https://medium.com/@fatima.pg3401112/how-to-install-and-configure-apache-hadoop-in-ubuntu-5db086c89376?source=rss------hadoop-5)
-- [Installing Hadoop on the new M1 Pro and M1 Max MacBook Pro](https://medium.com/dataseries/installing-hadoop-on-the-new-m1-pro-and-m1-max-macbook-pro-d076355f5428?source=rss------hadoop-5)
-- [Apache Iceberg для Data Lake: что это такое, зачем нужно и как работает](https://medium.com/@bigdataschool/apache-iceberg-%D0%B4%D0%BB%D1%8F-data-lake-%D1%87%D1%82%D0%BE-%D1%8D%D1%82%D0%BE-%D1%82%D0%B0%D0%BA%D0%BE%D0%B5-%D0%B7%D0%B0%D1%87%D0%B5%D0%BC-%D0%BD%D1%83%D0%B6%D0%BD%D0%BE-%D0%B8-%D0%BA%D0%B0%D0%BA-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D0%B5%D1%82-abef71217023?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
