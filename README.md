@@ -297,6 +297,9 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [How to Run Hive Scripts?](https://medium.com/edureka/how-to-run-hive-scripts-53b052501e92?source=rss------hadoop-5)
+- [Configuring MATLAB to use Python](https://medium.datadriveninvestor.com/configuring-matlab-to-use-python-cdcb126740ff?source=rss------hadoop-5)
+- [SQL Join : A Common Mistake](https://medium.com/@anirbangoswami_22783/sql-join-a-common-mistake-2aa03579ba1e?source=rss------hadoop-5)
 - [The Difference Between Real-time data processing and batch processing](https://medium.com/dataprophet/the-difference-between-real-time-data-processing-and-batch-processing-c7f6c7c452a1?source=rss------hadoop-5)
 - [Бакетирование vs партиционирование в Apache Hive и Spark](https://medium.com/@bigdataschool/%D0%B1%D0%B0%D0%BA%D0%B5%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-vs-%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D1%86%D0%B8%D0%BE%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B2-apache-hive-%D0%B8-spark-5bd8cd30e221?source=rss------hadoop-5)
 - [How to flatten a json structure in Hive?](https://medium.com/@ishant.kaushik0102/how-to-flatten-a-json-structure-in-hive-21c7ff560aa?source=rss------hadoop-5)
@@ -304,9 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Hive Partitioning and Bucketing](https://medium.com/@deepa.account/hive-partitioning-and-bucketing-3a04c21a8789?source=rss------hadoop-5)
 - [Connecting to SQL Databases for Data Scientists, Analysts, and Engineers](https://towardsdatascience.com/connecting-to-sql-databases-for-data-scientists-analysts-and-engineers-58dc77a9165e?source=rss------hadoop-5)
 - [Big Data](https://ahamedbasha-n.medium.com/big-data-3eb8d6038680?source=rss------hadoop-5)
-- [Apache Hadoop — An Open Source for beginners in big data](https://umair-iftikhar.medium.com/apache-hadoop-an-open-source-for-beginners-in-big-data-9973d4dd04c5?source=rss------hadoop-5)
-- [Installing of Hadoop and Using Hive to Get Data](https://soomromumtaz.medium.com/installing-of-hadoop-and-using-hive-to-get-data-b87dd79e6df1?source=rss------hadoop-5)
-- [How to install and configure Apache Hadoop in Ubuntu](https://medium.com/@fatima.pg3401112/how-to-install-and-configure-apache-hadoop-in-ubuntu-5db086c89376?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
