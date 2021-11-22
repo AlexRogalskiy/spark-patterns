@@ -297,6 +297,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Hive Optimization Technique](https://medium.com/@pranabm60/hive-optimization-technique-37156a41a28d?source=rss------hadoop-5)
 - [How to Run Hive Scripts?](https://medium.com/edureka/how-to-run-hive-scripts-53b052501e92?source=rss------hadoop-5)
 - [Configuring MATLAB to use Python](https://medium.datadriveninvestor.com/configuring-matlab-to-use-python-cdcb126740ff?source=rss------hadoop-5)
 - [SQL Join : A Common Mistake](https://medium.com/@anirbangoswami_22783/sql-join-a-common-mistake-2aa03579ba1e?source=rss------hadoop-5)
@@ -306,7 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Running Spark on Yarn with RPi Cluster](https://medium.com/@rpi.camera.craig/running-spark-on-yarn-with-rpi-cluster-b167abb6a468?source=rss------hadoop-5)
 - [Hive Partitioning and Bucketing](https://medium.com/@deepa.account/hive-partitioning-and-bucketing-3a04c21a8789?source=rss------hadoop-5)
 - [Connecting to SQL Databases for Data Scientists, Analysts, and Engineers](https://towardsdatascience.com/connecting-to-sql-databases-for-data-scientists-analysts-and-engineers-58dc77a9165e?source=rss------hadoop-5)
-- [Big Data](https://ahamedbasha-n.medium.com/big-data-3eb8d6038680?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
