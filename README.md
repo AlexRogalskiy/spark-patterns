@@ -297,6 +297,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [How to access your data in S3 from your Spark + Hadoop + Hive cluster](https://medium.com/@prempiyush/how-to-access-your-data-in-s3-from-your-spark-hadoop-hive-cluster-f950e346efb0?source=rss------hadoop-5)
 - [Hive Optimization Technique](https://medium.com/@pranabm60/hive-optimization-technique-37156a41a28d?source=rss------hadoop-5)
 - [How to Run Hive Scripts?](https://medium.com/edureka/how-to-run-hive-scripts-53b052501e92?source=rss------hadoop-5)
 - [Configuring MATLAB to use Python](https://medium.datadriveninvestor.com/configuring-matlab-to-use-python-cdcb126740ff?source=rss------hadoop-5)
@@ -306,7 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [How to flatten a json structure in Hive?](https://medium.com/@ishant.kaushik0102/how-to-flatten-a-json-structure-in-hive-21c7ff560aa?source=rss------hadoop-5)
 - [Running Spark on Yarn with RPi Cluster](https://medium.com/@rpi.camera.craig/running-spark-on-yarn-with-rpi-cluster-b167abb6a468?source=rss------hadoop-5)
 - [Hive Partitioning and Bucketing](https://medium.com/@deepa.account/hive-partitioning-and-bucketing-3a04c21a8789?source=rss------hadoop-5)
-- [Connecting to SQL Databases for Data Scientists, Analysts, and Engineers](https://towardsdatascience.com/connecting-to-sql-databases-for-data-scientists-analysts-and-engineers-58dc77a9165e?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
