@@ -297,6 +297,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Hive Big Data Basic DDL](https://medium.com/cloud-believers/hive-big-data-basic-ddl-39dd025bff1c?source=rss------hadoop-5)
 - [Масштабируемая индексация Apache HBase почти в реальном времени: кейс Pinterest](https://medium.com/@bigdataschool/%D0%BC%D0%B0%D1%81%D1%88%D1%82%D0%B0%D0%B1%D0%B8%D1%80%D1%83%D0%B5%D0%BC%D0%B0%D1%8F-%D0%B8%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%D0%B0%D1%86%D0%B8%D1%8F-apache-hbase-%D0%BF%D0%BE%D1%87%D1%82%D0%B8-%D0%B2-%D1%80%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%BC-%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B8-%D0%BA%D0%B5%D0%B9%D1%81-pinterest-6a9c653b7278?source=rss------hadoop-5)
 - [Is Apache Impala 65 to 200 times faster than Apache Hive on Tez.](https://plenium.medium.com/is-apache-impala-65-to-200-times-faster-than-apache-hive-on-tez-ed9c7a94751b?source=rss------hadoop-5)
 - [How to access your data in S3 from your Spark + Hadoop + Hive cluster](https://medium.com/@prempiyush/how-to-access-your-data-in-s3-from-your-spark-hadoop-hive-cluster-f950e346efb0?source=rss------hadoop-5)
@@ -306,7 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [SQL Join : A Common Mistake](https://medium.com/@anirbangoswami_22783/sql-join-a-common-mistake-2aa03579ba1e?source=rss------hadoop-5)
 - [The Difference Between Real-time data processing and batch processing](https://medium.com/dataprophet/the-difference-between-real-time-data-processing-and-batch-processing-c7f6c7c452a1?source=rss------hadoop-5)
 - [Бакетирование vs партиционирование в Apache Hive и Spark](https://medium.com/@bigdataschool/%D0%B1%D0%B0%D0%BA%D0%B5%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-vs-%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D1%86%D0%B8%D0%BE%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B2-apache-hive-%D0%B8-spark-5bd8cd30e221?source=rss------hadoop-5)
-- [How to flatten a json structure in Hive?](https://medium.com/@ishant.kaushik0102/how-to-flatten-a-json-structure-in-hive-21c7ff560aa?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
