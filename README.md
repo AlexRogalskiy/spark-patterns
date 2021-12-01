@@ -297,6 +297,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Data Forest 상품 사용해 보기 — 이렇게 시작하세요!](https://medium.com/naver-cloud-platform/data-forest-%EC%83%81%ED%92%88-%EC%82%AC%EC%9A%A9%ED%95%B4-%EB%B3%B4%EA%B8%B0-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EC%8B%9C%EC%9E%91%ED%95%98%EC%84%B8%EC%9A%94-9427c5ed07fe?source=rss------hadoop-5)
+- [HDFS &amp; MapReduce: Fundamental Building Blocks of Hadoop Ecosystem](https://selectfrom.dev/hdfs-mapreduce-fundamental-building-blocks-of-hadoop-ecosystem-18702148b38b?source=rss------hadoop-5)
 - [Implementing MapReduce with Vanilla NodeJS &lpar;II&rpar;](https://elfi-y.medium.com/implementing-mapreduce-with-vanilla-nodejs-ii-83b23f6f92fb?source=rss------hadoop-5)
 - [A10 — Principais Tecnologias de Big Data](https://medium.com/xnewdata-portugal/a10-principais-tecnologias-de-big-data-fcc15d4b0a97?source=rss------hadoop-5)
 - [Setup PyCharm Hadoop PySpark Development on Windows without installing Hadoop](https://medium.com/@farhan0syakir/setup-pycharm-hadoop-pyspark-development-on-windows-without-installing-hadoop-6aa7bde7d189?source=rss------hadoop-5)
@@ -305,8 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Implementing MapReduce with Vanilla NodeJS &lpar;I&rpar;](https://elfi-y.medium.com/implementing-mapreduce-with-vanilla-nodejs-i-363634c58c99?source=rss------hadoop-5)
 - [Hive Big Data Basic DDL](https://medium.com/cloud-believers/hive-big-data-basic-ddl-39dd025bff1c?source=rss------hadoop-5)
 - [Масштабируемая индексация Apache HBase почти в реальном времени: кейс Pinterest](https://medium.com/@bigdataschool/%D0%BC%D0%B0%D1%81%D1%88%D1%82%D0%B0%D0%B1%D0%B8%D1%80%D1%83%D0%B5%D0%BC%D0%B0%D1%8F-%D0%B8%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%D0%B0%D1%86%D0%B8%D1%8F-apache-hbase-%D0%BF%D0%BE%D1%87%D1%82%D0%B8-%D0%B2-%D1%80%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%BC-%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B8-%D0%BA%D0%B5%D0%B9%D1%81-pinterest-6a9c653b7278?source=rss------hadoop-5)
-- [Is Apache Impala 65 to 200 times faster than Apache Hive on Tez.](https://plenium.medium.com/is-apache-impala-65-to-200-times-faster-than-apache-hive-on-tez-ed9c7a94751b?source=rss------hadoop-5)
-- [How to access your data in S3 from your Spark + Hadoop + Hive cluster](https://medium.com/@prempiyush/how-to-access-your-data-in-s3-from-your-spark-hadoop-hive-cluster-f950e346efb0?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
