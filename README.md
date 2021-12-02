@@ -297,6 +297,9 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Big Data Frameworks for Data Scientist](https://cloudytechi.medium.com/big-data-frameworks-for-data-scientist-1d68ac9c9c92?source=rss------hadoop-5)
+- [Hadoop Training in Hyderabad](https://medium.com/@meetingday.119/hadoop-training-in-hyderabad-cde2d8fdfa72?source=rss------hadoop-5)
+- [Increasing Demand for ‘ Hadoop and NoSQL Skills](https://medium.com/edureka/demand-for-hadoop-and-nosql-skills-db2859b49967?source=rss------hadoop-5)
 - [Data Forest 상품 사용해 보기 — 이렇게 시작하세요!](https://medium.com/naver-cloud-platform/data-forest-%EC%83%81%ED%92%88-%EC%82%AC%EC%9A%A9%ED%95%B4-%EB%B3%B4%EA%B8%B0-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EC%8B%9C%EC%9E%91%ED%95%98%EC%84%B8%EC%9A%94-9427c5ed07fe?source=rss------hadoop-5)
 - [HDFS &amp; MapReduce: Fundamental Building Blocks of Hadoop Ecosystem](https://selectfrom.dev/hdfs-mapreduce-fundamental-building-blocks-of-hadoop-ecosystem-18702148b38b?source=rss------hadoop-5)
 - [Implementing MapReduce with Vanilla NodeJS &lpar;II&rpar;](https://elfi-y.medium.com/implementing-mapreduce-with-vanilla-nodejs-ii-83b23f6f92fb?source=rss------hadoop-5)
@@ -304,9 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Setup PyCharm Hadoop PySpark Development on Windows without installing Hadoop](https://medium.com/@farhan0syakir/setup-pycharm-hadoop-pyspark-development-on-windows-without-installing-hadoop-6aa7bde7d189?source=rss------hadoop-5)
 - [Apache Hadoop HDFS Cluster Automation using Ansible](https://rahulchoudhary5768.medium.com/apache-hadoop-hdfs-cluster-automation-using-ansible-e7c94a1a009e?source=rss------hadoop-5)
 - [Introduction to Hadoop Ecosystem](https://medium.com/@swetaprabha/introduction-to-hadoop-ecosystem-6197c80b34ab?source=rss------hadoop-5)
-- [Implementing MapReduce with Vanilla NodeJS &lpar;I&rpar;](https://elfi-y.medium.com/implementing-mapreduce-with-vanilla-nodejs-i-363634c58c99?source=rss------hadoop-5)
-- [Hive Big Data Basic DDL](https://medium.com/cloud-believers/hive-big-data-basic-ddl-39dd025bff1c?source=rss------hadoop-5)
-- [Масштабируемая индексация Apache HBase почти в реальном времени: кейс Pinterest](https://medium.com/@bigdataschool/%D0%BC%D0%B0%D1%81%D1%88%D1%82%D0%B0%D0%B1%D0%B8%D1%80%D1%83%D0%B5%D0%BC%D0%B0%D1%8F-%D0%B8%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%D0%B0%D1%86%D0%B8%D1%8F-apache-hbase-%D0%BF%D0%BE%D1%87%D1%82%D0%B8-%D0%B2-%D1%80%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%BC-%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B8-%D0%BA%D0%B5%D0%B9%D1%81-pinterest-6a9c653b7278?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
