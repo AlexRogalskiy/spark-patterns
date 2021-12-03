@@ -297,6 +297,9 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [A11 — Ecossistema Hadoop](https://medium.com/xnewdata-portugal/a11-ecossistema-hadoop-33c9444cfb13?source=rss------hadoop-5)
+- [Getting started with Spark](https://medium.com/cloud-believers/getting-started-with-spark-8d3e479c1c9a?source=rss------hadoop-5)
+- [What is MapReduce?](https://medium.com/@online_certification_courses/what-is-mapreduce-3da96c8c008a?source=rss------hadoop-5)
 - [Big Data Frameworks for Data Scientist](https://cloudytechi.medium.com/big-data-frameworks-for-data-scientist-1d68ac9c9c92?source=rss------hadoop-5)
 - [Hadoop Training in Hyderabad](https://medium.com/@meetingday.119/hadoop-training-in-hyderabad-cde2d8fdfa72?source=rss------hadoop-5)
 - [Increasing Demand for ‘ Hadoop and NoSQL Skills](https://medium.com/edureka/demand-for-hadoop-and-nosql-skills-db2859b49967?source=rss------hadoop-5)
@@ -304,9 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [HDFS &amp; MapReduce: Fundamental Building Blocks of Hadoop Ecosystem](https://selectfrom.dev/hdfs-mapreduce-fundamental-building-blocks-of-hadoop-ecosystem-18702148b38b?source=rss------hadoop-5)
 - [Implementing MapReduce with Vanilla NodeJS &lpar;II&rpar;](https://elfi-y.medium.com/implementing-mapreduce-with-vanilla-nodejs-ii-83b23f6f92fb?source=rss------hadoop-5)
 - [A10 — Principais Tecnologias de Big Data](https://medium.com/xnewdata-portugal/a10-principais-tecnologias-de-big-data-fcc15d4b0a97?source=rss------hadoop-5)
-- [Setup PyCharm Hadoop PySpark Development on Windows without installing Hadoop](https://medium.com/@farhan0syakir/setup-pycharm-hadoop-pyspark-development-on-windows-without-installing-hadoop-6aa7bde7d189?source=rss------hadoop-5)
-- [Apache Hadoop HDFS Cluster Automation using Ansible](https://rahulchoudhary5768.medium.com/apache-hadoop-hdfs-cluster-automation-using-ansible-e7c94a1a009e?source=rss------hadoop-5)
-- [Introduction to Hadoop Ecosystem](https://medium.com/@swetaprabha/introduction-to-hadoop-ecosystem-6197c80b34ab?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
