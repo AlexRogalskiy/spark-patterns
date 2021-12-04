@@ -1,14 +1,5 @@
 # Changelog
 
-## [Unreleased](https://github.com/AlexRogalskiy/spark-patterns/tree/HEAD)
-
-[Full Changelog](https://github.com/AlexRogalskiy/spark-patterns/compare/1.0.1...HEAD)
-
-**Merged pull requests:**
-
-- github-actions: bump wagoid/commitlint-github-action from v2.2.3 to v2.2.5 [\#45](https://github.com/AlexRogalskiy/spark-patterns/pull/45) ([dependabot[bot]](https://github.com/apps/dependabot))
-- :arrow\_up: Updates wagoid/commitlint-github-action action to v2.2.5 [\#43](https://github.com/AlexRogalskiy/spark-patterns/pull/43) ([renovate[bot]](https://github.com/apps/renovate))
-
 ## [1.0.1](https://github.com/AlexRogalskiy/spark-patterns/tree/1.0.1) (2021-02-18)
 
 [Full Changelog](https://github.com/AlexRogalskiy/spark-patterns/compare/v1...1.0.1)
