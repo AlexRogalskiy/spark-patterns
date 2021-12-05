@@ -297,6 +297,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [ABC](https://medium.com/@randy-huang/abc-b7cbaf37e4f7?source=rss------hadoop-5)
 - [Part 1: How to install DBeaver on Linux server and Connect to Secure Cloudera Impala from Windows…](https://blog.clairvoyantsoft.com/part-1-how-to-install-dbeaver-on-linux-server-and-connect-to-secure-cloudera-impala-from-windows-3aa42ad9cc75?source=rss------hadoop-5)
 - [A12 — Introdução ao MapReduce](https://medium.com/xnewdata-portugal/a12-introdu%C3%A7%C3%A3o-ao-mapreduce-2bde0ab283eb?source=rss------hadoop-5)
 - [Как устроен PXF Greenplum: архитектура и принципы работы](https://medium.com/@bigdataschool/%D0%BA%D0%B0%D0%BA-%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BD-pxf-greenplum-%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0-%D0%B8-%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF%D1%8B-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B-3632e0203adb?source=rss------hadoop-5)
@@ -306,7 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Big Data Frameworks for Data Scientist](https://cloudytechi.medium.com/big-data-frameworks-for-data-scientist-1d68ac9c9c92?source=rss------hadoop-5)
 - [Hadoop Training in Hyderabad](https://medium.com/@meetingday.119/hadoop-training-in-hyderabad-cde2d8fdfa72?source=rss------hadoop-5)
 - [Increasing Demand for ‘ Hadoop and NoSQL Skills](https://medium.com/edureka/demand-for-hadoop-and-nosql-skills-db2859b49967?source=rss------hadoop-5)
-- [Data Forest 상품 사용해 보기 — 이렇게 시작하세요!](https://medium.com/naver-cloud-platform/data-forest-%EC%83%81%ED%92%88-%EC%82%AC%EC%9A%A9%ED%95%B4-%EB%B3%B4%EA%B8%B0-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EC%8B%9C%EC%9E%91%ED%95%98%EC%84%B8%EC%9A%94-9427c5ed07fe?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
