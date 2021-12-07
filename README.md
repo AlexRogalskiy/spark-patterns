@@ -297,6 +297,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Apache Spark 101](https://medium.com/@kausarbazla3/apache-spark-101-a399137bb4b2?source=rss------hadoop-5)
 - [ABC](https://medium.com/@randy-huang/abc-b7cbaf37e4f7?source=rss------hadoop-5)
 - [Part 1: How to install DBeaver on Linux server and Connect to Secure Cloudera Impala from Windows…](https://blog.clairvoyantsoft.com/part-1-how-to-install-dbeaver-on-linux-server-and-connect-to-secure-cloudera-impala-from-windows-3aa42ad9cc75?source=rss------hadoop-5)
 - [A12 — Introdução ao MapReduce](https://medium.com/xnewdata-portugal/a12-introdu%C3%A7%C3%A3o-ao-mapreduce-2bde0ab283eb?source=rss------hadoop-5)
@@ -306,7 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [What is MapReduce?](https://medium.com/@online_certification_courses/what-is-mapreduce-3da96c8c008a?source=rss------hadoop-5)
 - [Big Data Frameworks for Data Scientist](https://cloudytechi.medium.com/big-data-frameworks-for-data-scientist-1d68ac9c9c92?source=rss------hadoop-5)
 - [Hadoop Training in Hyderabad](https://medium.com/@meetingday.119/hadoop-training-in-hyderabad-cde2d8fdfa72?source=rss------hadoop-5)
-- [Increasing Demand for ‘ Hadoop and NoSQL Skills](https://medium.com/edureka/demand-for-hadoop-and-nosql-skills-db2859b49967?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
