@@ -297,6 +297,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Log4j2 Impact Analysis on Datastores: Kafka, Elastic, Hadoop, Spark, Kibana](https://ransomcloud.medium.com/log4j2-impact-analysis-on-datastores-kafka-elastic-hadoop-spark-kibana-ac6719bdf1b0?source=rss------hadoop-5)
+- [Spark In Depth](https://sharmashorya1996.medium.com/spark-in-depth-12e21cec29ca?source=rss------hadoop-5)
 - [Hadoop Installation on Ubuntu](https://sagardhandare3.medium.com/hadoop-installation-on-ubuntu-a57569e8ffb3?source=rss------hadoop-5)
 - [Hadoop Basic Commands](https://crazythings.medium.com/hadoop-basic-commands-8a42f8041005?source=rss------hadoop-5)
 - [Apache Spark 101](https://medium.com/@kausarbazla3/apache-spark-101-a399137bb4b2?source=rss------hadoop-5)
@@ -305,8 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [A12 — Introdução ao MapReduce](https://medium.com/xnewdata-portugal/a12-introdu%C3%A7%C3%A3o-ao-mapreduce-2bde0ab283eb?source=rss------hadoop-5)
 - [Как устроен PXF Greenplum: архитектура и принципы работы](https://medium.com/@bigdataschool/%D0%BA%D0%B0%D0%BA-%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BD-pxf-greenplum-%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0-%D0%B8-%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF%D1%8B-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B-3632e0203adb?source=rss------hadoop-5)
 - [A11 — Ecossistema Hadoop](https://medium.com/xnewdata-portugal/a11-ecossistema-hadoop-33c9444cfb13?source=rss------hadoop-5)
-- [Getting started with Spark](https://medium.com/cloud-believers/getting-started-with-spark-8d3e479c1c9a?source=rss------hadoop-5)
-- [What is MapReduce?](https://medium.com/@online_certification_courses/what-is-mapreduce-3da96c8c008a?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
