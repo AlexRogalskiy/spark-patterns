@@ -297,6 +297,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [How to install Hadoop in Ubuntu ?](https://crazythings.medium.com/how-to-install-hadoop-in-ubuntu-a85a3679a9ce?source=rss------hadoop-5)
 - [Log4j2 Impact Analysis on Datastores: Kafka, Elastic, Hadoop, Spark, Kibana](https://ransomcloud.medium.com/log4j2-impact-analysis-on-datastores-kafka-elastic-hadoop-spark-kibana-ac6719bdf1b0?source=rss------hadoop-5)
 - [Spark In Depth](https://sharmashorya1996.medium.com/spark-in-depth-12e21cec29ca?source=rss------hadoop-5)
 - [Hadoop Installation on Ubuntu](https://sagardhandare3.medium.com/hadoop-installation-on-ubuntu-a57569e8ffb3?source=rss------hadoop-5)
@@ -306,7 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Part 1: How to install DBeaver on Linux server and Connect to Secure Cloudera Impala from Windows…](https://blog.clairvoyantsoft.com/part-1-how-to-install-dbeaver-on-linux-server-and-connect-to-secure-cloudera-impala-from-windows-3aa42ad9cc75?source=rss------hadoop-5)
 - [A12 — Introdução ao MapReduce](https://medium.com/xnewdata-portugal/a12-introdu%C3%A7%C3%A3o-ao-mapreduce-2bde0ab283eb?source=rss------hadoop-5)
 - [Как устроен PXF Greenplum: архитектура и принципы работы](https://medium.com/@bigdataschool/%D0%BA%D0%B0%D0%BA-%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BD-pxf-greenplum-%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0-%D0%B8-%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF%D1%8B-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B-3632e0203adb?source=rss------hadoop-5)
-- [A11 — Ecossistema Hadoop](https://medium.com/xnewdata-portugal/a11-ecossistema-hadoop-33c9444cfb13?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
