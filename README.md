@@ -274,6 +274,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What is going on today?](https://www.reddit.com/r/spark/comments/rjh5ly/what_is_going_on_today/)
 - [Nested json in glue and athena](https://www.reddit.com/r/spark/comments/r05pjt/nested_json_in_glue_and_athena/)
 - [PySpark newbie here, Same cell while executed continuously is giving different output, Please Help](https://www.reddit.com/r/spark/comments/p2ggi7/pyspark_newbie_here_same_cell_while_executed/)
 - [New Competition: Ada/SPARK Crate Of The Year Award](https://www.reddit.com/r/spark/comments/o9hbo3/new_competition_adaspark_crate_of_the_year_award/)
@@ -283,7 +284,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [VDM and SPARK: papers or results?](https://www.reddit.com/r/spark/comments/mh4fx2/vdm_and_spark_papers_or_results/)
 - [First beta release of Alire, the package manager for Ada/SPARK](https://www.reddit.com/r/spark/comments/jlyih0/first_beta_release_of_alire_the_package_manager/)
 - [[ VIDEO ] FOSDEM 2020 - Securing Existing Software using Formally Verified Libraries](https://www.reddit.com/r/spark/comments/j7h5eo/video_fosdem_2020_securing_existing_software/)
-- [FOSDEM 2020 - A Component-based Environment for Android Apps](https://www.reddit.com/r/spark/comments/j7g0p4/fosdem_2020_a_componentbased_environment_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld Spark posts*
