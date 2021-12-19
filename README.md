@@ -297,6 +297,9 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Big Data Storage and Processing Explained](https://towardsdatascience.com/big-data-storage-and-processing-explained-eb9847e6cdec?source=rss------hadoop-5)
+- [Дыра в Apache Log4j: опасность для Hadoop, Spark, Kafka, Neo4j и других технологий Big Data](https://medium.com/@bigdataschool/%D0%B4%D1%8B%D1%80%D0%B0-%D0%B2-apache-log4j-%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C-%D0%B4%D0%BB%D1%8F-hadoop-spark-kafka-neo4j-%D0%B8-%D0%B4%D1%80%D1%83%D0%B3%D0%B8%D1%85-%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B9-big-data-760d0aac5a90?source=rss------hadoop-5)
+- [Apache Hive Optimization Techniques](https://medium.com/@puneeth_kumar/apache-hive-optimization-techniques-5aee0bb921b8?source=rss------hadoop-5)
 - [Top 8 Interview Questions For A Big Data Engineer](https://medium.com/@5000fish/top-8-interview-questions-for-a-big-data-engineer-18d7eab5aa42?source=rss------hadoop-5)
 - [Smart Explanation On Why Hadoop Course Is Important!](https://medium.com/@karuppansvg20/smart-explanation-on-why-hadoop-course-is-important-8908a072a4b2?source=rss------hadoop-5)
 - [PXF, Greenplum и оптимизация SQL-запросов к разным источникам данных](https://medium.com/@bigdataschool/pxf-greenplum-%D0%B8-%D0%BE%D0%BF%D1%82%D0%B8%D0%BC%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F-sql-%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2-%D0%BA-%D1%80%D0%B0%D0%B7%D0%BD%D1%8B%D0%BC-%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B0%D0%BC-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-4c18384b0b58?source=rss------hadoop-5)
@@ -304,9 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [How to install Hadoop in Ubuntu ?](https://crazythings.medium.com/how-to-install-hadoop-in-ubuntu-a85a3679a9ce?source=rss------hadoop-5)
 - [Log4j2 Impact Analysis on Datastores: Kafka, Elastic, Hadoop, Spark, Kibana](https://ransomcloud.medium.com/log4j2-impact-analysis-on-datastores-kafka-elastic-hadoop-spark-kibana-ac6719bdf1b0?source=rss------hadoop-5)
 - [Spark In Depth](https://sharmashorya1996.medium.com/spark-in-depth-12e21cec29ca?source=rss------hadoop-5)
-- [Hadoop Installation on Ubuntu](https://sagardhandare3.medium.com/hadoop-installation-on-ubuntu-a57569e8ffb3?source=rss------hadoop-5)
-- [Hadoop Basic Commands](https://crazythings.medium.com/hadoop-basic-commands-8a42f8041005?source=rss------hadoop-5)
-- [Apache Spark 101](https://medium.com/@kausarbazla3/apache-spark-101-a399137bb4b2?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
