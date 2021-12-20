@@ -297,7 +297,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
-- [Big Data Storage and Processing Explained](https://towardsdatascience.com/big-data-storage-and-processing-explained-eb9847e6cdec?source=rss------hadoop-5)
+- [Big Data Explained](https://medium.com/sanrusha-consultancy/big-data-storage-and-processing-explained-eb9847e6cdec?source=rss------hadoop-5)
 - [Дыра в Apache Log4j: опасность для Hadoop, Spark, Kafka, Neo4j и других технологий Big Data](https://medium.com/@bigdataschool/%D0%B4%D1%8B%D1%80%D0%B0-%D0%B2-apache-log4j-%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C-%D0%B4%D0%BB%D1%8F-hadoop-spark-kafka-neo4j-%D0%B8-%D0%B4%D1%80%D1%83%D0%B3%D0%B8%D1%85-%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B9-big-data-760d0aac5a90?source=rss------hadoop-5)
 - [Apache Hive Optimization Techniques](https://medium.com/@puneeth_kumar/apache-hive-optimization-techniques-5aee0bb921b8?source=rss------hadoop-5)
 - [Top 8 Interview Questions For A Big Data Engineer](https://medium.com/@5000fish/top-8-interview-questions-for-a-big-data-engineer-18d7eab5aa42?source=rss------hadoop-5)
