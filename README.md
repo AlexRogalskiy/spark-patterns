@@ -297,16 +297,16 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Hadoop Distributed File System &lpar;HDFS&rpar;](https://medium.com/@puneeth_kumar/hadoop-distributed-file-system-hdfs-345cd729b316?source=rss------hadoop-5)
+- [Инкрементное резервное копирование таблиц HBase и аварийное восстановление с AWS S3](https://medium.com/@bigdataschool/%D0%B8%D0%BD%D0%BA%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%BD%D0%BE%D0%B5-%D1%80%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%D0%BD%D0%BE%D0%B5-%D0%BA%D0%BE%D0%BF%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86-hbase-%D0%B8-%D0%B0%D0%B2%D0%B0%D1%80%D0%B8%D0%B9%D0%BD%D0%BE%D0%B5-%D0%B2%D0%BE%D1%81%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D1%81-aws-s3-8512a05c28d2?source=rss------hadoop-5)
 - [분산 처리 시스템이란? What is Distributed System?](https://medium.com/@heonjang.lee96/%EB%B6%84%EC%82%B0-%EC%B2%98%EB%A6%AC-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%B4%EB%9E%80-what-is-distributed-system-42694f9000f4?source=rss------hadoop-5)
 - [Getting started with Sqoop on Google Cloud Platform](https://medium.com/@datacouch/getting-started-with-sqoop-on-google-cloud-platform-9e8fe5eadb40?source=rss------hadoop-5)
 - [Базовые DML-операции в Apache Hive: основы NoSQL Big Data для начинающих](https://medium.com/@bigdataschool/%D0%B1%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B5-dml-%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8-%D0%B2-apache-hive-%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-nosql-big-data-%D0%B4%D0%BB%D1%8F-%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D1%85-8eb8728b217d?source=rss------hadoop-5)
 - [Базовые DML-операции в Apache Hive: основы NoSQL Big Data для начинающих](https://wowman9721.medium.com/%D0%B1%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B5-dml-%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8-%D0%B2-apache-hive-%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-nosql-big-data-%D0%B4%D0%BB%D1%8F-%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D1%85-166f973902b3?source=rss------hadoop-5)
-- [Hadoop vs Spark](https://medium.com/sanrusha-consultancy/hadoop-vs-spark-dde48173737e?source=rss------hadoop-5)
+- [Hadoop vs Spark](https://medium.com/analytics-vidhya/hadoop-vs-spark-dde48173737e?source=rss------hadoop-5)
 - [A Beginner’s Guide to Hadoop](https://towardsdev.com/a-beginners-guide-to-hadoop-c698a2cc601b?source=rss------hadoop-5)
 - [ACID-транзакции в Apache Hive: настройка, принципы работы и ограничения](https://medium.com/@bigdataschool/acid-%D1%82%D1%80%D0%B0%D0%BD%D0%B7%D0%B0%D0%BA%D1%86%D0%B8%D0%B8-%D0%B2-apache-hive-%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0-%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF%D1%8B-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B-%D0%B8-%D0%BE%D0%B3%D1%80%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D0%BD%D0%B8%D1%8F-7bdc925b8148?source=rss------hadoop-5)
 - [Big Data Explained](https://medium.com/sanrusha-consultancy/big-data-storage-and-processing-explained-eb9847e6cdec?source=rss------hadoop-5)
-- [Дыра в Apache Log4j: опасность для Hadoop, Spark, Kafka, Neo4j и других технологий Big Data](https://medium.com/@bigdataschool/%D0%B4%D1%8B%D1%80%D0%B0-%D0%B2-apache-log4j-%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C-%D0%B4%D0%BB%D1%8F-hadoop-spark-kafka-neo4j-%D0%B8-%D0%B4%D1%80%D1%83%D0%B3%D0%B8%D1%85-%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B9-big-data-760d0aac5a90?source=rss------hadoop-5)
-- [Apache Hive Optimization Techniques](https://medium.com/@puneeth_kumar/apache-hive-optimization-techniques-5aee0bb921b8?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
