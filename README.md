@@ -320,6 +320,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop in real world posts*
 
 <!-- HADOOPINREALWORLD-POST-LIST:START -->
+- [What is an efficient way to check if a Spark DataFrame is empty?](https://www.hadoopinrealworld.com/what-is-an-efficient-way-to-check-if-a-spark-dataframe-is-empty/)
 - [Where does Hive store files for Hive tables?](https://www.hadoopinrealworld.com/where-does-hive-store-files-for-hive-tables/)
 - [How to get DDL or create script of an existing Hive table?](https://www.hadoopinrealworld.com/how-to-get-ddl-or-create-script-of-an-existing-hive-table/)
 - [Hive architecture](https://www.hadoopinrealworld.com/hive-architecture/)
@@ -329,7 +330,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [How to select top N rows in Hive?](https://www.hadoopinrealworld.com/how-to-select-top-n-rows-in-hive/)
 - [What is the difference between foreach and foreachPartition in Spark?](https://www.hadoopinrealworld.com/what-is-the-difference-between-foreach-and-foreachpartition-in-spark/)
 - [How to replace characters in Hive?](https://www.hadoopinrealworld.com/how-to-replace-characters-in-hive/)
-- [What are applications, jobs, stages and tasks in Spark?](https://www.hadoopinrealworld.com/what-are-applications-jobs-stages-and-tasks-in-spark/)
 <!-- HADOOPINREALWORLD-POST-LIST:END -->
 
 ### *Kognitio posts*
