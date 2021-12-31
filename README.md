@@ -297,16 +297,15 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Instalação do Hadoop no Windows para Iniciantes](https://diego-holanda-neri.medium.com/instala%C3%A7%C3%A3o-do-hadoop-no-windows-para-iniciantes-fc5c1ad4e337?source=rss------hadoop-5)
+- [Как получить доступ к данным в AWS S3 из кластера Apache Hadoop через Hive и Spark](https://medium.com/@bigdataschool/%D0%BA%D0%B0%D0%BA-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B8%D1%82%D1%8C-%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF-%D0%BA-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC-%D0%B2-aws-s3-%D0%B8%D0%B7-%D0%BA%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%B0-apache-hadoop-%D1%87%D0%B5%D1%80%D0%B5%D0%B7-hive-%D0%B8-spark-1b96f7720643?source=rss------hadoop-5)
 - [Things you should know about Kerberos in Hadoop Clusters](https://tech-insight.medium.com/things-you-should-know-about-kerberos-in-hadoop-clusters-325861aee182?source=rss------hadoop-5)
 - [Big Data and Hadoop](https://medium.com/@abhishekshukla_16953/big-data-and-hadoop-dc6d16c399c0?source=rss------hadoop-5)
 - [Hello world, Apache Spark](https://dhineshsunderganapathi.medium.com/hello-world-apache-spark-458a03ced9c4?source=rss------hadoop-5)
 - [Resolution of Critical vulnerability in log4j2 for CDH, HDP, HDF, and CDP](https://blog.clairvoyantsoft.com/resolution-of-critical-vulnerability-in-log4j2-for-cdh-hdp-hdf-and-cdp-f510ab5a3e96?source=rss------hadoop-5)
-- [Introduction to Big Data and Hadoop](https://medium.com/analytics-vidhya/introduction-to-big-data-and-hadoop-3f9018722e27?source=rss------hadoop-5)
+- [Introduction to Big Data and Hadoop](https://medium.com/swlh/introduction-to-big-data-and-hadoop-3f9018722e27?source=rss------hadoop-5)
 - [Introduction to Big data](https://abhishekgore0605.medium.com/introduction-to-big-data-ca091acb97f8?source=rss------hadoop-5)
 - [하둡 Hadoop&lpar;High-Availability Distributed Object-Oriented Platform&rpar; 뿌시기](https://soniacomp.medium.com/%ED%95%98%EB%91%A1-hadoop-high-availability-distributed-object-oriented-platform-%EB%BF%8C%EC%8B%9C%EA%B8%B0-741632fcee3d?source=rss------hadoop-5)
-- [Things you should know about HDFS](https://tech-insight.medium.com/things-you-should-know-about-hdfs-6c6f11cf823f?source=rss------hadoop-5)
-- [MapReduce란?](https://medium.com/@heonjang.lee96/mapreduce%EB%9E%80-b91caf98df4?source=rss------hadoop-5)
-- [E-Commerce Data Analysis using Map Reduce program](https://medium.com/@skamaleshkumar25082000/e-commerce-data-analysis-using-map-reduce-program-3481c95edcb7?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
