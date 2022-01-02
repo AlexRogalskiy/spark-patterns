@@ -297,15 +297,15 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Things you should know about Spark: part 1 the basics](https://medium.com/data-engineering-insight/things-you-should-know-about-spark-part-1-the-basics-33c97c033ef6?source=rss------hadoop-5)
+- [Hadoop PIG](https://avinashnavlani.medium.com/hadoop-pig-3db758de7fe5?source=rss------hadoop-5)
+- [Apache Sqoop](https://avinashnavlani.medium.com/apache-sqoop-d4ab4b6d51e4?source=rss------hadoop-5)
+- [Learn Basics of Hadoop in easy Steps|Introduction to Hadoop](https://medium.com/@noorayesha2000/learn-basics-of-hadoop-in-easy-steps-introduction-to-hadoop-c9883e6512d0?source=rss------hadoop-5)
 - [Greenplum с PXF и глубокое обучение в Apache MADlib для классификации изображений](https://medium.com/@bigdataschool/greenplum-%D1%81-pxf-%D0%B8-%D0%B3%D0%BB%D1%83%D0%B1%D0%BE%D0%BA%D0%BE%D0%B5-%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2-apache-madlib-%D0%B4%D0%BB%D1%8F-%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8-%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9-38af4c147a69?source=rss------hadoop-5)
 - [Instalação do Hadoop no Windows para Iniciantes](https://diego-holanda-neri.medium.com/instala%C3%A7%C3%A3o-do-hadoop-no-windows-para-iniciantes-fc5c1ad4e337?source=rss------hadoop-5)
 - [Как получить доступ к данным в AWS S3 из кластера Apache Hadoop через Hive и Spark](https://medium.com/@bigdataschool/%D0%BA%D0%B0%D0%BA-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B8%D1%82%D1%8C-%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF-%D0%BA-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC-%D0%B2-aws-s3-%D0%B8%D0%B7-%D0%BA%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%B0-apache-hadoop-%D1%87%D0%B5%D1%80%D0%B5%D0%B7-hive-%D0%B8-spark-1b96f7720643?source=rss------hadoop-5)
-- [Things you should know about Kerberos in Hadoop Clusters](https://tech-insight.medium.com/things-you-should-know-about-kerberos-in-hadoop-clusters-325861aee182?source=rss------hadoop-5)
+- [Things you should know about Kerberos in Hadoop Clusters](https://medium.com/data-engineering-insight/things-you-should-know-about-kerberos-in-hadoop-clusters-325861aee182?source=rss------hadoop-5)
 - [Big Data and Hadoop](https://medium.com/@abhishekshukla_16953/big-data-and-hadoop-dc6d16c399c0?source=rss------hadoop-5)
-- [Hello world, Apache Spark](https://medium.com/nerd-for-tech/hello-world-apache-spark-458a03ced9c4?source=rss------hadoop-5)
-- [Resolution of Critical vulnerability in log4j2 for CDH, HDP, HDF, and CDP](https://blog.clairvoyantsoft.com/resolution-of-critical-vulnerability-in-log4j2-for-cdh-hdp-hdf-and-cdp-f510ab5a3e96?source=rss------hadoop-5)
-- [Introduction to Big Data and Hadoop](https://medium.com/swlh/introduction-to-big-data-and-hadoop-3f9018722e27?source=rss------hadoop-5)
-- [Introduction to Big data](https://abhishekgore0605.medium.com/introduction-to-big-data-ca091acb97f8?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
