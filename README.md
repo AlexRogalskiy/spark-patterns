@@ -297,6 +297,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Hadoop Hive-With Practical](https://abhaydesai01.medium.com/hadoop-hive-with-practical-17eb5d4827aa?source=rss------hadoop-5)
 - [Things you should know about Spark: part 1 the basics](https://medium.com/data-engineering-insight/things-you-should-know-about-spark-part-1-the-basics-33c97c033ef6?source=rss------hadoop-5)
 - [Hadoop PIG](https://avinashnavlani.medium.com/hadoop-pig-3db758de7fe5?source=rss------hadoop-5)
 - [Apache Sqoop](https://avinashnavlani.medium.com/apache-sqoop-d4ab4b6d51e4?source=rss------hadoop-5)
@@ -305,7 +306,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Instalação do Hadoop no Windows para Iniciantes](https://diego-holanda-neri.medium.com/instala%C3%A7%C3%A3o-do-hadoop-no-windows-para-iniciantes-fc5c1ad4e337?source=rss------hadoop-5)
 - [Как получить доступ к данным в AWS S3 из кластера Apache Hadoop через Hive и Spark](https://medium.com/@bigdataschool/%D0%BA%D0%B0%D0%BA-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B8%D1%82%D1%8C-%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF-%D0%BA-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC-%D0%B2-aws-s3-%D0%B8%D0%B7-%D0%BA%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%B0-apache-hadoop-%D1%87%D0%B5%D1%80%D0%B5%D0%B7-hive-%D0%B8-spark-1b96f7720643?source=rss------hadoop-5)
 - [Things you should know about Kerberos in Hadoop Clusters](https://medium.com/data-engineering-insight/things-you-should-know-about-kerberos-in-hadoop-clusters-325861aee182?source=rss------hadoop-5)
-- [Big Data and Hadoop](https://medium.com/@abhishekshukla_16953/big-data-and-hadoop-dc6d16c399c0?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
