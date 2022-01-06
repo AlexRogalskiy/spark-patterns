@@ -297,6 +297,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Getting started with Apache Spark II](https://medium.com/geekculture/getting-started-with-apache-spark-ii-fffeab9f5df7?source=rss------hadoop-5)
+- [Big Data and Hadoop in 2021](https://raftlabs.medium.com/big-data-and-hadoop-in-2021-10f44b6d8205?source=rss------hadoop-5)
 - [Hadoop in 2 minutes](https://medium.com/@maherbhavsar/hadoop-in-2-minutes-1574b7693855?source=rss------hadoop-5)
 - [Hola People](https://medium.com/@iamshaaann/hola-people-4bcd127cb035?source=rss------hadoop-5)
 - [Apache Spark: 하둡과 스파크 차이점, 스파크 데이터프레임과 RDD API&lpar;2&rpar;](https://soniacomp.medium.com/apache-spark-%ED%95%98%EB%91%A1%EA%B3%BC-%EC%8A%A4%ED%8C%8C%ED%81%AC-%EC%B0%A8%EC%9D%B4%EC%A0%90-%EC%8A%A4%ED%8C%8C%ED%81%AC-%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%94%84%EB%A0%88%EC%9E%84%EA%B3%BC-rdd-api-2-bcf1aaa4f186?source=rss------hadoop-5)
@@ -305,8 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Things you should know about Spark: part 1 the basics](https://medium.com/data-engineering-insight/things-you-should-know-about-spark-part-1-the-basics-33c97c033ef6?source=rss------hadoop-5)
 - [Hadoop PIG](https://avinashnavlani.medium.com/hadoop-pig-3db758de7fe5?source=rss------hadoop-5)
 - [Apache Sqoop](https://avinashnavlani.medium.com/apache-sqoop-d4ab4b6d51e4?source=rss------hadoop-5)
-- [Learn Basics of Hadoop in easy Steps|Introduction to Hadoop](https://medium.com/@noorayesha2000/learn-basics-of-hadoop-in-easy-steps-introduction-to-hadoop-c9883e6512d0?source=rss------hadoop-5)
-- [Greenplum с PXF и глубокое обучение в Apache MADlib для классификации изображений](https://medium.com/@bigdataschool/greenplum-%D1%81-pxf-%D0%B8-%D0%B3%D0%BB%D1%83%D0%B1%D0%BE%D0%BA%D0%BE%D0%B5-%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2-apache-madlib-%D0%B4%D0%BB%D1%8F-%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8-%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9-38af4c147a69?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
