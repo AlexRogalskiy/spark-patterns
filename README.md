@@ -297,6 +297,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [All You Need To Know About Hadoop](https://medium.com/@jayakamal072/all-you-need-to-know-about-hadoop-8b3cee5586ab?source=rss------hadoop-5)
 - [Getting started with Apache Spark II](https://medium.com/geekculture/getting-started-with-apache-spark-ii-fffeab9f5df7?source=rss------hadoop-5)
 - [Big Data and Hadoop in 2021](https://raftlabs.medium.com/big-data-and-hadoop-in-2021-10f44b6d8205?source=rss------hadoop-5)
 - [Hadoop in 2 minutes](https://medium.com/@maherbhavsar/hadoop-in-2-minutes-1574b7693855?source=rss------hadoop-5)
@@ -306,7 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Hadoop Hive-With Practical](https://abhaydesai01.medium.com/hadoop-hive-with-practical-17eb5d4827aa?source=rss------hadoop-5)
 - [Things you should know about Spark: part 1 the basics](https://medium.com/data-engineering-insight/things-you-should-know-about-spark-part-1-the-basics-33c97c033ef6?source=rss------hadoop-5)
 - [Hadoop PIG](https://avinashnavlani.medium.com/hadoop-pig-3db758de7fe5?source=rss------hadoop-5)
-- [Apache Sqoop](https://avinashnavlani.medium.com/apache-sqoop-d4ab4b6d51e4?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
