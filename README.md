@@ -297,6 +297,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [WordCounter in Hadoop! &lpar;Windows PRACTICAL&rpar;](https://gptshubham595.medium.com/wordcounter-in-hadoop-windows-practical-e0629d9ecfa7?source=rss------hadoop-5)
+- [En Basit Hatlarıyla MapReduce Nedir, Ne için Kullanılır?](https://dbkirkoglu.medium.com/en-basit-hatlar%C4%B1yla-mapreduce-nedir-ne-i%C3%A7in-kullan%C4%B1l%C4%B1r-a4bb27bc930?source=rss------hadoop-5)
 - [An Introduction to BIG DATA](https://medium.com/@prikshitsingla78/an-introduction-to-big-data-8cebc140c2cf?source=rss------hadoop-5)
 - [Как организовать Feature Engineering на SQL-запросах: инженерия Data Science](https://medium.com/@bigdataschool/%D0%BA%D0%B0%D0%BA-%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-feature-engineering-%D0%BD%D0%B0-sql-%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D0%B0%D1%85-%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D0%B8%D1%8F-data-science-4dfcd38c4ab9?source=rss------hadoop-5)
 - [All You Need To Know About Hadoop](https://medium.com/@jayakamal072/all-you-need-to-know-about-hadoop-8b3cee5586ab?source=rss------hadoop-5)
@@ -305,8 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Hadoop in 2 minutes](https://medium.com/@maherbhavsar/hadoop-in-2-minutes-1574b7693855?source=rss------hadoop-5)
 - [Hola People](https://medium.com/@iamshaaann/hola-people-4bcd127cb035?source=rss------hadoop-5)
 - [Apache Spark: 하둡과 스파크 차이점, 스파크 데이터프레임과 RDD API&lpar;2&rpar;](https://soniacomp.medium.com/apache-spark-%ED%95%98%EB%91%A1%EA%B3%BC-%EC%8A%A4%ED%8C%8C%ED%81%AC-%EC%B0%A8%EC%9D%B4%EC%A0%90-%EC%8A%A4%ED%8C%8C%ED%81%AC-%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%94%84%EB%A0%88%EC%9E%84%EA%B3%BC-rdd-api-2-bcf1aaa4f186?source=rss------hadoop-5)
-- [Setup Mini Data Lake and Platform on M1 Mac — Part 3](https://selectfrom.dev/setup-mini-data-lake-and-platform-on-m1-mac-part-3-47d2238db716?source=rss------hadoop-5)
-- [Hadoop Hive-With Practical](https://abhaydesai01.medium.com/hadoop-hive-with-practical-17eb5d4827aa?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
