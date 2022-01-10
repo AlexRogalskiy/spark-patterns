@@ -297,6 +297,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Apache Hudi pronounced “hoodie”](https://ajithshetty28.medium.com/apache-hudi-pronounced-hoodie-e393339dbc47?source=rss------hadoop-5)
 - [WordCounter in Hadoop! &lpar;Windows PRACTICAL&rpar;](https://gptshubham595.medium.com/wordcounter-in-hadoop-windows-practical-e0629d9ecfa7?source=rss------hadoop-5)
 - [En Basit Hatlarıyla MapReduce Nedir, Ne için Kullanılır?](https://dbkirkoglu.medium.com/en-basit-hatlar%C4%B1yla-mapreduce-nedir-ne-i%C3%A7in-kullan%C4%B1l%C4%B1r-a4bb27bc930?source=rss------hadoop-5)
 - [An Introduction to BIG DATA](https://medium.com/@prikshitsingla78/an-introduction-to-big-data-8cebc140c2cf?source=rss------hadoop-5)
@@ -306,7 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Big Data and Hadoop in 2021](https://raftlabs.medium.com/big-data-and-hadoop-in-2021-10f44b6d8205?source=rss------hadoop-5)
 - [Hadoop in 2 minutes](https://medium.com/@maherbhavsar/hadoop-in-2-minutes-1574b7693855?source=rss------hadoop-5)
 - [Hola People](https://medium.com/@iamshaaann/hola-people-4bcd127cb035?source=rss------hadoop-5)
-- [Apache Spark: 하둡과 스파크 차이점, 스파크 데이터프레임과 RDD API&lpar;2&rpar;](https://soniacomp.medium.com/apache-spark-%ED%95%98%EB%91%A1%EA%B3%BC-%EC%8A%A4%ED%8C%8C%ED%81%AC-%EC%B0%A8%EC%9D%B4%EC%A0%90-%EC%8A%A4%ED%8C%8C%ED%81%AC-%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%94%84%EB%A0%88%EC%9E%84%EA%B3%BC-rdd-api-2-bcf1aaa4f186?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
