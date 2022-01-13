@@ -320,6 +320,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop in real world posts*
 
 <!-- HADOOPINREALWORLD-POST-LIST:START -->
+- [What is the difference between static partitioning and dynamic partitioning in Hive?](https://www.hadoopinrealworld.com/what-is-the-difference-between-static-partitioning-and-dynamic-partitioning-in-hive/)
 - [How to move a Hive table from one database to another?](https://www.hadoopinrealworld.com/how-to-move-a-hive-table-from-one-database-to-another/)
 - [What is an efficient way to check if a Spark DataFrame is empty?](https://www.hadoopinrealworld.com/what-is-an-efficient-way-to-check-if-a-spark-dataframe-is-empty/)
 - [Where does Hive store files for Hive tables?](https://www.hadoopinrealworld.com/where-does-hive-store-files-for-hive-tables/)
@@ -329,7 +330,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [What is the difference between EXPLODE and LATERAL VIEW EXPLODE in Hive?](https://www.hadoopinrealworld.com/what-is-the-difference-between-explode-and-lateral-view-explode-in-hive/)
 - [How to calculate the difference between 2 dates in Hive?](https://www.hadoopinrealworld.com/how-to-calculate-the-difference-between-2-dates-in-hive/)
 - [How to select top N rows in Hive?](https://www.hadoopinrealworld.com/how-to-select-top-n-rows-in-hive/)
-- [What is the difference between foreach and foreachPartition in Spark?](https://www.hadoopinrealworld.com/what-is-the-difference-between-foreach-and-foreachpartition-in-spark/)
 <!-- HADOOPINREALWORLD-POST-LIST:END -->
 
 ### *Kognitio posts*
