@@ -297,7 +297,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
-- [Databricks — A History and Introduction](https://medium.com/@chuck.connell.3/databricks-a-history-and-introduction-438ce827227?source=rss------hadoop-5)
+- [Databricks — A History](https://medium.com/@chuck.connell.3/databricks-a-history-d8dd12fe9695?source=rss------hadoop-5)
+- [Databricks — An Introduction and Tutorial](https://medium.com/@chuck.connell.3/databricks-a-history-and-introduction-438ce827227?source=rss------hadoop-5)
 - [Зачем нужна статистика таблиц Apache Hive и как ее собрать](https://medium.com/@bigdataschool/%D0%B7%D0%B0%D1%87%D0%B5%D0%BC-%D0%BD%D1%83%D0%B6%D0%BD%D0%B0-%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0-%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86-apache-hive-%D0%B8-%D0%BA%D0%B0%D0%BA-%D0%B5%D0%B5-%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D1%8C-53f4c6653d3c?source=rss------hadoop-5)
 - [Como aumentar a velocidade dos unions no Hive](https://clouradev.medium.com/como-aumentar-a-velocidade-dos-unions-no-hive-8d15da90090e?source=rss------hadoop-5)
 - [Task trackers and job managers can access data via Hadoop Distributed File System &lpar;HDFS&rpar;](https://medium.com/@bloggingcmi/task-trackers-and-job-managers-can-access-data-via-hadoop-distributed-file-system-hdfs-357f1af9dd9a?source=rss------hadoop-5)
@@ -306,7 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [WordCounter in Hadoop! &lpar;Windows PRACTICAL&rpar;](https://gptshubham595.medium.com/wordcounter-in-hadoop-windows-practical-e0629d9ecfa7?source=rss------hadoop-5)
 - [En Basit Hatlarıyla MapReduce Nedir, Ne için Kullanılır?](https://dbkirkoglu.medium.com/en-basit-hatlar%C4%B1yla-mapreduce-nedir-ne-i%C3%A7in-kullan%C4%B1l%C4%B1r-a4bb27bc930?source=rss------hadoop-5)
 - [An Introduction to BIG DATA](https://medium.com/@prikshitsingla78/an-introduction-to-big-data-8cebc140c2cf?source=rss------hadoop-5)
-- [Как организовать Feature Engineering на SQL-запросах: инженерия Data Science](https://medium.com/@bigdataschool/%D0%BA%D0%B0%D0%BA-%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-feature-engineering-%D0%BD%D0%B0-sql-%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D0%B0%D1%85-%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D0%B8%D1%8F-data-science-4dfcd38c4ab9?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
