@@ -297,7 +297,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
-- [Given a query how to know if it requires Map or Reduce or Both](https://medium.com/@gouru.pradeep9/given-a-query-how-to-know-if-it-requires-map-or-reduce-or-both-cc2b9caefdc3?source=rss------hadoop-5)
+- [Hadoop Ecosystem](https://medium.com/@abhishek.kr.roy1403/hadoop-ecosystem-95579ab15dd6?source=rss------hadoop-5)
+- [Map or Reduce or Both for a given query/job](https://medium.com/@gouru.pradeep9/given-a-query-how-to-know-if-it-requires-map-or-reduce-or-both-cc2b9caefdc3?source=rss------hadoop-5)
 - [Databricks — A History](https://medium.com/@chuck.connell.3/databricks-a-history-d8dd12fe9695?source=rss------hadoop-5)
 - [Databricks — An Introduction and Tutorial](https://medium.com/@chuck.connell.3/databricks-a-history-and-introduction-438ce827227?source=rss------hadoop-5)
 - [Зачем нужна статистика таблиц Apache Hive и как ее собрать](https://medium.com/@bigdataschool/%D0%B7%D0%B0%D1%87%D0%B5%D0%BC-%D0%BD%D1%83%D0%B6%D0%BD%D0%B0-%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0-%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86-apache-hive-%D0%B8-%D0%BA%D0%B0%D0%BA-%D0%B5%D0%B5-%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D1%8C-53f4c6653d3c?source=rss------hadoop-5)
@@ -306,7 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Como melhorar a performance dos seus joins no Hive com StreamTable e MapJoin](https://clouradev.medium.com/como-melhorar-a-performance-dos-seus-joins-no-hive-com-streamtable-e-mapjoin-b25ec9b43d24?source=rss------hadoop-5)
 - [Apache Hudi pronounced “hoodie”](https://ajithshetty28.medium.com/apache-hudi-pronounced-hoodie-e393339dbc47?source=rss------hadoop-5)
 - [WordCounter in Hadoop! &lpar;Windows PRACTICAL&rpar;](https://gptshubham595.medium.com/wordcounter-in-hadoop-windows-practical-e0629d9ecfa7?source=rss------hadoop-5)
-- [En Basit Hatlarıyla MapReduce Nedir, Ne için Kullanılır?](https://dbkirkoglu.medium.com/en-basit-hatlar%C4%B1yla-mapreduce-nedir-ne-i%C3%A7in-kullan%C4%B1l%C4%B1r-a4bb27bc930?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
