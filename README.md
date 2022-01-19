@@ -297,6 +297,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Apache Hadoop’s 4 Main Modules](https://allaboutreact.medium.com/apache-hadoops-4-main-modules-acac78029090?source=rss------hadoop-5)
+- [So, What is All the Fuss about this Hadoop thingy?!](https://pchambiras.medium.com/so-what-is-all-the-fuss-about-this-hadoop-thingy-fbb49c3ea287?source=rss------hadoop-5)
 - [How to install Hadoop?](https://nicoleeesim97.medium.com/how-to-install-hadoop-95ba5e1521cf?source=rss------hadoop-5)
 - [MapReduce](https://medium.com/@v.rodriguezy/mapreduce-9a1ec1f9d9b4?source=rss------hadoop-5)
 - [Apache Hadoop Zero to Hero](https://medium.com/data-revolution/apache-hadoop-zero-to-hero-ad9822d1d0c5?source=rss------hadoop-5)
@@ -305,8 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Databricks — A History](https://medium.com/@chuck.connell.3/databricks-a-history-d8dd12fe9695?source=rss------hadoop-5)
 - [Databricks — An Introduction and Tutorial](https://medium.com/@chuck.connell.3/databricks-a-history-and-introduction-438ce827227?source=rss------hadoop-5)
 - [Зачем нужна статистика таблиц Apache Hive и как ее собрать](https://medium.com/@bigdataschool/%D0%B7%D0%B0%D1%87%D0%B5%D0%BC-%D0%BD%D1%83%D0%B6%D0%BD%D0%B0-%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0-%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86-apache-hive-%D0%B8-%D0%BA%D0%B0%D0%BA-%D0%B5%D0%B5-%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D1%8C-53f4c6653d3c?source=rss------hadoop-5)
-- [Como aumentar a velocidade dos unions no Hive](https://clouradev.medium.com/como-aumentar-a-velocidade-dos-unions-no-hive-8d15da90090e?source=rss------hadoop-5)
-- [Task trackers and job managers can access data via Hadoop Distributed File System &lpar;HDFS&rpar;](https://medium.com/@bloggingcmi/task-trackers-and-job-managers-can-access-data-via-hadoop-distributed-file-system-hdfs-357f1af9dd9a?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
