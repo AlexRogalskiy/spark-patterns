@@ -297,6 +297,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Adım Adım Hadoop Kurulumu&lpar;Multi Node Cluster&rpar;](https://serpercanan.medium.com/ad%C4%B1m-ad%C4%B1m-hadoop-kurulumu-multi-node-cluster-e493aef83363?source=rss------hadoop-5)
 - [Introduction to Big Data with Spark and Hadoop - Week 1. What is Big Data?](https://medium.com/@jasonxdy/introduction-to-big-data-with-spark-and-hadoop-ecc54e17350f?source=rss------hadoop-5)
 - [Apache Hadoop’s 4 Main Modules](https://allaboutreact.medium.com/apache-hadoops-4-main-modules-acac78029090?source=rss------hadoop-5)
 - [So, What is All the Fuss about this Hadoop thingy?!](https://pchambiras.medium.com/so-what-is-all-the-fuss-about-this-hadoop-thingy-fbb49c3ea287?source=rss------hadoop-5)
@@ -306,7 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Hadoop Ecosystem](https://medium.com/@abhishek.kr.roy1403/hadoop-ecosystem-95579ab15dd6?source=rss------hadoop-5)
 - [Map or Reduce or Both for a given query/job](https://medium.com/@gouru.pradeep9/given-a-query-how-to-know-if-it-requires-map-or-reduce-or-both-cc2b9caefdc3?source=rss------hadoop-5)
 - [Databricks — A History](https://medium.com/@chuck.connell.3/databricks-a-history-d8dd12fe9695?source=rss------hadoop-5)
-- [Databricks — An Introduction and Tutorial](https://medium.com/@chuck.connell.3/databricks-a-history-and-introduction-438ce827227?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
