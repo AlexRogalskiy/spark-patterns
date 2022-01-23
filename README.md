@@ -274,6 +274,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [JTEKT — Application of SPARK to Steering System Software](https://www.reddit.com/r/spark/comments/sa035u/jtekt_application_of_spark_to_steering_system/)
 - [New Competition: Ada/SPARK Crate Of The Year Award](https://www.reddit.com/r/spark/comments/o9hbo3/new_competition_adaspark_crate_of_the_year_award/)
 - [SPARKNaCl with GNAT and SPARK Community 2021: Port, Proof and Performance](https://www.reddit.com/r/spark/comments/o7lcg7/sparknacl_with_gnat_and_spark_community_2021_port/)
 - [Going beyond Ada 2022](https://www.reddit.com/r/spark/comments/o69ual/going_beyond_ada_2022/)
@@ -283,7 +284,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [[ VIDEO ] FOSDEM 2020 - Securing Existing Software using Formally Verified Libraries](https://www.reddit.com/r/spark/comments/j7h5eo/video_fosdem_2020_securing_existing_software/)
 - [FOSDEM 2020 - A Component-based Environment for Android Apps](https://www.reddit.com/r/spark/comments/j7g0p4/fosdem_2020_a_componentbased_environment_for/)
 - [Major milestone: SPARK now allows to prove code with partially initialized data being passed around!](https://www.reddit.com/r/spark/comments/hzgnx2/major_milestone_spark_now_allows_to_prove_code/)
-- [Gneiss: Framework for platform-independent SPARK components](https://www.reddit.com/r/spark/comments/gzolxl/gneiss_framework_for_platformindependent_spark/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld Spark posts*
