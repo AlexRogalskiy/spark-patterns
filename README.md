@@ -297,6 +297,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Understanding the basics of Big Data Analytics](https://medium.com/dssimplified/understanding-the-basics-of-big-data-analytics-50801a0adde6?source=rss------hadoop-5)
 - [Hadoop — Could not find or load main class &lt;UserName&gt; &lpar;Error Fix&rpar;](https://medium.com/@lucky.girish97/hadoop-could-not-find-or-load-main-class-username-error-fix-abd8b80a1c97?source=rss------hadoop-5)
 - [Crypto Tweets Fetch using Flume &amp; Hadoop &lpar;PRACTICAL&rpar;](https://gptshubham595.medium.com/crypto-tweets-fetch-using-flume-hadoop-practical-e722f28e7fd0?source=rss------hadoop-5)
 - [Hadoop with Python](https://python.plainenglish.io/hadoop-with-python-6cf5ccb221d4?source=rss------hadoop-5)
@@ -306,7 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [So, What is All the Fuss about this Hadoop thingy?!](https://pchambiras.medium.com/so-what-is-all-the-fuss-about-this-hadoop-thingy-fbb49c3ea287?source=rss------hadoop-5)
 - [How to install Hadoop?](https://nicoleeesim97.medium.com/how-to-install-hadoop-95ba5e1521cf?source=rss------hadoop-5)
 - [MapReduce](https://medium.com/@v.rodriguezy/mapreduce-9a1ec1f9d9b4?source=rss------hadoop-5)
-- [Apache Hadoop Zero to Hero](https://medium.com/data-revolution/apache-hadoop-zero-to-hero-ad9822d1d0c5?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
