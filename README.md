@@ -320,6 +320,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop in real world posts*
 
 <!-- HADOOPINREALWORLD-POST-LIST:START -->
+- [How to insert into a Hive table when the table has columns with complex types like Arrays?](https://www.hadoopinrealworld.com/how-to-insert-into-a-hive-table-when-the-table-has-columns-with-complex-types-like-arrays/)
 - [How to see the current database user is on with Hive cli or Beeline?](https://www.hadoopinrealworld.com/how-to-see-the-current-database-user-is-on-with-hive-cli-or-beeline/)
 - [What is the difference between static partitioning and dynamic partitioning in Hive?](https://www.hadoopinrealworld.com/what-is-the-difference-between-static-partitioning-and-dynamic-partitioning-in-hive/)
 - [How to move a Hive table from one database to another?](https://www.hadoopinrealworld.com/how-to-move-a-hive-table-from-one-database-to-another/)
@@ -329,7 +330,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Hive architecture](https://www.hadoopinrealworld.com/hive-architecture/)
 - [How to find the version of Hadoop and Hive?](https://www.hadoopinrealworld.com/how-to-find-the-version-of-hadoop-and-hive/)
 - [What is the difference between EXPLODE and LATERAL VIEW EXPLODE in Hive?](https://www.hadoopinrealworld.com/what-is-the-difference-between-explode-and-lateral-view-explode-in-hive/)
-- [How to calculate the difference between 2 dates in Hive?](https://www.hadoopinrealworld.com/how-to-calculate-the-difference-between-2-dates-in-hive/)
 <!-- HADOOPINREALWORLD-POST-LIST:END -->
 
 ### *Kognitio posts*
