@@ -304,9 +304,9 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Crypto Tweets Fetch using Flume &amp; Hadoop &lpar;PRACTICAL&rpar;](https://gptshubham595.medium.com/crypto-tweets-fetch-using-flume-hadoop-practical-e722f28e7fd0?source=rss------hadoop-5)
 - [Introducing Hadoop with Python](https://python.plainenglish.io/hadoop-with-python-6cf5ccb221d4?source=rss------hadoop-5)
 - [Adım Adım Hadoop Kurulumu&lpar;Multi Node Cluster&rpar;](https://serpercanan.medium.com/ad%C4%B1m-ad%C4%B1m-hadoop-kurulumu-multi-node-cluster-e493aef83363?source=rss------hadoop-5)
+- [Improve Apache Spark performance with the S3 magic committer](https://towardsdatascience.com/improve-apache-spark-performance-with-the-s3-magic-committer-257a34e367af?source=rss------hadoop-5)
 - [Introduction to Big Data with Spark and Hadoop - Week 1. What is Big Data?](https://medium.com/@jasonxdy/introduction-to-big-data-with-spark-and-hadoop-ecc54e17350f?source=rss------hadoop-5)
 - [Apache Hadoop’s 4 Main Modules](https://allaboutreact.medium.com/apache-hadoops-4-main-modules-acac78029090?source=rss------hadoop-5)
-- [So, What is All the Fuss about this Hadoop thingy?!](https://pchambiras.medium.com/so-what-is-all-the-fuss-about-this-hadoop-thingy-fbb49c3ea287?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
