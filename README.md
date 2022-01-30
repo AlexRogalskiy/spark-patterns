@@ -297,6 +297,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Setup Spark and Scala in Windows](https://medium.com/@saravana.ir/setup-spark-and-scala-in-windows-56e8d2005ff7?source=rss------hadoop-5)
 - [UDF в Apache Hive: создание, регистрация и эксплуатация](https://medium.com/@bigdataschool/udf-%D0%B2-apache-hive-%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-%D1%80%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F-%D0%B8-%D1%8D%D0%BA%D1%81%D0%BF%D0%BB%D1%83%D0%B0%D1%82%D0%B0%D1%86%D0%B8%D1%8F-d55c89b87b20?source=rss------hadoop-5)
 - [Introduction to Hadoop](https://medium.com/@devparmar967/introduction-to-hadoop-920a30800fca?source=rss------hadoop-5)
 - [Sqoop from MySQL to HIVE in HDFS](https://medium.com/@vikassharma555/sqoop-from-mysql-to-hive-in-hdfs-54c84d2587ec?source=rss------hadoop-5)
@@ -306,7 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Introducing Hadoop with Python](https://python.plainenglish.io/hadoop-with-python-6cf5ccb221d4?source=rss------hadoop-5)
 - [Adım Adım Hadoop Kurulumu&lpar;Multi Node Cluster&rpar;](https://serpercanan.medium.com/ad%C4%B1m-ad%C4%B1m-hadoop-kurulumu-multi-node-cluster-e493aef83363?source=rss------hadoop-5)
 - [Improve Apache Spark performance with the S3 magic committer](https://towardsdatascience.com/improve-apache-spark-performance-with-the-s3-magic-committer-257a34e367af?source=rss------hadoop-5)
-- [Introduction to Big Data with Spark and Hadoop - Week 1. What is Big Data?](https://medium.com/@jasonxdy/introduction-to-big-data-with-spark-and-hadoop-ecc54e17350f?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
