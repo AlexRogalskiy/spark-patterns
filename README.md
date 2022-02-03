@@ -297,6 +297,9 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Hadoop Hive MySQL on Ubuntu 20.04](https://tanutaran.medium.com/hadoop-hive-mysql-on-ubuntu-20-04-1d823bfa6b51?source=rss------hadoop-5)
+- [Big Data Ecosystem Case Study](https://caesarmario.medium.com/big-data-ecosystem-case-study-a85b15ed46a8?source=rss------hadoop-5)
+- [Introduction to Hadoop Part 1](https://python.plainenglish.io/introduction-to-hadoop-part-1-8629bfd8464d?source=rss------hadoop-5)
 - [Introduction HDFS](https://medium.com/@devparmar967/introduction-hdfs-beab645d86a1?source=rss------hadoop-5)
 - [Setup Spark and Scala in Windows](https://medium.com/@saravana.ir/setup-spark-and-scala-in-windows-56e8d2005ff7?source=rss------hadoop-5)
 - [UDF в Apache Hive: создание, регистрация и эксплуатация](https://medium.com/@bigdataschool/udf-%D0%B2-apache-hive-%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-%D1%80%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F-%D0%B8-%D1%8D%D0%BA%D1%81%D0%BF%D0%BB%D1%83%D0%B0%D1%82%D0%B0%D1%86%D0%B8%D1%8F-d55c89b87b20?source=rss------hadoop-5)
@@ -304,9 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Sqoop from MySQL to HIVE in HDFS](https://medium.com/@vikassharma555/sqoop-from-mysql-to-hive-in-hdfs-54c84d2587ec?source=rss------hadoop-5)
 - [Understanding the basics of Big Data Analytics](https://medium.com/dssimplified/understanding-the-basics-of-big-data-analytics-50801a0adde6?source=rss------hadoop-5)
 - [Hadoop — Could not find or load main class &lt;UserName&gt; &lpar;Error Fix&rpar;](https://medium.com/@lucky.girish97/hadoop-could-not-find-or-load-main-class-username-error-fix-abd8b80a1c97?source=rss------hadoop-5)
-- [Crypto Tweets Fetch using Flume &amp; Hadoop &lpar;PRACTICAL&rpar;](https://gptshubham595.medium.com/crypto-tweets-fetch-using-flume-hadoop-practical-e722f28e7fd0?source=rss------hadoop-5)
-- [Introducing Hadoop with Python](https://python.plainenglish.io/hadoop-with-python-6cf5ccb221d4?source=rss------hadoop-5)
-- [Adım Adım Hadoop Kurulumu&lpar;Multi Node Cluster&rpar;](https://serpercanan.medium.com/ad%C4%B1m-ad%C4%B1m-hadoop-kurulumu-multi-node-cluster-e493aef83363?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
