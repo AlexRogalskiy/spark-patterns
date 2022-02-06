@@ -297,6 +297,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Hadoop](https://medium.com/@mithranbala123/hadoop-7b3132aa4fed?source=rss------hadoop-5)
 - [Размер имеет значение: Spark и Phoenix для больших запросов в Apache HBase](https://medium.com/@bigdataschool/%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80-%D0%B8%D0%BC%D0%B5%D0%B5%D1%82-%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-spark-%D0%B8-phoenix-%D0%B4%D0%BB%D1%8F-%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%B8%D1%85-%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2-%D0%B2-apache-hbase-fc08b1c00417?source=rss------hadoop-5)
 - [Hadoop Hive MySQL on Ubuntu 20.04](https://tanutaran.medium.com/hadoop-hive-mysql-on-ubuntu-20-04-1d823bfa6b51?source=rss------hadoop-5)
 - [Big Data Ecosystem Case Study](https://caesarmario.medium.com/big-data-ecosystem-case-study-a85b15ed46a8?source=rss------hadoop-5)
@@ -306,7 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [UDF в Apache Hive: создание, регистрация и эксплуатация](https://medium.com/@bigdataschool/udf-%D0%B2-apache-hive-%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-%D1%80%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F-%D0%B8-%D1%8D%D0%BA%D1%81%D0%BF%D0%BB%D1%83%D0%B0%D1%82%D0%B0%D1%86%D0%B8%D1%8F-d55c89b87b20?source=rss------hadoop-5)
 - [Introduction to Hadoop](https://medium.com/@devparmar967/introduction-to-hadoop-920a30800fca?source=rss------hadoop-5)
 - [Sqoop from MySQL to HIVE in HDFS](https://medium.com/@vikassharma555/sqoop-from-mysql-to-hive-in-hdfs-54c84d2587ec?source=rss------hadoop-5)
-- [Understanding the basics of Big Data Analytics](https://medium.com/dssimplified/understanding-the-basics-of-big-data-analytics-50801a0adde6?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
