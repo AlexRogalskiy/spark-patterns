@@ -297,6 +297,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [How to use python hdfs client to interact with HDFS](https://medium.com/@jaylaxmi85/how-to-use-python-hdfs-client-to-interact-with-hdfs-d936701be0d9?source=rss------hadoop-5)
+- [Introduction to Hadoop Part 2](https://medium.com/mlearning-ai/introduction-to-hadoop-part-2-7d4e5b59d492?source=rss------hadoop-5)
 - [Hadoop 3.2.2 Installation Guide for Windows 10](https://medium.com/@pedro.a.hdez.a/hadoop-3-2-2-installation-guide-for-windows-10-454f5b5c22d3?source=rss------hadoop-5)
 - [Big Data and Hadoop](https://medium.com/geekculture/big-data-and-hadoop-9f602d4900b1?source=rss------hadoop-5)
 - [Hadoop](https://medium.com/@mithranbala123/hadoop-7b3132aa4fed?source=rss------hadoop-5)
@@ -305,8 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Big Data Ecosystem Case Study](https://caesarmario.medium.com/big-data-ecosystem-case-study-a85b15ed46a8?source=rss------hadoop-5)
 - [An Introduction to Hadoop for Beginners](https://python.plainenglish.io/introduction-to-hadoop-part-1-8629bfd8464d?source=rss------hadoop-5)
 - [Introduction HDFS](https://medium.com/@devparmar967/introduction-hdfs-beab645d86a1?source=rss------hadoop-5)
-- [Setup Spark and Scala in Windows](https://medium.com/@saravana.ir/setup-spark-and-scala-in-windows-56e8d2005ff7?source=rss------hadoop-5)
-- [UDF в Apache Hive: создание, регистрация и эксплуатация](https://medium.com/@bigdataschool/udf-%D0%B2-apache-hive-%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-%D1%80%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F-%D0%B8-%D1%8D%D0%BA%D1%81%D0%BF%D0%BB%D1%83%D0%B0%D1%82%D0%B0%D1%86%D0%B8%D1%8F-d55c89b87b20?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
