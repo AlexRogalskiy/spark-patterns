@@ -320,6 +320,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop in real world posts*
 
 <!-- HADOOPINREALWORLD-POST-LIST:START -->
+- [How to find out if a directory in HDFS is empty or not?](https://www.hadoopinrealworld.com/how-to-find-out-if-a-directory-in-hdfs-is-empty-or-not/)
 - [What is the difference between get_json_object and json_tuple functions in Hive?](https://www.hadoopinrealworld.com/what-is-the-difference-between-get_json_object-and-json_tuple-functions-in-hive/)
 - [How to insert into a Hive table when the table has columns with complex types like Arrays?](https://www.hadoopinrealworld.com/how-to-insert-into-a-hive-table-when-the-table-has-columns-with-complex-types-like-arrays/)
 - [How to see the current database user is on with Hive cli or Beeline?](https://www.hadoopinrealworld.com/how-to-see-the-current-database-user-is-on-with-hive-cli-or-beeline/)
@@ -329,7 +330,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Where does Hive store files for Hive tables?](https://www.hadoopinrealworld.com/where-does-hive-store-files-for-hive-tables/)
 - [How to get DDL or create script of an existing Hive table?](https://www.hadoopinrealworld.com/how-to-get-ddl-or-create-script-of-an-existing-hive-table/)
 - [Hive architecture](https://www.hadoopinrealworld.com/hive-architecture/)
-- [How to find the version of Hadoop and Hive?](https://www.hadoopinrealworld.com/how-to-find-the-version-of-hadoop-and-hive/)
 <!-- HADOOPINREALWORLD-POST-LIST:END -->
 
 ### *Kognitio posts*
