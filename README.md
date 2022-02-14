@@ -274,6 +274,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [SPARKNaCl: A Verified, Fast Re-implementation of TweetNaCl](https://www.reddit.com/r/spark/comments/srkif2/sparknacl_a_verified_fast_reimplementation_of/)
 - [JTEKT — Application of SPARK to Steering System Software](https://www.reddit.com/r/spark/comments/sa035u/jtekt_application_of_spark_to_steering_system/)
 - [New Competition: Ada/SPARK Crate Of The Year Award](https://www.reddit.com/r/spark/comments/o9hbo3/new_competition_adaspark_crate_of_the_year_award/)
 - [SPARKNaCl with GNAT and SPARK Community 2021: Port, Proof and Performance](https://www.reddit.com/r/spark/comments/o7lcg7/sparknacl_with_gnat_and_spark_community_2021_port/)
@@ -283,7 +284,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [First beta release of Alire, the package manager for Ada/SPARK](https://www.reddit.com/r/spark/comments/jlyih0/first_beta_release_of_alire_the_package_manager/)
 - [[ VIDEO ] FOSDEM 2020 - Securing Existing Software using Formally Verified Libraries](https://www.reddit.com/r/spark/comments/j7h5eo/video_fosdem_2020_securing_existing_software/)
 - [FOSDEM 2020 - A Component-based Environment for Android Apps](https://www.reddit.com/r/spark/comments/j7g0p4/fosdem_2020_a_componentbased_environment_for/)
-- [Major milestone: SPARK now allows to prove code with partially initialized data being passed around!](https://www.reddit.com/r/spark/comments/hzgnx2/major_milestone_spark_now_allows_to_prove_code/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld Spark posts*
