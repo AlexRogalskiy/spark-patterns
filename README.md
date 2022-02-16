@@ -297,6 +297,9 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [The Future of Hadoop and Big Data Analytics](https://medium.com/kyligence/the-future-of-hadoop-and-big-data-analytics-5ea2782440cc?source=rss------hadoop-5)
+- [OLAP and Hadoop: The 4 Differences You Should Know](https://medium.com/@varun.singh_99751/olap-and-hadoop-the-4-differences-you-should-know-b7379dd88bd?source=rss------hadoop-5)
+- [How to UPSERT data into a relational database using Apache Spark: Part 2 &lpar;Python Version&rpar;](https://medium.com/@thomaspt748/how-to-upsert-data-into-a-relational-database-using-apache-spark-part-2-python-version-da30352c0ca9?source=rss------hadoop-5)
 - [Configuraciones de Hadoop — Conectarnos a GCP](https://osmar-valenzuela.medium.com/configuraciones-de-hadoop-conectarnos-a-gcp-483fc51ff1d6?source=rss------hadoop-5)
 - [In memory computation in spark](https://magicschoolb.medium.com/in-memory-computation-in-spark-12cf1721de4c?source=rss------hadoop-5)
 - [Introduction to MapReduce](https://medium.com/@devparmar967/introduction-to-mapreduce-4d37712da879?source=rss------hadoop-5)
@@ -304,9 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [i saved my hbase zombie table!](https://mohaddese-abbasi.medium.com/i-saved-my-hbase-zombie-table-f2cdac04fcb?source=rss------hadoop-5)
 - [Cómo instalar Hadoop en Windows Subsystem for Linux](https://medium.com/lcc-unison/c%C3%B3mo-instalar-hadoop-en-windows-subsystem-for-linux-d1fde59fb69c?source=rss------hadoop-5)
 - [Setting up Hadoop with Docker and using MapReduce framework](https://medium.com/@guillermovc/setting-up-hadoop-with-docker-and-using-mapreduce-framework-c1cd125d4f7b?source=rss------hadoop-5)
-- [Сложности перехода: миграция из Apache HBase в Google BigTable — кейс компании Box](https://medium.com/@bigdataschool/%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8-%D0%BF%D0%B5%D1%80%D0%B5%D1%85%D0%BE%D0%B4%D0%B0-%D0%BC%D0%B8%D0%B3%D1%80%D0%B0%D1%86%D0%B8%D1%8F-%D0%B8%D0%B7-apache-hbase-%D0%B2-google-bigtable-%D0%BA%D0%B5%D0%B9%D1%81-%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8-box-e19e30a50ef5?source=rss------hadoop-5)
-- [How to use python hdfs client to interact with HDFS](https://medium.com/@jaylaxmi85/how-to-use-python-hdfs-client-to-interact-with-hdfs-d936701be0d9?source=rss------hadoop-5)
-- [Introduction to Hadoop Part 2](https://medium.com/mlearning-ai/introduction-to-hadoop-part-2-7d4e5b59d492?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
