@@ -297,6 +297,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Big Data Processing: Most Time-Consuming Task](https://medium.com/@RaiBnod/big-data-processing-most-time-consuming-task-5f421b8ac1db?source=rss------hadoop-5)
+- [Introduction to Hadoop Part 3](https://profvkshrivastava.medium.com/introduction-to-hadoop-part-3-ea63e271bb72?source=rss------hadoop-5)
 - [The Future of Hadoop and Big Data Analytics](https://medium.com/kyligence/the-future-of-hadoop-and-big-data-analytics-5ea2782440cc?source=rss------hadoop-5)
 - [OLAP and Hadoop: The 4 Differences You Should Know](https://medium.com/@varun.singh_99751/olap-and-hadoop-the-4-differences-you-should-know-b7379dd88bd?source=rss------hadoop-5)
 - [How to UPSERT data into a relational database using Apache Spark: Part 2 &lpar;Python Version&rpar;](https://medium.com/@thomaspt748/how-to-upsert-data-into-a-relational-database-using-apache-spark-part-2-python-version-da30352c0ca9?source=rss------hadoop-5)
@@ -305,8 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Introduction to MapReduce](https://medium.com/@devparmar967/introduction-to-mapreduce-4d37712da879?source=rss------hadoop-5)
 - [How to UPSERT data into a relational database using Apache Spark: Part 1&lpar;Python Version&rpar;](https://medium.com/@thomaspt748/how-to-upsert-data-into-a-relational-database-using-apache-spark-part-1-python-version-b43b9761bbf2?source=rss------hadoop-5)
 - [i saved my hbase zombie table!](https://mohaddese-abbasi.medium.com/i-saved-my-hbase-zombie-table-f2cdac04fcb?source=rss------hadoop-5)
-- [Cómo instalar Hadoop en Windows Subsystem for Linux](https://medium.com/lcc-unison/c%C3%B3mo-instalar-hadoop-en-windows-subsystem-for-linux-d1fde59fb69c?source=rss------hadoop-5)
-- [Setting up Hadoop with Docker and using MapReduce framework](https://medium.com/@guillermovc/setting-up-hadoop-with-docker-and-using-mapreduce-framework-c1cd125d4f7b?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
