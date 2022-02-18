@@ -297,6 +297,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [HDFS Architecture, Features &amp; How To Access HDFS — Hadoop](https://medium.com/@mindmajix/hdfs-architecture-features-how-to-access-hdfs-hadoop-4d11b5f8f911?source=rss------hadoop-5)
 - [Big Data Processing: Most Time-Consuming Task](https://medium.com/@RaiBnod/big-data-processing-most-time-consuming-task-5f421b8ac1db?source=rss------hadoop-5)
 - [Introduction to Hadoop Part 3](https://profvkshrivastava.medium.com/introduction-to-hadoop-part-3-ea63e271bb72?source=rss------hadoop-5)
 - [The Future of Hadoop and Big Data Analytics](https://medium.com/kyligence/the-future-of-hadoop-and-big-data-analytics-5ea2782440cc?source=rss------hadoop-5)
@@ -306,7 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [In memory computation in spark](https://magicschoolb.medium.com/in-memory-computation-in-spark-12cf1721de4c?source=rss------hadoop-5)
 - [Introduction to MapReduce](https://medium.com/@devparmar967/introduction-to-mapreduce-4d37712da879?source=rss------hadoop-5)
 - [How to UPSERT data into a relational database using Apache Spark: Part 1&lpar;Python Version&rpar;](https://medium.com/@thomaspt748/how-to-upsert-data-into-a-relational-database-using-apache-spark-part-1-python-version-b43b9761bbf2?source=rss------hadoop-5)
-- [i saved my hbase zombie table!](https://mohaddese-abbasi.medium.com/i-saved-my-hbase-zombie-table-f2cdac04fcb?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
