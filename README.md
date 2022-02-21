@@ -297,6 +297,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Installing Spark on Windows 10](https://medium.com/@khan038299/installing-spark-on-windows-10-9eed52a2e2df?source=rss------hadoop-5)
 - [YARN on Hadoop.](https://medium.com/@bhaskaramullapati/yarn-on-hadoop-eee1277eb353?source=rss------hadoop-5)
 - [HDFS Architecture, Features &amp; How To Access HDFS — Hadoop](https://medium.com/@mindmajix/hdfs-architecture-features-how-to-access-hdfs-hadoop-4d11b5f8f911?source=rss------hadoop-5)
 - [Big Data Processing: Most Time-Consuming Task](https://medium.com/@RaiBnod/big-data-processing-most-time-consuming-task-5f421b8ac1db?source=rss------hadoop-5)
@@ -306,7 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [How to UPSERT data into a relational database using Apache Spark: Part 2 &lpar;Python Version&rpar;](https://medium.com/@thomaspt748/how-to-upsert-data-into-a-relational-database-using-apache-spark-part-2-python-version-da30352c0ca9?source=rss------hadoop-5)
 - [Configuraciones de Hadoop — Conectarnos a GCP](https://osmar-valenzuela.medium.com/configuraciones-de-hadoop-conectarnos-a-gcp-483fc51ff1d6?source=rss------hadoop-5)
 - [In memory computation in spark](https://magicschoolb.medium.com/in-memory-computation-in-spark-12cf1721de4c?source=rss------hadoop-5)
-- [Introduction to MapReduce](https://medium.com/@devparmar967/introduction-to-mapreduce-4d37712da879?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
