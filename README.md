@@ -320,6 +320,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop in real world posts*
 
 <!-- HADOOPINREALWORLD-POST-LIST:START -->
+- [How to copy an index and its contents to a new index in Elasticsearch?](https://www.hadoopinrealworld.com/how-to-copy-an-index-and-its-contents-to-a-new-index-in-elasticsearch/)
 - [How to view the contents of a GZiped file in HDFS?](https://www.hadoopinrealworld.com/how-to-view-the-contents-of-a-gziped-file-in-hdfs/)
 - [How to find out if a directory in HDFS is empty or not?](https://www.hadoopinrealworld.com/how-to-find-out-if-a-directory-in-hdfs-is-empty-or-not/)
 - [What is the difference between get_json_object and json_tuple functions in Hive?](https://www.hadoopinrealworld.com/what-is-the-difference-between-get_json_object-and-json_tuple-functions-in-hive/)
@@ -329,7 +330,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [How to move a Hive table from one database to another?](https://www.hadoopinrealworld.com/how-to-move-a-hive-table-from-one-database-to-another/)
 - [What is an efficient way to check if a Spark DataFrame is empty?](https://www.hadoopinrealworld.com/what-is-an-efficient-way-to-check-if-a-spark-dataframe-is-empty/)
 - [Where does Hive store files for Hive tables?](https://www.hadoopinrealworld.com/where-does-hive-store-files-for-hive-tables/)
-- [How to get DDL or create script of an existing Hive table?](https://www.hadoopinrealworld.com/how-to-get-ddl-or-create-script-of-an-existing-hive-table/)
 <!-- HADOOPINREALWORLD-POST-LIST:END -->
 
 ### *Kognitio posts*
