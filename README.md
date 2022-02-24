@@ -297,6 +297,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Блеск и нищета Erasure Coding в Apache Hadoop 3: опыт Одноклассников c HDFS](https://medium.com/@bigdataschool/%D0%B1%D0%BB%D0%B5%D1%81%D0%BA-%D0%B8-%D0%BD%D0%B8%D1%89%D0%B5%D1%82%D0%B0-erasure-coding-%D0%B2-apache-hadoop-3-%D0%BE%D0%BF%D1%8B%D1%82-%D0%BE%D0%B4%D0%BD%D0%BE%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2-c-hdfs-528423784e40?source=rss------hadoop-5)
 - [Top 5 Difference Between ERP Solution And Power BI](https://medium.com/@davidjohn8042/top-5-difference-between-erp-solution-and-power-bi-5e95bb8562ae?source=rss------hadoop-5)
 - [Can Apache Spark replace Hadoop?](https://medium.com/@harshitamadan270/can-apache-spark-replace-hadoop-752511377c6?source=rss------hadoop-5)
 - [Multi-Raft — Increase up create a performance for Apache Hadoop-Ozone.](https://medium.com/@varun.singh_99751/multi-raft-increase-up-create-a-performance-for-apache-hadoop-ozone-6304e13bbf30?source=rss------hadoop-5)
@@ -306,7 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [HDFS Architecture, Features &amp; How To Access HDFS — Hadoop](https://medium.com/@mindmajix/hdfs-architecture-features-how-to-access-hdfs-hadoop-4d11b5f8f911?source=rss------hadoop-5)
 - [Big Data Processing: Most Time-Consuming Task](https://medium.com/@RaiBnod/big-data-processing-most-time-consuming-task-5f421b8ac1db?source=rss------hadoop-5)
 - [Introduction to Hadoop Part 3](https://profvkshrivastava.medium.com/introduction-to-hadoop-part-3-ea63e271bb72?source=rss------hadoop-5)
-- [The Future of Hadoop and Big Data Analytics](https://medium.com/kyligence/the-future-of-hadoop-and-big-data-analytics-5ea2782440cc?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
