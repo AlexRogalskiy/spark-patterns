@@ -297,6 +297,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Big Data Technologies](https://insaid.medium.com/big-data-technologies-d38affc6b338?source=rss------hadoop-5)
 - [Introduction to Hadoop Part 4](https://profvkshrivastava.medium.com/introduction-to-hadoop-part-4-2ea3d9d3785b?source=rss------hadoop-5)
 - [How to Flatten Json Files Dynamically Using Apache Spark&lpar;Scala Version&rpar;](https://medium.com/@thomaspt748/how-to-flatten-json-files-dynamically-using-apache-spark-scala-version-9cc9560631dd?source=rss------hadoop-5)
 - [What is deep learning exactly? | HData Systems](https://hennyjones.medium.com/what-is-deep-learning-exactly-hdata-systems-de9c61d24b5a?source=rss------hadoop-5)
@@ -306,7 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Top 5 Difference Between ERP Solution And Power BI](https://medium.com/@davidjohn8042/top-5-difference-between-erp-solution-and-power-bi-5e95bb8562ae?source=rss------hadoop-5)
 - [Can Apache Spark replace Hadoop?](https://medium.com/@harshitamadan270/can-apache-spark-replace-hadoop-752511377c6?source=rss------hadoop-5)
 - [Multi-Raft — Increase up create a performance for Apache Hadoop-Ozone.](https://medium.com/@varun.singh_99751/multi-raft-increase-up-create-a-performance-for-apache-hadoop-ozone-6304e13bbf30?source=rss------hadoop-5)
-- [3 Reasons why we need an Open Source Data Infrastructure Platform](https://medium.com/gigahex/3-reasons-why-we-need-an-open-source-data-infrastructure-platform-a9b69f709392?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
