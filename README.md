@@ -297,6 +297,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Big Data Ekosistemi](https://medium.com/@melikekarakus20/big-data-ekosistemi-3f4fe4809e3e?source=rss------hadoop-5)
 - [Apache Sqoop with Postgresql](https://probhakar-95.medium.com/apache-sqoop-with-postgresql-dbd0c91c45a0?source=rss------hadoop-5)
 - [Bigdata Hadoop Training Online](https://medium.com/@meetingday.119/bigdata-hadoop-training-online-94229aff2be5?source=rss------hadoop-5)
 - [Big Data Technologies](https://insaid.medium.com/big-data-technologies-d38affc6b338?source=rss------hadoop-5)
@@ -306,7 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [SQL Interview tips](https://medium.com/@msdilli1997/sql-interview-tips-cd56735645dc?source=rss------hadoop-5)
 - [Difference Between External and Internal Tables in Hive &lpar;Hands On&rpar;](https://medium.com/@kudlamolka/difference-between-external-and-internal-in-hive-hands-on-37ee5503abb9?source=rss------hadoop-5)
 - [Блеск и нищета Erasure Coding в Apache Hadoop 3: опыт Одноклассников c HDFS](https://medium.com/@bigdataschool/%D0%B1%D0%BB%D0%B5%D1%81%D0%BA-%D0%B8-%D0%BD%D0%B8%D1%89%D0%B5%D1%82%D0%B0-erasure-coding-%D0%B2-apache-hadoop-3-%D0%BE%D0%BF%D1%8B%D1%82-%D0%BE%D0%B4%D0%BD%D0%BE%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2-c-hdfs-528423784e40?source=rss------hadoop-5)
-- [Top 5 Difference Between ERP Solution And Power BI](https://medium.com/@davidjohn8042/top-5-difference-between-erp-solution-and-power-bi-5e95bb8562ae?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
