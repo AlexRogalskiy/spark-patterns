@@ -297,6 +297,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Apache Spark: Largest Open Source Project in Data Processing](https://medium.com/@harshitamadan270/apache-spark-largest-open-source-project-in-data-processing-53b23805abb5?source=rss------hadoop-5)
+- [Data Locality Optimisation in Map-Reduce](https://medium.com/@yashmoyal/data-locality-optimisation-in-map-reduce-feb48b696732?source=rss------hadoop-5)
 - [SQL-запросы к Apache HBase через Phoenix с HUE](https://medium.com/@bigdataschool/sql-%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D1%8B-%D0%BA-apache-hbase-%D1%87%D0%B5%D1%80%D0%B5%D0%B7-phoenix-%D1%81-hue-4889a4e76793?source=rss------hadoop-5)
 - [Big Data Ekosistemi](https://medium.com/@melikekarakus20/big-data-ekosistemi-3f4fe4809e3e?source=rss------hadoop-5)
 - [Apache Sqoop with Postgresql](https://selectfrom.dev/apache-sqoop-with-postgresql-dbd0c91c45a0?source=rss------hadoop-5)
@@ -305,8 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Introduction to Hadoop Part 4](https://profvkshrivastava.medium.com/introduction-to-hadoop-part-4-2ea3d9d3785b?source=rss------hadoop-5)
 - [How to Flatten Json Files Dynamically Using Apache Spark&lpar;Scala Version&rpar;](https://medium.com/@thomaspt748/how-to-flatten-json-files-dynamically-using-apache-spark-scala-version-9cc9560631dd?source=rss------hadoop-5)
 - [What is deep learning exactly? | HData Systems](https://hennyjones.medium.com/what-is-deep-learning-exactly-hdata-systems-de9c61d24b5a?source=rss------hadoop-5)
-- [SQL Interview tips](https://medium.com/@msdilli1997/sql-interview-tips-cd56735645dc?source=rss------hadoop-5)
-- [Difference Between External and Internal Tables in Hive &lpar;Hands On&rpar;](https://medium.com/@kudlamolka/difference-between-external-and-internal-in-hive-hands-on-37ee5503abb9?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
