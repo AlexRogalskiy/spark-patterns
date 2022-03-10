@@ -320,6 +320,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop in real world posts*
 
 <!-- HADOOPINREALWORLD-POST-LIST:START -->
+- [What is the difference between map and flatMap functions in Spark?](https://www.hadoopinrealworld.com/what-is-the-difference-between-map-and-flatmap-functions-in-spark/)
 - [How to copy selective documents from one index to a new index in Elasticsearch?](https://www.hadoopinrealworld.com/how-to-copy-selective-documents-from-one-index-to-a-new-index-in-elasticsearch/)
 - [How to copy an index and its contents to a new index in Elasticsearch?](https://www.hadoopinrealworld.com/how-to-copy-an-index-and-its-contents-to-a-new-index-in-elasticsearch/)
 - [How to view the contents of a GZiped file in HDFS?](https://www.hadoopinrealworld.com/how-to-view-the-contents-of-a-gziped-file-in-hdfs/)
@@ -329,7 +330,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [How to see the current database user is on with Hive cli or Beeline?](https://www.hadoopinrealworld.com/how-to-see-the-current-database-user-is-on-with-hive-cli-or-beeline/)
 - [What is the difference between static partitioning and dynamic partitioning in Hive?](https://www.hadoopinrealworld.com/what-is-the-difference-between-static-partitioning-and-dynamic-partitioning-in-hive/)
 - [How to move a Hive table from one database to another?](https://www.hadoopinrealworld.com/how-to-move-a-hive-table-from-one-database-to-another/)
-- [What is an efficient way to check if a Spark DataFrame is empty?](https://www.hadoopinrealworld.com/what-is-an-efficient-way-to-check-if-a-spark-dataframe-is-empty/)
 <!-- HADOOPINREALWORLD-POST-LIST:END -->
 
 ### *Kognitio posts*
