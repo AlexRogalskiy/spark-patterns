@@ -297,16 +297,14 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Installing Cloudera Quickstart VM through Docker Hub &lpar;on Mac M1&rpar;](https://medium.com/@rakeshgopidi/installing-cloudera-quickstart-vm-through-docker-hub-on-mac-m1-879f4a3d0fd4?source=rss------hadoop-5)
+- [Testando o Hadoop/Hive no próprio computador, apesar dos apesares](https://medium.com/@wmonteiro/testando-o-hadoop-hive-no-pr%C3%B3prio-computador-apesar-dos-apesares-6a6de5827647?source=rss------hadoop-5)
+- [Introduction to HBase](https://medium.com/@dshahid380/introduction-to-hbase-a0afcbddff4f?source=rss------hadoop-5)
+- [How to Setup Hadoop Single Node Cluster on AWS EC2](https://medium.com/@sedaatalay/setting-up-hadoop-to-aws-ec2-and-running-a-sample-mapreduce-5ec6ac623d31?source=rss------hadoop-5)
 - [HADOOP VE KULLANILAN ARAÇLAR](https://medium.com/@melikekarakus20/hadoop-ve-b%C3%BCy%C3%BCk-veri%CC%87-ara%C3%A7lari-535dbb72e8e5?source=rss------hadoop-5)
 - [The Tidbits of Apache Spark](https://insaid.medium.com/the-tidbits-of-apache-spark-4463f5432117?source=rss------hadoop-5)
 - [Roadmap to Data Engineering in 2022.](https://medium.com/@chetandekate/roadmap-to-data-engineering-in-2022-5eb788155b72?source=rss------hadoop-5)
 - [How to setup Simple Hadoop Cluster on Docker](https://medium.com/@devparmar967/how-to-setup-simple-hadoop-cluster-on-docker-5d8f56013f29?source=rss------hadoop-5)
-- [Project - Bank marketing data transformation using Hadoop and Spark](https://medium.com/@rashid.malik3028/project-bank-marketing-data-transformation-using-hadoop-and-spark-cb8044ef9ae7?source=rss------hadoop-5)
-- [What is Hadoop? Architecture, Modules, Benefits, History](https://prodatascience.medium.com/what-is-hadoop-architecture-modules-benefits-history-1aaf49bd1701?source=rss------hadoop-5)
-- [What is a cloud-native application?](https://medium.com/@usmansyed738/what-is-a-cloud-native-application-687cb47dffda?source=rss------hadoop-5)
-- [Обращаемся к Apache Hive через Trino: архитектура движка и принцип действия коннектора](https://medium.com/@bigdataschool/%D0%BE%D0%B1%D1%80%D0%B0%D1%89%D0%B0%D0%B5%D0%BC%D1%81%D1%8F-%D0%BA-apache-hive-%D1%87%D0%B5%D1%80%D0%B5%D0%B7-trino-%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0-%D0%B4%D0%B2%D0%B8%D0%B6%D0%BA%D0%B0-%D0%B8-%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF-%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D1%8F-%D0%BA%D0%BE%D0%BD%D0%BD%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%B0-a37205f193c3?source=rss------hadoop-5)
-- [Installation of Apache Hadoop 3.2.1 on Ubuntu](https://medium.com/mlearning-ai/installation-of-apache-hadoop-3-2-1-on-ubuntu-67073ce208d7?source=rss------hadoop-5)
-- [Apache Spark: Largest Open Source Project in Data Processing](https://medium.com/@harshitamadan270/apache-spark-largest-open-source-project-in-data-processing-53b23805abb5?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
