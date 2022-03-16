@@ -297,6 +297,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Big Data and Hadoop](https://medium.com/@luigi.fiori.lf0303/big-data-and-hadoop-24a177ecf085?source=rss------hadoop-5)
 - [Installing Cloudera Quickstart VM through Docker Hub &lpar;on Mac M1&rpar;](https://medium.com/@rakeshgopidi/installing-cloudera-quickstart-vm-through-docker-hub-on-mac-m1-879f4a3d0fd4?source=rss------hadoop-5)
 - [Testando o Hadoop/Hive no próprio computador, apesar dos apesares](https://medium.com/@wmonteiro/testando-o-hadoop-hive-no-pr%C3%B3prio-computador-apesar-dos-apesares-6a6de5827647?source=rss------hadoop-5)
 - [Introduction to HBase](https://medium.com/@dshahid380/introduction-to-hbase-a0afcbddff4f?source=rss------hadoop-5)
@@ -304,7 +305,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [HADOOP VE KULLANILAN ARAÇLAR](https://medium.com/@melikekarakus20/hadoop-ve-b%C3%BCy%C3%BCk-veri%CC%87-ara%C3%A7lari-535dbb72e8e5?source=rss------hadoop-5)
 - [The Tidbits of Apache Spark](https://insaid.medium.com/the-tidbits-of-apache-spark-4463f5432117?source=rss------hadoop-5)
 - [Roadmap to Data Engineering in 2022.](https://medium.com/@chetandekate/roadmap-to-data-engineering-in-2022-5eb788155b72?source=rss------hadoop-5)
-- [How to setup Simple Hadoop Cluster on Docker](https://medium.com/@devparmar967/how-to-setup-simple-hadoop-cluster-on-docker-5d8f56013f29?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
