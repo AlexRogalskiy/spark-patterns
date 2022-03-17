@@ -317,6 +317,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop in real world posts*
 
 <!-- HADOOPINREALWORLD-POST-LIST:START -->
+- [Understanding stack function in Spark](https://www.hadoopinrealworld.com/understanding-stack-function-in-spark/)
 - [What is the difference between map and flatMap functions in Spark?](https://www.hadoopinrealworld.com/what-is-the-difference-between-map-and-flatmap-functions-in-spark/)
 - [How to copy selective documents from one index to a new index in Elasticsearch?](https://www.hadoopinrealworld.com/how-to-copy-selective-documents-from-one-index-to-a-new-index-in-elasticsearch/)
 - [How to copy an index and its contents to a new index in Elasticsearch?](https://www.hadoopinrealworld.com/how-to-copy-an-index-and-its-contents-to-a-new-index-in-elasticsearch/)
@@ -326,7 +327,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [How to insert into a Hive table when the table has columns with complex types like Arrays?](https://www.hadoopinrealworld.com/how-to-insert-into-a-hive-table-when-the-table-has-columns-with-complex-types-like-arrays/)
 - [How to see the current database user is on with Hive cli or Beeline?](https://www.hadoopinrealworld.com/how-to-see-the-current-database-user-is-on-with-hive-cli-or-beeline/)
 - [What is the difference between static partitioning and dynamic partitioning in Hive?](https://www.hadoopinrealworld.com/what-is-the-difference-between-static-partitioning-and-dynamic-partitioning-in-hive/)
-- [How to move a Hive table from one database to another?](https://www.hadoopinrealworld.com/how-to-move-a-hive-table-from-one-database-to-another/)
 <!-- HADOOPINREALWORLD-POST-LIST:END -->
 
 ### *Kognitio posts*
