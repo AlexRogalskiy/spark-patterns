@@ -297,14 +297,14 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Faculdade e serviços principais de Dados na AWS](https://medium.com/@bernardo.costa/faculdade-e-servi%C3%A7os-principais-de-dados-na-aws-9adc55d126e?source=rss------hadoop-5)
 - [Apache Hive installation on Ubuntu](https://profvkshrivastava.medium.com/apache-hive-installation-on-ubuntu-9e0c94e63094?source=rss------hadoop-5)
 - [Big Data and Hadoop](https://medium.com/@luigi.fiori.lf0303/big-data-and-hadoop-24a177ecf085?source=rss------hadoop-5)
-- [Installing Cloudera Quickstart VM through Docker Hub &lpar;on Mac M1&rpar;](https://medium.com/@rakeshgopidi/installing-cloudera-quickstart-vm-through-docker-hub-on-mac-m1-879f4a3d0fd4?source=rss------hadoop-5)
+- [Installing Cloudera Quickstart VM using Docker Hub &lpar;on Mac M1&rpar;](https://medium.com/@rakeshgopidi/installing-cloudera-quickstart-vm-through-docker-hub-on-mac-m1-879f4a3d0fd4?source=rss------hadoop-5)
 - [Testando o Hadoop/Hive no próprio computador, apesar dos apesares](https://medium.com/@wmonteiro/testando-o-hadoop-hive-no-pr%C3%B3prio-computador-apesar-dos-apesares-6a6de5827647?source=rss------hadoop-5)
 - [Introduction to HBase](https://medium.com/@dshahid380/introduction-to-hbase-a0afcbddff4f?source=rss------hadoop-5)
 - [How to Setup Hadoop Single Node Cluster on AWS EC2](https://medium.com/@sedaatalay/setting-up-hadoop-to-aws-ec2-and-running-a-sample-mapreduce-5ec6ac623d31?source=rss------hadoop-5)
 - [HADOOP VE KULLANILAN ARAÇLAR](https://medium.com/@melikekarakus20/hadoop-ve-b%C3%BCy%C3%BCk-veri%CC%87-ara%C3%A7lari-535dbb72e8e5?source=rss------hadoop-5)
-- [The Tidbits of Apache Spark](https://insaid.medium.com/the-tidbits-of-apache-spark-4463f5432117?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
