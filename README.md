@@ -297,14 +297,16 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [How to Run Hadoop on macOS &lpar;Apple M1 and Intel CPU&rpar; by One Command](https://towardsdev.com/how-to-run-hadoop-on-macos-apple-m1-and-intel-cpu-by-one-command-1398d5f3d0df?source=rss------hadoop-5)
+- [Big Data Analysis particularly on Healthcare Domain](https://medium.com/@bazzarm.sarwan/big-data-analysis-particularly-on-healthcare-domain-812484fe8e67?source=rss------hadoop-5)
+- [Hadoop Nedir?](https://medium.com/@inifdatalab01/hadoop-nedir-d55cfd4e6c75?source=rss------hadoop-5)
+- [Сложности индексации таблиц Apache HBase и способы их обхода с Phoenix](https://medium.com/@bigdataschool/%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8-%D0%B8%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%D0%B0%D1%86%D0%B8%D0%B8-%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86-apache-hbase-%D0%B8-%D1%81%D0%BF%D0%BE%D1%81%D0%BE%D0%B1%D1%8B-%D0%B8%D1%85-%D0%BE%D0%B1%D1%85%D0%BE%D0%B4%D0%B0-%D1%81-phoenix-ae130210d984?source=rss------hadoop-5)
 - [Faculdade e serviços principais de Dados na AWS](https://medium.com/@bernardo.costa/faculdade-e-servi%C3%A7os-principais-de-dados-na-aws-9adc55d126e?source=rss------hadoop-5)
 - [Apache Hive installation on Ubuntu](https://profvkshrivastava.medium.com/apache-hive-installation-on-ubuntu-9e0c94e63094?source=rss------hadoop-5)
 - [Big Data and Hadoop](https://medium.com/@luigi.fiori.lf0303/big-data-and-hadoop-24a177ecf085?source=rss------hadoop-5)
 - [Installing Cloudera Quickstart VM using Docker Hub &lpar;on Mac M1&rpar;](https://medium.com/@rakeshgopidi/installing-cloudera-quickstart-vm-through-docker-hub-on-mac-m1-879f4a3d0fd4?source=rss------hadoop-5)
 - [Testando o Hadoop/Hive no próprio computador, apesar dos apesares](https://medium.com/@wmonteiro/testando-o-hadoop-hive-no-pr%C3%B3prio-computador-apesar-dos-apesares-6a6de5827647?source=rss------hadoop-5)
-- [Introduction to HBase](https://medium.com/@dshahid380/introduction-to-hbase-a0afcbddff4f?source=rss------hadoop-5)
-- [How to Setup Hadoop Single Node Cluster on AWS EC2](https://medium.com/@sedaatalay/setting-up-hadoop-to-aws-ec2-and-running-a-sample-mapreduce-5ec6ac623d31?source=rss------hadoop-5)
-- [HADOOP VE KULLANILAN ARAÇLAR](https://medium.com/@melikekarakus20/hadoop-ve-b%C3%BCy%C3%BCk-veri%CC%87-ara%C3%A7lari-535dbb72e8e5?source=rss------hadoop-5)
+- [Introduction to HBase](https://selectfrom.dev/introduction-to-hbase-a0afcbddff4f?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
