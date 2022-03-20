@@ -297,6 +297,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [How to run Cloudera Quickstart Docker Image](https://medium.com/@oleks-dev/how-to-run-cloudera-quickstart-docker-image-c26dd2a0d113?source=rss------hadoop-5)
+- [Ubuntu üzerinde MultiNode Hadoop kurulumu](https://medium.com/@inifdatalab01/ubuntu-%C3%BCzerinde-multinode-hadoop-kurulumu-a8602c86cc32?source=rss------hadoop-5)
 - [How to Run Hadoop on macOS &lpar;Apple M1 and Intel CPU&rpar; by One Command](https://towardsdev.com/how-to-run-hadoop-on-macos-apple-m1-and-intel-cpu-by-one-command-1398d5f3d0df?source=rss------hadoop-5)
 - [Big Data Analysis particularly on Healthcare Domain](https://medium.com/@bazzarm.sarwan/big-data-analysis-particularly-on-healthcare-domain-812484fe8e67?source=rss------hadoop-5)
 - [Hadoop Nedir?](https://medium.com/@inifdatalab01/hadoop-nedir-d55cfd4e6c75?source=rss------hadoop-5)
@@ -305,8 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Apache Hive installation on Ubuntu](https://profvkshrivastava.medium.com/apache-hive-installation-on-ubuntu-9e0c94e63094?source=rss------hadoop-5)
 - [Big Data and Hadoop](https://medium.com/@luigi.fiori.lf0303/big-data-and-hadoop-24a177ecf085?source=rss------hadoop-5)
 - [Installing Cloudera Quickstart VM using Docker Hub &lpar;on Mac M1&rpar;](https://medium.com/@rakeshgopidi/installing-cloudera-quickstart-vm-through-docker-hub-on-mac-m1-879f4a3d0fd4?source=rss------hadoop-5)
-- [Testando o Hadoop/Hive no próprio computador, apesar dos apesares](https://medium.com/@wmonteiro/testando-o-hadoop-hive-no-pr%C3%B3prio-computador-apesar-dos-apesares-6a6de5827647?source=rss------hadoop-5)
-- [Introduction to HBase](https://selectfrom.dev/introduction-to-hbase-a0afcbddff4f?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
