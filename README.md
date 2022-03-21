@@ -297,6 +297,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Archiving Parquet files](https://faizc.medium.com/archiving-parquet-files-e614bb2a9664?source=rss------hadoop-5)
+- [Ubuntu 18.04 üzerinde Hadoop Kurulumu](https://medium.com/@inifdatalab01/ubuntu-18-04-%C3%BCzerinde-hadoop-kurulumu-5ec7c44eb61?source=rss------hadoop-5)
 - [How to run Cloudera Quickstart Docker Image](https://medium.com/@oleks-dev/how-to-run-cloudera-quickstart-docker-image-c26dd2a0d113?source=rss------hadoop-5)
 - [Ubuntu üzerinde MultiNode Hadoop kurulumu](https://medium.com/@inifdatalab01/ubuntu-%C3%BCzerinde-multinode-hadoop-kurulumu-a8602c86cc32?source=rss------hadoop-5)
 - [How to Run Hadoop on macOS &lpar;Apple M1 and Intel CPU&rpar; by One Command](https://towardsdev.com/how-to-run-hadoop-on-macos-apple-m1-and-intel-cpu-by-one-command-1398d5f3d0df?source=rss------hadoop-5)
@@ -305,8 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Сложности индексации таблиц Apache HBase и способы их обхода с Phoenix](https://medium.com/@bigdataschool/%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8-%D0%B8%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%D0%B0%D1%86%D0%B8%D0%B8-%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86-apache-hbase-%D0%B8-%D1%81%D0%BF%D0%BE%D1%81%D0%BE%D0%B1%D1%8B-%D0%B8%D1%85-%D0%BE%D0%B1%D1%85%D0%BE%D0%B4%D0%B0-%D1%81-phoenix-ae130210d984?source=rss------hadoop-5)
 - [Faculdade e serviços principais de Dados na AWS](https://medium.com/@bernardo.costa/faculdade-e-servi%C3%A7os-principais-de-dados-na-aws-9adc55d126e?source=rss------hadoop-5)
 - [Apache Hive installation on Ubuntu](https://profvkshrivastava.medium.com/apache-hive-installation-on-ubuntu-9e0c94e63094?source=rss------hadoop-5)
-- [Big Data and Hadoop](https://medium.com/@luigi.fiori.lf0303/big-data-and-hadoop-24a177ecf085?source=rss------hadoop-5)
-- [Installing Cloudera Quickstart VM using Docker Hub &lpar;on Mac M1&rpar;](https://medium.com/@rakeshgopidi/installing-cloudera-quickstart-vm-through-docker-hub-on-mac-m1-879f4a3d0fd4?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
