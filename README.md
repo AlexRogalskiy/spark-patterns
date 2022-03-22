@@ -297,7 +297,9 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
-- [Archiving Parquet files](https://faizc.medium.com/archiving-parquet-files-e614bb2a9664?source=rss------hadoop-5)
+- [Building Apache Livy 0.8.0 for Spark 3.x](https://jtaras.medium.com/building-apache-livy-0-8-0-for-spark-3-x-9bdfe1a66bd7?source=rss------hadoop-5)
+- [A Brief Intro about Hadoop | The most used Big data Analytics Tool](https://medium.com/@ourfirstblog123/a-brief-intro-about-hadoop-the-most-used-big-data-analytics-tool-a1add06d61fd?source=rss------hadoop-5)
+- [Archiving Parquet files](https://faizchachiya.medium.com/archiving-parquet-files-e614bb2a9664?source=rss------hadoop-5)
 - [Ubuntu 18.04 üzerinde Hadoop Kurulumu](https://medium.com/@inifdatalab01/ubuntu-18-04-%C3%BCzerinde-hadoop-kurulumu-5ec7c44eb61?source=rss------hadoop-5)
 - [How to run Cloudera Quickstart Docker Image](https://medium.com/@oleks-dev/how-to-run-cloudera-quickstart-docker-image-c26dd2a0d113?source=rss------hadoop-5)
 - [Ubuntu üzerinde MultiNode Hadoop kurulumu](https://medium.com/@inifdatalab01/ubuntu-%C3%BCzerinde-multinode-hadoop-kurulumu-a8602c86cc32?source=rss------hadoop-5)
@@ -305,8 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Big Data Analysis particularly on Healthcare Domain](https://medium.com/@bazzarm.sarwan/big-data-analysis-particularly-on-healthcare-domain-812484fe8e67?source=rss------hadoop-5)
 - [Hadoop Nedir?](https://medium.com/@inifdatalab01/hadoop-nedir-d55cfd4e6c75?source=rss------hadoop-5)
 - [Сложности индексации таблиц Apache HBase и способы их обхода с Phoenix](https://medium.com/@bigdataschool/%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8-%D0%B8%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%D0%B0%D1%86%D0%B8%D0%B8-%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86-apache-hbase-%D0%B8-%D1%81%D0%BF%D0%BE%D1%81%D0%BE%D0%B1%D1%8B-%D0%B8%D1%85-%D0%BE%D0%B1%D1%85%D0%BE%D0%B4%D0%B0-%D1%81-phoenix-ae130210d984?source=rss------hadoop-5)
-- [Faculdade e serviços principais de Dados na AWS](https://medium.com/@bernardo.costa/faculdade-e-servi%C3%A7os-principais-de-dados-na-aws-9adc55d126e?source=rss------hadoop-5)
-- [Apache Hive installation on Ubuntu](https://profvkshrivastava.medium.com/apache-hive-installation-on-ubuntu-9e0c94e63094?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
