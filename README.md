@@ -297,16 +297,16 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Hadoop Distributed File System &lpar;HDFS&rpar;](https://medium.com/@samueldavidwinter/hadoop-distributed-file-system-hdfs-bda70ded3827?source=rss------hadoop-5)
+- [Современная инженерия данных: от Data Lake к облачной Лямбда](https://medium.com/@bigdataschool/%D1%81%D0%BE%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F-%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D0%B8%D1%8F-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-%D0%BE%D1%82-data-lake-%D0%BA-%D0%BE%D0%B1%D0%BB%D0%B0%D1%87%D0%BD%D0%BE%D0%B9-%D0%BB%D1%8F%D0%BC%D0%B1%D0%B4%D0%B0-7381356a258c?source=rss------hadoop-5)
+- [Deep dive into Big Data: Hadoop &lpar;Part 1&rpar;](https://insaid.medium.com/deep-dive-into-big-data-hadoop-part-1-2f4d4dee128b?source=rss------hadoop-5)
 - [Building Apache Livy 0.8.0 for Spark 3.x](https://jtaras.medium.com/building-apache-livy-0-8-0-for-spark-3-x-9bdfe1a66bd7?source=rss------hadoop-5)
 - [A Brief Intro about Hadoop | The most used Big data Analytics Tool](https://medium.com/@ourfirstblog123/a-brief-intro-about-hadoop-the-most-used-big-data-analytics-tool-a1add06d61fd?source=rss------hadoop-5)
 - [Archiving Parquet files](https://faizchachiya.medium.com/archiving-parquet-files-e614bb2a9664?source=rss------hadoop-5)
 - [Ubuntu 18.04 üzerinde Hadoop Kurulumu](https://medium.com/@inifdatalab01/ubuntu-18-04-%C3%BCzerinde-hadoop-kurulumu-5ec7c44eb61?source=rss------hadoop-5)
-- [How to run Cloudera Quickstart Docker Image](https://medium.com/@oleks-dev/how-to-run-cloudera-quickstart-docker-image-c26dd2a0d113?source=rss------hadoop-5)
+- [How to run Cloudera Quickstart Docker Image](https://towardsdev.com/how-to-run-cloudera-quickstart-docker-image-c26dd2a0d113?source=rss------hadoop-5)
 - [Ubuntu üzerinde MultiNode Hadoop kurulumu](https://medium.com/@inifdatalab01/ubuntu-%C3%BCzerinde-multinode-hadoop-kurulumu-a8602c86cc32?source=rss------hadoop-5)
 - [How to Run Hadoop on macOS &lpar;Apple M1 and Intel CPU&rpar; by One Command](https://towardsdev.com/how-to-run-hadoop-on-macos-apple-m1-and-intel-cpu-by-one-command-1398d5f3d0df?source=rss------hadoop-5)
-- [Big Data Analysis particularly on Healthcare Domain](https://medium.com/@bazzarm.sarwan/big-data-analysis-particularly-on-healthcare-domain-812484fe8e67?source=rss------hadoop-5)
-- [Hadoop Nedir?](https://medium.com/@inifdatalab01/hadoop-nedir-d55cfd4e6c75?source=rss------hadoop-5)
-- [Сложности индексации таблиц Apache HBase и способы их обхода с Phoenix](https://medium.com/@bigdataschool/%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8-%D0%B8%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%D0%B0%D1%86%D0%B8%D0%B8-%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86-apache-hbase-%D0%B8-%D1%81%D0%BF%D0%BE%D1%81%D0%BE%D0%B1%D1%8B-%D0%B8%D1%85-%D0%BE%D0%B1%D1%85%D0%BE%D0%B4%D0%B0-%D1%81-phoenix-ae130210d984?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
