@@ -297,6 +297,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [A detailed explanation of Hadoop core architecture HDFS](https://alibaba-cloud.medium.com/a-detailed-explanation-of-hadoop-core-architecture-hdfs-343d2c43f247?source=rss------hadoop-5)
 - [Advance Spark Concepts for Job Interview :  Part 1](https://sharmashorya1996.medium.com/advance-spark-concepts-for-job-interview-part-1-b7c2cadffc42?source=rss------hadoop-5)
 - [Snowflake vs Hadoop vs Redshift — Which do You Choose? — Datafortune](https://datafortune.medium.com/snowflake-vs-hadoop-vs-redshift-which-do-you-choose-datafortune-2a77cd7c4ce6?source=rss------hadoop-5)
 - [Hadoop Distributed File System &lpar;HDFS&rpar;](https://medium.com/@samueldavidwinter/hadoop-distributed-file-system-hdfs-bda70ded3827?source=rss------hadoop-5)
@@ -306,7 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [A Brief Intro about Hadoop | The most used Big data Analytics Tool](https://medium.com/@ourfirstblog123/a-brief-intro-about-hadoop-the-most-used-big-data-analytics-tool-a1add06d61fd?source=rss------hadoop-5)
 - [Archiving Parquet files](https://faizchachiya.medium.com/archiving-parquet-files-e614bb2a9664?source=rss------hadoop-5)
 - [Ubuntu 18.04 üzerinde Hadoop Kurulumu](https://medium.com/@inifdatalab01/ubuntu-18-04-%C3%BCzerinde-hadoop-kurulumu-5ec7c44eb61?source=rss------hadoop-5)
-- [How to run Cloudera Quickstart Docker Image](https://towardsdev.com/how-to-run-cloudera-quickstart-docker-image-c26dd2a0d113?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
