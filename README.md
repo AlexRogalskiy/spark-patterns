@@ -297,6 +297,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Как реализовать строгую согласованность вторичных глобальных индексов таблиц HBase и с Phoenix…](https://medium.com/@bigdataschool/%D0%BA%D0%B0%D0%BA-%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-%D1%81%D1%82%D1%80%D0%BE%D0%B3%D1%83%D1%8E-%D1%81%D0%BE%D0%B3%D0%BB%D0%B0%D1%81%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C-%D0%B2%D1%82%D0%BE%D1%80%D0%B8%D1%87%D0%BD%D1%8B%D1%85-%D0%B3%D0%BB%D0%BE%D0%B1%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D1%85-%D0%B8%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%D0%BE%D0%B2-%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86-hbase-%D0%B8-%D1%81-phoenix-dee46f808b28?source=rss------hadoop-5)
 - [A detailed explanation of Hadoop core architecture HDFS](https://alibaba-cloud.medium.com/a-detailed-explanation-of-hadoop-core-architecture-hdfs-343d2c43f247?source=rss------hadoop-5)
 - [Advance Spark Concepts for Job Interview :  Part 1](https://sharmashorya1996.medium.com/advance-spark-concepts-for-job-interview-part-1-b7c2cadffc42?source=rss------hadoop-5)
 - [Snowflake vs Hadoop vs Redshift — Which do You Choose? — Datafortune](https://datafortune.medium.com/snowflake-vs-hadoop-vs-redshift-which-do-you-choose-datafortune-2a77cd7c4ce6?source=rss------hadoop-5)
@@ -306,7 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Building Apache Livy 0.8.0 for Spark 3.x](https://jtaras.medium.com/building-apache-livy-0-8-0-for-spark-3-x-9bdfe1a66bd7?source=rss------hadoop-5)
 - [A Brief Intro about Hadoop | The most used Big data Analytics Tool](https://medium.com/@ourfirstblog123/a-brief-intro-about-hadoop-the-most-used-big-data-analytics-tool-a1add06d61fd?source=rss------hadoop-5)
 - [Archiving Parquet files](https://faizchachiya.medium.com/archiving-parquet-files-e614bb2a9664?source=rss------hadoop-5)
-- [Ubuntu 18.04 üzerinde Hadoop Kurulumu](https://medium.com/@inifdatalab01/ubuntu-18-04-%C3%BCzerinde-hadoop-kurulumu-5ec7c44eb61?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
