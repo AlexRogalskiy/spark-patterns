@@ -319,6 +319,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop in real world posts*
 
 <!-- HADOOPINREALWORLD-POST-LIST:START -->
+- [How to parse information from URL in Hive?](https://www.hadoopinrealworld.com/how-to-parse-information-from-url-in-hive/)
 - [How to pivot and unpivot a DataFrame in Spark?](https://www.hadoopinrealworld.com/how-to-pivot-and-unpivot-a-dataframe-in-spark/)
 - [Understanding stack function in Spark](https://www.hadoopinrealworld.com/understanding-stack-function-in-spark/)
 - [What is the difference between map and flatMap functions in Spark?](https://www.hadoopinrealworld.com/what-is-the-difference-between-map-and-flatmap-functions-in-spark/)
@@ -328,7 +329,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [How to find out if a directory in HDFS is empty or not?](https://www.hadoopinrealworld.com/how-to-find-out-if-a-directory-in-hdfs-is-empty-or-not/)
 - [What is the difference between get_json_object and json_tuple functions in Hive?](https://www.hadoopinrealworld.com/what-is-the-difference-between-get_json_object-and-json_tuple-functions-in-hive/)
 - [How to insert into a Hive table when the table has columns with complex types like Arrays?](https://www.hadoopinrealworld.com/how-to-insert-into-a-hive-table-when-the-table-has-columns-with-complex-types-like-arrays/)
-- [How to see the current database user is on with Hive cli or Beeline?](https://www.hadoopinrealworld.com/how-to-see-the-current-database-user-is-on-with-hive-cli-or-beeline/)
 <!-- HADOOPINREALWORLD-POST-LIST:END -->
 
 ### *Kognitio posts*
