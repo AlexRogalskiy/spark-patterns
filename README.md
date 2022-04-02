@@ -297,6 +297,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Hadoop Distributed File System &lpar;HDFS&rpar;](https://medium.com/@dataAuror/hadoop-distributed-file-system-hdfs-4dec988b335c?source=rss------hadoop-5)
 - [HDFS Commands Cheat Sheet](https://medium.com/geekculture/hdfs-commands-cheat-sheet-1cd7bf22e795?source=rss------hadoop-5)
 - [Learn the fundamentals of Spark.](https://medium.com/@ArtificialIntelligencewiki/learn-the-fundamentals-of-spark-5c17a5397e44?source=rss------hadoop-5)
 - [Deep dive into Big Data with Hadoop &lpar;Part 2&rpar;: Hadoop Architecture](https://medium.com/international-school-of-ai-data-science/deep-dive-into-big-data-with-hadoop-part-2-hadoop-architecture-d76e4c77f815?source=rss------hadoop-5)
@@ -306,7 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [A detailed explanation of Hadoop core architecture HDFS](https://alibaba-cloud.medium.com/a-detailed-explanation-of-hadoop-core-architecture-hdfs-343d2c43f247?source=rss------hadoop-5)
 - [Advance Spark Concepts for Job Interview :  Part 1](https://sharmashorya1996.medium.com/advance-spark-concepts-for-job-interview-part-1-b7c2cadffc42?source=rss------hadoop-5)
 - [Snowflake vs Hadoop vs Redshift — Which do You Choose? — Datafortune](https://datafortune.medium.com/snowflake-vs-hadoop-vs-redshift-which-do-you-choose-datafortune-2a77cd7c4ce6?source=rss------hadoop-5)
-- [Hadoop Distributed File System &lpar;HDFS&rpar;](https://medium.com/@samueldavidwinter/hadoop-distributed-file-system-hdfs-bda70ded3827?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
