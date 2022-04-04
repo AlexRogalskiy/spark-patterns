@@ -297,7 +297,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
-- [Hadoop Distributed File System &lpar;HDFS&rpar;](https://medium.com/@dataAuror/hadoop-distributed-file-system-hdfs-4dec988b335c?source=rss------hadoop-5)
+- [What should I use ? — best tools of BIG DATA.](https://medium.com/@mrunalnarayana/what-should-i-use-best-tools-of-big-data-2b4e104ce36e?source=rss------hadoop-5)
+- [Hadoop Distributed File System &lpar;HDFS&rpar;](https://medium.com/@selfStarter/hadoop-distributed-file-system-hdfs-4dec988b335c?source=rss------hadoop-5)
 - [HDFS Commands Cheat Sheet](https://medium.com/geekculture/hdfs-commands-cheat-sheet-1cd7bf22e795?source=rss------hadoop-5)
 - [Learn the fundamentals of Spark.](https://medium.com/@ArtificialIntelligencewiki/learn-the-fundamentals-of-spark-5c17a5397e44?source=rss------hadoop-5)
 - [Deep dive into Big Data with Hadoop &lpar;Part 2&rpar;: Hadoop Architecture](https://medium.com/international-school-of-ai-data-science/deep-dive-into-big-data-with-hadoop-part-2-hadoop-architecture-d76e4c77f815?source=rss------hadoop-5)
@@ -306,7 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Как реализовать строгую согласованность вторичных глобальных индексов таблиц HBase и с Phoenix…](https://medium.com/@bigdataschool/%D0%BA%D0%B0%D0%BA-%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-%D1%81%D1%82%D1%80%D0%BE%D0%B3%D1%83%D1%8E-%D1%81%D0%BE%D0%B3%D0%BB%D0%B0%D1%81%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C-%D0%B2%D1%82%D0%BE%D1%80%D0%B8%D1%87%D0%BD%D1%8B%D1%85-%D0%B3%D0%BB%D0%BE%D0%B1%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D1%85-%D0%B8%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%D0%BE%D0%B2-%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86-hbase-%D0%B8-%D1%81-phoenix-dee46f808b28?source=rss------hadoop-5)
 - [A detailed explanation of Hadoop core architecture HDFS](https://alibaba-cloud.medium.com/a-detailed-explanation-of-hadoop-core-architecture-hdfs-343d2c43f247?source=rss------hadoop-5)
 - [Advance Spark Concepts for Job Interview :  Part 1](https://sharmashorya1996.medium.com/advance-spark-concepts-for-job-interview-part-1-b7c2cadffc42?source=rss------hadoop-5)
-- [Snowflake vs Hadoop vs Redshift — Which do You Choose? — Datafortune](https://datafortune.medium.com/snowflake-vs-hadoop-vs-redshift-which-do-you-choose-datafortune-2a77cd7c4ce6?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
