@@ -297,6 +297,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [How to Setup / Install an Apache Spark 3.1.1 Cluster on Ubuntu](https://python.plainenglish.io/how-to-setup-install-an-apache-spark-3-1-1-cluster-on-ubuntu-817598b8e198?source=rss------hadoop-5)
+- [Spark — How to install in 5 Steps in Windows 10](https://medium.com/geekculture/spark-how-to-install-in-5-steps-in-windows-10-9336f289139?source=rss------hadoop-5)
 - [DATA INGESTION FROM AWS S3 TO HDFS](https://medium.com/@emmanueloffisong2002/data-ingestion-from-aws-s3-to-hdfs-a11bfc05b512?source=rss------hadoop-5)
 - [What should I use ? — best tools of BIG DATA.](https://medium.com/@mrunalnarayana/what-should-i-use-best-tools-of-big-data-2b4e104ce36e?source=rss------hadoop-5)
 - [Hadoop Distributed File System &lpar;HDFS&rpar;](https://medium.com/@selfStarter/hadoop-distributed-file-system-hdfs-4dec988b335c?source=rss------hadoop-5)
@@ -305,8 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Deep dive into Big Data with Hadoop &lpar;Part 2&rpar;: Hadoop Architecture](https://medium.com/international-school-of-ai-data-science/deep-dive-into-big-data-with-hadoop-part-2-hadoop-architecture-d76e4c77f815?source=rss------hadoop-5)
 - [Introduction to MongoDB — a NoSQL Database](https://aws.plainenglish.io/introduction-to-mongodb-a-nosql-database-3f55b7475e70?source=rss------hadoop-5)
 - [Дедупликация, нумерация и ранжирование строк в Apache Hive](https://medium.com/@bigdataschool/%D0%B4%D0%B5%D0%B4%D1%83%D0%BF%D0%BB%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F-%D0%BD%D1%83%D0%BC%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F-%D0%B8-%D1%80%D0%B0%D0%BD%D0%B6%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D1%81%D1%82%D1%80%D0%BE%D0%BA-%D0%B2-apache-hive-275feab831fa?source=rss------hadoop-5)
-- [Как реализовать строгую согласованность вторичных глобальных индексов таблиц HBase и с Phoenix…](https://medium.com/@bigdataschool/%D0%BA%D0%B0%D0%BA-%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-%D1%81%D1%82%D1%80%D0%BE%D0%B3%D1%83%D1%8E-%D1%81%D0%BE%D0%B3%D0%BB%D0%B0%D1%81%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C-%D0%B2%D1%82%D0%BE%D1%80%D0%B8%D1%87%D0%BD%D1%8B%D1%85-%D0%B3%D0%BB%D0%BE%D0%B1%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D1%85-%D0%B8%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%D0%BE%D0%B2-%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86-hbase-%D0%B8-%D1%81-phoenix-dee46f808b28?source=rss------hadoop-5)
-- [A detailed explanation of Hadoop core architecture HDFS](https://alibaba-cloud.medium.com/a-detailed-explanation-of-hadoop-core-architecture-hdfs-343d2c43f247?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
