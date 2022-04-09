@@ -297,11 +297,11 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
-- [How to Setup / Install an Apache Spark 3.1.1 Cluster on Ubuntu](https://python.plainenglish.io/how-to-setup-install-an-apache-spark-3-1-1-cluster-on-ubuntu-817598b8e198?source=rss------hadoop-5)
+- [How to Setup / Install an Apache Spark 3.1.1 Cluster on Ubuntu](https://aws.plainenglish.io/how-to-setup-install-an-apache-spark-3-1-1-cluster-on-ubuntu-817598b8e198?source=rss------hadoop-5)
 - [Spark — How to install in 5 Steps in Windows 10](https://medium.com/geekculture/spark-how-to-install-in-5-steps-in-windows-10-9336f289139?source=rss------hadoop-5)
 - [DATA INGESTION FROM AWS S3 TO HDFS](https://medium.com/@emmanueloffisong2002/data-ingestion-from-aws-s3-to-hdfs-a11bfc05b512?source=rss------hadoop-5)
 - [What should I use ? — best tools of BIG DATA.](https://medium.com/@mrunalnarayana/what-should-i-use-best-tools-of-big-data-2b4e104ce36e?source=rss------hadoop-5)
-- [Hadoop Distributed File System &lpar;HDFS&rpar;](https://medium.com/@selfStarter/hadoop-distributed-file-system-hdfs-4dec988b335c?source=rss------hadoop-5)
+- [Hadoop Distributed File System &lpar;HDFS&rpar;](https://medium.com/codex/hadoop-distributed-file-system-hdfs-4dec988b335c?source=rss------hadoop-5)
 - [HDFS Commands Cheat Sheet](https://medium.com/geekculture/hdfs-commands-cheat-sheet-1cd7bf22e795?source=rss------hadoop-5)
 - [Learn the fundamentals of Spark.](https://medium.com/@ArtificialIntelligencewiki/learn-the-fundamentals-of-spark-5c17a5397e44?source=rss------hadoop-5)
 - [Deep dive into Big Data with Hadoop &lpar;Part 2&rpar;: Hadoop Architecture](https://medium.com/international-school-of-ai-data-science/deep-dive-into-big-data-with-hadoop-part-2-hadoop-architecture-d76e4c77f815?source=rss------hadoop-5)
