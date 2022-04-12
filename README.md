@@ -297,6 +297,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Hadoop Developer- Roles and Responsibilities](https://medium.com/janbask-training-learn-grow/hadoop-developer-roles-and-responsibilities-a1bfca5dcf84?source=rss------hadoop-5)
 - [Apache Hadoop’s Core: HDFS and MapReduce — Brief Summary](https://ugursakarya.medium.com/apache-hadoops-core-hdfs-and-mapreduce-brief-summary-7c0c914ce470?source=rss------hadoop-5)
 - [Step by Step guide to create multi-cluster in Google Cloud, Read and Write CSV Files from Jupiter…](https://prabhatgoel.medium.com/step-by-step-guide-to-create-multi-cluster-in-google-cloud-read-and-write-csv-files-from-jupiter-17dea32d1a94?source=rss------hadoop-5)
 - [How to Setup / Install an Apache Spark 3.1.1 Cluster on Ubuntu](https://aws.plainenglish.io/how-to-setup-install-an-apache-spark-3-1-1-cluster-on-ubuntu-817598b8e198?source=rss------hadoop-5)
@@ -306,7 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Hadoop Distributed File System &lpar;HDFS&rpar;](https://medium.com/codex/hadoop-distributed-file-system-hdfs-4dec988b335c?source=rss------hadoop-5)
 - [HDFS Commands Cheat Sheet](https://medium.com/geekculture/hdfs-commands-cheat-sheet-1cd7bf22e795?source=rss------hadoop-5)
 - [Learn the fundamentals of Spark.](https://medium.com/@ArtificialIntelligencewiki/learn-the-fundamentals-of-spark-5c17a5397e44?source=rss------hadoop-5)
-- [Deep dive into Big Data with Hadoop &lpar;Part 2&rpar;: Hadoop Architecture](https://medium.com/international-school-of-ai-data-science/deep-dive-into-big-data-with-hadoop-part-2-hadoop-architecture-d76e4c77f815?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
