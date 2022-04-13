@@ -297,6 +297,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Hadoop vs Spark: The Battle for Big Data Supremacy](https://medium.com/@hogana3/hadoop-vs-spark-the-battle-for-big-data-supremacy-49f9617665b6?source=rss------hadoop-5)
+- [Setting up a Multi-Node Apache Spark Cluster on Apache Hadoop and Apache Hive](https://medium.com/codex/setting-up-a-multi-node-apache-spark-cluster-on-apache-hadoop-and-apache-hive-412764ab6881?source=rss------hadoop-5)
 - [Hadoop Developer- Roles and Responsibilities](https://medium.com/janbask-training-learn-grow/hadoop-developer-roles-and-responsibilities-a1bfca5dcf84?source=rss------hadoop-5)
 - [Apache Hadoop’s Core: HDFS and MapReduce — Brief Summary](https://ugursakarya.medium.com/apache-hadoops-core-hdfs-and-mapreduce-brief-summary-7c0c914ce470?source=rss------hadoop-5)
 - [Step by Step guide to create multi-cluster in Google Cloud, Read and Write CSV Files from Jupiter…](https://prabhatgoel.medium.com/step-by-step-guide-to-create-multi-cluster-in-google-cloud-read-and-write-csv-files-from-jupiter-17dea32d1a94?source=rss------hadoop-5)
@@ -305,8 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [DATA INGESTION FROM AWS S3 TO HDFS](https://medium.com/@emmanueloffisong2002/data-ingestion-from-aws-s3-to-hdfs-a11bfc05b512?source=rss------hadoop-5)
 - [What should I use ? — best tools of BIG DATA.](https://medium.com/@mrunalnarayana/what-should-i-use-best-tools-of-big-data-2b4e104ce36e?source=rss------hadoop-5)
 - [Hadoop Distributed File System &lpar;HDFS&rpar;](https://medium.com/codex/hadoop-distributed-file-system-hdfs-4dec988b335c?source=rss------hadoop-5)
-- [HDFS Commands Cheat Sheet](https://medium.com/geekculture/hdfs-commands-cheat-sheet-1cd7bf22e795?source=rss------hadoop-5)
-- [Learn the fundamentals of Spark.](https://medium.com/@ArtificialIntelligencewiki/learn-the-fundamentals-of-spark-5c17a5397e44?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
