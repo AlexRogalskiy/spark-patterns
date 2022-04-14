@@ -297,6 +297,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Apache Spark 101](https://medium.com/@senior.dataengineer.mx/apache-spark-101-832866c9532?source=rss------hadoop-5)
+- [Starting off with Cloudera VM](https://medium.com/@nanade.archana/starting-off-with-cloudera-vm-8aa4246107c0?source=rss------hadoop-5)
 - [Hadoop vs Spark: The Battle for Big Data Supremacy](https://medium.com/@hogana3/hadoop-vs-spark-the-battle-for-big-data-supremacy-49f9617665b6?source=rss------hadoop-5)
 - [Setting up a Multi-Node Apache Spark Cluster on Apache Hadoop and Apache Hive](https://medium.com/codex/setting-up-a-multi-node-apache-spark-cluster-on-apache-hadoop-and-apache-hive-412764ab6881?source=rss------hadoop-5)
 - [Hadoop Developer- Roles and Responsibilities](https://medium.com/janbask-training-learn-grow/hadoop-developer-roles-and-responsibilities-a1bfca5dcf84?source=rss------hadoop-5)
@@ -305,8 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [How to Setup / Install an Apache Spark 3.1.1 Cluster on Ubuntu](https://aws.plainenglish.io/how-to-setup-install-an-apache-spark-3-1-1-cluster-on-ubuntu-817598b8e198?source=rss------hadoop-5)
 - [Spark — How to install in 5 Steps in Windows 10](https://medium.com/geekculture/spark-how-to-install-in-5-steps-in-windows-10-9336f289139?source=rss------hadoop-5)
 - [DATA INGESTION FROM AWS S3 TO HDFS](https://medium.com/@emmanueloffisong2002/data-ingestion-from-aws-s3-to-hdfs-a11bfc05b512?source=rss------hadoop-5)
-- [What should I use ? — best tools of BIG DATA.](https://medium.com/@mrunalnarayana/what-should-i-use-best-tools-of-big-data-2b4e104ce36e?source=rss------hadoop-5)
-- [Hadoop Distributed File System &lpar;HDFS&rpar;](https://medium.com/codex/hadoop-distributed-file-system-hdfs-4dec988b335c?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
