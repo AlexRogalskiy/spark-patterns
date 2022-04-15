@@ -297,6 +297,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Executing Python MapReduce jobs using Hadoop inside docker containers on Apple Silicon Mac](https://medium.com/@leonbovett/executing-python-mapreduce-jobs-using-hadoop-in-a-docker-container-on-apple-silicon-mac-b59a5eda892d?source=rss------hadoop-5)
+- [Introducing Trunk Data Platform: the Open-Source Big Data Distribution Curated by TOSIT](https://medium.com/adaltas/introducing-trunk-data-platform-the-open-source-big-data-distribution-curated-by-tosit-e88727f407a2?source=rss------hadoop-5)
 - [Apache Spark 101](https://medium.com/@senior.dataengineer.mx/apache-spark-101-832866c9532?source=rss------hadoop-5)
 - [Starting off with Cloudera VM](https://medium.com/@nanade.archana/starting-off-with-cloudera-vm-8aa4246107c0?source=rss------hadoop-5)
 - [Hadoop vs Spark: The Battle for Big Data Supremacy](https://medium.com/@hogana3/hadoop-vs-spark-the-battle-for-big-data-supremacy-49f9617665b6?source=rss------hadoop-5)
@@ -305,8 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Apache Hadoop’s Core: HDFS and MapReduce — Brief Summary](https://ugursakarya.medium.com/apache-hadoops-core-hdfs-and-mapreduce-brief-summary-7c0c914ce470?source=rss------hadoop-5)
 - [Step by Step guide to create multi-cluster in Google Cloud, Read and Write CSV Files from Jupiter…](https://prabhatgoel.medium.com/step-by-step-guide-to-create-multi-cluster-in-google-cloud-read-and-write-csv-files-from-jupiter-17dea32d1a94?source=rss------hadoop-5)
 - [How to Setup / Install an Apache Spark 3.1.1 Cluster on Ubuntu](https://aws.plainenglish.io/how-to-setup-install-an-apache-spark-3-1-1-cluster-on-ubuntu-817598b8e198?source=rss------hadoop-5)
-- [Spark — How to install in 5 Steps in Windows 10](https://medium.com/geekculture/spark-how-to-install-in-5-steps-in-windows-10-9336f289139?source=rss------hadoop-5)
-- [DATA INGESTION FROM AWS S3 TO HDFS](https://medium.com/@emmanueloffisong2002/data-ingestion-from-aws-s3-to-hdfs-a11bfc05b512?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
