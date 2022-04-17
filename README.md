@@ -297,6 +297,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Spark Basics](https://medium.com/@rahulnkumar/spark-basics-c75ae2b9525d?source=rss------hadoop-5)
+- [Big Data In Hadoop](https://sinhaankitasinha31.medium.com/big-data-in-hadoop-e915e9aeef28?source=rss------hadoop-5)
 - [Executing Python MapReduce jobs using Hadoop inside docker containers on Apple Silicon Mac](https://medium.com/@leonbovett/executing-python-mapreduce-jobs-using-hadoop-in-a-docker-container-on-apple-silicon-mac-b59a5eda892d?source=rss------hadoop-5)
 - [Introducing Trunk Data Platform: the Open-Source Big Data Distribution Curated by TOSIT](https://medium.com/adaltas/introducing-trunk-data-platform-the-open-source-big-data-distribution-curated-by-tosit-e88727f407a2?source=rss------hadoop-5)
 - [Apache Spark 101](https://medium.com/@senior.dataengineer.mx/apache-spark-101-832866c9532?source=rss------hadoop-5)
@@ -305,8 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Setting up a Multi-Node Apache Spark Cluster on Apache Hadoop and Apache Hive](https://medium.com/codex/setting-up-a-multi-node-apache-spark-cluster-on-apache-hadoop-and-apache-hive-412764ab6881?source=rss------hadoop-5)
 - [Hadoop Developer- Roles and Responsibilities](https://medium.com/janbask-training-learn-grow/hadoop-developer-roles-and-responsibilities-a1bfca5dcf84?source=rss------hadoop-5)
 - [Apache Hadoop’s Core: HDFS and MapReduce — Brief Summary](https://ugursakarya.medium.com/apache-hadoops-core-hdfs-and-mapreduce-brief-summary-7c0c914ce470?source=rss------hadoop-5)
-- [Step by Step guide to create multi-cluster in Google Cloud, Read and Write CSV Files from Jupiter…](https://prabhatgoel.medium.com/step-by-step-guide-to-create-multi-cluster-in-google-cloud-read-and-write-csv-files-from-jupiter-17dea32d1a94?source=rss------hadoop-5)
-- [How to Setup / Install an Apache Spark 3.1.1 Cluster on Ubuntu](https://aws.plainenglish.io/how-to-setup-install-an-apache-spark-3-1-1-cluster-on-ubuntu-817598b8e198?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
