@@ -297,6 +297,9 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Kube2Hadoop](https://medium.com/@yoonsch217/kube2hadoop-a8f1836e85a4?source=rss------hadoop-5)
+- [Using Memory Control in YARN](https://medium.com/@yoonsch217/using-memory-control-in-yarn-299629b12b0b?source=rss------hadoop-5)
+- [Hadoop Delegation Token](https://medium.com/@yoonsch217/hadoop-delegation-token-15d4a41db372?source=rss------hadoop-5)
 - [Spark Basics](https://medium.com/@rahulnkumar/spark-basics-c75ae2b9525d?source=rss------hadoop-5)
 - [Big Data In Hadoop](https://sinhaankitasinha31.medium.com/big-data-in-hadoop-e915e9aeef28?source=rss------hadoop-5)
 - [Executing Python MapReduce jobs using Hadoop inside docker containers on Apple Silicon Mac](https://medium.com/@leonbovett/executing-python-mapreduce-jobs-using-hadoop-in-a-docker-container-on-apple-silicon-mac-b59a5eda892d?source=rss------hadoop-5)
@@ -304,9 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Apache Spark 101](https://medium.com/@senior.dataengineer.mx/apache-spark-101-832866c9532?source=rss------hadoop-5)
 - [Starting off with Cloudera VM](https://medium.com/@nanade.archana/starting-off-with-cloudera-vm-8aa4246107c0?source=rss------hadoop-5)
 - [Hadoop vs Spark: The Battle for Big Data Supremacy](https://medium.com/@hogana3/hadoop-vs-spark-the-battle-for-big-data-supremacy-49f9617665b6?source=rss------hadoop-5)
-- [Setting up a Multi-Node Apache Spark Cluster on Apache Hadoop and Apache Hive](https://medium.com/codex/setting-up-a-multi-node-apache-spark-cluster-on-apache-hadoop-and-apache-hive-412764ab6881?source=rss------hadoop-5)
-- [Hadoop Developer- Roles and Responsibilities](https://medium.com/janbask-training-learn-grow/hadoop-developer-roles-and-responsibilities-a1bfca5dcf84?source=rss------hadoop-5)
-- [Apache Hadoop’s Core: HDFS and MapReduce — Brief Summary](https://ugursakarya.medium.com/apache-hadoops-core-hdfs-and-mapreduce-brief-summary-7c0c914ce470?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
