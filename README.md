@@ -297,6 +297,9 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Getting started with Spark &lpar;part 2&rpar;](https://hangmortimer.medium.com/getting-started-with-spark-part-2-50233616405?source=rss------hadoop-5)
+- [Hadoop](https://medium.com/@jviswajohn8/hadoop-2a5a9af8328a?source=rss------hadoop-5)
+- [Demonstrate MapReduce word count program using Hadoop Cloudera &lpar;HDP&rpar; sandbox.](https://medium.com/@syedsajjad62/demonstrate-mapreduce-word-count-program-using-hadoop-cloudera-hdp-sandbox-15a35ffbc22c?source=rss------hadoop-5)
 - [Kube2Hadoop](https://medium.com/@yoonsch217/kube2hadoop-a8f1836e85a4?source=rss------hadoop-5)
 - [Using Memory Control in YARN](https://medium.com/@yoonsch217/using-memory-control-in-yarn-299629b12b0b?source=rss------hadoop-5)
 - [Hadoop Delegation Token](https://medium.com/@yoonsch217/hadoop-delegation-token-15d4a41db372?source=rss------hadoop-5)
@@ -304,9 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Big Data In Hadoop](https://sinhaankitasinha31.medium.com/big-data-in-hadoop-e915e9aeef28?source=rss------hadoop-5)
 - [Executing Python MapReduce jobs using Hadoop inside docker containers on Apple Silicon Mac](https://medium.com/@leonbovett/executing-python-mapreduce-jobs-using-hadoop-in-a-docker-container-on-apple-silicon-mac-b59a5eda892d?source=rss------hadoop-5)
 - [Introducing Trunk Data Platform: the Open-Source Big Data Distribution Curated by TOSIT](https://medium.com/adaltas/introducing-trunk-data-platform-the-open-source-big-data-distribution-curated-by-tosit-e88727f407a2?source=rss------hadoop-5)
-- [Apache Spark 101](https://medium.com/@senior.dataengineer.mx/apache-spark-101-832866c9532?source=rss------hadoop-5)
-- [Starting off with Cloudera VM](https://medium.com/@nanade.archana/starting-off-with-cloudera-vm-8aa4246107c0?source=rss------hadoop-5)
-- [Hadoop vs Spark: The Battle for Big Data Supremacy](https://medium.com/@hogana3/hadoop-vs-spark-the-battle-for-big-data-supremacy-49f9617665b6?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
