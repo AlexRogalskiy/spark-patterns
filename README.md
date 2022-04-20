@@ -297,6 +297,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Не только SQL-операторы: Transform для манипулирования данными в Apache Hive](https://medium.com/@bigdataschool/%D0%BD%D0%B5-%D1%82%D0%BE%D0%BB%D1%8C%D0%BA%D0%BE-sql-%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%8B-transform-%D0%B4%D0%BB%D1%8F-%D0%BC%D0%B0%D0%BD%D0%B8%D0%BF%D1%83%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC%D0%B8-%D0%B2-apache-hive-c322068c83b7?source=rss------hadoop-5)
 - [Getting started with Spark &lpar;part 2&rpar;](https://hangmortimer.medium.com/getting-started-with-spark-part-2-50233616405?source=rss------hadoop-5)
 - [Hadoop](https://medium.com/@jviswajohn8/hadoop-2a5a9af8328a?source=rss------hadoop-5)
 - [Demonstrate MapReduce word count program using Hadoop Cloudera &lpar;HDP&rpar; sandbox.](https://medium.com/@syedsajjad62/demonstrate-mapreduce-word-count-program-using-hadoop-cloudera-hdp-sandbox-15a35ffbc22c?source=rss------hadoop-5)
@@ -305,8 +306,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Hadoop Delegation Token](https://medium.com/@yoonsch217/hadoop-delegation-token-15d4a41db372?source=rss------hadoop-5)
 - [Spark Basics](https://medium.com/@rahulnkumar/spark-basics-c75ae2b9525d?source=rss------hadoop-5)
 - [Big Data In Hadoop](https://sinhaankitasinha31.medium.com/big-data-in-hadoop-e915e9aeef28?source=rss------hadoop-5)
-- [Executing Python MapReduce jobs using Hadoop inside docker containers on Apple Silicon Mac](https://medium.com/@leonbovett/executing-python-mapreduce-jobs-using-hadoop-in-a-docker-container-on-apple-silicon-mac-b59a5eda892d?source=rss------hadoop-5)
-- [Introducing Trunk Data Platform: the Open-Source Big Data Distribution Curated by TOSIT](https://medium.com/adaltas/introducing-trunk-data-platform-the-open-source-big-data-distribution-curated-by-tosit-e88727f407a2?source=rss------hadoop-5)
+- [Executing Python MapReduce jobs using Hadoop inside docker containers on Apple Silicon Mac](https://selectfrom.dev/executing-python-mapreduce-jobs-using-hadoop-in-a-docker-container-on-apple-silicon-mac-b59a5eda892d?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
