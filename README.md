@@ -319,6 +319,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop in real world posts*
 
 <!-- HADOOPINREALWORLD-POST-LIST:START -->
+- [How to find the number of partitions in a DataFrame?](https://www.hadoopinrealworld.com/how-to-find-the-number-of-partitions-in-a-dataframe/)
 - [How to delete multiple documents that match a specific condition in Elasticsearch?](https://www.hadoopinrealworld.com/how-to-delete-multiple-documents-that-match-a-specific-condition-in-elasticsearch/)
 - [How to fix could not connect to the endpoint URL issue in S3?](https://www.hadoopinrealworld.com/how-to-fix-could-not-connect-to-the-endpoint-url-issue-in-s3/)
 - [How to parse information from URL in Hive?](https://www.hadoopinrealworld.com/how-to-parse-information-from-url-in-hive/)
@@ -328,7 +329,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [How to copy selective documents from one index to a new index in Elasticsearch?](https://www.hadoopinrealworld.com/how-to-copy-selective-documents-from-one-index-to-a-new-index-in-elasticsearch/)
 - [How to copy an index and its contents to a new index in Elasticsearch?](https://www.hadoopinrealworld.com/how-to-copy-an-index-and-its-contents-to-a-new-index-in-elasticsearch/)
 - [How to view the contents of a GZiped file in HDFS?](https://www.hadoopinrealworld.com/how-to-view-the-contents-of-a-gziped-file-in-hdfs/)
-- [How to find out if a directory in HDFS is empty or not?](https://www.hadoopinrealworld.com/how-to-find-out-if-a-directory-in-hdfs-is-empty-or-not/)
 <!-- HADOOPINREALWORLD-POST-LIST:END -->
 
 ### *Kognitio posts*
