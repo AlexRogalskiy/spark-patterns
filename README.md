@@ -297,6 +297,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Data Engineer vs. Data Scientist: The Best Choice for 2022](https://medium.com/@chetandekate/data-engineer-vs-data-scientist-the-best-choice-for-2022-868267e31b42?source=rss------hadoop-5)
 - [Installing Hadoop on Ubuntu 20.04](https://medium.com/@nyarandifestus/installing-hadoop-on-ubuntu-20-04-4610b6e0391e?source=rss------hadoop-5)
 - [Spark Linear Regression Analysis](https://medium.com/@balrajgahlot2001t/spark-linear-regression-analysis-432f50664d24?source=rss------hadoop-5)
 - [Не только SQL-операторы: Transform для манипулирования данными в Apache Hive](https://medium.com/@bigdataschool/%D0%BD%D0%B5-%D1%82%D0%BE%D0%BB%D1%8C%D0%BA%D0%BE-sql-%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%8B-transform-%D0%B4%D0%BB%D1%8F-%D0%BC%D0%B0%D0%BD%D0%B8%D0%BF%D1%83%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC%D0%B8-%D0%B2-apache-hive-c322068c83b7?source=rss------hadoop-5)
@@ -306,7 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Kube2Hadoop](https://medium.com/@yoonsch217/kube2hadoop-a8f1836e85a4?source=rss------hadoop-5)
 - [Using Memory Control in YARN](https://medium.com/@yoonsch217/using-memory-control-in-yarn-299629b12b0b?source=rss------hadoop-5)
 - [Hadoop Delegation Token](https://medium.com/@yoonsch217/hadoop-delegation-token-15d4a41db372?source=rss------hadoop-5)
-- [Spark Basics](https://medium.com/@rahulnkumar/spark-basics-c75ae2b9525d?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
