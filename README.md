@@ -297,6 +297,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Connecting Rapid Miner Studio to GCP Dataproc on GCE](https://medium.com/@kamal.maiti/connecting-rapid-miner-studio-to-gcp-dataproc-on-gce-a964b0919b71?source=rss------hadoop-5)
 - [Top Hadoop HDFS Commands | HDFS Shell Guide](https://amalaj7.medium.com/top-hadoop-hdfs-commands-hdfs-shell-guide-fc050e55c80a?source=rss------hadoop-5)
 - [Data Engineer vs. Data Scientist: The Best Choice for 2022](https://medium.com/@chetandekate/data-engineer-vs-data-scientist-the-best-choice-for-2022-868267e31b42?source=rss------hadoop-5)
 - [Installing Hadoop on Ubuntu 20.04](https://medium.com/@nyarandifestus/installing-hadoop-on-ubuntu-20-04-4610b6e0391e?source=rss------hadoop-5)
@@ -306,7 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Hadoop](https://medium.com/@jviswajohn8/hadoop-2a5a9af8328a?source=rss------hadoop-5)
 - [Demonstrate MapReduce word count program using Hadoop Cloudera &lpar;HDP&rpar; sandbox.](https://medium.com/@syedsajjad62/demonstrate-mapreduce-word-count-program-using-hadoop-cloudera-hdp-sandbox-15a35ffbc22c?source=rss------hadoop-5)
 - [Kube2Hadoop](https://medium.com/@yoonsch217/kube2hadoop-a8f1836e85a4?source=rss------hadoop-5)
-- [Using Memory Control in YARN](https://medium.com/@yoonsch217/using-memory-control-in-yarn-299629b12b0b?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
