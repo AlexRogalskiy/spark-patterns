@@ -297,6 +297,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [What’s Hadoop??? What’s the relation of Hadoop in Big Data…](https://medium.com/@shifanatasneem/whats-hadoop-what-s-the-relation-of-hadoop-in-big-data-566cb885d700?source=rss------hadoop-5)
+- [Is Hadoop Dead?](https://medium.com/codex/is-hadoop-dead-37f5d2b71264?source=rss------hadoop-5)
 - [Connecting Rapid Miner Studio to GCP Dataproc on GCE](https://medium.com/@kamal.maiti/connecting-rapid-miner-studio-to-gcp-dataproc-on-gce-a964b0919b71?source=rss------hadoop-5)
 - [Top Hadoop HDFS Commands | HDFS Shell Guide](https://amalaj7.medium.com/top-hadoop-hdfs-commands-hdfs-shell-guide-fc050e55c80a?source=rss------hadoop-5)
 - [Data Engineer vs. Data Scientist: The Best Choice for 2022](https://medium.com/@chetandekate/data-engineer-vs-data-scientist-the-best-choice-for-2022-868267e31b42?source=rss------hadoop-5)
@@ -305,8 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Не только SQL-операторы: Transform для манипулирования данными в Apache Hive](https://medium.com/@bigdataschool/%D0%BD%D0%B5-%D1%82%D0%BE%D0%BB%D1%8C%D0%BA%D0%BE-sql-%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%8B-transform-%D0%B4%D0%BB%D1%8F-%D0%BC%D0%B0%D0%BD%D0%B8%D0%BF%D1%83%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC%D0%B8-%D0%B2-apache-hive-c322068c83b7?source=rss------hadoop-5)
 - [Getting started with Spark &lpar;part 2&rpar;](https://hangmortimer.medium.com/getting-started-with-spark-part-2-50233616405?source=rss------hadoop-5)
 - [Hadoop](https://medium.com/@jviswajohn8/hadoop-2a5a9af8328a?source=rss------hadoop-5)
-- [Demonstrate MapReduce word count program using Hadoop Cloudera &lpar;HDP&rpar; sandbox.](https://medium.com/@syedsajjad62/demonstrate-mapreduce-word-count-program-using-hadoop-cloudera-hdp-sandbox-15a35ffbc22c?source=rss------hadoop-5)
-- [Kube2Hadoop](https://medium.com/@yoonsch217/kube2hadoop-a8f1836e85a4?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
