@@ -297,16 +297,16 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [A Overview of Hadoop :](https://medium.com/@santhoshjssanthoshjs163/a-overview-of-hadoop-eeefc7b13438?source=rss------hadoop-5)
+- [BIG DATA And HADOOP : An Overview!](https://medium.com/@askyourdinesh/big-data-and-hadoop-an-overview-c1916ad60ce7?source=rss------hadoop-5)
+- [HADOOP ARCHITECTURE](https://medium.com/@sath18342.ec/hadoop-architecture-3b3046fd8015?source=rss------hadoop-5)
+- [Let’s learn about Hadoop Architecture](https://medium.com/@uec18237/lets-learn-about-hadoop-architecture-4d365e41b3a?source=rss------hadoop-5)
+- [Hadoop Architecture](https://medium.com/@shibikanth07/hadoop-architecture-c7f4c796ebdc?source=rss------hadoop-5)
+- [A quick Intro on Hadoop](https://medium.com/@berselincr/a-quick-intro-on-hadoop-b7a4ca9efb0e?source=rss------hadoop-5)
+- [Have You Learned about Hadoop Architecture?](https://medium.com/@vaishalisubbaraj/have-you-learned-about-hadoop-architecture-e93bde14f85?source=rss------hadoop-5)
 - [What’s Hadoop??? What’s the relation of Hadoop in Big Data…](https://medium.com/@shifanatasneem/whats-hadoop-what-s-the-relation-of-hadoop-in-big-data-566cb885d700?source=rss------hadoop-5)
 - [Is Hadoop Dead?](https://medium.com/codex/is-hadoop-dead-37f5d2b71264?source=rss------hadoop-5)
 - [Connecting Rapid Miner Studio to GCP Dataproc on GCE](https://medium.com/@kamal.maiti/connecting-rapid-miner-studio-to-gcp-dataproc-on-gce-a964b0919b71?source=rss------hadoop-5)
-- [Top Hadoop HDFS Commands | HDFS Shell Guide](https://amalaj7.medium.com/top-hadoop-hdfs-commands-hdfs-shell-guide-fc050e55c80a?source=rss------hadoop-5)
-- [Data Engineer vs. Data Scientist: The Best Choice for 2022](https://medium.com/@chetandekate/data-engineer-vs-data-scientist-the-best-choice-for-2022-868267e31b42?source=rss------hadoop-5)
-- [Installing Hadoop on Ubuntu 20.04](https://medium.com/@nyarandifestus/installing-hadoop-on-ubuntu-20-04-4610b6e0391e?source=rss------hadoop-5)
-- [Spark Linear Regression Analysis](https://medium.com/@balrajgahlot2001t/spark-linear-regression-analysis-432f50664d24?source=rss------hadoop-5)
-- [Не только SQL-операторы: Transform для манипулирования данными в Apache Hive](https://medium.com/@bigdataschool/%D0%BD%D0%B5-%D1%82%D0%BE%D0%BB%D1%8C%D0%BA%D0%BE-sql-%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%8B-transform-%D0%B4%D0%BB%D1%8F-%D0%BC%D0%B0%D0%BD%D0%B8%D0%BF%D1%83%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC%D0%B8-%D0%B2-apache-hive-c322068c83b7?source=rss------hadoop-5)
-- [Getting started with Spark &lpar;part 2&rpar;](https://hangmortimer.medium.com/getting-started-with-spark-part-2-50233616405?source=rss------hadoop-5)
-- [Hadoop](https://medium.com/@jviswajohn8/hadoop-2a5a9af8328a?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
