@@ -297,6 +297,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [ETL Data Pipeline, RDBMS TO HDFS using Airflow, Apache Sqoop, Spark, Postgres, and Hive](https://medium.com/@stefentaime/etl-data-pipeline-rdbms-to-hdfs-using-airflow-apache-sqoop-spark-postgres-and-hive-773f0e745537?source=rss------hadoop-5)
+- [How Does Big Data Analysis Correlate With IoT?](https://secrooq.medium.com/how-does-big-data-analysis-correlate-with-iot-f5c9ec5cf073?source=rss------hadoop-5)
 - [Handling Big Data with Hadoop and Spark](https://medium.com/@chetandekate/handling-big-data-with-hadoop-and-spark-345cf2a193b8?source=rss------hadoop-5)
 - [Managed Table vs. External Table in Apache Hive &lpar;with Hands-on&rpar;](https://aws.plainenglish.io/managed-table-vs-external-table-in-apache-hive-with-hands-on-2483205e86e1?source=rss------hadoop-5)
 - [Cloudera Operational Database: комплексная платформа данных на Apache HBase и Phoenix](https://medium.com/@bigdataschool/cloudera-operational-database-%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BB%D0%B0%D1%82%D1%84%D0%BE%D1%80%D0%BC%D0%B0-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-%D0%BD%D0%B0-apache-hbase-%D0%B8-phoenix-9975ffbe82e1?source=rss------hadoop-5)
@@ -305,8 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [HADOOP ARCHITECTURE](https://medium.com/@sath18342.ec/hadoop-architecture-3b3046fd8015?source=rss------hadoop-5)
 - [Let’s learn about Hadoop Architecture](https://medium.com/@uec18237/lets-learn-about-hadoop-architecture-4d365e41b3a?source=rss------hadoop-5)
 - [Hadoop Architecture](https://medium.com/@shibikanth07/hadoop-architecture-c7f4c796ebdc?source=rss------hadoop-5)
-- [A quick Intro on Hadoop](https://medium.com/@berselincr/a-quick-intro-on-hadoop-b7a4ca9efb0e?source=rss------hadoop-5)
-- [Have You Learned about Hadoop Architecture?](https://medium.com/@vaishalisubbaraj/have-you-learned-about-hadoop-architecture-e93bde14f85?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
