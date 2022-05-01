@@ -297,16 +297,16 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Hello world? Hive is evolving more… Aren’t we excited to know more.](https://medium.com/@shifanatasneem/hello-world-hive-is-evolving-more-arent-we-excited-to-know-more-bc5eff78a2a7?source=rss------hadoop-5)
+- [Using FileSystem API to write data to HDFS](https://medium.com/@jaya.aiyappan/using-filesystem-api-to-write-data-to-hdfs-59d75b41d3f3?source=rss------hadoop-5)
+- [How to install Hadoop 3 on Ubuntu](https://husnainbukhari.medium.com/how-to-install-hadoop-3-on-ubuntu-fdd24c08868f?source=rss------hadoop-5)
+- [Hadoop](https://medium.com/@viswatech18/hadoop-942d1cfaec05?source=rss------hadoop-5)
 - [ETL Data Pipeline, RDBMS TO HDFS using Airflow, Apache Sqoop, Spark, Postgres, and Hive](https://medium.com/@stefentaime/etl-data-pipeline-rdbms-to-hdfs-using-airflow-apache-sqoop-spark-postgres-and-hive-773f0e745537?source=rss------hadoop-5)
 - [How Does Big Data Analysis Correlate With IoT?](https://secrooq.medium.com/how-does-big-data-analysis-correlate-with-iot-f5c9ec5cf073?source=rss------hadoop-5)
 - [Handling Big Data with Hadoop and Spark](https://medium.com/@chetandekate/handling-big-data-with-hadoop-and-spark-345cf2a193b8?source=rss------hadoop-5)
 - [Managed Table vs. External Table in Apache Hive &lpar;with Hands-on&rpar;](https://aws.plainenglish.io/managed-table-vs-external-table-in-apache-hive-with-hands-on-2483205e86e1?source=rss------hadoop-5)
 - [Cloudera Operational Database: комплексная платформа данных на Apache HBase и Phoenix](https://medium.com/@bigdataschool/cloudera-operational-database-%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BB%D0%B0%D1%82%D1%84%D0%BE%D1%80%D0%BC%D0%B0-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-%D0%BD%D0%B0-apache-hbase-%D0%B8-phoenix-9975ffbe82e1?source=rss------hadoop-5)
 - [A Overview of Hadoop :](https://medium.com/@santhoshjssanthoshjs163/a-overview-of-hadoop-eeefc7b13438?source=rss------hadoop-5)
-- [BIG DATA And HADOOP : An Overview!](https://medium.com/@askyourdinesh/big-data-and-hadoop-an-overview-c1916ad60ce7?source=rss------hadoop-5)
-- [HADOOP ARCHITECTURE](https://medium.com/@sath18342.ec/hadoop-architecture-3b3046fd8015?source=rss------hadoop-5)
-- [Let’s learn about Hadoop Architecture](https://medium.com/@uec18237/lets-learn-about-hadoop-architecture-4d365e41b3a?source=rss------hadoop-5)
-- [Hadoop Architecture](https://medium.com/@shibikanth07/hadoop-architecture-c7f4c796ebdc?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
