@@ -297,6 +297,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Overview of Apache Spark](https://medium.com/@uec18237/overview-of-apache-spark-c03a3c8bf793?source=rss------hadoop-5)
 - [Apache Spark: The New ‘King’ of Big Data](https://medium.com/@shifanatasneem/apache-spark-the-new-king-of-big-data-aee94e281267?source=rss------hadoop-5)
 - [[Lecture] Sqoop in DADS6002 Big Data](https://medium.com/@lukplamino/lecture-sqoop-in-dads6002-big-data-f88bcf33060b?source=rss------hadoop-5)
 - [A Short note on Hive Concept](https://medium.com/@vaishalisubbaraj/a-short-note-on-hive-concept-bc0dc2ce99cf?source=rss------hadoop-5)
@@ -306,7 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Hadoop](https://medium.com/@viswatech18/hadoop-942d1cfaec05?source=rss------hadoop-5)
 - [ETL Data Pipeline, RDBMS TO HDFS using Airflow, Apache Sqoop, Spark, Postgres, and Hive](https://medium.com/@stefentaime/etl-data-pipeline-rdbms-to-hdfs-using-airflow-apache-sqoop-spark-postgres-and-hive-773f0e745537?source=rss------hadoop-5)
 - [How Does Big Data Analysis Correlate With IoT?](https://secrooq.medium.com/how-does-big-data-analysis-correlate-with-iot-f5c9ec5cf073?source=rss------hadoop-5)
-- [Handling Big Data with Hadoop and Spark](https://medium.com/@chetandekate/handling-big-data-with-hadoop-and-spark-345cf2a193b8?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
