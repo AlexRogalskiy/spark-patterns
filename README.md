@@ -297,16 +297,16 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [In Search of Relationships between Temperature, Homeless Encampments, and Criminal Summons in NYC…](https://medium.com/@feifeiW/in-search-of-relationships-between-temperature-homeless-encampments-and-criminal-summons-in-nyc-9c3bcb29d23b?source=rss------hadoop-5)
+- [Concept of Big Data](https://medium.com/@santhoshjssanthoshjs163/concept-of-big-data-8e07f862a4c3?source=rss------hadoop-5)
+- [Come on let’s learn about Resilient Distributed Dataset&lpar;RDD&rpar; in Apache Spark](https://medium.com/@uec18237/come-on-lets-learn-about-resilient-distributed-dataset-rdd-in-apache-spark-37b968d031f8?source=rss------hadoop-5)
+- [Не только MSCK REPAIR TABLE: добавляем разделы в хранилище метаданных Hive с оператором AirFlow и…](https://medium.com/@bigdataschool/%D0%BD%D0%B5-%D1%82%D0%BE%D0%BB%D1%8C%D0%BA%D0%BE-msck-repair-table-%D0%B4%D0%BE%D0%B1%D0%B0%D0%B2%D0%BB%D1%8F%D0%B5%D0%BC-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D1%8B-%D0%B2-%D1%85%D1%80%D0%B0%D0%BD%D0%B8%D0%BB%D0%B8%D1%89%D0%B5-%D0%BC%D0%B5%D1%82%D0%B0%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-hive-%D1%81-%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BE%D0%BC-airflow-%D0%B8-e6935cb98f9?source=rss------hadoop-5)
 - [What is Partitioning vs Bucketing in Apache Hive? &lpar;Partitioning vs Bucketing&rpar;](https://profvkshrivastava.medium.com/what-is-partitioning-vs-bucketing-in-apache-hive-partitioning-vs-bucketing-88d31578bb34?source=rss------hadoop-5)
 - [Еще безопаснее: поддержка Kerberos Active Directory в продуктах Arenadata](https://medium.com/@bigdataschool/%D0%B5%D1%89%D0%B5-%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%B5%D0%B5-%D0%BF%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%BA%D0%B0-kerberos-active-directory-%D0%B2-%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D0%B0%D1%85-arenadata-97fbf913fcd?source=rss------hadoop-5)
 - [Overview of Apache Spark](https://medium.com/@uec18237/overview-of-apache-spark-c03a3c8bf793?source=rss------hadoop-5)
 - [Apache Spark: The New ‘King’ of Big Data](https://medium.com/@shifanatasneem/apache-spark-the-new-king-of-big-data-aee94e281267?source=rss------hadoop-5)
 - [[Lecture] Sqoop in DADS6002 Big Data](https://medium.com/@lukplamino/lecture-sqoop-in-dads6002-big-data-f88bcf33060b?source=rss------hadoop-5)
 - [A Short note on Hive Concept](https://medium.com/@vaishalisubbaraj/a-short-note-on-hive-concept-bc0dc2ce99cf?source=rss------hadoop-5)
-- [Hello world? Hive is evolving more… Aren’t we excited to know more.](https://medium.com/@shifanatasneem/hello-world-hive-is-evolving-more-arent-we-excited-to-know-more-bc5eff78a2a7?source=rss------hadoop-5)
-- [Using FileSystem API to write data to HDFS](https://medium.com/@jaya.aiyappan/using-filesystem-api-to-write-data-to-hdfs-59d75b41d3f3?source=rss------hadoop-5)
-- [How to install Hadoop 3 on Ubuntu](https://husnainbukhari.medium.com/how-to-install-hadoop-3-on-ubuntu-fdd24c08868f?source=rss------hadoop-5)
-- [Hadoop](https://medium.com/@viswatech18/hadoop-942d1cfaec05?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
