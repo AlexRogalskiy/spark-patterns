@@ -297,6 +297,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Using Hadoop Ecosystem to Find the Relationship Between Sleep, Mood, and Emotion](https://medium.com/@bkting/using-hadoop-ecosystem-to-find-the-relationship-between-sleep-and-mood-emotion-and-health-cd989d19a6dd?source=rss------hadoop-5)
+- [Traffic accidents have long been known as a systematic problem for every well-developed city…](https://medium.com/@th2160/traffic-accidents-have-long-been-known-as-a-systematic-problem-for-every-well-developed-city-f87f3a4fd4f5?source=rss------hadoop-5)
 - [In Search of Relationships between Temperature, Homeless Encampments, and Criminal Summons in NYC…](https://medium.com/@feifeiW/in-search-of-relationships-between-temperature-homeless-encampments-and-criminal-summons-in-nyc-9c3bcb29d23b?source=rss------hadoop-5)
 - [Concept of Big Data](https://medium.com/@santhoshjssanthoshjs163/concept-of-big-data-8e07f862a4c3?source=rss------hadoop-5)
 - [Come on let’s learn about Resilient Distributed Dataset&lpar;RDD&rpar; in Apache Spark](https://medium.com/@uec18237/come-on-lets-learn-about-resilient-distributed-dataset-rdd-in-apache-spark-37b968d031f8?source=rss------hadoop-5)
@@ -305,8 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Еще безопаснее: поддержка Kerberos Active Directory в продуктах Arenadata](https://medium.com/@bigdataschool/%D0%B5%D1%89%D0%B5-%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%B5%D0%B5-%D0%BF%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%BA%D0%B0-kerberos-active-directory-%D0%B2-%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D0%B0%D1%85-arenadata-97fbf913fcd?source=rss------hadoop-5)
 - [Overview of Apache Spark](https://medium.com/@uec18237/overview-of-apache-spark-c03a3c8bf793?source=rss------hadoop-5)
 - [Apache Spark: The New ‘King’ of Big Data](https://medium.com/@shifanatasneem/apache-spark-the-new-king-of-big-data-aee94e281267?source=rss------hadoop-5)
-- [[Lecture] Sqoop in DADS6002 Big Data](https://medium.com/@lukplamino/lecture-sqoop-in-dads6002-big-data-f88bcf33060b?source=rss------hadoop-5)
-- [A Short note on Hive Concept](https://medium.com/@vaishalisubbaraj/a-short-note-on-hive-concept-bc0dc2ce99cf?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
