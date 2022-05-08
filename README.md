@@ -297,6 +297,9 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Zookeeper로 lock 사용하기](https://medium.com/@yoonsch217/zookeeper%EB%A1%9C-lock-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-7d94bc14ef0b?source=rss------hadoop-5)
+- [The Google File System [논문정리]](https://medium.com/@yoonsch217/the-google-file-system-%EB%85%BC%EB%AC%B8%EC%A0%95%EB%A6%AC-d3613955b5ff?source=rss------hadoop-5)
+- [MapReduce: Simplified Data Processing on Large Cluster [논문정리]](https://medium.com/@yoonsch217/mapreduce-simplified-data-processing-on-large-cluster-%EB%85%BC%EB%AC%B8%EC%A0%95%EB%A6%AC-95fc78160ce5?source=rss------hadoop-5)
 - [Using Hadoop Ecosystem to Find the Relationship Between Sleep, Mood, and Emotion](https://medium.com/@bkting/using-hadoop-ecosystem-to-find-the-relationship-between-sleep-and-mood-emotion-and-health-cd989d19a6dd?source=rss------hadoop-5)
 - [Traffic accidents have long been known as a systematic problem for every well-developed city…](https://medium.com/@th2160/traffic-accidents-have-long-been-known-as-a-systematic-problem-for-every-well-developed-city-f87f3a4fd4f5?source=rss------hadoop-5)
 - [In Search of Relationships between Temperature, Homeless Encampments, and Criminal Summons in NYC…](https://medium.com/@feifeiW/in-search-of-relationships-between-temperature-homeless-encampments-and-criminal-summons-in-nyc-9c3bcb29d23b?source=rss------hadoop-5)
@@ -304,9 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Come on let’s learn about Resilient Distributed Dataset&lpar;RDD&rpar; in Apache Spark](https://medium.com/@uec18237/come-on-lets-learn-about-resilient-distributed-dataset-rdd-in-apache-spark-37b968d031f8?source=rss------hadoop-5)
 - [Не только MSCK REPAIR TABLE: добавляем разделы в хранилище метаданных Hive с оператором AirFlow и…](https://medium.com/@bigdataschool/%D0%BD%D0%B5-%D1%82%D0%BE%D0%BB%D1%8C%D0%BA%D0%BE-msck-repair-table-%D0%B4%D0%BE%D0%B1%D0%B0%D0%B2%D0%BB%D1%8F%D0%B5%D0%BC-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D1%8B-%D0%B2-%D1%85%D1%80%D0%B0%D0%BD%D0%B8%D0%BB%D0%B8%D1%89%D0%B5-%D0%BC%D0%B5%D1%82%D0%B0%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-hive-%D1%81-%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BE%D0%BC-airflow-%D0%B8-e6935cb98f9?source=rss------hadoop-5)
 - [What is Partitioning vs Bucketing in Apache Hive? &lpar;Partitioning vs Bucketing&rpar;](https://profvkshrivastava.medium.com/what-is-partitioning-vs-bucketing-in-apache-hive-partitioning-vs-bucketing-88d31578bb34?source=rss------hadoop-5)
-- [Еще безопаснее: поддержка Kerberos Active Directory в продуктах Arenadata](https://medium.com/@bigdataschool/%D0%B5%D1%89%D0%B5-%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%B5%D0%B5-%D0%BF%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%BA%D0%B0-kerberos-active-directory-%D0%B2-%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D0%B0%D1%85-arenadata-97fbf913fcd?source=rss------hadoop-5)
-- [Overview of Apache Spark](https://medium.com/@uec18237/overview-of-apache-spark-c03a3c8bf793?source=rss------hadoop-5)
-- [Apache Spark: The New ‘King’ of Big Data](https://medium.com/@shifanatasneem/apache-spark-the-new-king-of-big-data-aee94e281267?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
