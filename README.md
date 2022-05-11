@@ -297,6 +297,9 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Satisfying Apache Spark dependencies on Hadoop YARN](https://medium.com/@tuckging/satisfying-apache-spark-dependencies-on-hadoop-yarn-735666443f2c?source=rss------hadoop-5)
+- [Install Hadoop on Ubuntu operating system](https://codewitharjun.medium.com/install-hadoop-on-ubuntu-operating-system-6e0ca4ef9689?source=rss------hadoop-5)
+- [Configuring SAML Authentication for Azure Active Directory on Hue](https://medium.com/@bates.oisin/configuring-saml-authentication-for-azure-active-directory-on-hue-73ce784b0e3a?source=rss------hadoop-5)
 - [DATA WAREHOUSE : Hive!](https://medium.com/@askyourdinesh/data-warehouse-hive-3f733b397f24?source=rss------hadoop-5)
 - [About Hive](https://medium.com/@santhoshjssanthoshjs163/about-hive-42f81ef74068?source=rss------hadoop-5)
 - [Easiest way of running spark code in jupyter notebook without heavy installation/configuration](https://medium.com/@msdilli1997/easiest-way-of-running-spark-code-in-jupyter-notebook-without-heavy-installation-configuration-d95f52ab6b92?source=rss------hadoop-5)
@@ -304,9 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Why ‘Data’ is now ‘Big Data’?](https://medium.com/@shubhamvats30/why-data-is-now-big-data-fcd65893c5a8?source=rss------hadoop-5)
 - [Zookeeper로 lock 사용하기](https://medium.com/@yoonsch217/zookeeper%EB%A1%9C-lock-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-7d94bc14ef0b?source=rss------hadoop-5)
 - [The Google File System [논문정리]](https://medium.com/@yoonsch217/the-google-file-system-%EB%85%BC%EB%AC%B8%EC%A0%95%EB%A6%AC-d3613955b5ff?source=rss------hadoop-5)
-- [MapReduce: Simplified Data Processing on Large Cluster [논문정리]](https://medium.com/@yoonsch217/mapreduce-simplified-data-processing-on-large-cluster-%EB%85%BC%EB%AC%B8%EC%A0%95%EB%A6%AC-95fc78160ce5?source=rss------hadoop-5)
-- [Using Hadoop Ecosystem to Find the Relationship Between Sleep, Mood, and Emotion](https://medium.com/@bkting/using-hadoop-ecosystem-to-find-the-relationship-between-sleep-and-mood-emotion-and-health-cd989d19a6dd?source=rss------hadoop-5)
-- [Traffic accidents have long been known as a systematic problem for every well-developed city…](https://medium.com/@th2160/traffic-accidents-have-long-been-known-as-a-systematic-problem-for-every-well-developed-city-f87f3a4fd4f5?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
