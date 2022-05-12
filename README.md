@@ -319,6 +319,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop in real world posts*
 
 <!-- HADOOPINREALWORLD-POST-LIST:START -->
+- [How to make Hive recursively read files from all the sub directories?](https://www.hadoopinrealworld.com/how-to-make-hive-recursively-read-files-from-all-the-sub-directories/)
 - [How to create a column with unique, incrementing index value in Spark?](https://www.hadoopinrealworld.com/how-to-create-a-column-with-unique-incrementing-index-value-in-spark/)
 - [How to find the number of partitions in a DataFrame?](https://www.hadoopinrealworld.com/how-to-find-the-number-of-partitions-in-a-dataframe/)
 - [How to delete multiple documents that match a specific condition in Elasticsearch?](https://www.hadoopinrealworld.com/how-to-delete-multiple-documents-that-match-a-specific-condition-in-elasticsearch/)
@@ -328,7 +329,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Understanding stack function in Spark](https://www.hadoopinrealworld.com/understanding-stack-function-in-spark/)
 - [What is the difference between map and flatMap functions in Spark?](https://www.hadoopinrealworld.com/what-is-the-difference-between-map-and-flatmap-functions-in-spark/)
 - [How to copy selective documents from one index to a new index in Elasticsearch?](https://www.hadoopinrealworld.com/how-to-copy-selective-documents-from-one-index-to-a-new-index-in-elasticsearch/)
-- [How to copy an index and its contents to a new index in Elasticsearch?](https://www.hadoopinrealworld.com/how-to-copy-an-index-and-its-contents-to-a-new-index-in-elasticsearch/)
 <!-- HADOOPINREALWORLD-POST-LIST:END -->
 
 ### *Kognitio posts*
