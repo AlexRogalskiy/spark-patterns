@@ -297,6 +297,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Use HADOOP HDFS as SPARK Warehouse Directory without installing HIVE](https://medium.com/@madtopcoder/use-hadoop-hdfs-as-spark-warehouse-directory-without-installing-hive-4ea3af86dfae?source=rss------hadoop-5)
 - [Импортозамещение в Big Data: Arenadata на Скале](https://medium.com/@bigdataschool/%D0%B8%D0%BC%D0%BF%D0%BE%D1%80%D1%82%D0%BE%D0%B7%D0%B0%D0%BC%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2-big-data-arenadata-%D0%BD%D0%B0-%D1%81%D0%BA%D0%B0%D0%BB%D0%B5-714be6066301?source=rss------hadoop-5)
 - [Satisfying Apache Spark dependencies on Hadoop YARN](https://medium.com/lynx-data-engineering/satisfying-apache-spark-dependencies-on-hadoop-yarn-735666443f2c?source=rss------hadoop-5)
 - [Install Hadoop on Ubuntu operating system](https://codewitharjun.medium.com/install-hadoop-on-ubuntu-operating-system-6e0ca4ef9689?source=rss------hadoop-5)
@@ -306,7 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Easiest way of running spark code in jupyter notebook without heavy installation/configuration](https://medium.com/@msdilli1997/easiest-way-of-running-spark-code-in-jupyter-notebook-without-heavy-installation-configuration-d95f52ab6b92?source=rss------hadoop-5)
 - [Oozie — What, Why and When!](https://medium.com/analytics-vidhya/oozie-what-why-and-when-58aa9fc14dd2?source=rss------hadoop-5)
 - [Why ‘Data’ is now ‘Big Data’?](https://medium.com/@shubhamvats30/why-data-is-now-big-data-fcd65893c5a8?source=rss------hadoop-5)
-- [Zookeeper로 lock 사용하기](https://medium.com/@yoonsch217/zookeeper%EB%A1%9C-lock-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-7d94bc14ef0b?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
