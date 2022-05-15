@@ -296,6 +296,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [系統設計入門：MapReduce](https://medium.com/jimmy-wang/%E7%B3%BB%E7%B5%B1%E8%A8%AD%E8%A8%88%E5%85%A5%E9%96%80-mapreduce-eb5cd8062514?source=rss------hadoop-5)
+- [HADOOP — The Big Data Framework](https://medium.com/@prikshitsingla78/hadoop-the-big-data-framework-8b063fc2d83f?source=rss------hadoop-5)
 - [Use HADOOP HDFS as SPARK Warehouse Directory without installing HIVE](https://medium.com/@madtopcoder/use-hadoop-hdfs-as-spark-warehouse-directory-without-installing-hive-4ea3af86dfae?source=rss------hadoop-5)
 - [Импортозамещение в Big Data: Arenadata на Скале](https://medium.com/@bigdataschool/%D0%B8%D0%BC%D0%BF%D0%BE%D1%80%D1%82%D0%BE%D0%B7%D0%B0%D0%BC%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2-big-data-arenadata-%D0%BD%D0%B0-%D1%81%D0%BA%D0%B0%D0%BB%D0%B5-714be6066301?source=rss------hadoop-5)
 - [Satisfying Apache Spark dependencies on Hadoop YARN](https://medium.com/lynx-data-engineering/satisfying-apache-spark-dependencies-on-hadoop-yarn-735666443f2c?source=rss------hadoop-5)
@@ -304,8 +306,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [DATA WAREHOUSE : Hive!](https://medium.com/@askyourdinesh/data-warehouse-hive-3f733b397f24?source=rss------hadoop-5)
 - [About Hive](https://medium.com/@santhoshjssanthoshjs163/about-hive-42f81ef74068?source=rss------hadoop-5)
 - [Easiest way of running spark code in jupyter notebook without heavy installation/configuration](https://medium.com/@msdilli1997/easiest-way-of-running-spark-code-in-jupyter-notebook-without-heavy-installation-configuration-d95f52ab6b92?source=rss------hadoop-5)
-- [Oozie — What, Why and When!](https://medium.com/analytics-vidhya/oozie-what-why-and-when-58aa9fc14dd2?source=rss------hadoop-5)
-- [Why ‘Data’ is now ‘Big Data’?](https://medium.com/@shubhamvats30/why-data-is-now-big-data-fcd65893c5a8?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
