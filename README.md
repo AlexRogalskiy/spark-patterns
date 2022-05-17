@@ -296,6 +296,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Building a Resilient EMR Workload](https://medium.com/@amberrunnels/building-a-resilient-emr-workload-6a90b64cac4a?source=rss------hadoop-5)
 - [系統設計入門：MapReduce](https://medium.com/jimmy-wang/%E7%B3%BB%E7%B5%B1%E8%A8%AD%E8%A8%88%E5%85%A5%E9%96%80-mapreduce-eb5cd8062514?source=rss------hadoop-5)
 - [HADOOP — The Big Data Framework](https://medium.com/@prikshitsingla78/hadoop-the-big-data-framework-8b063fc2d83f?source=rss------hadoop-5)
 - [Use HADOOP HDFS as SPARK Warehouse Directory without installing HIVE](https://medium.com/@madtopcoder/use-hadoop-hdfs-as-spark-warehouse-directory-without-installing-hive-4ea3af86dfae?source=rss------hadoop-5)
@@ -305,7 +306,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Configuring SAML Authentication for Azure Active Directory on Hue](https://medium.com/@bates.oisin/configuring-saml-authentication-for-azure-active-directory-on-hue-73ce784b0e3a?source=rss------hadoop-5)
 - [DATA WAREHOUSE : Hive!](https://medium.com/@askyourdinesh/data-warehouse-hive-3f733b397f24?source=rss------hadoop-5)
 - [About Hive](https://medium.com/@santhoshjssanthoshjs163/about-hive-42f81ef74068?source=rss------hadoop-5)
-- [Easiest way of running spark code in jupyter notebook without heavy installation/configuration](https://medium.com/@msdilli1997/easiest-way-of-running-spark-code-in-jupyter-notebook-without-heavy-installation-configuration-d95f52ab6b92?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
