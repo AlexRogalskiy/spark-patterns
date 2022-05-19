@@ -296,6 +296,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [What is HDFS? Apache Distributed File System, Its Architecture and Components](https://medium.com/@mammadlisevda/what-is-hadoop-distributed-file-system-hdfs-its-architucture-and-components-5bc35b530749?source=rss------hadoop-5)
+- [How to Connect Trino to Databricks Delta Lake](https://medium.com/@flyws1993/how-to-connect-trino-to-databricks-delta-lake-65aff7a8cde2?source=rss------hadoop-5)
 - [HADOOP](https://medium.com/@poojavasudevan2001/hadoop-83f49c2437b?source=rss------hadoop-5)
 - [Building a Resilient EMR Workload](https://medium.com/@amberrunnels/building-a-resilient-emr-workload-6a90b64cac4a?source=rss------hadoop-5)
 - [系統設計入門：MapReduce](https://medium.com/jimmy-wang/%E7%B3%BB%E7%B5%B1%E8%A8%AD%E8%A8%88%E5%85%A5%E9%96%80-mapreduce-eb5cd8062514?source=rss------hadoop-5)
@@ -303,9 +305,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Use HADOOP HDFS as SPARK Warehouse Directory without installing HIVE](https://medium.com/@madtopcoder/use-hadoop-hdfs-as-spark-warehouse-directory-without-installing-hive-4ea3af86dfae?source=rss------hadoop-5)
 - [Импортозамещение в Big Data: Arenadata на Скале](https://medium.com/@bigdataschool/%D0%B8%D0%BC%D0%BF%D0%BE%D1%80%D1%82%D0%BE%D0%B7%D0%B0%D0%BC%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2-big-data-arenadata-%D0%BD%D0%B0-%D1%81%D0%BA%D0%B0%D0%BB%D0%B5-714be6066301?source=rss------hadoop-5)
 - [Satisfying Apache Spark dependencies on Hadoop YARN](https://medium.com/lynx-data-engineering/satisfying-apache-spark-dependencies-on-hadoop-yarn-735666443f2c?source=rss------hadoop-5)
-- [Install Hadoop on Ubuntu operating system](https://codewitharjun.medium.com/install-hadoop-on-ubuntu-operating-system-6e0ca4ef9689?source=rss------hadoop-5)
-- [Configuring SAML Authentication for Azure Active Directory on Hue](https://medium.com/@bates.oisin/configuring-saml-authentication-for-azure-active-directory-on-hue-73ce784b0e3a?source=rss------hadoop-5)
-- [DATA WAREHOUSE : Hive!](https://medium.com/@askyourdinesh/data-warehouse-hive-3f733b397f24?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
