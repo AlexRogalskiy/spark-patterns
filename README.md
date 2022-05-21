@@ -296,15 +296,14 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [First time setting up HIVE on a Hadoop edge node](https://medium.com/@madtopcoder/first-time-setting-up-hive-on-a-hadoop-edge-node-3d207fff56ac?source=rss------hadoop-5)
+- [Part 4:Apache Hive Basics — How Process Structure Data in Hadoop ?](https://medium.com/@patidar.rahul8392/part-4-apache-hive-basics-how-process-structure-data-in-hadoop-8e69375a29ad?source=rss------hadoop-5)
 - [Part 3:Apache Hive Basics — How To Process Structure Data in Hadoop ?](https://medium.com/@patidar.rahul8392/part-3-apache-hive-basics-how-to-process-structure-data-in-hadoop-1af93a3a51c7?source=rss------hadoop-5)
 - [Part 2 :Apache Hive Basics — How Process Structure Data in Hadoop ?](https://medium.com/@patidar.rahul8392/part-2-apache-hive-basics-how-process-structure-data-in-hadoop-bfad2037ff0d?source=rss------hadoop-5)
 - [Designing nRT Read and write optimized CDC Framework for Hadoop Data Lake — Part 2](https://medium.com/airtelxlabs/designing-nrt-read-and-write-optimized-cdc-framework-for-hadoop-data-lake-part-2-99748f0188cd?source=rss------hadoop-5)
 - [What is HDFS? Apache Distributed File System, Its Architecture and Components](https://medium.com/@mammadlisevda/what-is-hadoop-distributed-file-system-hdfs-its-architucture-and-components-5bc35b530749?source=rss------hadoop-5)
-- [How to Connect Trino to Databricks Delta Lake](https://medium.com/@flyws1993/how-to-connect-trino-to-databricks-delta-lake-65aff7a8cde2?source=rss------hadoop-5)
 - [HADOOP](https://medium.com/@poojavasudevan2001/hadoop-83f49c2437b?source=rss------hadoop-5)
 - [Building a Resilient EMR Workload](https://medium.com/@amberrunnels/building-a-resilient-emr-workload-6a90b64cac4a?source=rss------hadoop-5)
-- [系統設計入門：MapReduce](https://medium.com/jimmy-wang/%E7%B3%BB%E7%B5%B1%E8%A8%AD%E8%A8%88%E5%85%A5%E9%96%80-mapreduce-eb5cd8062514?source=rss------hadoop-5)
-- [HADOOP — The Big Data Framework](https://medium.com/@prikshitsingla78/hadoop-the-big-data-framework-8b063fc2d83f?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
