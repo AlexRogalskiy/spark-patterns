@@ -296,6 +296,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [HDFS — The Storage Unit of Hadoop](https://medium.com/@prikshitsingla78/hdfs-the-storage-unit-of-hadoop-612494d1de01?source=rss------hadoop-5)
 - [First time setting up HIVE on a Hadoop edge node](https://medium.com/@madtopcoder/first-time-setting-up-hive-on-a-hadoop-edge-node-3d207fff56ac?source=rss------hadoop-5)
 - [Part 4:Apache Hive Basics — How Process Structure Data in Hadoop ?](https://medium.com/@patidar.rahul8392/part-4-apache-hive-basics-how-process-structure-data-in-hadoop-8e69375a29ad?source=rss------hadoop-5)
 - [Part 3:Apache Hive Basics — How To Process Structure Data in Hadoop ?](https://medium.com/@patidar.rahul8392/part-3-apache-hive-basics-how-to-process-structure-data-in-hadoop-1af93a3a51c7?source=rss------hadoop-5)
@@ -303,7 +304,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Designing nRT Read and write optimized CDC Framework for Hadoop Data Lake — Part 2](https://medium.com/airtelxlabs/designing-nrt-read-and-write-optimized-cdc-framework-for-hadoop-data-lake-part-2-99748f0188cd?source=rss------hadoop-5)
 - [What is HDFS? Apache Distributed File System, Its Architecture and Components](https://medium.com/@mammadlisevda/what-is-hadoop-distributed-file-system-hdfs-its-architucture-and-components-5bc35b530749?source=rss------hadoop-5)
 - [HADOOP](https://medium.com/@poojavasudevan2001/hadoop-83f49c2437b?source=rss------hadoop-5)
-- [Building a Resilient EMR Workload](https://medium.com/@amberrunnels/building-a-resilient-emr-workload-6a90b64cac4a?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
