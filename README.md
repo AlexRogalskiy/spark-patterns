@@ -296,16 +296,16 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [HDFS Storage Formats — What &amp; When to use?](https://medium.com/@ghoshsiddharth25/hdfs-storage-formats-what-when-to-use-52f150d5de1b?source=rss------hadoop-5)
+- [Hadoop](https://medium.com/@emma.sammuel12/hadoop-c1f138f73465?source=rss------hadoop-5)
+- [HADOOP ARCHITECTURE](https://medium.com/@monisha030501/hadoop-architecture-18dab3bcfcc5?source=rss------hadoop-5)
+- [Apache Spark VS Apache Hadoop](https://profvkshrivastava.medium.com/apache-spark-vs-apache-hadoop-49aadd9df9b0?source=rss------hadoop-5)
 - [Putting Hadoop, Hive, and Spark together for the first time](https://medium.com/@madtopcoder/putting-hadoop-hive-and-spark-together-for-the-first-time-bf44262575bd?source=rss------hadoop-5)
 - [Installing Hadoop HDFS on Ubuntu 20.04 Linux](https://paulcorcoran.medium.com/installing-hadoop-hdfs-on-ubuntu-20-04-linux-1dd15e65dc6a?source=rss------hadoop-5)
 - [Create a Linux Machine and connect via Hadoop to Pyspark for data extraction: Part 2](https://paulcorcoran.medium.com/create-a-linux-machine-and-connect-via-hadoop-to-pyspark-for-data-extraction-part-2-e8198c8ad188?source=rss------hadoop-5)
 - [Create a Linux Machine and connect via Hadoop to Pyspark for data extraction: Part 1](https://paulcorcoran.medium.com/create-a-linux-machine-and-connect-via-hadoop-to-pyspark-for-data-extraction-part-1-75e0e1240df4?source=rss------hadoop-5)
 - [HDFS — The Storage Unit of Hadoop](https://medium.com/@prikshitsingla78/hdfs-the-storage-unit-of-hadoop-612494d1de01?source=rss------hadoop-5)
 - [First time setting up HIVE on a Hadoop edge node](https://medium.com/@madtopcoder/first-time-setting-up-hive-on-a-hadoop-edge-node-3d207fff56ac?source=rss------hadoop-5)
-- [Part 4:Apache Hive Basics — How Process Structure Data in Hadoop ?](https://medium.com/@patidar.rahul8392/part-4-apache-hive-basics-how-process-structure-data-in-hadoop-8e69375a29ad?source=rss------hadoop-5)
-- [Part 3:Apache Hive Basics — How To Process Structure Data in Hadoop ?](https://medium.com/@patidar.rahul8392/part-3-apache-hive-basics-how-to-process-structure-data-in-hadoop-1af93a3a51c7?source=rss------hadoop-5)
-- [Part 2 :Apache Hive Basics — How Process Structure Data in Hadoop ?](https://medium.com/@patidar.rahul8392/part-2-apache-hive-basics-how-process-structure-data-in-hadoop-bfad2037ff0d?source=rss------hadoop-5)
-- [Designing nRT Read and write optimized CDC Framework for Hadoop Data Lake — Part 2](https://medium.com/airtelxlabs/designing-nrt-read-and-write-optimized-cdc-framework-for-hadoop-data-lake-part-2-99748f0188cd?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
