@@ -296,6 +296,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Hadoop YARN 이란 무엇인가](https://seoyeonhwng.medium.com/hadoop-yarn-%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-3f209e901b3a?source=rss------hadoop-5)
 - [How to Decommission Hadoop — Datanode : Procedure, Troubleshooting Issues and Resolution](https://blog.clairvoyantsoft.com/how-to-decommission-hadoop-datanode-procedure-troubleshooting-issues-and-resolution-50126a306054?source=rss------hadoop-5)
 - [HDFS Storage Formats — What &amp; When to use?](https://medium.com/@ghoshsiddharth25/hdfs-storage-formats-what-when-to-use-52f150d5de1b?source=rss------hadoop-5)
 - [Hadoop](https://medium.com/@emma.sammuel12/hadoop-c1f138f73465?source=rss------hadoop-5)
@@ -304,7 +305,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Putting Hadoop, Hive, and Spark together for the first time](https://medium.com/@madtopcoder/putting-hadoop-hive-and-spark-together-for-the-first-time-bf44262575bd?source=rss------hadoop-5)
 - [Create a Linux Machine and connect via Hadoop to Pyspark for data extraction: Part 2](https://selectfrom.dev/create-a-linux-machine-and-connect-via-hadoop-to-pyspark-for-data-extraction-part-2-e8198c8ad188?source=rss------hadoop-5)
 - [Create a Linux Machine and connect via Hadoop to Pyspark for data extraction: Part 1](https://selectfrom.dev/create-a-linux-machine-and-connect-via-hadoop-to-pyspark-for-data-extraction-part-1-75e0e1240df4?source=rss------hadoop-5)
-- [HDFS — The Storage Unit of Hadoop](https://medium.com/@prikshitsingla78/hdfs-the-storage-unit-of-hadoop-612494d1de01?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
