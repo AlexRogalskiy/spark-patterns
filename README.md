@@ -296,6 +296,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [eShorts: Avro](https://mohitsh28.medium.com/eshorts-avro-6c21b92b0cbc?source=rss------hadoop-5)
 - [AWS &lpar;Amazon Web Service&rpar; EC2 Makineye Apache Spark Kurulum Aşamaları-TR](https://medium.com/@yildiz.omer.92/aws-amazon-web-service-ec2-makineye-apache-spark-kurulum-a%C5%9Famalar%C4%B1-tr-ba7d3b38b17a?source=rss------hadoop-5)
 - [Improving Apache Spark processing performance when reading small files](https://medium.com/@fmonteiro.alex/improving-apache-spark-processing-performance-when-reading-small-files-dd240ea4be6d?source=rss------hadoop-5)
 - [Harnessing the might of Big Data](https://medium.com/@bjain4590/harnessing-the-might-of-big-data-6a334b21db0c?source=rss------hadoop-5)
@@ -305,7 +306,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [HDFS Storage Formats — What &amp; When to use?](https://medium.com/@ghoshsiddharth25/hdfs-storage-formats-what-when-to-use-52f150d5de1b?source=rss------hadoop-5)
 - [Hadoop](https://medium.com/@emma.sammuel12/hadoop-c1f138f73465?source=rss------hadoop-5)
 - [HADOOP ARCHITECTURE](https://medium.com/@monisha030501/hadoop-architecture-18dab3bcfcc5?source=rss------hadoop-5)
-- [Apache Spark VS Apache Hadoop](https://profvkshrivastava.medium.com/apache-spark-vs-apache-hadoop-49aadd9df9b0?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
