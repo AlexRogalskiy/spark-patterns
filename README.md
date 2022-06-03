@@ -296,6 +296,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [How and Why leaving Hadoop](https://medium.com/@graal4systems/how-and-why-leaving-hadoop-8a7123b9e260?source=rss------hadoop-5)
 - [Introduction to Big Data](https://medium.com/@gauthamreddyk/introduction-to-big-data-bc67d5da72d2?source=rss------hadoop-5)
 - [eShorts: Avro](https://mohitsh28.medium.com/eshorts-avro-6c21b92b0cbc?source=rss------hadoop-5)
 - [AWS &lpar;Amazon Web Service&rpar; EC2 Makineye Apache Spark Kurulum Aşamaları-TR](https://medium.com/@yildiz.omer.92/aws-amazon-web-service-ec2-makineye-apache-spark-kurulum-a%C5%9Famalar%C4%B1-tr-ba7d3b38b17a?source=rss------hadoop-5)
@@ -305,7 +306,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Hadoop YARN 이란 무엇인가](https://seoyeonhwng.medium.com/hadoop-yarn-%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-3f209e901b3a?source=rss------hadoop-5)
 - [How to Decommission Hadoop — Datanode : Procedure, Troubleshooting Issues and Resolution](https://blog.clairvoyantsoft.com/how-to-decommission-hadoop-datanode-procedure-troubleshooting-issues-and-resolution-50126a306054?source=rss------hadoop-5)
 - [HDFS Storage Formats — What &amp; When to use?](https://medium.com/@ghoshsiddharth25/hdfs-storage-formats-what-when-to-use-52f150d5de1b?source=rss------hadoop-5)
-- [Hadoop](https://medium.com/@emma.sammuel12/hadoop-c1f138f73465?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
