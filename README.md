@@ -296,6 +296,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Apache Storm on Kubernetes](https://billtcheng2013.medium.com/apache-storm-on-kubernetes-b0cda6b39546?source=rss------hadoop-5)
+- [Integrating Hadoop , Aws ,Docker, LVM with Python](https://medium.com/@sakshijadhav1317/integrating-hadoop-aws-docker-lvm-with-python-3471043edeb9?source=rss------hadoop-5)
 - [Quick guide to Apache Pig](https://medium.com/@anjali.anjali.gupta932/quick-guide-to-apache-pig-79d5222e55e8?source=rss------hadoop-5)
 - [Big Data Solution with Hadoop, Spark, Jupyter and Docker](https://medium.com/@martinkarlsson.io/big-data-solution-with-hadoop-spark-jupyter-and-docker-6763983ed5d8?source=rss------hadoop-5)
 - [How and Why leaving Hadoop](https://medium.com/@graal4systems/how-and-why-leaving-hadoop-8a7123b9e260?source=rss------hadoop-5)
@@ -304,8 +306,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [AWS &lpar;Amazon Web Service&rpar; EC2 Makineye Apache Spark Kurulum Aşamaları-TR](https://medium.com/@yildiz.omer.92/aws-amazon-web-service-ec2-makineye-apache-spark-kurulum-a%C5%9Famalar%C4%B1-tr-ba7d3b38b17a?source=rss------hadoop-5)
 - [Improving Apache Spark processing performance when reading small files](https://medium.com/@fmonteiro.alex/improving-apache-spark-processing-performance-when-reading-small-files-dd240ea4be6d?source=rss------hadoop-5)
 - [Harnessing the might of Big Data](https://medium.com/@bjain4590/harnessing-the-might-of-big-data-6a334b21db0c?source=rss------hadoop-5)
-- [Проект года-2021: фабрика данных на Arenadata Hadoop в АО «Народный банк Казахстана»](https://medium.com/@bigdataschool/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82-%D0%B3%D0%BE%D0%B4%D0%B0-2021-%D1%84%D0%B0%D0%B1%D1%80%D0%B8%D0%BA%D0%B0-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-%D0%BD%D0%B0-arenadata-hadoop-%D0%B2-%D0%B0%D0%BE-%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9-%D0%B1%D0%B0%D0%BD%D0%BA-%D0%BA%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D0%B0-b1b5b232c647?source=rss------hadoop-5)
-- [Hadoop YARN 이란 무엇인가](https://seoyeonhwng.medium.com/hadoop-yarn-%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-3f209e901b3a?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
