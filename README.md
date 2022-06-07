@@ -296,7 +296,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
-- [Apache Storm on Kubernetes](https://billtcheng2013.medium.com/apache-storm-on-kubernetes-b0cda6b39546?source=rss------hadoop-5)
+- [Apache Storm on Kubernetes](https://blog.devgenius.io/apache-storm-on-kubernetes-b0cda6b39546?source=rss------hadoop-5)
 - [Integrating Hadoop , Aws ,Docker, LVM with Python](https://medium.com/@sakshijadhav1317/integrating-hadoop-aws-docker-lvm-with-python-3471043edeb9?source=rss------hadoop-5)
 - [Quick guide to Apache Pig](https://medium.com/@anjali.anjali.gupta932/quick-guide-to-apache-pig-79d5222e55e8?source=rss------hadoop-5)
 - [Big Data Solution with Hadoop, Spark, Jupyter and Docker](https://medium.com/@martinkarlsson.io/big-data-solution-with-hadoop-spark-jupyter-and-docker-6763983ed5d8?source=rss------hadoop-5)
