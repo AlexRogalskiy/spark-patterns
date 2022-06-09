@@ -296,6 +296,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Attempt to connect to cloudera manager issue resolved.](https://medium.com/@VenkataSuryaPrakash/attempt-to-connect-to-cloudera-manager-issue-resolved-aa0842629724?source=rss------hadoop-5)
 - [Hadoop Ecosystem](https://lorenzo-jack.medium.com/hadoop-ecosystem-a2f3b3dea064?source=rss------hadoop-5)
 - [Apache Storm on Kubernetes](https://blog.devgenius.io/apache-storm-on-kubernetes-b0cda6b39546?source=rss------hadoop-5)
 - [Integrating Hadoop , Aws ,Docker, LVM with Python](https://medium.com/@sakshijadhav1317/integrating-hadoop-aws-docker-lvm-with-python-3471043edeb9?source=rss------hadoop-5)
@@ -305,7 +306,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Introduction to Big Data](https://medium.com/@gauthamreddyk/introduction-to-big-data-bc67d5da72d2?source=rss------hadoop-5)
 - [eShorts: Avro](https://mohitsh28.medium.com/eshorts-avro-6c21b92b0cbc?source=rss------hadoop-5)
 - [AWS &lpar;Amazon Web Service&rpar; EC2 Makineye Apache Spark Kurulum Aşamaları-TR](https://medium.com/@yildiz.omer.92/aws-amazon-web-service-ec2-makineye-apache-spark-kurulum-a%C5%9Famalar%C4%B1-tr-ba7d3b38b17a?source=rss------hadoop-5)
-- [Improving Apache Spark processing performance when reading small files](https://medium.com/@fmonteiro.alex/improving-apache-spark-processing-performance-when-reading-small-files-dd240ea4be6d?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
