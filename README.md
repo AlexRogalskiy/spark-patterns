@@ -296,6 +296,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [EMR Serverless — Review](https://medium.com/@bernardo.costa/emr-serverless-review-51b659f2ca54?source=rss------hadoop-5)
 - [Attempt to connect to cloudera manager issue resolved.](https://medium.com/@VenkataSuryaPrakash/attempt-to-connect-to-cloudera-manager-issue-resolved-aa0842629724?source=rss------hadoop-5)
 - [Hadoop Ecosystem](https://lorenzo-jack.medium.com/hadoop-ecosystem-a2f3b3dea064?source=rss------hadoop-5)
 - [Apache Storm on Kubernetes](https://blog.devgenius.io/apache-storm-on-kubernetes-b0cda6b39546?source=rss------hadoop-5)
@@ -304,8 +305,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Big Data Solution with Hadoop, Spark, Jupyter and Docker](https://medium.com/@martinkarlsson.io/big-data-solution-with-hadoop-spark-jupyter-and-docker-6763983ed5d8?source=rss------hadoop-5)
 - [How and Why leaving Hadoop](https://medium.com/@graal4systems/how-and-why-leaving-hadoop-8a7123b9e260?source=rss------hadoop-5)
 - [Introduction to Big Data](https://medium.com/@gauthamreddyk/introduction-to-big-data-bc67d5da72d2?source=rss------hadoop-5)
-- [eShorts: Avro](https://mohitsh28.medium.com/eshorts-avro-6c21b92b0cbc?source=rss------hadoop-5)
-- [AWS &lpar;Amazon Web Service&rpar; EC2 Makineye Apache Spark Kurulum Aşamaları-TR](https://medium.com/@yildiz.omer.92/aws-amazon-web-service-ec2-makineye-apache-spark-kurulum-a%C5%9Famalar%C4%B1-tr-ba7d3b38b17a?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
