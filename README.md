@@ -296,6 +296,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Everything you need to know about Hadoop](https://medium.com/@johnanderson07/everything-you-need-to-know-about-hadoop-f1c67af3b840?source=rss------hadoop-5)
 - [EMR Serverless — Review](https://medium.com/@bernardo.costa/emr-serverless-review-51b659f2ca54?source=rss------hadoop-5)
 - [Attempt to connect to cloudera manager issue resolved.](https://medium.com/@VenkataSuryaPrakash/attempt-to-connect-to-cloudera-manager-issue-resolved-aa0842629724?source=rss------hadoop-5)
 - [Hadoop Ecosystem](https://lorenzo-jack.medium.com/hadoop-ecosystem-a2f3b3dea064?source=rss------hadoop-5)
@@ -304,7 +305,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Quick guide to Apache Pig](https://medium.com/@anjali.anjali.gupta932/quick-guide-to-apache-pig-79d5222e55e8?source=rss------hadoop-5)
 - [Big Data Solution with Hadoop, Spark, Jupyter and Docker](https://medium.com/@martinkarlsson.io/big-data-solution-with-hadoop-spark-jupyter-and-docker-6763983ed5d8?source=rss------hadoop-5)
 - [How and Why leaving Hadoop](https://medium.com/@graal4systems/how-and-why-leaving-hadoop-8a7123b9e260?source=rss------hadoop-5)
-- [Introduction to Big Data](https://medium.com/@gauthamreddyk/introduction-to-big-data-bc67d5da72d2?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
