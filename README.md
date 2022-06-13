@@ -296,6 +296,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Integrating LVM with Hadoop and providing Elasticity to Data Node](https://medium.com/@sakshijadhav1317/integrating-lvm-with-hadoop-and-providing-elasticity-to-data-node-bff4cd9659cd?source=rss------hadoop-5)
+- [7 Best online courses for learning Hadoop &amp; Big Data!](https://medium.com/@chetandekate.ai/7-best-online-courses-for-learning-hadoop-big-data-8bae579a6f74?source=rss------hadoop-5)
 - [Everything you need to know about Hadoop](https://medium.com/@johnanderson07/everything-you-need-to-know-about-hadoop-f1c67af3b840?source=rss------hadoop-5)
 - [EMR Serverless — Review](https://medium.com/@bernardo.costa/emr-serverless-review-51b659f2ca54?source=rss------hadoop-5)
 - [Attempt to connect to cloudera manager issue resolved.](https://medium.com/@VenkataSuryaPrakash/attempt-to-connect-to-cloudera-manager-issue-resolved-aa0842629724?source=rss------hadoop-5)
@@ -303,8 +305,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Apache Storm on Kubernetes](https://blog.devgenius.io/apache-storm-on-kubernetes-b0cda6b39546?source=rss------hadoop-5)
 - [Integrating Hadoop , Aws ,Docker, LVM with Python](https://medium.com/@sakshijadhav1317/integrating-hadoop-aws-docker-lvm-with-python-3471043edeb9?source=rss------hadoop-5)
 - [Quick guide to Apache Pig](https://medium.com/@anjali.anjali.gupta932/quick-guide-to-apache-pig-79d5222e55e8?source=rss------hadoop-5)
-- [Big Data Solution with Hadoop, Spark, Jupyter and Docker](https://medium.com/@martinkarlsson.io/big-data-solution-with-hadoop-spark-jupyter-and-docker-6763983ed5d8?source=rss------hadoop-5)
-- [How and Why leaving Hadoop](https://medium.com/@graal4systems/how-and-why-leaving-hadoop-8a7123b9e260?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
