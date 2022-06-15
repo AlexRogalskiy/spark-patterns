@@ -296,15 +296,15 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Speed Kills With Apache Spark](https://medium.com/@mychaljdubyk/speed-kills-with-apache-spark-d2c2f6ab806e?source=rss------hadoop-5)
 - [Integrating LVM with Hadoop and providing Elasticity to Data Node](https://medium.com/@sakshijadhav1317/integrating-lvm-with-hadoop-and-providing-elasticity-to-data-node-bff4cd9659cd?source=rss------hadoop-5)
 - [7 Best online courses for learning Hadoop &amp; Big Data!](https://medium.com/@chetandekate.ai/7-best-online-courses-for-learning-hadoop-big-data-8bae579a6f74?source=rss------hadoop-5)
-- [Everything you need to know about Hadoop](https://medium.com/@johnanderson07/everything-you-need-to-know-about-hadoop-f1c67af3b840?source=rss------hadoop-5)
+- [Data Engineering 101 — Hadoop the Big Data Framework](https://medium.com/@chetandekate/everything-you-need-to-know-about-hadoop-f1c67af3b840?source=rss------hadoop-5)
 - [EMR Serverless — Review](https://medium.com/@bernardo.costa/emr-serverless-review-51b659f2ca54?source=rss------hadoop-5)
 - [Attempt to connect to cloudera manager issue resolved.](https://medium.com/@VenkataSuryaPrakash/attempt-to-connect-to-cloudera-manager-issue-resolved-aa0842629724?source=rss------hadoop-5)
 - [Hadoop Ecosystem](https://lorenzo-jack.medium.com/hadoop-ecosystem-a2f3b3dea064?source=rss------hadoop-5)
 - [Apache Storm on Kubernetes](https://blog.devgenius.io/apache-storm-on-kubernetes-b0cda6b39546?source=rss------hadoop-5)
 - [Integrating Hadoop , Aws ,Docker, LVM with Python](https://medium.com/@sakshijadhav1317/integrating-hadoop-aws-docker-lvm-with-python-3471043edeb9?source=rss------hadoop-5)
-- [Quick guide to Apache Pig](https://medium.com/@anjali.anjali.gupta932/quick-guide-to-apache-pig-79d5222e55e8?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
