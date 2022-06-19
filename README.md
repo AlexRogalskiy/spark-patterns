@@ -296,6 +296,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Hadoop Developer Training in Noida](https://medium.com/@convergentinstitute/hadoop-developer-training-in-noida-9f3a712c4527?source=rss------hadoop-5)
+- [Hadoop Admin learning in NOIDA.](https://medium.com/@convergentinstitute/hadoop-admin-learning-in-noida-b19a476d83e5?source=rss------hadoop-5)
 - [A brief overview of Apache Hadoop](https://medium.com/@manu.mtitsr/a-brief-overview-of-apache-hadoop-9f3ef5123b33?source=rss------hadoop-5)
 - [How can Hadoop be used in data science?](https://medium.com/@ashish.kumar_73620/how-can-hadoop-be-used-in-data-science-80de0cd099f1?source=rss------hadoop-5)
 - [Named Entity Word Count using pySpark](https://medium.com/@nandangonchikarpic/named-entity-word-count-using-pyspark-2336e4bfe88e?source=rss------hadoop-5)
@@ -303,8 +305,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [How Agoda builds efficient Data Warehouse with Vertica](https://medium.com/agoda-engineering/how-agoda-builds-efficient-data-warehouse-with-vertica-f14be51b00fc?source=rss------hadoop-5)
 - [Speed Kills With Apache Spark](https://medium.com/@mychaljdubyk/speed-kills-with-apache-spark-d2c2f6ab806e?source=rss------hadoop-5)
 - [Integrating LVM with Hadoop and providing Elasticity to Data Node](https://medium.com/@sakshijadhav1317/integrating-lvm-with-hadoop-and-providing-elasticity-to-data-node-bff4cd9659cd?source=rss------hadoop-5)
-- [7 Best online courses for learning Hadoop &amp; Big Data!](https://medium.com/@chetandekate.ai/7-best-online-courses-for-learning-hadoop-big-data-8bae579a6f74?source=rss------hadoop-5)
-- [Data Engineering 101 — Hadoop the Big Data Framework](https://medium.com/@chetandekate/everything-you-need-to-know-about-hadoop-f1c67af3b840?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
