@@ -296,6 +296,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Convert Parquet Files to CSV using Python!](https://medium.com/@mansoorsyed05/convert-parquet-files-to-csv-using-python-5fb98d76b680?source=rss------hadoop-5)
 - [Hadoop Developer Training in Noida](https://medium.com/@convergentinstitute/hadoop-developer-training-in-noida-9f3a712c4527?source=rss------hadoop-5)
 - [Hadoop Admin learning in NOIDA.](https://medium.com/@convergentinstitute/hadoop-admin-learning-in-noida-b19a476d83e5?source=rss------hadoop-5)
 - [A brief overview of Apache Hadoop](https://medium.com/@manu.mtitsr/a-brief-overview-of-apache-hadoop-9f3ef5123b33?source=rss------hadoop-5)
@@ -304,7 +305,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [What is Hadoop? Top Hadoop Interview Questions and answers 2022](https://medium.com/@the_iot_academy/hadoop-is-a-free-and-open-source-java-based-platform-for-storing-and-processing-large-amounts-of-b65c75197c6b?source=rss------hadoop-5)
 - [How Agoda builds efficient Data Warehouse with Vertica](https://medium.com/agoda-engineering/how-agoda-builds-efficient-data-warehouse-with-vertica-f14be51b00fc?source=rss------hadoop-5)
 - [Speed Kills With Apache Spark](https://medium.com/@mychaljdubyk/speed-kills-with-apache-spark-d2c2f6ab806e?source=rss------hadoop-5)
-- [Integrating LVM with Hadoop and providing Elasticity to Data Node](https://medium.com/@sakshijadhav1317/integrating-lvm-with-hadoop-and-providing-elasticity-to-data-node-bff4cd9659cd?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
