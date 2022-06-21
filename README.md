@@ -296,6 +296,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [How big MNC’s stores, manages and manipulate Thousands of Terabytes of data with High Speed and…](https://medium.com/@adarsh_vyas/how-big-mncs-stores-manages-and-manipulate-thousands-of-terabytes-of-data-with-high-speed-and-e32629e51a4?source=rss------hadoop-5)
 - [Convert Parquet Files to CSV using Python!](https://medium.com/@mansoorsyed05/convert-parquet-files-to-csv-using-python-5fb98d76b680?source=rss------hadoop-5)
 - [Hadoop Developer Training in Noida](https://medium.com/@convergentinstitute/hadoop-developer-training-in-noida-9f3a712c4527?source=rss------hadoop-5)
 - [Hadoop Admin learning in NOIDA.](https://medium.com/@convergentinstitute/hadoop-admin-learning-in-noida-b19a476d83e5?source=rss------hadoop-5)
@@ -304,7 +305,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Named Entity Word Count using pySpark](https://medium.com/@nandangonchikarpic/named-entity-word-count-using-pyspark-2336e4bfe88e?source=rss------hadoop-5)
 - [What is Hadoop? Top Hadoop Interview Questions and answers 2022](https://medium.com/@the_iot_academy/hadoop-is-a-free-and-open-source-java-based-platform-for-storing-and-processing-large-amounts-of-b65c75197c6b?source=rss------hadoop-5)
 - [How Agoda builds efficient Data Warehouse with Vertica](https://medium.com/agoda-engineering/how-agoda-builds-efficient-data-warehouse-with-vertica-f14be51b00fc?source=rss------hadoop-5)
-- [Speed Kills With Apache Spark](https://medium.com/@mychaljdubyk/speed-kills-with-apache-spark-d2c2f6ab806e?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
