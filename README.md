@@ -296,6 +296,9 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Hadoop Architecture 1.X](https://medium.com/@sivayuvi79/hadoop-architecture-1-x-bca5e2f5dac1?source=rss------hadoop-5)
+- [Spark Architecture &lpar;The functioning of spark&rpar;](https://ayushsingh12march.medium.com/spark-architecture-the-functioning-of-spark-507555e5c917?source=rss------hadoop-5)
+- [Big Data Engineer Career Path](https://medium.com/@sivayuvi79/big-data-engineer-career-path-965b7c400082?source=rss------hadoop-5)
 - [How big MNC’s stores, manages and manipulate Thousands of Terabytes of data with High Speed and…](https://medium.com/@adarsh_vyas/how-big-mncs-stores-manages-and-manipulate-thousands-of-terabytes-of-data-with-high-speed-and-e32629e51a4?source=rss------hadoop-5)
 - [Convert Parquet Files to CSV using Python!](https://medium.com/@mansoorsyed05/convert-parquet-files-to-csv-using-python-5fb98d76b680?source=rss------hadoop-5)
 - [Hadoop Developer Training in Noida](https://medium.com/@convergentinstitute/hadoop-developer-training-in-noida-9f3a712c4527?source=rss------hadoop-5)
@@ -303,8 +306,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [A brief overview of Apache Hadoop](https://medium.com/@manu.mtitsr/a-brief-overview-of-apache-hadoop-9f3ef5123b33?source=rss------hadoop-5)
 - [How can Hadoop be used in data science?](https://medium.com/@ashish.kumar_73620/how-can-hadoop-be-used-in-data-science-80de0cd099f1?source=rss------hadoop-5)
 - [Named Entity Word Count using pySpark](https://medium.com/@nandangonchikarpic/named-entity-word-count-using-pyspark-2336e4bfe88e?source=rss------hadoop-5)
-- [What is Hadoop? Top Hadoop Interview Questions and answers 2022](https://medium.com/@the_iot_academy/hadoop-is-a-free-and-open-source-java-based-platform-for-storing-and-processing-large-amounts-of-b65c75197c6b?source=rss------hadoop-5)
-- [How Agoda builds efficient Data Warehouse with Vertica](https://medium.com/agoda-engineering/how-agoda-builds-efficient-data-warehouse-with-vertica-f14be51b00fc?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
