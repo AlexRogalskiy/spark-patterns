@@ -296,6 +296,9 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [How to compare Hadoop XML configs](https://medium.com/@atige.mihan/how-to-compare-hadoop-xml-configs-3367e04a8b66?source=rss------hadoop-5)
+- [HDP Certified Administrator &lpar;HDPCA&rpar; Series || # 1 Adding a new node to cluster](https://medium.com/@mudassar_lhr/hdp-certified-administrator-hdpca-series-1-adding-a-new-node-to-cluster-6a464782191e?source=rss------hadoop-5)
+- [Бессерверный Apache Spark в Google Dataproc](https://medium.com/@bigdataschool/%D0%B1%D0%B5%D1%81%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%BD%D1%8B%D0%B9-apache-spark-%D0%B2-google-dataproc-a00ac655582b?source=rss------hadoop-5)
 - [Hadoop Architecture 1.X](https://medium.com/@sivayuvi79/hadoop-architecture-1-x-bca5e2f5dac1?source=rss------hadoop-5)
 - [Spark Architecture &lpar;The functioning of spark&rpar;](https://ayushsingh12march.medium.com/spark-architecture-the-functioning-of-spark-507555e5c917?source=rss------hadoop-5)
 - [Big Data Engineer Career Path](https://medium.com/@sivayuvi79/big-data-engineer-career-path-965b7c400082?source=rss------hadoop-5)
@@ -303,9 +306,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Convert Parquet Files to CSV using Python!](https://medium.com/@mansoorsyed05/convert-parquet-files-to-csv-using-python-5fb98d76b680?source=rss------hadoop-5)
 - [Hadoop Developer Training in Noida](https://medium.com/@convergentinstitute/hadoop-developer-training-in-noida-9f3a712c4527?source=rss------hadoop-5)
 - [Hadoop Admin learning in NOIDA.](https://medium.com/@convergentinstitute/hadoop-admin-learning-in-noida-b19a476d83e5?source=rss------hadoop-5)
-- [A brief overview of Apache Hadoop](https://medium.com/@manu.mtitsr/a-brief-overview-of-apache-hadoop-9f3ef5123b33?source=rss------hadoop-5)
-- [How can Hadoop be used in data science?](https://medium.com/@ashish.kumar_73620/how-can-hadoop-be-used-in-data-science-80de0cd099f1?source=rss------hadoop-5)
-- [Named Entity Word Count using pySpark](https://medium.com/@nandangonchikarpic/named-entity-word-count-using-pyspark-2336e4bfe88e?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
