@@ -312,7 +312,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 
 <!-- INFOWORLD-HADOOP-POST-LIST:START -->
 - [Why you should use Presto for ad hoc analytics](https://www.infoworld.com/article/3573576/why-you-should-use-presto-for-ad-hoc-analytics.html#tk.rss_hadoop)
-- [Rakuten frees itself of Hadoop investment in two years](https://www.infoworld.com/article/3563828/rakuten-frees-itself-of-hadoop-investment-in-two-years.html#tk.rss_hadoop)
 <!-- INFOWORLD-HADOOP-POST-LIST:END -->
 
 ### *Hadoop in real world posts*
