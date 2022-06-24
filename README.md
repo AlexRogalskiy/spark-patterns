@@ -296,16 +296,16 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Hadoop Big Data Performance Management](https://acceldataio.medium.com/hadoop-big-data-performance-management-92ad02715881?source=rss------hadoop-5)
+- [Provisioning Specific Storage to Slave Node in Cluster](https://medium.com/@adarsh_vyas/provisioning-specific-storage-to-slave-node-in-cluster-f1fefa3d65a5?source=rss------hadoop-5)
+- [Parallelism &amp; Velocity problem in a Hadoop](https://medium.com/@adarsh_vyas/parallelism-velocity-problem-in-a-hadoop-dd48616922b2?source=rss------hadoop-5)
+- [Из AWS S3 в Hadoop HDFS: мини-конвейер из процессоров Apache NiFi](https://medium.com/@bigdataschool/%D0%B8%D0%B7-aws-s3-%D0%B2-hadoop-hdfs-%D0%BC%D0%B8%D0%BD%D0%B8-%D0%BA%D0%BE%D0%BD%D0%B2%D0%B5%D0%B9%D0%B5%D1%80-%D0%B8%D0%B7-%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%BE%D0%B2-apache-nifi-9760434e3d38?source=rss------hadoop-5)
 - [How to compare Hadoop XML configs](https://medium.com/@atige.mihan/how-to-compare-hadoop-xml-configs-3367e04a8b66?source=rss------hadoop-5)
 - [HDP Certified Administrator &lpar;HDPCA&rpar; Series || # 1 Adding a new node to cluster](https://medium.com/@mudassar_lhr/hdp-certified-administrator-hdpca-series-1-adding-a-new-node-to-cluster-6a464782191e?source=rss------hadoop-5)
 - [Бессерверный Apache Spark в Google Dataproc](https://medium.com/@bigdataschool/%D0%B1%D0%B5%D1%81%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%BD%D1%8B%D0%B9-apache-spark-%D0%B2-google-dataproc-a00ac655582b?source=rss------hadoop-5)
 - [Hadoop Architecture 1.X](https://medium.com/@sivayuvi79/hadoop-architecture-1-x-bca5e2f5dac1?source=rss------hadoop-5)
 - [Spark Architecture &lpar;The functioning of spark&rpar;](https://ayushsingh12march.medium.com/spark-architecture-the-functioning-of-spark-507555e5c917?source=rss------hadoop-5)
 - [Big Data Engineer Career Path](https://medium.com/@sivayuvi79/big-data-engineer-career-path-965b7c400082?source=rss------hadoop-5)
-- [How big MNC’s stores, manages and manipulate Thousands of Terabytes of data with High Speed and…](https://medium.com/@adarsh_vyas/how-big-mncs-stores-manages-and-manipulate-thousands-of-terabytes-of-data-with-high-speed-and-e32629e51a4?source=rss------hadoop-5)
-- [Convert Parquet Files to CSV using Python!](https://medium.com/@mansoorsyed05/convert-parquet-files-to-csv-using-python-5fb98d76b680?source=rss------hadoop-5)
-- [Hadoop Developer Training in Noida](https://medium.com/@convergentinstitute/hadoop-developer-training-in-noida-9f3a712c4527?source=rss------hadoop-5)
-- [Hadoop Admin learning in NOIDA.](https://medium.com/@convergentinstitute/hadoop-admin-learning-in-noida-b19a476d83e5?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
