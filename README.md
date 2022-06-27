@@ -296,6 +296,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Ansible Playbook to configure Hadoop and Start Cluster](https://medium.com/@adarsh_vyas/ansible-playbook-to-configure-hadoop-and-start-cluster-e0c41430503d?source=rss------hadoop-5)
 - [От Derby к Hive: хранилище метаданных для Apache Spark](https://medium.com/@bigdataschool/%D0%BE%D1%82-derby-%D0%BA-hive-%D1%85%D1%80%D0%B0%D0%BD%D0%B8%D0%BB%D0%B8%D1%89%D0%B5-%D0%BC%D0%B5%D1%82%D0%B0%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-%D0%B4%D0%BB%D1%8F-apache-spark-b5277b8e4bf6?source=rss------hadoop-5)
 - [Hadoop Big Data Performance Management](https://acceldataio.medium.com/hadoop-big-data-performance-management-92ad02715881?source=rss------hadoop-5)
 - [Provisioning Specific Storage to Slave Node in Cluster](https://medium.com/@adarsh_vyas/provisioning-specific-storage-to-slave-node-in-cluster-f1fefa3d65a5?source=rss------hadoop-5)
@@ -305,7 +306,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [HDP Certified Administrator &lpar;HDPCA&rpar; Series || # 1 Adding a new node to cluster](https://medium.com/@mudassar_lhr/hdp-certified-administrator-hdpca-series-1-adding-a-new-node-to-cluster-6a464782191e?source=rss------hadoop-5)
 - [Бессерверный Apache Spark в Google Dataproc](https://medium.com/@bigdataschool/%D0%B1%D0%B5%D1%81%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%BD%D1%8B%D0%B9-apache-spark-%D0%B2-google-dataproc-a00ac655582b?source=rss------hadoop-5)
 - [Hadoop Architecture 1.X](https://medium.com/@sivayuvi79/hadoop-architecture-1-x-bca5e2f5dac1?source=rss------hadoop-5)
-- [Spark Architecture &lpar;The functioning of spark&rpar;](https://ayushsingh12march.medium.com/spark-architecture-the-functioning-of-spark-507555e5c917?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
