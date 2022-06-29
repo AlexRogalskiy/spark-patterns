@@ -298,16 +298,16 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Spark vs Hive — Qual é a diferença](https://rodneyneville.medium.com/spark-vs-hive-qual-%C3%A9-a-diferen%C3%A7a-e4d65e88befe?source=rss------hadoop-5)
+- [Update your Hadoop &lpar;Big Data on-premise&rpar; to Cloud](https://royalcyberinc.medium.com/update-your-hadoop-big-data-on-premise-to-cloud-34bafbcd058f?source=rss------hadoop-5)
+- [#61 Big data technology&lpar;part 1&rpar;: The very basics of Hadoop](https://hangmortimer.medium.com/61-big-data-technology-part-1-the-very-basics-of-hadoop-461ea58c2d0f?source=rss------hadoop-5)
+- [Tell me about #Hadoop!!](https://medium.com/@badwaik.ojas/tell-me-about-hadoop-e3a9200a299e?source=rss------hadoop-5)
 - [MapReduce Architecture &amp; components in Hadoop — Explained](https://medium.com/@chetandekate.ai/mapreduce-architecture-components-in-hadoop-explained-234f95382198?source=rss------hadoop-5)
 - [Как связать Greenplum и Hadoop: интеграция c PXF](https://medium.com/@bigdataschool/%D0%BA%D0%B0%D0%BA-%D1%81%D0%B2%D1%8F%D0%B7%D0%B0%D1%82%D1%8C-greenplum-%D0%B8-hadoop-%D0%B8%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D1%86%D0%B8%D1%8F-c-pxf-b3f4cff875d8?source=rss------hadoop-5)
 - [Ansible Playbook to configure Hadoop and Start Cluster](https://medium.com/@adarsh_vyas/ansible-playbook-to-configure-hadoop-and-start-cluster-e0c41430503d?source=rss------hadoop-5)
 - [От Derby к Hive: хранилище метаданных для Apache Spark](https://medium.com/@bigdataschool/%D0%BE%D1%82-derby-%D0%BA-hive-%D1%85%D1%80%D0%B0%D0%BD%D0%B8%D0%BB%D0%B8%D1%89%D0%B5-%D0%BC%D0%B5%D1%82%D0%B0%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-%D0%B4%D0%BB%D1%8F-apache-spark-b5277b8e4bf6?source=rss------hadoop-5)
 - [Hadoop Big Data Performance Management](https://acceldataio.medium.com/hadoop-big-data-performance-management-92ad02715881?source=rss------hadoop-5)
 - [Integration of LVM with Hadoop to provide elasticity to DataNode Storage](https://medium.com/@adarsh_vyas/provisioning-specific-storage-to-slave-node-in-cluster-f1fefa3d65a5?source=rss------hadoop-5)
-- [Parallelism &amp; Velocity problem in a Hadoop](https://medium.com/@adarsh_vyas/parallelism-velocity-problem-in-a-hadoop-dd48616922b2?source=rss------hadoop-5)
-- [Из AWS S3 в Hadoop HDFS: мини-конвейер из процессоров Apache NiFi](https://medium.com/@bigdataschool/%D0%B8%D0%B7-aws-s3-%D0%B2-hadoop-hdfs-%D0%BC%D0%B8%D0%BD%D0%B8-%D0%BA%D0%BE%D0%BD%D0%B2%D0%B5%D0%B9%D0%B5%D1%80-%D0%B8%D0%B7-%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%BE%D0%B2-apache-nifi-9760434e3d38?source=rss------hadoop-5)
-- [How to compare Hadoop XML configs](https://medium.com/@atige.mihan/how-to-compare-hadoop-xml-configs-3367e04a8b66?source=rss------hadoop-5)
-- [HDP Certified Administrator &lpar;HDPCA&rpar; Series || # 1 Adding a new node to cluster](https://medium.com/@mudassar_lhr/hdp-certified-administrator-hdpca-series-1-adding-a-new-node-to-cluster-6a464782191e?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
