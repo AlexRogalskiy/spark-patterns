@@ -298,6 +298,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Migrating Spark Jobs to Google Cloud &amp; File event sensor to Dynamically Create Spark Cluster…](https://medium.com/swlh/migrating-spark-jobs-to-google-cloud-file-event-sensor-to-dynamically-create-spark-cluster-7eff2c75423d?source=rss------hadoop-5)
 - [Oracle Big Data Service](https://medium.com/@majss/oracle-big-data-service-29e429d6f319?source=rss------hadoop-5)
 - [Hive Query Optimization on an Amazon Dataset](https://medium.com/@sabadejuyee21/hive-query-optimization-on-an-amazon-dataset-2e36fd5f0d8a?source=rss------hadoop-5)
 - [#MapReduce... What !?!?](https://medium.com/@badwaik.ojas/mapreduce-what-9182d6f9c445?source=rss------hadoop-5)
@@ -307,7 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [#61 Big data technology&lpar;part 1&rpar;: The very basics of Hadoop](https://hangmortimer.medium.com/61-big-data-technology-part-1-the-very-basics-of-hadoop-461ea58c2d0f?source=rss------hadoop-5)
 - [Tell me about #Hadoop!!](https://medium.com/@badwaik.ojas/tell-me-about-hadoop-e3a9200a299e?source=rss------hadoop-5)
 - [MapReduce Architecture &amp; components in Hadoop — Explained](https://medium.com/@chetandekate.ai/mapreduce-architecture-components-in-hadoop-explained-234f95382198?source=rss------hadoop-5)
-- [Как связать Greenplum и Hadoop: интеграция c PXF](https://medium.com/@bigdataschool/%D0%BA%D0%B0%D0%BA-%D1%81%D0%B2%D1%8F%D0%B7%D0%B0%D1%82%D1%8C-greenplum-%D0%B8-hadoop-%D0%B8%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D1%86%D0%B8%D1%8F-c-pxf-b3f4cff875d8?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
