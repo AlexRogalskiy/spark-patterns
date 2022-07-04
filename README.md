@@ -298,6 +298,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [One more filesystem… HDFS!!!](https://medium.com/@badwaik.ojas/one-more-filesystem-hdfs-f8cf1b85015e?source=rss------hadoop-5)
+- [Boss! We have a large number of small files. Now, how to process these files?](https://sidk17.medium.com/boss-we-have-a-large-number-of-small-files-now-how-to-process-these-files-ee27f67dc461?source=rss------hadoop-5)
 - [Test Driven Development of Apache Spark applications](https://eugene-lopatkin.medium.com/test-driven-development-of-apache-spark-applications-93eec83a6443?source=rss------hadoop-5)
 - [Migrating Spark Jobs to Google Cloud &amp; File event sensor to Dynamically Create Spark Cluster…](https://medium.com/swlh/migrating-spark-jobs-to-google-cloud-file-event-sensor-to-dynamically-create-spark-cluster-7eff2c75423d?source=rss------hadoop-5)
 - [Oracle Big Data Service](https://medium.com/@majss/oracle-big-data-service-29e429d6f319?source=rss------hadoop-5)
@@ -306,8 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [#62 Big data technology &lpar;part 2&rpar;: Hadoop architecture, HDFS, YARN, Map Reduce, Hive &amp; HBase](https://hangmortimer.medium.com/62-big-data-technology-part-2-hadoop-architecture-hdfs-yarn-map-reduce-hive-hbase-d57fdb5927c9?source=rss------hadoop-5)
 - [Spark vs Hive — Qual é a diferença](https://rodneyneville.medium.com/spark-vs-hive-qual-%C3%A9-a-diferen%C3%A7a-e4d65e88befe?source=rss------hadoop-5)
 - [Update your Hadoop &lpar;Big Data on-premise&rpar; to Cloud](https://royalcyberinc.medium.com/update-your-hadoop-big-data-on-premise-to-cloud-34bafbcd058f?source=rss------hadoop-5)
-- [#61 Big data technology&lpar;part 1&rpar;: The very basics of Hadoop](https://hangmortimer.medium.com/61-big-data-technology-part-1-the-very-basics-of-hadoop-461ea58c2d0f?source=rss------hadoop-5)
-- [Tell me about #Hadoop!!](https://medium.com/@badwaik.ojas/tell-me-about-hadoop-e3a9200a299e?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
