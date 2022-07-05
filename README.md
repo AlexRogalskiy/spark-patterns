@@ -298,6 +298,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [INSTALL HADOOP ON MACOS &lpar;M1, M2&rpar;](https://codewitharjun.medium.com/install-hadoop-on-macos-m1-m2-6f6a01820cc9?source=rss------hadoop-5)
 - [One more filesystem… HDFS!!!](https://medium.com/@badwaik.ojas/one-more-filesystem-hdfs-f8cf1b85015e?source=rss------hadoop-5)
 - [Boss! We have a large number of small files. Now, how to process these files?](https://sidk17.medium.com/boss-we-have-a-large-number-of-small-files-now-how-to-process-these-files-ee27f67dc461?source=rss------hadoop-5)
 - [Test Driven Development of Apache Spark applications](https://eugene-lopatkin.medium.com/test-driven-development-of-apache-spark-applications-93eec83a6443?source=rss------hadoop-5)
@@ -307,7 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [#MapReduce... What !?!?](https://medium.com/@badwaik.ojas/mapreduce-what-9182d6f9c445?source=rss------hadoop-5)
 - [#62 Big data technology &lpar;part 2&rpar;: Hadoop architecture, HDFS, YARN, Map Reduce, Hive &amp; HBase](https://hangmortimer.medium.com/62-big-data-technology-part-2-hadoop-architecture-hdfs-yarn-map-reduce-hive-hbase-d57fdb5927c9?source=rss------hadoop-5)
 - [Spark vs Hive — Qual é a diferença](https://rodneyneville.medium.com/spark-vs-hive-qual-%C3%A9-a-diferen%C3%A7a-e4d65e88befe?source=rss------hadoop-5)
-- [Update your Hadoop &lpar;Big Data on-premise&rpar; to Cloud](https://royalcyberinc.medium.com/update-your-hadoop-big-data-on-premise-to-cloud-34bafbcd058f?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
