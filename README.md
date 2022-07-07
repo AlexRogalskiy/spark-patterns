@@ -298,16 +298,16 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [CDP Upgrade: CM 7.1.4 to 7.4.4 and Cloudera Runtime 7.1.4 to 7.1.7](https://blog.clairvoyantsoft.com/cdp-upgrade-cm-7-1-4-to-7-4-4-and-cloudera-runtime-7-1-4-to-7-1-7-242177a87fe4?source=rss------hadoop-5)
+- [Hadoop&lpar;Pig&rpar;](https://hasangozcu.medium.com/hadoop-pig-9eadf799af6a?source=rss------hadoop-5)
+- [Hadoop&lpar;MapReduce&rpar;](https://hasangozcu.medium.com/hadoop-mapreduce-2f7e097b85ee?source=rss------hadoop-5)
+- [Hadoop&lpar;HDFS&rpar;](https://hasangozcu.medium.com/hadoop-hdfs-bf8e926f3e4c?source=rss------hadoop-5)
+- [Hadoop 3.0 New Features](https://medium.com/@suvankar.dey80/hadoop-3-0-new-features-5b3613c451d5?source=rss------hadoop-5)
 - [INSTALL HADOOP ON MACOS &lpar;M1, M2&rpar;](https://codewitharjun.medium.com/install-hadoop-on-macos-m1-m2-6f6a01820cc9?source=rss------hadoop-5)
 - [One more filesystem… HDFS!!!](https://medium.com/@badwaik.ojas/one-more-filesystem-hdfs-f8cf1b85015e?source=rss------hadoop-5)
 - [Boss! We have a large number of small files. Now, how to process these files?](https://sidk17.medium.com/boss-we-have-a-large-number-of-small-files-now-how-to-process-these-files-ee27f67dc461?source=rss------hadoop-5)
 - [Test Driven Development of Apache Spark applications](https://eugene-lopatkin.medium.com/test-driven-development-of-apache-spark-applications-93eec83a6443?source=rss------hadoop-5)
 - [Migrating Spark Jobs to Google Cloud &amp; File event sensor to Dynamically Create Spark Cluster…](https://medium.com/swlh/migrating-spark-jobs-to-google-cloud-file-event-sensor-to-dynamically-create-spark-cluster-7eff2c75423d?source=rss------hadoop-5)
-- [Oracle Big Data Service](https://medium.com/@majss/oracle-big-data-service-29e429d6f319?source=rss------hadoop-5)
-- [Hive Query Optimization on an Amazon Dataset](https://medium.com/@sabadejuyee21/hive-query-optimization-on-an-amazon-dataset-2e36fd5f0d8a?source=rss------hadoop-5)
-- [#MapReduce... What !?!?](https://medium.com/@badwaik.ojas/mapreduce-what-9182d6f9c445?source=rss------hadoop-5)
-- [#62 Big data technology &lpar;part 2&rpar;: Hadoop architecture, HDFS, YARN, Map Reduce, Hive &amp; HBase](https://hangmortimer.medium.com/62-big-data-technology-part-2-hadoop-architecture-hdfs-yarn-map-reduce-hive-hbase-d57fdb5927c9?source=rss------hadoop-5)
-- [Spark vs Hive — Qual é a diferença](https://rodneyneville.medium.com/spark-vs-hive-qual-%C3%A9-a-diferen%C3%A7a-e4d65e88befe?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
