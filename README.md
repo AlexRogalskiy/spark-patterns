@@ -298,6 +298,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Spark application resource calculator](https://medium.com/@sundeep.v/spark-application-resource-calculator-919249771552?source=rss------hadoop-5)
+- [Hadoop Architecture](https://medium.com/@traininghub.io/hadoop-architecture-4f516c35c1c?source=rss------hadoop-5)
 - [Integration of R Programming with Hadoop](https://medium.com/@ashish.kumar_73620/integration-of-r-programming-with-hadoop-d7b2982f677a?source=rss------hadoop-5)
 - [CDP Upgrade: CM 7.1.4 to 7.4.4 and Cloudera Runtime 7.1.4 to 7.1.7](https://blog.clairvoyantsoft.com/cdp-upgrade-cm-7-1-4-to-7-4-4-and-cloudera-runtime-7-1-4-to-7-1-7-242177a87fe4?source=rss------hadoop-5)
 - [Hadoop&lpar;Pig&rpar;](https://hasangozcu.medium.com/hadoop-pig-9eadf799af6a?source=rss------hadoop-5)
@@ -306,8 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Hadoop 3.0 New Features](https://medium.com/@suvankar.dey80/hadoop-3-0-new-features-5b3613c451d5?source=rss------hadoop-5)
 - [INSTALL HADOOP ON MACOS &lpar;M1, M2&rpar;](https://codewitharjun.medium.com/install-hadoop-on-macos-m1-m2-6f6a01820cc9?source=rss------hadoop-5)
 - [One more filesystem… HDFS!!!](https://medium.com/@badwaik.ojas/one-more-filesystem-hdfs-f8cf1b85015e?source=rss------hadoop-5)
-- [Boss! We have a large number of small files. Now, how to process these files?](https://sidk17.medium.com/boss-we-have-a-large-number-of-small-files-now-how-to-process-these-files-ee27f67dc461?source=rss------hadoop-5)
-- [Test Driven Development of Apache Spark applications](https://eugene-lopatkin.medium.com/test-driven-development-of-apache-spark-applications-93eec83a6443?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
