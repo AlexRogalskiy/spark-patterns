@@ -298,6 +298,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [How to deal read large hadoop datasets via impala and SAS &lpar;Divide &amp; Conquer&rpar;](https://medium.com/@ptantono/how-to-deal-read-large-hadoop-datasets-via-impala-and-sas-divide-conquer-adc91367fd56?source=rss------hadoop-5)
 - [Spark application resource calculator](https://medium.com/@sundeep.v/spark-application-resource-calculator-919249771552?source=rss------hadoop-5)
 - [Hadoop Architecture](https://medium.com/@traininghub.io/hadoop-architecture-4f516c35c1c?source=rss------hadoop-5)
 - [Integration of R Programming with Hadoop](https://medium.com/@ashish.kumar_73620/integration-of-r-programming-with-hadoop-d7b2982f677a?source=rss------hadoop-5)
@@ -307,7 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Hadoop&lpar;HDFS&rpar;](https://hasangozcu.medium.com/hadoop-hdfs-bf8e926f3e4c?source=rss------hadoop-5)
 - [Hadoop 3.0 New Features](https://medium.com/@suvankar.dey80/hadoop-3-0-new-features-5b3613c451d5?source=rss------hadoop-5)
 - [INSTALL HADOOP ON MACOS &lpar;M1, M2&rpar;](https://codewitharjun.medium.com/install-hadoop-on-macos-m1-m2-6f6a01820cc9?source=rss------hadoop-5)
-- [One more filesystem… HDFS!!!](https://medium.com/@badwaik.ojas/one-more-filesystem-hdfs-f8cf1b85015e?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
