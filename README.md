@@ -298,6 +298,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Spark Remote Job Submission to EMR/DataProc from EC2/Cloudinstance](https://medium.com/@dulshanr12/spark-remote-job-submission-to-emr-dataproc-from-ec2-cloudinstance-2fea74ef776c?source=rss------hadoop-5)
 - [Create Spark RDD Using Parallelize Method](https://medium.com/@bigdataetlcom/create-spark-rdd-using-parallelize-method-d0fa327080f1?source=rss------hadoop-5)
 - [Hadoop Users Email List](https://medium.com/@b2bdata/hadoop-users-email-list-78e67f95d70f?source=rss------hadoop-5)
 - [How to deal read large hadoop datasets via impala and SAS &lpar;Divide &amp; Conquer&rpar;](https://medium.com/@ptantono/how-to-deal-read-large-hadoop-datasets-via-impala-and-sas-divide-conquer-adc91367fd56?source=rss------hadoop-5)
@@ -307,7 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [CDP Upgrade: CM 7.1.4 to 7.4.4 and Cloudera Runtime 7.1.4 to 7.1.7](https://blog.clairvoyantsoft.com/cdp-upgrade-cm-7-1-4-to-7-4-4-and-cloudera-runtime-7-1-4-to-7-1-7-242177a87fe4?source=rss------hadoop-5)
 - [Hadoop&lpar;Pig&rpar;](https://hasangozcu.medium.com/hadoop-pig-9eadf799af6a?source=rss------hadoop-5)
 - [Hadoop&lpar;MapReduce&rpar;](https://hasangozcu.medium.com/hadoop-mapreduce-2f7e097b85ee?source=rss------hadoop-5)
-- [Hadoop&lpar;HDFS&rpar;](https://hasangozcu.medium.com/hadoop-hdfs-bf8e926f3e4c?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
