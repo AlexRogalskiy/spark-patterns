@@ -298,6 +298,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Big Data File formats](https://blog.devgenius.io/big-data-file-formats-d980f5d07e44?source=rss------hadoop-5)
 - [YARN, The Hadoop OS](https://medium.com/@badwaik.ojas/yarn-the-hadoop-os-4ca882e0335c?source=rss------hadoop-5)
 - [Настройка кластера Apache Spark и Hive на Hadoop](https://medium.com/@bigdataschool/%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0-%D0%BA%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%B0-apache-spark-%D0%B8-hive-%D0%BD%D0%B0-hadoop-365801f32f5?source=rss------hadoop-5)
 - [Spark Remote Job Submission to EMR/DataProc from EC2/Cloudinstance](https://selectfrom.dev/spark-remote-job-submission-to-emr-dataproc-from-ec2-cloudinstance-2fea74ef776c?source=rss------hadoop-5)
@@ -307,7 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Spark application resource calculator](https://medium.com/@sundeep.v/spark-application-resource-calculator-919249771552?source=rss------hadoop-5)
 - [Hadoop Architecture](https://medium.com/@traininghub.io/hadoop-architecture-4f516c35c1c?source=rss------hadoop-5)
 - [Integration of R Programming with Hadoop](https://medium.com/@ashish.kumar_73620/integration-of-r-programming-with-hadoop-d7b2982f677a?source=rss------hadoop-5)
-- [CDP Upgrade: CM 7.1.4 to 7.4.4 and Cloudera Runtime 7.1.4 to 7.1.7](https://blog.clairvoyantsoft.com/cdp-upgrade-cm-7-1-4-to-7-4-4-and-cloudera-runtime-7-1-4-to-7-1-7-242177a87fe4?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
