@@ -298,7 +298,9 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Hadoop: Gajah Pelahap Big Data](https://medium.com/@fikayuninda/hadoop-gajah-pelahap-big-data-33cc68e61d43?source=rss------hadoop-5)
 - [The Hadoop: Big Data Solution](https://medium.com/@sarathrjp/the-hadoop-big-data-solution-62b2aadb385f?source=rss------hadoop-5)
+- [Introduction to Hadoop and HDFS](https://medium.com/batech/introduction-to-hadoop-and-hdfs-b0f3a37f0294?source=rss------hadoop-5)
 - [Big Data File formats](https://blog.devgenius.io/big-data-file-formats-d980f5d07e44?source=rss------hadoop-5)
 - [YARN, The Hadoop OS](https://medium.com/@badwaik.ojas/yarn-the-hadoop-os-4ca882e0335c?source=rss------hadoop-5)
 - [Настройка кластера Apache Spark и Hive на Hadoop](https://medium.com/@bigdataschool/%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0-%D0%BA%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%B0-apache-spark-%D0%B8-hive-%D0%BD%D0%B0-hadoop-365801f32f5?source=rss------hadoop-5)
@@ -306,8 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Create Spark RDD Using Parallelize Method](https://medium.com/@bigdataetlcom/create-spark-rdd-using-parallelize-method-d0fa327080f1?source=rss------hadoop-5)
 - [Hadoop Users Email List](https://medium.com/@b2bdata/hadoop-users-email-list-78e67f95d70f?source=rss------hadoop-5)
 - [How to deal read large hadoop datasets via impala and SAS &lpar;Divide &amp; Conquer&rpar;](https://medium.com/@ptantono/how-to-deal-read-large-hadoop-datasets-via-impala-and-sas-divide-conquer-adc91367fd56?source=rss------hadoop-5)
-- [Spark application resource calculator](https://medium.com/@sundeep.v/spark-application-resource-calculator-919249771552?source=rss------hadoop-5)
-- [Hadoop Architecture](https://medium.com/@traininghub.io/hadoop-architecture-4f516c35c1c?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
