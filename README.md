@@ -298,6 +298,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Hadoop Architecture and Administration](https://medium.com/@badwaik.ojas/hadoop-architecture-and-administration-cb003761515f?source=rss------hadoop-5)
 - [Hadoop: Gajah Pelahap Big Data](https://medium.com/@fikayuninda/hadoop-gajah-pelahap-big-data-33cc68e61d43?source=rss------hadoop-5)
 - [The Hadoop: Big Data Solution](https://medium.com/@sarathrjp/the-hadoop-big-data-solution-62b2aadb385f?source=rss------hadoop-5)
 - [Introduction to Hadoop and HDFS](https://medium.com/batech/introduction-to-hadoop-and-hdfs-b0f3a37f0294?source=rss------hadoop-5)
@@ -307,7 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Spark Remote Job Submission to EMR/DataProc from EC2/Cloudinstance](https://selectfrom.dev/spark-remote-job-submission-to-emr-dataproc-from-ec2-cloudinstance-2fea74ef776c?source=rss------hadoop-5)
 - [Create Spark RDD Using Parallelize Method](https://medium.com/@bigdataetlcom/create-spark-rdd-using-parallelize-method-d0fa327080f1?source=rss------hadoop-5)
 - [Hadoop Users Email List](https://medium.com/@b2bdata/hadoop-users-email-list-78e67f95d70f?source=rss------hadoop-5)
-- [How to deal read large hadoop datasets via impala and SAS &lpar;Divide &amp; Conquer&rpar;](https://medium.com/@ptantono/how-to-deal-read-large-hadoop-datasets-via-impala-and-sas-divide-conquer-adc91367fd56?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
