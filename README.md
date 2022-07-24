@@ -298,6 +298,9 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [HDFS- Hadoop Distributed Filesystem](https://medium.com/@maninekkalapudi/hdfs-hadoop-distributed-filesystem-f46ecc2993cd?source=rss------hadoop-5)
+- [Hadoop MapReduce — A Programming Paradigm](https://medium.com/@maninekkalapudi/hadoop-mapreduce-a-programming-paradigm-8d9b09111a37?source=rss------hadoop-5)
+- [Data Engineering- From 10,000 Feet Above](https://medium.com/@maninekkalapudi/data-engineering-from-10-000-feet-above-7075506cc88f?source=rss------hadoop-5)
 - [10 Great Java Frameworks Used In 2022](https://medium.com/@malvin.lok/10-great-java-frameworks-used-in-2022-8e640c9ad8d6?source=rss------hadoop-5)
 - [HDP Certified Administrator &lpar;HDPCA&rpar; Series || # 4 Resource Manager High Availability](https://medium.com/@mudassar_lhr/hdp-certified-administrator-hdpca-series-4-resource-manager-high-availability-2bb95c9f042d?source=rss------hadoop-5)
 - [Apache Pig: Illustrate Basic Operators with Example](https://profvkshrivastava.medium.com/apache-pig-illustrate-basic-operators-with-example-9d485f6415d9?source=rss------hadoop-5)
@@ -305,9 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Hadoop: Gajah Pelahap Big Data](https://medium.com/@fikayuninda/hadoop-gajah-pelahap-big-data-33cc68e61d43?source=rss------hadoop-5)
 - [The Hadoop: Big Data Solution](https://medium.com/@sarathrjp/the-hadoop-big-data-solution-62b2aadb385f?source=rss------hadoop-5)
 - [Introduction to Hadoop and HDFS](https://medium.com/batech/introduction-to-hadoop-and-hdfs-b0f3a37f0294?source=rss------hadoop-5)
-- [Big Data File formats](https://blog.devgenius.io/big-data-file-formats-d980f5d07e44?source=rss------hadoop-5)
-- [YARN, The Hadoop OS](https://medium.com/@badwaik.ojas/yarn-the-hadoop-os-4ca882e0335c?source=rss------hadoop-5)
-- [Настройка кластера Apache Spark и Hive на Hadoop](https://medium.com/@bigdataschool/%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0-%D0%BA%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%B0-apache-spark-%D0%B8-hive-%D0%BD%D0%B0-hadoop-365801f32f5?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
