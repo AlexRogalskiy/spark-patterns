@@ -298,6 +298,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Architecture of HBase](https://medium.com/@mammadlisevda/architecture-of-hbase-e7f474c678d6?source=rss------hadoop-5)
 - [AWS EMR on EC2 and EMR Serverless](https://selectfrom.dev/aws-emr-on-ec2-and-emr-serverless-190a1de6aed0?source=rss------hadoop-5)
 - [En Basit Hatlarıyla Apache Pig Nedir, Ne için Kullanılır?](https://dbkirkoglu.medium.com/en-basit-hatlar%C4%B1yla-apache-pig-nedir-ne-i%C3%A7in-kullan%C4%B1l%C4%B1r-47a314db3f7b?source=rss------hadoop-5)
 - [Как повысить эффективность кластера Apache HBase: YCSB-тестирование региональных серверов](https://medium.com/@bigdataschool/%D0%BA%D0%B0%D0%BA-%D0%BF%D0%BE%D0%B2%D1%8B%D1%81%D0%B8%D1%82%D1%8C-%D1%8D%D1%84%D1%84%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D1%8C-%D0%BA%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%B0-apache-hbase-ycsb-%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D1%80%D0%B5%D0%B3%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D1%85-%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%BE%D0%B2-4db40852c458?source=rss------hadoop-5)
@@ -307,7 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [10 Great Java Frameworks Used In 2022](https://medium.com/@malvin.lok/10-great-java-frameworks-used-in-2022-8e640c9ad8d6?source=rss------hadoop-5)
 - [HDP Certified Administrator &lpar;HDPCA&rpar; Series || # 4 Resource Manager High Availability](https://medium.com/@mudassar_lhr/hdp-certified-administrator-hdpca-series-4-resource-manager-high-availability-2bb95c9f042d?source=rss------hadoop-5)
 - [Apache Pig: Illustrate Basic Operators with Example](https://aws.plainenglish.io/apache-pig-illustrate-basic-operators-with-example-9d485f6415d9?source=rss------hadoop-5)
-- [Hadoop Architecture and Administration](https://medium.com/@badwaik.ojas/hadoop-architecture-and-administration-cb003761515f?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
