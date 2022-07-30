@@ -298,6 +298,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Steps to Increase the Replication Factor of a Kafka Topic](https://blog.clairvoyantsoft.com/steps-to-increase-the-replication-factor-of-a-kafka-topic-a516aefd7e7e?source=rss------hadoop-5)
 - [Architecture of HBase](https://medium.com/@mammadlisevda/architecture-of-hbase-e7f474c678d6?source=rss------hadoop-5)
 - [AWS EMR on EC2 and EMR Serverless](https://selectfrom.dev/aws-emr-on-ec2-and-emr-serverless-190a1de6aed0?source=rss------hadoop-5)
 - [En Basit Hatlarıyla Apache Pig Nedir, Ne için Kullanılır?](https://dbkirkoglu.medium.com/en-basit-hatlar%C4%B1yla-apache-pig-nedir-ne-i%C3%A7in-kullan%C4%B1l%C4%B1r-47a314db3f7b?source=rss------hadoop-5)
@@ -307,7 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Data Engineering- From 10,000 Feet Above](https://medium.com/@maninekkalapudi/data-engineering-from-10-000-feet-above-7075506cc88f?source=rss------hadoop-5)
 - [10 Great Java Frameworks Used In 2022](https://medium.com/@malvin.lok/10-great-java-frameworks-used-in-2022-8e640c9ad8d6?source=rss------hadoop-5)
 - [HDP Certified Administrator &lpar;HDPCA&rpar; Series || # 4 Resource Manager High Availability](https://medium.com/@mudassar_lhr/hdp-certified-administrator-hdpca-series-4-resource-manager-high-availability-2bb95c9f042d?source=rss------hadoop-5)
-- [Apache Pig: Illustrate Basic Operators with Example](https://aws.plainenglish.io/apache-pig-illustrate-basic-operators-with-example-9d485f6415d9?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
