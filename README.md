@@ -298,6 +298,9 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Understanding Hadoop. HDFS](https://mbvyn.medium.com/understanding-hadoop-hdfs-e45f51d2e7a9?source=rss------hadoop-5)
+- [4 Effective Tips to Boost HDFS Performance.](https://asirihewage.medium.com/4-effective-tips-to-boost-hdfs-performance-e3a71d1f0a33?source=rss------hadoop-5)
+- [How To Restrict Storage Shared by DataNodes to NameNode…!!](https://mrdeepakshah3076.medium.com/how-to-restrict-storage-shared-by-datanodes-to-namenode-eb30d459a89a?source=rss------hadoop-5)
 - [Steps to Increase the Replication Factor of a Kafka Topic](https://blog.clairvoyantsoft.com/steps-to-increase-the-replication-factor-of-a-kafka-topic-a516aefd7e7e?source=rss------hadoop-5)
 - [Architecture of HBase](https://medium.com/@mammadlisevda/architecture-of-hbase-e7f474c678d6?source=rss------hadoop-5)
 - [AWS EMR on EC2 and EMR Serverless](https://selectfrom.dev/aws-emr-on-ec2-and-emr-serverless-190a1de6aed0?source=rss------hadoop-5)
@@ -305,9 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Как повысить эффективность кластера Apache HBase: YCSB-тестирование региональных серверов](https://medium.com/@bigdataschool/%D0%BA%D0%B0%D0%BA-%D0%BF%D0%BE%D0%B2%D1%8B%D1%81%D0%B8%D1%82%D1%8C-%D1%8D%D1%84%D1%84%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D1%8C-%D0%BA%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%B0-apache-hbase-ycsb-%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D1%80%D0%B5%D0%B3%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D1%85-%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%BE%D0%B2-4db40852c458?source=rss------hadoop-5)
 - [HDFS- Hadoop Distributed Filesystem](https://medium.com/@maninekkalapudi/hdfs-hadoop-distributed-filesystem-f46ecc2993cd?source=rss------hadoop-5)
 - [Hadoop MapReduce — A Programming Paradigm](https://medium.com/@maninekkalapudi/hadoop-mapreduce-a-programming-paradigm-8d9b09111a37?source=rss------hadoop-5)
-- [Data Engineering- From 10,000 Feet Above](https://medium.com/@maninekkalapudi/data-engineering-from-10-000-feet-above-7075506cc88f?source=rss------hadoop-5)
-- [10 Great Java Frameworks Used In 2022](https://medium.com/@malvin.lok/10-great-java-frameworks-used-in-2022-8e640c9ad8d6?source=rss------hadoop-5)
-- [HDP Certified Administrator &lpar;HDPCA&rpar; Series || # 4 Resource Manager High Availability](https://medium.com/@mudassar_lhr/hdp-certified-administrator-hdpca-series-4-resource-manager-high-availability-2bb95c9f042d?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
