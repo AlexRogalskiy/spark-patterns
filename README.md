@@ -298,6 +298,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [What exactly is Big Data anyway?](https://medium.com/@analytics4all/what-exactly-is-big-data-anyway-32e6b49c8985?source=rss------hadoop-5)
 - [Memory Consumption of Hadoop NameNode](https://npntraining.medium.com/memory-consumption-of-hadoop-namenode-29e1da9a5357?source=rss------hadoop-5)
 - [Feature Store на Apache HBase с Phoenix, RonDB и Kafka: кейс Dream11](https://medium.com/@bigdataschool/feature-store-%D0%BD%D0%B0-apache-hbase-%D1%81-phoenix-rondb-%D0%B8-kafka-%D0%BA%D0%B5%D0%B9%D1%81-dream11-ca7f352fc5ce?source=rss------hadoop-5)
 - [Understanding Hadoop. HDFS](https://mbvyn.medium.com/understanding-hadoop-hdfs-e45f51d2e7a9?source=rss------hadoop-5)
@@ -307,7 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Architecture of HBase](https://medium.com/@mammadlisevda/architecture-of-hbase-e7f474c678d6?source=rss------hadoop-5)
 - [AWS EMR on EC2 and EMR Serverless](https://selectfrom.dev/aws-emr-on-ec2-and-emr-serverless-190a1de6aed0?source=rss------hadoop-5)
 - [En Basit Hatlarıyla Apache Pig Nedir, Ne için Kullanılır?](https://dbkirkoglu.medium.com/en-basit-hatlar%C4%B1yla-apache-pig-nedir-ne-i%C3%A7in-kullan%C4%B1l%C4%B1r-47a314db3f7b?source=rss------hadoop-5)
-- [Как повысить эффективность кластера Apache HBase: YCSB-тестирование региональных серверов](https://medium.com/@bigdataschool/%D0%BA%D0%B0%D0%BA-%D0%BF%D0%BE%D0%B2%D1%8B%D1%81%D0%B8%D1%82%D1%8C-%D1%8D%D1%84%D1%84%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D1%8C-%D0%BA%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%B0-apache-hbase-ycsb-%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D1%80%D0%B5%D0%B3%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D1%85-%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%BE%D0%B2-4db40852c458?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
