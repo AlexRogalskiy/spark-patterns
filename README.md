@@ -298,16 +298,16 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Introduction to Spark](https://medium.com/@anshsarkar1/introduction-to-spark-e3fe3c6f28fa?source=rss------hadoop-5)
+- [Apache Kudu Migration from CDH to CDP](https://blog.clairvoyantsoft.com/apache-kudu-migration-from-cdh-to-cdp-9b3f43d7aab4?source=rss------hadoop-5)
+- [Hadoop Research Journey from Bare Metal to Google Cloud — Episode 3](https://aavraham.medium.com/hadoop-research-journey-from-bare-metal-to-google-cloud-episode-3-bafbf5676be4?source=rss------hadoop-5)
+- [Hadoop Research Journey from Bare Metal to Google Cloud — Episode 2](https://aavraham.medium.com/hadoop-research-journey-from-bare-metal-to-google-cloud-episode-2-82a3567761b8?source=rss------hadoop-5)
+- [Hadoop Research Journey from Bare Metal to Google Cloud — Episode 1](https://aavraham.medium.com/hadoop-research-journey-from-bare-metal-to-google-cloud-episode-1-a4f916571098?source=rss------hadoop-5)
+- [HDFS Overview: Everything You Need To Know](https://medium.com/@Ksolves/hdfs-overview-everything-you-need-to-know-8d3dc406c842?source=rss------hadoop-5)
 - [What exactly is Big Data anyway?](https://medium.com/@analytics4all/what-exactly-is-big-data-anyway-32e6b49c8985?source=rss------hadoop-5)
 - [Memory Consumption of Hadoop NameNode](https://npntraining.medium.com/memory-consumption-of-hadoop-namenode-29e1da9a5357?source=rss------hadoop-5)
 - [Feature Store на Apache HBase с Phoenix, RonDB и Kafka: кейс Dream11](https://medium.com/@bigdataschool/feature-store-%D0%BD%D0%B0-apache-hbase-%D1%81-phoenix-rondb-%D0%B8-kafka-%D0%BA%D0%B5%D0%B9%D1%81-dream11-ca7f352fc5ce?source=rss------hadoop-5)
 - [Understanding Hadoop. HDFS](https://mbvyn.medium.com/understanding-hadoop-hdfs-e45f51d2e7a9?source=rss------hadoop-5)
-- [4 Effective Tips to Boost HDFS Performance.](https://asirihewage.medium.com/4-effective-tips-to-boost-hdfs-performance-e3a71d1f0a33?source=rss------hadoop-5)
-- [How To Restrict Storage Shared by DataNodes to NameNode…!!](https://mrdeepakshah3076.medium.com/how-to-restrict-storage-shared-by-datanodes-to-namenode-eb30d459a89a?source=rss------hadoop-5)
-- [Steps to Increase the Replication Factor of a Kafka Topic](https://blog.clairvoyantsoft.com/steps-to-increase-the-replication-factor-of-a-kafka-topic-a516aefd7e7e?source=rss------hadoop-5)
-- [Architecture of HBase](https://medium.com/@mammadlisevda/architecture-of-hbase-e7f474c678d6?source=rss------hadoop-5)
-- [AWS EMR on EC2 and EMR Serverless](https://selectfrom.dev/aws-emr-on-ec2-and-emr-serverless-190a1de6aed0?source=rss------hadoop-5)
-- [En Basit Hatlarıyla Apache Pig Nedir, Ne için Kullanılır?](https://dbkirkoglu.medium.com/en-basit-hatlar%C4%B1yla-apache-pig-nedir-ne-i%C3%A7in-kullan%C4%B1l%C4%B1r-47a314db3f7b?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
