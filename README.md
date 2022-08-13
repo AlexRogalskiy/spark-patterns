@@ -298,6 +298,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [What is Big Data ?](https://medium.com/@biswasavhijit007/what-is-big-data-cf202374630f?source=rss------hadoop-5)
 - [MapReduce](https://dowra.medium.com/mapreduce-3d1040b7be70?source=rss------hadoop-5)
 - [What is a Data Lake, Hadoop Data Lake, Aws Data Lake, Azure Data Lake, and Alibaba Data Lake](https://sajjadhussain-11869.medium.com/what-is-a-data-lake-hadoop-data-lake-aws-data-lake-azure-data-lake-and-alibaba-data-lake-7b94c9a4f88b?source=rss------hadoop-5)
 - [Introduction to Spark](https://medium.com/@anshsarkar1/introduction-to-spark-e3fe3c6f28fa?source=rss------hadoop-5)
@@ -307,7 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Hadoop Research Journey from Bare Metal to Google Cloud — Episode 1](https://aavraham.medium.com/hadoop-research-journey-from-bare-metal-to-google-cloud-episode-1-a4f916571098?source=rss------hadoop-5)
 - [HDFS Overview: Everything You Need To Know](https://medium.com/@Ksolves/hdfs-overview-everything-you-need-to-know-8d3dc406c842?source=rss------hadoop-5)
 - [What exactly is Big Data anyway?](https://medium.com/@analytics4all/what-exactly-is-big-data-anyway-32e6b49c8985?source=rss------hadoop-5)
-- [Memory Consumption of Hadoop NameNode](https://npntraining.medium.com/memory-consumption-of-hadoop-namenode-29e1da9a5357?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
