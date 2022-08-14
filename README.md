@@ -298,6 +298,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Docker Üzerinde Hadoop Kurulumu](https://medium.com/@pesengizem/hadoop-deployment-single-node-with-docker-6a65b5fe7281?source=rss------hadoop-5)
 - [What is Big Data ?](https://medium.com/@biswasavhijit007/what-is-big-data-cf202374630f?source=rss------hadoop-5)
 - [MapReduce](https://dowra.medium.com/mapreduce-3d1040b7be70?source=rss------hadoop-5)
 - [What is a Data Lake, Hadoop Data Lake, Aws Data Lake, Azure Data Lake, and Alibaba Data Lake](https://sajjadhussain-11869.medium.com/what-is-a-data-lake-hadoop-data-lake-aws-data-lake-azure-data-lake-and-alibaba-data-lake-7b94c9a4f88b?source=rss------hadoop-5)
@@ -307,7 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Hadoop Research Journey from Bare Metal to Google Cloud — Episode 2](https://aavraham.medium.com/hadoop-research-journey-from-bare-metal-to-google-cloud-episode-2-82a3567761b8?source=rss------hadoop-5)
 - [Hadoop Research Journey from Bare Metal to Google Cloud — Episode 1](https://aavraham.medium.com/hadoop-research-journey-from-bare-metal-to-google-cloud-episode-1-a4f916571098?source=rss------hadoop-5)
 - [HDFS Overview: Everything You Need To Know](https://medium.com/@Ksolves/hdfs-overview-everything-you-need-to-know-8d3dc406c842?source=rss------hadoop-5)
-- [What exactly is Big Data anyway?](https://medium.com/@analytics4all/what-exactly-is-big-data-anyway-32e6b49c8985?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
