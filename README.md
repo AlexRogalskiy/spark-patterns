@@ -298,6 +298,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Understanding Hadoop. Yarn](https://mbvyn.medium.com/understanding-hadoop-yarn-8d787b3ba4ff?source=rss------hadoop-5)
+- [How to setup Pyspark locally in Eclipse](https://medium.com/@borkotokyprerona/how-to-setup-pyspark-locally-in-eclipse-24396213d45?source=rss------hadoop-5)
 - [Docker Üzerinde Hadoop Kurulumu](https://medium.com/@pesengizem/hadoop-deployment-single-node-with-docker-6a65b5fe7281?source=rss------hadoop-5)
 - [What is Big Data ?](https://medium.com/@biswasavhijit007/what-is-big-data-cf202374630f?source=rss------hadoop-5)
 - [MapReduce](https://dowra.medium.com/mapreduce-3d1040b7be70?source=rss------hadoop-5)
@@ -306,8 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Apache Kudu Migration from CDH to CDP](https://blog.clairvoyantsoft.com/apache-kudu-migration-from-cdh-to-cdp-9b3f43d7aab4?source=rss------hadoop-5)
 - [Hadoop Research Journey from Bare Metal to Google Cloud — Episode 3](https://aavraham.medium.com/hadoop-research-journey-from-bare-metal-to-google-cloud-episode-3-bafbf5676be4?source=rss------hadoop-5)
 - [Hadoop Research Journey from Bare Metal to Google Cloud — Episode 2](https://aavraham.medium.com/hadoop-research-journey-from-bare-metal-to-google-cloud-episode-2-82a3567761b8?source=rss------hadoop-5)
-- [Hadoop Research Journey from Bare Metal to Google Cloud — Episode 1](https://aavraham.medium.com/hadoop-research-journey-from-bare-metal-to-google-cloud-episode-1-a4f916571098?source=rss------hadoop-5)
-- [HDFS Overview: Everything You Need To Know](https://medium.com/@Ksolves/hdfs-overview-everything-you-need-to-know-8d3dc406c842?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
