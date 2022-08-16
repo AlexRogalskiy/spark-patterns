@@ -298,6 +298,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Hadoop Components Installation In MacOs](https://medium.com/@patidar.rahul8392/hadoop-component-installation-in-macos-a6cee9d06698?source=rss------hadoop-5)
+- [Hadoop Component Installation In MacOs](https://blog.devops.dev/hadoop-component-installation-in-macos-96989394bc8f?source=rss------hadoop-5)
 - [Understanding Hadoop. Yarn](https://mbvyn.medium.com/understanding-hadoop-yarn-8d787b3ba4ff?source=rss------hadoop-5)
 - [How to setup Pyspark locally in Eclipse](https://medium.com/@borkotokyprerona/how-to-setup-pyspark-locally-in-eclipse-24396213d45?source=rss------hadoop-5)
 - [Docker Üzerinde Hadoop Kurulumu](https://medium.com/@pesengizem/hadoop-deployment-single-node-with-docker-6a65b5fe7281?source=rss------hadoop-5)
@@ -306,8 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [What is a Data Lake, Hadoop Data Lake, Aws Data Lake, Azure Data Lake, and Alibaba Data Lake](https://sajjadhussain-11869.medium.com/what-is-a-data-lake-hadoop-data-lake-aws-data-lake-azure-data-lake-and-alibaba-data-lake-7b94c9a4f88b?source=rss------hadoop-5)
 - [Introduction to Spark](https://medium.com/@anshsarkar1/introduction-to-spark-e3fe3c6f28fa?source=rss------hadoop-5)
 - [Apache Kudu Migration from CDH to CDP](https://blog.clairvoyantsoft.com/apache-kudu-migration-from-cdh-to-cdp-9b3f43d7aab4?source=rss------hadoop-5)
-- [Hadoop Research Journey from Bare Metal to Google Cloud — Episode 3](https://aavraham.medium.com/hadoop-research-journey-from-bare-metal-to-google-cloud-episode-3-bafbf5676be4?source=rss------hadoop-5)
-- [Hadoop Research Journey from Bare Metal to Google Cloud — Episode 2](https://aavraham.medium.com/hadoop-research-journey-from-bare-metal-to-google-cloud-episode-2-82a3567761b8?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
