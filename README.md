@@ -274,6 +274,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Anybody have scripts/instructions for converting SQL queries in Intellij to Spark jobs?](https://www.reddit.com/r/spark/comments/wsokb4/anybody_have_scriptsinstructions_for_converting/)
 - [I can’t believe that I can prove that it can sort](https://www.reddit.com/r/spark/comments/vr9qfn/i_cant_believe_that_i_can_prove_that_it_can_sort/)
 - [SPARKNaCl: A Verified, Fast Re-implementation of TweetNaCl](https://www.reddit.com/r/spark/comments/srkif2/sparknacl_a_verified_fast_reimplementation_of/)
 - [JTEKT — Application of SPARK to Steering System Software](https://www.reddit.com/r/spark/comments/sa035u/jtekt_application_of_spark_to_steering_system/)
@@ -283,7 +284,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [From Rust to SPARK: Formally Proven Bip-Buffers](https://www.reddit.com/r/spark/comments/n647py/from_rust_to_spark_formally_proven_bipbuffers/)
 - [VDM and SPARK: papers or results?](https://www.reddit.com/r/spark/comments/mh4fx2/vdm_and_spark_papers_or_results/)
 - [First beta release of Alire, the package manager for Ada/SPARK](https://www.reddit.com/r/spark/comments/jlyih0/first_beta_release_of_alire_the_package_manager/)
-- [[ VIDEO ] FOSDEM 2020 - Securing Existing Software using Formally Verified Libraries](https://www.reddit.com/r/spark/comments/j7h5eo/video_fosdem_2020_securing_existing_software/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld Spark posts*
