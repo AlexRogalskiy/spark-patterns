@@ -298,15 +298,15 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Difference between Hadoop and Spark](https://medium.com/@ansam.yousry/difference-between-hadoop-and-spark-84520b866020?source=rss------hadoop-5)
+- [What happens when files are pushed to HDFS:](https://medium.com/@ambansal1014/what-happens-when-files-are-pushed-to-hdfs-20dc9527e681?source=rss------hadoop-5)
+- [Yarn Resource Management Tool For Spark and Hadoop, The Introduction to Yarn Architecture](https://medium.com/cloud-believers/yarn-resource-management-tool-for-spark-and-hadoop-the-introduction-to-yarn-architecture-331347a12cc?source=rss------hadoop-5)
 - [Scalable Architecture for processing massively parallel Data.](https://medium.com/@work.olajumoke/scalable-architecture-for-processing-massively-parallel-data-7dacc1650b18?source=rss------hadoop-5)
 - [What is Big Data?](https://medium.com/@gauravy60/what-is-big-data-2f64d204f17b?source=rss------hadoop-5)
 - [Taking your Baby Steps in Pyspark](https://medium.com/@marksachin.k/taking-your-baby-steps-in-pyspark-632a26c14184?source=rss------hadoop-5)
 - [Hadoop Components Installation Guide In MacOs](https://blog.devops.dev/hadoop-component-installation-in-macos-a6cee9d06698?source=rss------hadoop-5)
 - [Understanding Hadoop. Yarn](https://mbvyn.medium.com/understanding-hadoop-yarn-8d787b3ba4ff?source=rss------hadoop-5)
 - [How to setup Pyspark locally in Eclipse](https://medium.com/@borkotokyprerona/how-to-setup-pyspark-locally-in-eclipse-24396213d45?source=rss------hadoop-5)
-- [Docker Üzerinde Hadoop Kurulumu](https://medium.com/@pesengizem/hadoop-deployment-single-node-with-docker-6a65b5fe7281?source=rss------hadoop-5)
-- [What is Big Data ?](https://medium.com/@biswasavhijit007/what-is-big-data-cf202374630f?source=rss------hadoop-5)
-- [MapReduce](https://dowra.medium.com/mapreduce-3d1040b7be70?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
