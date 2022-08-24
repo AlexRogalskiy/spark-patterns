@@ -298,6 +298,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Hadoop 2 — Beginner’s version](https://medium.com/@sathwick.p7/hadoop-2-beginners-version-724277d73d25?source=rss------hadoop-5)
+- [Big Data Solutions ? Hadoop &lpar;Introduction to Hadoop&rpar;](https://medium.com/@rahmad07g/big-data-solutions-hadoop-introduction-to-hadoop-f66def725b44?source=rss------hadoop-5)
 - [Difference between Hadoop and Spark](https://medium.com/@ansam.yousry/difference-between-hadoop-and-spark-84520b866020?source=rss------hadoop-5)
 - [What happens when files are pushed to HDFS:](https://medium.com/@ambansal1014/what-happens-when-files-are-pushed-to-hdfs-20dc9527e681?source=rss------hadoop-5)
 - [Yarn Resource Management Tool For Spark and Hadoop, The Introduction to Yarn Architecture](https://medium.com/cloud-believers/yarn-resource-management-tool-for-spark-and-hadoop-the-introduction-to-yarn-architecture-331347a12cc?source=rss------hadoop-5)
@@ -305,8 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [What is Big Data?](https://medium.com/@gauravy60/what-is-big-data-2f64d204f17b?source=rss------hadoop-5)
 - [Taking your Baby Steps in Pyspark](https://medium.com/@marksachin.k/taking-your-baby-steps-in-pyspark-632a26c14184?source=rss------hadoop-5)
 - [Hadoop Components Installation Guide In MacOs](https://blog.devops.dev/hadoop-component-installation-in-macos-a6cee9d06698?source=rss------hadoop-5)
-- [Understanding Hadoop. Yarn](https://mbvyn.medium.com/understanding-hadoop-yarn-8d787b3ba4ff?source=rss------hadoop-5)
-- [How to setup Pyspark locally in Eclipse](https://medium.com/@borkotokyprerona/how-to-setup-pyspark-locally-in-eclipse-24396213d45?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
