@@ -298,6 +298,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [An Overview of The Industrial Internet of Things &lpar;IIoT&rpar;](https://medium.com/@patiencesimuli/an-overview-of-the-industrial-internet-of-things-iiot-d4e5b7f2348?source=rss------hadoop-5)
 - [Hadoop 2 — Beginner’s version](https://medium.com/@sathwick.p7/hadoop-2-beginners-version-724277d73d25?source=rss------hadoop-5)
 - [Big Data Solutions ? Hadoop &lpar;Introduction to Hadoop&rpar;](https://medium.com/@rahmad07g/big-data-solutions-hadoop-introduction-to-hadoop-f66def725b44?source=rss------hadoop-5)
 - [Difference between Hadoop and Spark](https://medium.com/@ansam.yousry/difference-between-hadoop-and-spark-84520b866020?source=rss------hadoop-5)
