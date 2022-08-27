@@ -298,6 +298,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Adding some MinIO to your standalone Apache Spark cluster](https://fithis2001.medium.com/adding-some-minio-to-your-standalone-apache-spark-cluster-d068b4f4fdab?source=rss------hadoop-5)
+- [5 Important Big Data Challenges and Solutions](https://medium.com/@chennaiseo90/5-important-big-data-challenges-and-solutions-f6ba3cc22fe1?source=rss------hadoop-5)
 - [An Overview of The Industrial Internet of Things &lpar;IIoT&rpar;](https://medium.com/@patiencesimuli/an-overview-of-the-industrial-internet-of-things-iiot-d4e5b7f2348?source=rss------hadoop-5)
 - [Hadoop 2 — Beginner’s version](https://medium.com/@sathwick.p7/hadoop-2-beginners-version-724277d73d25?source=rss------hadoop-5)
 - [Big Data Solutions ? Hadoop &lpar;Introduction to Hadoop&rpar;](https://medium.com/@rahmad07g/big-data-solutions-hadoop-introduction-to-hadoop-f66def725b44?source=rss------hadoop-5)
@@ -306,8 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Yarn Resource Management Tool For Spark and Hadoop, The Introduction to Yarn Architecture](https://medium.com/cloud-believers/yarn-resource-management-tool-for-spark-and-hadoop-the-introduction-to-yarn-architecture-331347a12cc?source=rss------hadoop-5)
 - [Scalable Architecture for processing massively parallel Data.](https://medium.com/@work.olajumoke/scalable-architecture-for-processing-massively-parallel-data-7dacc1650b18?source=rss------hadoop-5)
 - [What is Big Data?](https://medium.com/@gauravy60/what-is-big-data-2f64d204f17b?source=rss------hadoop-5)
-- [Taking your Baby Steps in Pyspark](https://medium.com/@marksachin.k/taking-your-baby-steps-in-pyspark-632a26c14184?source=rss------hadoop-5)
-- [Hadoop Components Installation Guide In MacOs](https://blog.devops.dev/hadoop-component-installation-in-macos-a6cee9d06698?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
