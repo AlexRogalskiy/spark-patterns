@@ -298,6 +298,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [How to Design Your First Big Data Analytical Solution](https://medium.com/dataprophet/how-to-design-your-first-big-data-analytical-solution-cdcbdb1e76c6?source=rss------hadoop-5)
+- [How to Install Hadoop on Ubuntu](https://medium.com/@biswasavhijit007/how-to-install-hadoop-on-ubuntu-c357b983428c?source=rss------hadoop-5)
 - [Adding some MinIO to your standalone Apache Spark cluster](https://fithis2001.medium.com/adding-some-minio-to-your-standalone-apache-spark-cluster-d068b4f4fdab?source=rss------hadoop-5)
 - [5 Important Big Data Challenges and Solutions](https://medium.com/@chennaiseo90/5-important-big-data-challenges-and-solutions-f6ba3cc22fe1?source=rss------hadoop-5)
 - [An Overview of The Industrial Internet of Things &lpar;IIoT&rpar;](https://medium.com/@patiencesimuli/an-overview-of-the-industrial-internet-of-things-iiot-d4e5b7f2348?source=rss------hadoop-5)
@@ -306,8 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Difference between Hadoop and Spark](https://medium.com/@ansam.yousry/difference-between-hadoop-and-spark-84520b866020?source=rss------hadoop-5)
 - [What happens when files are pushed to HDFS:](https://medium.com/@ambansal1014/what-happens-when-files-are-pushed-to-hdfs-20dc9527e681?source=rss------hadoop-5)
 - [Yarn Resource Management Tool For Spark and Hadoop, The Introduction to Yarn Architecture](https://medium.com/cloud-believers/yarn-resource-management-tool-for-spark-and-hadoop-the-introduction-to-yarn-architecture-331347a12cc?source=rss------hadoop-5)
-- [Scalable Architecture for processing massively parallel Data.](https://medium.com/@work.olajumoke/scalable-architecture-for-processing-massively-parallel-data-7dacc1650b18?source=rss------hadoop-5)
-- [What is Big Data?](https://medium.com/@gauravy60/what-is-big-data-2f64d204f17b?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
