@@ -298,6 +298,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [비 개발자를 위한 개발 이야기— APACHE HADOOP &lpar;FDC/Zeppelin&rpar;](https://medium.com/naverfinancial/%EB%B9%84-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EA%B0%9C%EB%B0%9C-%EC%9D%B4%EC%95%BC%EA%B8%B0-apache-hadoop-fdc-zeppelin-90a878e2bd09?source=rss------hadoop-5)
 - [Data, Big Data, and Hadoop](https://medium.com/dataprophet/data-big-data-and-hadoop-7e53d4ecf3e2?source=rss------hadoop-5)
 - [How to Design Your First Big Data Analytical Solution](https://medium.com/dataprophet/how-to-design-your-first-big-data-analytical-solution-cdcbdb1e76c6?source=rss------hadoop-5)
 - [How to Install Hadoop on Ubuntu](https://medium.com/@biswasavhijit007/how-to-install-hadoop-on-ubuntu-c357b983428c?source=rss------hadoop-5)
@@ -307,7 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Hadoop 2 — Beginner’s version](https://medium.com/@sathwick.p7/hadoop-2-beginners-version-724277d73d25?source=rss------hadoop-5)
 - [Big Data Solutions ? Hadoop &lpar;Introduction to Hadoop&rpar;](https://blog.devgenius.io/big-data-solutions-hadoop-introduction-to-hadoop-f66def725b44?source=rss------hadoop-5)
 - [Difference between Hadoop and Spark](https://medium.com/@ansam.yousry/difference-between-hadoop-and-spark-84520b866020?source=rss------hadoop-5)
-- [What happens when files are pushed to HDFS:](https://medium.com/@ambansal1014/what-happens-when-files-are-pushed-to-hdfs-20dc9527e681?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
