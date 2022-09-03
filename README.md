@@ -298,6 +298,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [What is Hadoop ?](https://code-with-gowtham.medium.com/what-is-hadoop-fe3e65a082d0?source=rss------hadoop-5)
+- [Emerging Trends of Big Data Technology in China and the U.S. in 2022](https://medium.com/codex/emerging-trends-of-big-data-technology-in-china-and-the-u-s-in-2022-1e372e630e57?source=rss------hadoop-5)
 - [비 개발자를 위한 개발 이야기— APACHE HADOOP &lpar;FDC/Zeppelin&rpar;](https://medium.com/naverfinancial/%EB%B9%84-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EA%B0%9C%EB%B0%9C-%EC%9D%B4%EC%95%BC%EA%B8%B0-apache-hadoop-fdc-zeppelin-90a878e2bd09?source=rss------hadoop-5)
 - [Data, Big Data, and Hadoop](https://medium.com/dataprophet/data-big-data-and-hadoop-7e53d4ecf3e2?source=rss------hadoop-5)
 - [How to Design Your First Big Data Analytical Solution](https://medium.com/dataprophet/how-to-design-your-first-big-data-analytical-solution-cdcbdb1e76c6?source=rss------hadoop-5)
@@ -306,8 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [5 Important Big Data Challenges and Solutions](https://medium.com/@chennaiseo90/5-important-big-data-challenges-and-solutions-f6ba3cc22fe1?source=rss------hadoop-5)
 - [An Overview of The Industrial Internet of Things &lpar;IIoT&rpar;](https://medium.com/@patiencesimuli/an-overview-of-the-industrial-internet-of-things-iiot-d4e5b7f2348?source=rss------hadoop-5)
 - [Hadoop 2 — Beginner’s version](https://medium.com/@sathwick.p7/hadoop-2-beginners-version-724277d73d25?source=rss------hadoop-5)
-- [Big Data Solutions ? Hadoop &lpar;Introduction to Hadoop&rpar;](https://blog.devgenius.io/big-data-solutions-hadoop-introduction-to-hadoop-f66def725b44?source=rss------hadoop-5)
-- [Difference between Hadoop and Spark](https://medium.com/@ansam.yousry/difference-between-hadoop-and-spark-84520b866020?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
