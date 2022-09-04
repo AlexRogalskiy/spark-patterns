@@ -298,6 +298,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Criando um cluster Hadoop de nó único &lpar;single node cluster&rpar; e em modo Pseudo-distribuído…](https://crisdemagalhaes.medium.com/criando-um-cluster-hadoop-de-n%C3%B3-%C3%BAnico-single-node-cluster-e-em-modo-pseudo-distribu%C3%ADdo-7bfd745cdc18?source=rss------hadoop-5)
+- [Hive Structure level optimization](https://medium.com/@JainismVivek/hive-structure-level-optimization-f2ddffb28f9c?source=rss------hadoop-5)
 - [What is Hadoop ?](https://code-with-gowtham.medium.com/what-is-hadoop-fe3e65a082d0?source=rss------hadoop-5)
 - [Emerging Trends of Big Data Technology in China and the U.S. in 2022](https://medium.com/codex/emerging-trends-of-big-data-technology-in-china-and-the-u-s-in-2022-1e372e630e57?source=rss------hadoop-5)
 - [비 개발자를 위한 개발 이야기— APACHE HADOOP &lpar;FDC/Zeppelin&rpar;](https://medium.com/naverfinancial/%EB%B9%84-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EA%B0%9C%EB%B0%9C-%EC%9D%B4%EC%95%BC%EA%B8%B0-apache-hadoop-fdc-zeppelin-90a878e2bd09?source=rss------hadoop-5)
@@ -306,8 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [How to Install Hadoop on Ubuntu](https://medium.com/@biswasavhijit007/how-to-install-hadoop-on-ubuntu-c357b983428c?source=rss------hadoop-5)
 - [Adding some MinIO to your standalone Apache Spark cluster](https://fithis2001.medium.com/adding-some-minio-to-your-standalone-apache-spark-cluster-d068b4f4fdab?source=rss------hadoop-5)
 - [5 Important Big Data Challenges and Solutions](https://medium.com/@chennaiseo90/5-important-big-data-challenges-and-solutions-f6ba3cc22fe1?source=rss------hadoop-5)
-- [An Overview of The Industrial Internet of Things &lpar;IIoT&rpar;](https://medium.com/@patiencesimuli/an-overview-of-the-industrial-internet-of-things-iiot-d4e5b7f2348?source=rss------hadoop-5)
-- [Hadoop 2 — Beginner’s version](https://medium.com/@sathwick.p7/hadoop-2-beginners-version-724277d73d25?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
