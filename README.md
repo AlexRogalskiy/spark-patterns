@@ -298,16 +298,16 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Arth Task 4.2](https://medium.com/@satyamskic807681/objective-of-the-task-426fb86f541c?source=rss------hadoop-5)
+- [Arth task 4.1](https://medium.com/@satyamskic807681/arth-task-4-1-8407790a0417?source=rss------hadoop-5)
+- [Concept of Big Data: Analyses of Hadoop and Streaming Data at an Enterprise Level](https://medium.com/@alnisa3340/concept-of-big-data-analyses-of-hadoop-and-streaming-data-at-an-enterprise-level-bb0fa7d6fbf5?source=rss------hadoop-5)
+- [Restricting Hadoop Slave node storage using the LVM concept](https://krithikasharma2129.medium.com/restricting-hadoop-slave-node-storage-using-the-lvm-concept-8cb316748fd7?source=rss------hadoop-5)
+- [What’s Hadoop??? What’s the relation of Hadoop in Big Data…](https://medium.com/@shifanatasneem28/whats-hadoop-what-s-the-relation-of-hadoop-in-big-data-548859ef5ec5?source=rss------hadoop-5)
 - [Best Practice of Hadoop YARN](https://medium.com/@xue3121/best-practice-of-hadoop-yarn-6a46740a1954?source=rss------hadoop-5)
 - [Criando um cluster Hadoop de nó único &lpar;single node cluster&rpar; e em modo Pseudo-distribuído…](https://crisdemagalhaes.medium.com/criando-um-cluster-hadoop-de-n%C3%B3-%C3%BAnico-single-node-cluster-e-em-modo-pseudo-distribu%C3%ADdo-7bfd745cdc18?source=rss------hadoop-5)
 - [Hive Structure level optimization](https://medium.com/@JainismVivek/hive-structure-level-optimization-f2ddffb28f9c?source=rss------hadoop-5)
 - [What is Hadoop ?](https://code-with-gowtham.medium.com/what-is-hadoop-fe3e65a082d0?source=rss------hadoop-5)
 - [Emerging Trends of Big Data Technology in China and the U.S. in 2022](https://medium.com/codex/emerging-trends-of-big-data-technology-in-china-and-the-u-s-in-2022-1e372e630e57?source=rss------hadoop-5)
-- [비 개발자를 위한 개발 이야기— APACHE HADOOP &lpar;FDC/Zeppelin&rpar;](https://medium.com/naverfinancial/%EB%B9%84-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EA%B0%9C%EB%B0%9C-%EC%9D%B4%EC%95%BC%EA%B8%B0-apache-hadoop-fdc-zeppelin-90a878e2bd09?source=rss------hadoop-5)
-- [Data, Big Data, and Hadoop](https://medium.com/dataprophet/data-big-data-and-hadoop-7e53d4ecf3e2?source=rss------hadoop-5)
-- [How to Design Your First Big Data Analytical Solution](https://medium.com/dataprophet/how-to-design-your-first-big-data-analytical-solution-cdcbdb1e76c6?source=rss------hadoop-5)
-- [How to Install Hadoop on Ubuntu](https://medium.com/@biswasavhijit007/how-to-install-hadoop-on-ubuntu-c357b983428c?source=rss------hadoop-5)
-- [Adding some MinIO to your standalone Apache Spark cluster](https://fithis2001.medium.com/adding-some-minio-to-your-standalone-apache-spark-cluster-d068b4f4fdab?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
