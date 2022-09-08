@@ -298,16 +298,16 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
-- [Arth Task 4.2](https://medium.com/@satyamskic807681/objective-of-the-task-426fb86f541c?source=rss------hadoop-5)
-- [Arth task 4.1](https://medium.com/@satyamskic807681/arth-task-4-1-8407790a0417?source=rss------hadoop-5)
-- [Concept of Big Data: Analyses of Hadoop and Streaming Data at an Enterprise Level](https://medium.com/@alnisa3340/concept-of-big-data-analyses-of-hadoop-and-streaming-data-at-an-enterprise-level-bb0fa7d6fbf5?source=rss------hadoop-5)
-- [Restricting Hadoop Slave node storage using the LVM concept](https://krithikasharma2129.medium.com/restricting-hadoop-slave-node-storage-using-the-lvm-concept-8cb316748fd7?source=rss------hadoop-5)
-- [What’s Hadoop??? What’s the relation of Hadoop in Big Data…](https://medium.com/@shifanatasneem28/whats-hadoop-what-s-the-relation-of-hadoop-in-big-data-548859ef5ec5?source=rss------hadoop-5)
-- [Best Practice of Hadoop YARN](https://medium.com/@xue3121/best-practice-of-hadoop-yarn-6a46740a1954?source=rss------hadoop-5)
-- [Criando um cluster Hadoop de nó único &lpar;single node cluster&rpar; e em modo Pseudo-distribuído…](https://crisdemagalhaes.medium.com/criando-um-cluster-hadoop-de-n%C3%B3-%C3%BAnico-single-node-cluster-e-em-modo-pseudo-distribu%C3%ADdo-7bfd745cdc18?source=rss------hadoop-5)
-- [Hive Structure level optimization](https://medium.com/@JainismVivek/hive-structure-level-optimization-f2ddffb28f9c?source=rss------hadoop-5)
-- [What is Hadoop ?](https://code-with-gowtham.medium.com/what-is-hadoop-fe3e65a082d0?source=rss------hadoop-5)
-- [Emerging Trends of Big Data Technology in China and the U.S. in 2022](https://medium.com/codex/emerging-trends-of-big-data-technology-in-china-and-the-u-s-in-2022-1e372e630e57?source=rss------hadoop-5)
+- [Allow specific amout of storage to hadoop datanode](https://asks1012.medium.com/allow-specific-amout-of-storage-to-hadoop-datanode-4a7a563c6864?source=rss------hadoop-5)
+- [Elastic Storage in Hadoop DataNode](https://rahulchoudhary5768.medium.com/elastic-storage-in-hadoop-datanode-d62e50b02816?source=rss------hadoop-5)
+- [Hadoop uses the parallelism concept while uploading data to the cluster &lpar;yes or no&rpar;.](https://rahulchoudhary5768.medium.com/hadoop-uses-the-parallelism-concept-while-uploading-data-to-the-cluster-yes-or-no-e5d39f02639b?source=rss------hadoop-5)
+- [How to allocate a specific amount of storage in the Hadoop cluster DataNode](https://rahulchoudhary5768.medium.com/how-to-allocate-a-specific-amount-of-storage-in-the-hadoop-cluster-datanode-a2da208fd1fa?source=rss------hadoop-5)
+- [Verifying Parallel Data Processing by Hadoop](https://asks1012.medium.com/verifying-parallel-data-processing-by-hadoop-983d146c2ddc?source=rss------hadoop-5)
+- [Hadoop cluster](https://medium.com/@kumarisulekha02112001/hadoop-cluster-cc255cf93e83?source=rss------hadoop-5)
+- [Task 7.1](https://medium.com/@kumarisulekha02112001/task-7-1-703dbc4042a9?source=rss------hadoop-5)
+- [How to contribute limited amount of storage as a slave to the cluster?](https://ananyamudgal21.medium.com/how-to-contribute-limited-amount-of-storage-as-a-slave-to-the-cluster-ab3266ba200c?source=rss------hadoop-5)
+- [Does Hadoop use parallelism Or serialism to upload data on the data node?](https://urvishtalaviya667.medium.com/does-hadoop-use-parallelism-or-serialism-to-upload-data-on-the-data-node-f92caab80b60?source=rss------hadoop-5)
+- [Hadoop uses the concept of parallelism to upload the split data while fulfilling Velocity problem.](https://manojnagabairu.medium.com/hadoop-uses-the-concept-of-parallelism-to-upload-the-split-data-while-fulfilling-velocity-problem-b7b9b4d725c5?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
