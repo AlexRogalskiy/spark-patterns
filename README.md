@@ -298,16 +298,13 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Introduction of hadoop -tutorial for beginners](https://medium.com/@mishra.oct786/introduction-of-hadoop-tutorial-for-beginners-376ba857313e?source=rss------hadoop-5)
+- [YARN: resource manager](https://adosi12.medium.com/yarn-resource-manager-26604f40a778?source=rss------hadoop-5)
 - [Allow specific amout of storage to hadoop datanode](https://asks1012.medium.com/allow-specific-amout-of-storage-to-hadoop-datanode-4a7a563c6864?source=rss------hadoop-5)
-- [Elastic Storage in Hadoop DataNode](https://rahulchoudhary5768.medium.com/elastic-storage-in-hadoop-datanode-d62e50b02816?source=rss------hadoop-5)
-- [Hadoop uses the parallelism concept while uploading data to the cluster &lpar;yes or no&rpar;.](https://rahulchoudhary5768.medium.com/hadoop-uses-the-parallelism-concept-while-uploading-data-to-the-cluster-yes-or-no-e5d39f02639b?source=rss------hadoop-5)
-- [How to allocate a specific amount of storage in the Hadoop cluster DataNode](https://rahulchoudhary5768.medium.com/how-to-allocate-a-specific-amount-of-storage-in-the-hadoop-cluster-datanode-a2da208fd1fa?source=rss------hadoop-5)
 - [Verifying Parallel Data Processing by Hadoop](https://asks1012.medium.com/verifying-parallel-data-processing-by-hadoop-983d146c2ddc?source=rss------hadoop-5)
 - [Hadoop cluster](https://medium.com/@kumarisulekha02112001/hadoop-cluster-cc255cf93e83?source=rss------hadoop-5)
 - [Task 7.1](https://medium.com/@kumarisulekha02112001/task-7-1-703dbc4042a9?source=rss------hadoop-5)
 - [How to contribute limited amount of storage as a slave to the cluster?](https://ananyamudgal21.medium.com/how-to-contribute-limited-amount-of-storage-as-a-slave-to-the-cluster-ab3266ba200c?source=rss------hadoop-5)
-- [Does Hadoop use parallelism Or serialism to upload data on the data node?](https://urvishtalaviya667.medium.com/does-hadoop-use-parallelism-or-serialism-to-upload-data-on-the-data-node-f92caab80b60?source=rss------hadoop-5)
-- [Hadoop uses the concept of parallelism to upload the split data while fulfilling Velocity problem.](https://manojnagabairu.medium.com/hadoop-uses-the-concept-of-parallelism-to-upload-the-split-data-while-fulfilling-velocity-problem-b7b9b4d725c5?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
