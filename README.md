@@ -298,13 +298,13 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Hadoop](https://medium.com/@nikhilpadole2022/hadoop-51575fc1fc9d?source=rss------hadoop-5)
+- [Install, Configure and setup Hadoop in Ubuntu](https://naveen-004.medium.com/install-configure-and-setup-hadoop-in-ubuntu-a3cdd6305a0e?source=rss------hadoop-5)
 - [Introduction of hadoop -tutorial for beginners](https://medium.com/@mishra.oct786/introduction-of-hadoop-tutorial-for-beginners-376ba857313e?source=rss------hadoop-5)
 - [YARN: resource manager](https://adosi12.medium.com/yarn-resource-manager-26604f40a778?source=rss------hadoop-5)
 - [Allow specific amout of storage to hadoop datanode](https://asks1012.medium.com/allow-specific-amout-of-storage-to-hadoop-datanode-4a7a563c6864?source=rss------hadoop-5)
 - [Verifying Parallel Data Processing by Hadoop](https://asks1012.medium.com/verifying-parallel-data-processing-by-hadoop-983d146c2ddc?source=rss------hadoop-5)
 - [Hadoop cluster](https://medium.com/@kumarisulekha02112001/hadoop-cluster-cc255cf93e83?source=rss------hadoop-5)
-- [Task 7.1](https://medium.com/@kumarisulekha02112001/task-7-1-703dbc4042a9?source=rss------hadoop-5)
-- [How to contribute limited amount of storage as a slave to the cluster?](https://ananyamudgal21.medium.com/how-to-contribute-limited-amount-of-storage-as-a-slave-to-the-cluster-ab3266ba200c?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
