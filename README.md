@@ -298,13 +298,14 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Setting Up Hadoop Multi-Node Cluster on Ubuntu &lpar;Multiple Devices&rpar;](https://medium.com/@singhyash32.ys/setting-up-hadoop-multi-node-cluster-on-ubuntu-multiple-devices-637f539ce73a?source=rss------hadoop-5)
+- [How to Setup Hadoop 3.2.1 Single-Node Cluster on Ubuntu](https://medium.com/@mcheema2010/how-to-setup-hadoop-3-2-1-single-node-cluster-on-ubuntu-641fdc6c2b56?source=rss------hadoop-5)
 - [Apache Hadoop HDFS Commands — Hadoop Tutorials](https://medium.com/@mishra.oct786/apache-hadoop-hdfs-commands-hadoop-tutorials-52be6d548170?source=rss------hadoop-5)
 - [Hadoop](https://medium.com/@nikhilpadole2022/hadoop-51575fc1fc9d?source=rss------hadoop-5)
 - [Install, Configure and setup Hadoop in Ubuntu](https://naveen-004.medium.com/install-configure-and-setup-hadoop-in-ubuntu-a3cdd6305a0e?source=rss------hadoop-5)
 - [Introduction of hadoop -tutorial for beginners](https://medium.com/@mishra.oct786/introduction-of-hadoop-tutorial-for-beginners-376ba857313e?source=rss------hadoop-5)
 - [YARN: resource manager](https://adosi12.medium.com/yarn-resource-manager-26604f40a778?source=rss------hadoop-5)
 - [Allow specific amout of storage to hadoop datanode](https://asks1012.medium.com/allow-specific-amout-of-storage-to-hadoop-datanode-4a7a563c6864?source=rss------hadoop-5)
-- [Verifying Parallel Data Processing by Hadoop](https://asks1012.medium.com/verifying-parallel-data-processing-by-hadoop-983d146c2ddc?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
