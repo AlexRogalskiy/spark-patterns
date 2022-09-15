@@ -298,7 +298,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
-- [Setting Up Hadoop Multi-Node Cluster on Ubuntu &lpar;Multiple Devices&rpar;](https://medium.com/@singhyash32.ys/setting-up-hadoop-multi-node-cluster-on-ubuntu-multiple-devices-637f539ce73a?source=rss------hadoop-5)
+- [Setting Up Hadoop Multi-Node Cluster on Ubuntu &lpar;Multiple Devices&rpar;](https://blog.devgenius.io/setting-up-hadoop-multi-node-cluster-on-ubuntu-multiple-devices-637f539ce73a?source=rss------hadoop-5)
 - [How to Setup Hadoop 3.2.1 Single-Node Cluster on Ubuntu](https://medium.com/@mcheema2010/how-to-setup-hadoop-3-2-1-single-node-cluster-on-ubuntu-641fdc6c2b56?source=rss------hadoop-5)
 - [Apache Hadoop HDFS Commands — Hadoop Tutorials](https://medium.com/@mishra.oct786/apache-hadoop-hdfs-commands-hadoop-tutorials-52be6d548170?source=rss------hadoop-5)
 - [Hadoop](https://medium.com/@nikhilpadole2022/hadoop-51575fc1fc9d?source=rss------hadoop-5)
