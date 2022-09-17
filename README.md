@@ -313,7 +313,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld Hadoop posts*
 
 <!-- INFOWORLD-HADOOP-POST-LIST:START -->
-- [Why you should use Presto for ad hoc analytics](https://www.infoworld.com/article/3573576/why-you-should-use-presto-for-ad-hoc-analytics.html#tk.rss_hadoop)
+- [Matei Zaharia, creator of the Apache Spark project, on the big data framework  | True Technologist Ep 2](https://www.infoworld.com/video/90407/matei-zaharia-creator-of-the-apache-spark-project-on-the-big-data-framework-true-technologist-ep-2#tk.rss_hadoop)
 <!-- INFOWORLD-HADOOP-POST-LIST:END -->
 
 ### *Hadoop in real world posts*
