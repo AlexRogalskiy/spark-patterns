@@ -298,6 +298,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [In a Hadoop cluster, find how to contribute limited/specific amount of storage as slave to the…](https://medium.com/@ababdheshkumar/in-a-hadoop-cluster-find-how-to-contribute-limited-specific-amount-of-storage-as-slave-to-the-f7cc688c6510?source=rss------hadoop-5)
 - [HADOOP — AN INTRODUCTION](https://medium.com/@shehryarmallick28/hadoop-an-introduction-1ee6cf4e4094?source=rss------hadoop-5)
 - [HADOOP — MAP REDUCE](https://medium.com/@shehryarmallick28/hadoop-map-reduce-eb9b5938f8d3?source=rss------hadoop-5)
 - [HADOOP — HDFS](https://medium.com/@shehryarmallick28/hadoop-hdfs-f9e5d883a3d8?source=rss------hadoop-5)
@@ -306,8 +307,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [How to Setup Hadoop 3.2.1 Single-Node Cluster on Ubuntu](https://medium.com/@mcheema2010/how-to-setup-hadoop-3-2-1-single-node-cluster-on-ubuntu-641fdc6c2b56?source=rss------hadoop-5)
 - [Apache Hadoop HDFS Commands — Hadoop Tutorials](https://medium.com/@mishra.oct786/apache-hadoop-hdfs-commands-hadoop-tutorials-52be6d548170?source=rss------hadoop-5)
 - [Hadoop](https://medium.com/@nikhilpadole2022/hadoop-51575fc1fc9d?source=rss------hadoop-5)
-- [Install, Configure and setup Hadoop in Ubuntu](https://naveen-004.medium.com/install-configure-and-setup-hadoop-in-ubuntu-a3cdd6305a0e?source=rss------hadoop-5)
-- [Introduction of hadoop -tutorial for beginners](https://medium.com/@mishra.oct786/introduction-of-hadoop-tutorial-for-beginners-376ba857313e?source=rss------hadoop-5)
+- [Install, Configure and setup Hadoop in Ubuntu](https://blog.devgenius.io/install-configure-and-setup-hadoop-in-ubuntu-a3cdd6305a0e?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
