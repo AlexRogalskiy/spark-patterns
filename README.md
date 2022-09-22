@@ -298,6 +298,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Apache Hadoop Architecture-hadoop tutorial for beginners](https://medium.com/@mishra.oct786/apache-hadoop-architecture-hadoop-tutorial-for-beginners-f704c51c7e10?source=rss------hadoop-5)
 - [In a Hadoop cluster, find how to contribute limited/specific amount of storage as slave to the…](https://medium.com/@ababdheshkumar/in-a-hadoop-cluster-find-how-to-contribute-limited-specific-amount-of-storage-as-slave-to-the-8897e3410039?source=rss------hadoop-5)
 - [STOP! Don’t Use Big Data](https://medium.com/@kylefeiner/stop-dont-use-big-data-aad3166c0183?source=rss------hadoop-5)
 - [In a Hadoop cluster, find how to contribute limited/specific amount of storage as slave to the…](https://medium.com/@ababdheshkumar/in-a-hadoop-cluster-find-how-to-contribute-limited-specific-amount-of-storage-as-slave-to-the-f7cc688c6510?source=rss------hadoop-5)
@@ -306,7 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [HADOOP — HDFS](https://medium.com/@shehryarmallick28/hadoop-hdfs-f9e5d883a3d8?source=rss------hadoop-5)
 - [HADOOP — REPLICATION IN HDFS](https://medium.com/@shehryarmallick28/hadoop-replication-in-hdfs-c138c4ad82df?source=rss------hadoop-5)
 - [Setting Up Hadoop Multi-Node Cluster on Ubuntu &lpar;Multiple Devices&rpar;](https://blog.devgenius.io/setting-up-hadoop-multi-node-cluster-on-ubuntu-multiple-devices-637f539ce73a?source=rss------hadoop-5)
-- [How to Setup Hadoop 3.2.1 Single-Node Cluster on Ubuntu](https://medium.com/@mcheema2010/how-to-setup-hadoop-3-2-1-single-node-cluster-on-ubuntu-641fdc6c2b56?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
