@@ -298,6 +298,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [WHAT IS HADOOP?](https://medium.com/@deep.repa/what-is-hadoop-25f573ee0089?source=rss------hadoop-5)
+- [Understanding Hadoop. MapReduce](https://mbvyn.medium.com/understanding-hadoop-mapreduce-14a881ffe606?source=rss------hadoop-5)
 - [Apache Hadoop Architecture-hadoop tutorial for beginners](https://medium.com/@mishra.oct786/apache-hadoop-architecture-hadoop-tutorial-for-beginners-f704c51c7e10?source=rss------hadoop-5)
 - [In a Hadoop cluster, find how to contribute limited/specific amount of storage as slave to the…](https://medium.com/@ababdheshkumar/in-a-hadoop-cluster-find-how-to-contribute-limited-specific-amount-of-storage-as-slave-to-the-8897e3410039?source=rss------hadoop-5)
 - [STOP! Don’t Use Big Data](https://medium.com/@kylefeiner/stop-dont-use-big-data-aad3166c0183?source=rss------hadoop-5)
@@ -305,8 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [HADOOP — AN INTRODUCTION](https://medium.com/@shehryarmallick28/hadoop-an-introduction-1ee6cf4e4094?source=rss------hadoop-5)
 - [HADOOP — MAP REDUCE](https://medium.com/@shehryarmallick28/hadoop-map-reduce-eb9b5938f8d3?source=rss------hadoop-5)
 - [HADOOP — HDFS](https://medium.com/@shehryarmallick28/hadoop-hdfs-f9e5d883a3d8?source=rss------hadoop-5)
-- [HADOOP — REPLICATION IN HDFS](https://medium.com/@shehryarmallick28/hadoop-replication-in-hdfs-c138c4ad82df?source=rss------hadoop-5)
-- [Setting Up Hadoop Multi-Node Cluster on Ubuntu &lpar;Multiple Devices&rpar;](https://blog.devgenius.io/setting-up-hadoop-multi-node-cluster-on-ubuntu-multiple-devices-637f539ce73a?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
