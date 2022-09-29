@@ -292,7 +292,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Databricks adds data governance, marketplace features](https://www.infoworld.com/article/3664939/databricks-adds-data-governance-marketplace-features.html#tk.rss_apachespark)
 - [Databricks open sources its Delta Lake data lakehouse](https://www.infoworld.com/article/3665117/databricks-open-sources-its-delta-lake-data-lake.html#tk.rss_apachespark)
 - [Microsoft brings .NET dev to Apache Spark](https://www.infoworld.com/article/3587595/microsoft-brings-net-dev-to-apache-spark.html#tk.rss_apachespark)
-- [Azure Databricks previews parallelized Photon query engine](https://www.infoworld.com/article/3583657/azure-databricks-previews-parallelized-photon-query-engine.html#tk.rss_apachespark)
 <!-- INFOWORLD-SPARK-POST-LIST:END -->
 
 ### *Hadoop posts*
