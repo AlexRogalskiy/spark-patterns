@@ -297,6 +297,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [It’s all about Big Data….](https://sarvar04.medium.com/its-all-about-big-data-f3b0d7d5d452?source=rss------hadoop-5)
+- [Como instalar e configurar o Hadoop no CentOS](https://medium.com/@krupck/como-instalar-e-configurar-o-hadoop-no-centos-6b538c1d27f4?source=rss------hadoop-5)
 - [Same but Different, Different but Same](https://rockieyang.medium.com/same-but-different-different-but-same-b920c8688bc9?source=rss------hadoop-5)
 - [WHAT IS HADOOP?](https://medium.com/@deep.repa/what-is-hadoop-25f573ee0089?source=rss------hadoop-5)
 - [Understanding Hadoop. MapReduce](https://mbvyn.medium.com/understanding-hadoop-mapreduce-14a881ffe606?source=rss------hadoop-5)
@@ -304,8 +306,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [In a Hadoop cluster, find how to contribute limited/specific amount of storage as slave to the…](https://medium.com/@ababdheshkumar/in-a-hadoop-cluster-find-how-to-contribute-limited-specific-amount-of-storage-as-slave-to-the-8897e3410039?source=rss------hadoop-5)
 - [STOP! Don’t Use Big Data](https://medium.com/@kylefeiner/stop-dont-use-big-data-aad3166c0183?source=rss------hadoop-5)
 - [In a Hadoop cluster, find how to contribute limited/specific amount of storage as slave to the…](https://medium.com/@ababdheshkumar/in-a-hadoop-cluster-find-how-to-contribute-limited-specific-amount-of-storage-as-slave-to-the-f7cc688c6510?source=rss------hadoop-5)
-- [HADOOP — AN INTRODUCTION](https://medium.com/@shehryarmallick28/hadoop-an-introduction-1ee6cf4e4094?source=rss------hadoop-5)
-- [HADOOP — MAP REDUCE](https://medium.com/@shehryarmallick28/hadoop-map-reduce-eb9b5938f8d3?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
