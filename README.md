@@ -297,6 +297,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Your First Script in Apache Pig](https://medium.com/@mudassar_lhr/your-first-script-in-apache-pig-a3815c59195b?source=rss------hadoop-5)
+- [What is Apache Hadoop?](https://medium.com/@meesdc7/what-is-apache-hadoop-a6fa1498dc24?source=rss------hadoop-5)
 - [O Ecossistema Hadoop](https://medium.com/@habbema/o-ecossistema-hadoop-771935d2c25e?source=rss------hadoop-5)
 - [HADOOP — HEARTBEAT](https://medium.com/@shehryarmallick28/hadoop-heartbeat-dbf31a3009f0?source=rss------hadoop-5)
 - [HADOOP — YARN](https://medium.com/@shehryarmallick28/hadoop-yarn-cfde757b74bd?source=rss------hadoop-5)
@@ -305,8 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Same but Different, Different but Same](https://rockieyang.medium.com/same-but-different-different-but-same-b920c8688bc9?source=rss------hadoop-5)
 - [WHAT IS HADOOP?](https://medium.com/@deep.repa/what-is-hadoop-25f573ee0089?source=rss------hadoop-5)
 - [Understanding Hadoop. MapReduce](https://mbvyn.medium.com/understanding-hadoop-mapreduce-14a881ffe606?source=rss------hadoop-5)
-- [Apache Hadoop Architecture-hadoop tutorial for beginners](https://medium.com/@mishra.oct786/apache-hadoop-architecture-hadoop-tutorial-for-beginners-f704c51c7e10?source=rss------hadoop-5)
-- [In a Hadoop cluster, find how to contribute limited/specific amount of storage as slave to the…](https://medium.com/@ababdheshkumar/in-a-hadoop-cluster-find-how-to-contribute-limited-specific-amount-of-storage-as-slave-to-the-8897e3410039?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
