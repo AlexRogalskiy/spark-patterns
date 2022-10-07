@@ -297,6 +297,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Vous en avez assez de passer des nuits blanches à faire tourner un pipeline sur Hadoop ?](https://medium.com/neoxia/vous-en-avez-assez-de-passer-des-nuits-blanches-%C3%A0-faire-tourner-un-pipeline-sur-hadoop-8c85f86e4312?source=rss------hadoop-5)
 - [Data and File Storage in Hadoop](https://blog.devgenius.io/data-and-file-storage-in-hadoop-4659eb3b28a6?source=rss------hadoop-5)
 - [Your First Script in Apache Pig](https://medium.com/@mudassar_lhr/your-first-script-in-apache-pig-a3815c59195b?source=rss------hadoop-5)
 - [What is Apache Hadoop?](https://medium.com/@meesdc7/what-is-apache-hadoop-a6fa1498dc24?source=rss------hadoop-5)
@@ -306,7 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [It’s all about Big Data….](https://sarvar04.medium.com/its-all-about-big-data-f3b0d7d5d452?source=rss------hadoop-5)
 - [Como instalar e configurar o Hadoop no CentOS](https://medium.com/@krupck/como-instalar-e-configurar-o-hadoop-no-centos-6b538c1d27f4?source=rss------hadoop-5)
 - [Same but Different, Different but Same](https://rockieyang.medium.com/same-but-different-different-but-same-b920c8688bc9?source=rss------hadoop-5)
-- [WHAT IS HADOOP?](https://medium.com/@deep.repa/what-is-hadoop-25f573ee0089?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
