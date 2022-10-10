@@ -297,6 +297,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [How to Regex in HBase Shell](https://medium.com/@cupreous.bowels/how-to-regex-in-hbase-shell-4eb952ef7214?source=rss------hadoop-5)
+- [Setting Up HBase In Hadoop Multi-Node Cluster In Ubuntu](https://medium.com/@singhyash32.ys/setting-up-hbase-in-hadoop-multi-node-cluster-setup-96b6f05d558?source=rss------hadoop-5)
 - [Vous en avez assez de passer des nuits blanches à faire tourner un pipeline sur Hadoop ?](https://medium.com/neoxia/vous-en-avez-assez-de-passer-des-nuits-blanches-%C3%A0-faire-tourner-un-pipeline-sur-hadoop-8c85f86e4312?source=rss------hadoop-5)
 - [Data and File Storage in Hadoop](https://blog.devgenius.io/data-and-file-storage-in-hadoop-4659eb3b28a6?source=rss------hadoop-5)
 - [Your First Script in Apache Pig](https://medium.com/@mudassar_lhr/your-first-script-in-apache-pig-a3815c59195b?source=rss------hadoop-5)
@@ -305,8 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [HADOOP — HEARTBEAT](https://medium.com/@shehryarmallick28/hadoop-heartbeat-dbf31a3009f0?source=rss------hadoop-5)
 - [HADOOP — YARN](https://medium.com/@shehryarmallick28/hadoop-yarn-cfde757b74bd?source=rss------hadoop-5)
 - [It’s all about Big Data….](https://sarvar04.medium.com/its-all-about-big-data-f3b0d7d5d452?source=rss------hadoop-5)
-- [Como instalar e configurar o Hadoop no CentOS](https://medium.com/@krupck/como-instalar-e-configurar-o-hadoop-no-centos-6b538c1d27f4?source=rss------hadoop-5)
-- [Same but Different, Different but Same](https://rockieyang.medium.com/same-but-different-different-but-same-b920c8688bc9?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
