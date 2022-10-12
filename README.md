@@ -297,6 +297,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Install Hadoop and Set-up Single-Node Cluster](https://medium.com/@hazirahmohdrafidi/install-hadoop-and-set-up-single-node-cluster-474e466db359?source=rss------hadoop-5)
 - [Hadoop tutorial for beginners -Apache Hadoop Ecosystem](https://medium.com/@mishra.oct786/hadoop-tutorial-for-beginners-apache-hadoop-ecosystem-869db46c2d90?source=rss------hadoop-5)
 - [Big Data ~ MapReduce, Hadoop &amp; Apache Spark Mimarisine Giriş](https://medium.com/@tarikkaan1koc/big-data-mapreduce-hadoop-apache-spark-mimarisine-giri%C5%9F-d132394d3a34?source=rss------hadoop-5)
 - [Apache Hadoop YARN Architecture](https://medium.com/@k12shreyam/apache-hadoop-yarn-architecture-79f0646d7352?source=rss------hadoop-5)
@@ -306,7 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Data and File Storage in Hadoop](https://blog.devgenius.io/data-and-file-storage-in-hadoop-4659eb3b28a6?source=rss------hadoop-5)
 - [Your First Script in Apache Pig](https://medium.com/@mudassar_lhr/your-first-script-in-apache-pig-a3815c59195b?source=rss------hadoop-5)
 - [What is Apache Hadoop?](https://medium.com/@meesdc7/what-is-apache-hadoop-a6fa1498dc24?source=rss------hadoop-5)
-- [O Ecossistema Hadoop](https://medium.com/@habbema/o-ecossistema-hadoop-771935d2c25e?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
