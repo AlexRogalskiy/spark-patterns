@@ -297,16 +297,16 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
-- [Installing Hadoop with HIVE on Mac M1 using Homebrew](https://medium.com/@shadow_white/installing-hadoop-with-hive-on-mac-m1-using-homebrew-3505c6166e83?source=rss------hadoop-5)
+- [Hadoop 1.0](https://sarvar04.medium.com/hadoop-1-0-ae4fe8df3a9d?source=rss------hadoop-5)
+- [Launching A Hadoop Cluster inside a Kubernetes Cluster On AWS and automating it using Ansible and…](https://rahulbhatia1998.medium.com/launching-a-hadoop-cluster-inside-a-kubernetes-cluster-on-aws-and-automating-it-using-ansible-and-d208fbd50e3e?source=rss------hadoop-5)
+- [Benchmarking NoSQL Data Store : HBase vs MongoDB](https://medium.com/@zakariabouaouda1/benchmarking-nosql-data-store-hbase-vs-mongodb-e269118c56c6?source=rss------hadoop-5)
+- [Installing Hadoop with HIVE on Mac M1 using Homebrew](https://medium.com/@daibinraju/installing-hadoop-with-hive-on-mac-m1-using-homebrew-3505c6166e83?source=rss------hadoop-5)
 - [Install Hadoop and Set-up Single-Node Cluster](https://medium.com/@hazirahmohdrafidi/install-hadoop-and-set-up-single-node-cluster-474e466db359?source=rss------hadoop-5)
 - [Hadoop tutorial for beginners -Apache Hadoop Ecosystem](https://medium.com/@mishra.oct786/hadoop-tutorial-for-beginners-apache-hadoop-ecosystem-869db46c2d90?source=rss------hadoop-5)
 - [Big Data ~ MapReduce, Hadoop &amp; Apache Spark Mimarisine Giriş](https://medium.com/@tarikkaan1koc/big-data-mapreduce-hadoop-apache-spark-mimarisine-giri%C5%9F-d132394d3a34?source=rss------hadoop-5)
 - [Apache Hadoop YARN Architecture](https://medium.com/@k12shreyam/apache-hadoop-yarn-architecture-79f0646d7352?source=rss------hadoop-5)
 - [How to Regex in HBase Shell](https://medium.com/@cupreous.bowels/how-to-regex-in-hbase-shell-4eb952ef7214?source=rss------hadoop-5)
 - [Setting Up HBase In Hadoop Multi-Node Cluster In Ubuntu](https://blog.devgenius.io/setting-up-hbase-in-hadoop-multi-node-cluster-setup-96b6f05d558?source=rss------hadoop-5)
-- [Vous en avez assez de passer des nuits blanches à faire tourner un pipeline sur Hadoop ?](https://medium.com/neoxia/vous-en-avez-assez-de-passer-des-nuits-blanches-%C3%A0-faire-tourner-un-pipeline-sur-hadoop-8c85f86e4312?source=rss------hadoop-5)
-- [Data and File Storage in Hadoop](https://blog.devgenius.io/data-and-file-storage-in-hadoop-4659eb3b28a6?source=rss------hadoop-5)
-- [Your First Script in Apache Pig](https://medium.com/@mudassar_lhr/your-first-script-in-apache-pig-a3815c59195b?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
