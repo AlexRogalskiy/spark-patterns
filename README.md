@@ -297,6 +297,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Spark](https://dowra.medium.com/spark-e9d6aacdbdb?source=rss------hadoop-5)
 - [Hadoop 1.0](https://sarvar04.medium.com/hadoop-1-0-ae4fe8df3a9d?source=rss------hadoop-5)
 - [Launching A Hadoop Cluster inside a Kubernetes Cluster On AWS and automating it using Ansible and…](https://rahulbhatia1998.medium.com/launching-a-hadoop-cluster-inside-a-kubernetes-cluster-on-aws-and-automating-it-using-ansible-and-d208fbd50e3e?source=rss------hadoop-5)
 - [Benchmarking NoSQL Data Store : HBase vs MongoDB](https://medium.com/@zakariabouaouda1/benchmarking-nosql-data-store-hbase-vs-mongodb-e269118c56c6?source=rss------hadoop-5)
@@ -306,7 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Big Data ~ MapReduce, Hadoop &amp; Apache Spark Mimarisine Giriş](https://medium.com/@tarikkaan1koc/big-data-mapreduce-hadoop-apache-spark-mimarisine-giri%C5%9F-d132394d3a34?source=rss------hadoop-5)
 - [Apache Hadoop YARN Architecture](https://medium.com/@k12shreyam/apache-hadoop-yarn-architecture-79f0646d7352?source=rss------hadoop-5)
 - [How to Regex in HBase Shell](https://medium.com/@cupreous.bowels/how-to-regex-in-hbase-shell-4eb952ef7214?source=rss------hadoop-5)
-- [Setting Up HBase In Hadoop Multi-Node Cluster In Ubuntu](https://blog.devgenius.io/setting-up-hbase-in-hadoop-multi-node-cluster-setup-96b6f05d558?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
