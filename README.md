@@ -304,7 +304,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Installing Hadoop with HIVE on Mac M1 using Homebrew](https://medium.com/@daibinraju/installing-hadoop-with-hive-on-mac-m1-using-homebrew-3505c6166e83?source=rss------hadoop-5)
 - [Install Hadoop and Set-up Single-Node Cluster](https://medium.com/@hazirahmohdrafidi/install-hadoop-and-set-up-single-node-cluster-474e466db359?source=rss------hadoop-5)
 - [Hadoop tutorial for beginners -Apache Hadoop Ecosystem](https://medium.com/@mishra.oct786/hadoop-tutorial-for-beginners-apache-hadoop-ecosystem-869db46c2d90?source=rss------hadoop-5)
-- [Big Data ~ MapReduce, Hadoop &amp; Apache Spark Mimarisine Giriş](https://medium.com/@tarikkaan1koc/big-data-mapreduce-hadoop-apache-spark-mimarisine-giri%C5%9F-d132394d3a34?source=rss------hadoop-5)
+- [Big Data ~ Apache Hadoop, MapReduce &amp; Apache Spark Mimarisine Giriş](https://medium.com/@tarikkaan1koc/big-data-mapreduce-hadoop-apache-spark-mimarisine-giri%C5%9F-d132394d3a34?source=rss------hadoop-5)
 - [Apache Hadoop YARN Architecture](https://medium.com/@k12shreyam/apache-hadoop-yarn-architecture-79f0646d7352?source=rss------hadoop-5)
 - [How to Regex in HBase Shell](https://medium.com/@cupreous.bowels/how-to-regex-in-hbase-shell-4eb952ef7214?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
