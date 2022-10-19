@@ -297,16 +297,16 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Snowflake로 Datalake 워크로드 확장1](https://medium.com/snowflake-korea/snowflake%EB%A1%9C-datalake-%EC%9B%8C%ED%81%AC%EB%A1%9C%EB%93%9C-%ED%99%95%EC%9E%A5-28a621e6fd7a?source=rss------hadoop-5)
+- [Compression Techniques in Hive](https://sharikrishna26.medium.com/compression-techniques-in-hive-f5929a57ad76?source=rss------hadoop-5)
+- [Map Reduce](https://sharikrishna26.medium.com/map-reduce-1dc485884402?source=rss------hadoop-5)
+- [BIGDATA](https://sharikrishna26.medium.com/bigdata-d25050190710?source=rss------hadoop-5)
 - [Building custom Apache Spark](https://thachngoctran.medium.com/building-custom-apache-spark-df1dd0fc6310?source=rss------hadoop-5)
 - [Spark](https://dowra.medium.com/spark-e9d6aacdbdb?source=rss------hadoop-5)
 - [Hadoop 1.0](https://sarvar04.medium.com/hadoop-1-0-ae4fe8df3a9d?source=rss------hadoop-5)
 - [Launching A Hadoop Cluster inside a Kubernetes Cluster On AWS and automating it using Ansible and…](https://rahulbhatia1998.medium.com/launching-a-hadoop-cluster-inside-a-kubernetes-cluster-on-aws-and-automating-it-using-ansible-and-d208fbd50e3e?source=rss------hadoop-5)
 - [Benchmarking NoSQL Data Store : HBase vs MongoDB](https://medium.com/@zakariabouaouda1/benchmarking-nosql-data-store-hbase-vs-mongodb-e269118c56c6?source=rss------hadoop-5)
 - [Installing Hadoop with HIVE on Mac M1 using Homebrew](https://medium.com/@daibinraju/installing-hadoop-with-hive-on-mac-m1-using-homebrew-3505c6166e83?source=rss------hadoop-5)
-- [Install Hadoop and Set-up Single-Node Cluster](https://medium.com/@hazirahmohdrafidi/install-hadoop-and-set-up-single-node-cluster-474e466db359?source=rss------hadoop-5)
-- [Hadoop tutorial for beginners -Apache Hadoop Ecosystem](https://medium.com/@mishra.oct786/hadoop-tutorial-for-beginners-apache-hadoop-ecosystem-869db46c2d90?source=rss------hadoop-5)
-- [Big Data ~ Apache Hadoop, MapReduce &amp; Apache Spark Mimarisine Giriş](https://medium.com/@tarikkaan1koc/big-data-mapreduce-hadoop-apache-spark-mimarisine-giri%C5%9F-d132394d3a34?source=rss------hadoop-5)
-- [Apache Hadoop YARN Architecture](https://medium.com/@k12shreyam/apache-hadoop-yarn-architecture-79f0646d7352?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
