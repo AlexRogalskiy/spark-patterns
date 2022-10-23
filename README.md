@@ -297,6 +297,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [MapReduce คืออะไร เข้าใจที่มา Hadoop และในด้าน Distributed Computing](https://mesodiar.com/mapreduce-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3-%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B9%83%E0%B8%88%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A1%E0%B8%B2-hadoop-%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%83%E0%B8%99%E0%B8%94%E0%B9%89%E0%B8%B2%E0%B8%99-distributed-computing-d4312d6b52d7?source=rss------hadoop-5)
+- [Hadoop 2.0](https://sarvar04.medium.com/hadoop-2-0-353be28bad2d?source=rss------hadoop-5)
 - [Hadoop Map Reduce: O que é, sua arquitetura e como é executado na prática](https://medium.com/@krupck/hadoop-map-reduce-o-que-%C3%A9-sua-arquitetura-e-como-%C3%A9-executado-na-pr%C3%A1tica-eb1ccacb112f?source=rss------hadoop-5)
 - [How to recover accidently deleted hadoop binaries and configuration files](https://blog.clairvoyantsoft.com/how-to-recover-accidently-deleted-hadoop-binaries-and-configuration-files-8b7bdeb8bffe?source=rss------hadoop-5)
 - [Snowflake로 Datalake 워크로드 확장1](https://medium.com/snowflake-korea/snowflake%EB%A1%9C-datalake-%EC%9B%8C%ED%81%AC%EB%A1%9C%EB%93%9C-%ED%99%95%EC%9E%A5-28a621e6fd7a?source=rss------hadoop-5)
@@ -305,8 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [BIGDATA](https://sharikrishna26.medium.com/bigdata-d25050190710?source=rss------hadoop-5)
 - [Building custom Apache Spark](https://thachngoctran.medium.com/building-custom-apache-spark-df1dd0fc6310?source=rss------hadoop-5)
 - [Spark](https://dowra.medium.com/spark-e9d6aacdbdb?source=rss------hadoop-5)
-- [Hadoop 1.0](https://sarvar04.medium.com/hadoop-1-0-ae4fe8df3a9d?source=rss------hadoop-5)
-- [Launching A Hadoop Cluster inside a Kubernetes Cluster On AWS and automating it using Ansible and…](https://rahulbhatia1998.medium.com/launching-a-hadoop-cluster-inside-a-kubernetes-cluster-on-aws-and-automating-it-using-ansible-and-d208fbd50e3e?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
