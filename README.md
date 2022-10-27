@@ -297,6 +297,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Learning Hadoop For Big Data Enthusiasts](https://medium.com/@daanishs078/9-must-know-r-packages-that-will-make-you-a-better-data-scientist-69d32977b312?source=rss------hadoop-5)
+- [What is the difference between SORT BY and ORDER BY in Hive?](https://medium.com/@mishra.oct786/what-is-the-difference-between-sort-by-and-order-by-in-hive-8705438c2b3c?source=rss------hadoop-5)
 - [Hadoop Docker Installation](https://medium.com/@mcheema2010/hadoop-docker-installation-d3a6082aac71?source=rss------hadoop-5)
 - [Hadoop For Beginners](https://medium.com/the-analytick/hadoop-for-beginners-1b956439853a?source=rss------hadoop-5)
 - [MapReduce คืออะไร เข้าใจที่มา Hadoop และในด้าน Distributed Computing](https://mesodiar.com/mapreduce-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3-%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B9%83%E0%B8%88%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A1%E0%B8%B2-hadoop-%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%83%E0%B8%99%E0%B8%94%E0%B9%89%E0%B8%B2%E0%B8%99-distributed-computing-d4312d6b52d7?source=rss------hadoop-5)
@@ -305,8 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [How to recover accidently deleted hadoop binaries and configuration files](https://blog.clairvoyantsoft.com/how-to-recover-accidently-deleted-hadoop-binaries-and-configuration-files-8b7bdeb8bffe?source=rss------hadoop-5)
 - [Snowflake로 Datalake 워크로드 확장1](https://medium.com/snowflake-korea/snowflake%EB%A1%9C-datalake-%EC%9B%8C%ED%81%AC%EB%A1%9C%EB%93%9C-%ED%99%95%EC%9E%A5-28a621e6fd7a?source=rss------hadoop-5)
 - [Compression Techniques in Hive](https://sharikrishna26.medium.com/compression-techniques-in-hive-f5929a57ad76?source=rss------hadoop-5)
-- [Map Reduce](https://sharikrishna26.medium.com/map-reduce-1dc485884402?source=rss------hadoop-5)
-- [BIGDATA](https://sharikrishna26.medium.com/bigdata-d25050190710?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
