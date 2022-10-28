@@ -297,6 +297,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Handling Name Node Failures](https://medium.com/@prikshitsingla78/handling-name-node-failures-fced6552b52d?source=rss------hadoop-5)
+- [What is Distributed Systems ?](https://medium.com/@neelanjoybandyopadhyay/what-is-distributed-systems-48a2a3e2b513?source=rss------hadoop-5)
 - [Learning Hadoop For Big Data Enthusiasts](https://medium.com/@daanishs078/9-must-know-r-packages-that-will-make-you-a-better-data-scientist-69d32977b312?source=rss------hadoop-5)
 - [What is the difference between SORT BY and ORDER BY in Hive?](https://medium.com/@mishra.oct786/what-is-the-difference-between-sort-by-and-order-by-in-hive-8705438c2b3c?source=rss------hadoop-5)
 - [Hadoop Docker Installation](https://medium.com/@mcheema2010/hadoop-docker-installation-d3a6082aac71?source=rss------hadoop-5)
@@ -305,8 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Hadoop 2.0](https://sarvar04.medium.com/hadoop-2-0-353be28bad2d?source=rss------hadoop-5)
 - [Hadoop Map Reduce: O que é, sua arquitetura e como é executado na prática](https://medium.com/@krupck/hadoop-map-reduce-o-que-%C3%A9-sua-arquitetura-e-como-%C3%A9-executado-na-pr%C3%A1tica-eb1ccacb112f?source=rss------hadoop-5)
 - [How to recover accidently deleted hadoop binaries and configuration files](https://blog.clairvoyantsoft.com/how-to-recover-accidently-deleted-hadoop-binaries-and-configuration-files-8b7bdeb8bffe?source=rss------hadoop-5)
-- [Snowflake로 Datalake 워크로드 확장1](https://medium.com/snowflake-korea/snowflake%EB%A1%9C-datalake-%EC%9B%8C%ED%81%AC%EB%A1%9C%EB%93%9C-%ED%99%95%EC%9E%A5-28a621e6fd7a?source=rss------hadoop-5)
-- [Compression Techniques in Hive](https://sharikrishna26.medium.com/compression-techniques-in-hive-f5929a57ad76?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
