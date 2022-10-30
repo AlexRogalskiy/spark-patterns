@@ -296,6 +296,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [What is the Hadoop Main Eco System then ?](https://medium.com/@neelanjoybandyopadhyay/what-is-the-hadoop-main-eco-system-then-6ece8df4e672?source=rss------hadoop-5)
 - [Handling Name Node Failures](https://medium.com/@prikshitsingla78/handling-name-node-failures-fced6552b52d?source=rss------hadoop-5)
 - [What is Distributed Systems ?](https://medium.com/@neelanjoybandyopadhyay/what-is-distributed-systems-48a2a3e2b513?source=rss------hadoop-5)
 - [Learning Hadoop For Big Data Enthusiasts](https://medium.com/@daanishs078/9-must-know-r-packages-that-will-make-you-a-better-data-scientist-69d32977b312?source=rss------hadoop-5)
@@ -305,7 +306,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [MapReduce คืออะไร เข้าใจที่มา Hadoop และในด้าน Distributed Computing](https://mesodiar.com/mapreduce-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3-%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B9%83%E0%B8%88%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A1%E0%B8%B2-hadoop-%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%83%E0%B8%99%E0%B8%94%E0%B9%89%E0%B8%B2%E0%B8%99-distributed-computing-d4312d6b52d7?source=rss------hadoop-5)
 - [Hadoop 2.0](https://sarvar04.medium.com/hadoop-2-0-353be28bad2d?source=rss------hadoop-5)
 - [Hadoop Map Reduce: O que é, sua arquitetura e como é executado na prática](https://medium.com/@krupck/hadoop-map-reduce-o-que-%C3%A9-sua-arquitetura-e-como-%C3%A9-executado-na-pr%C3%A1tica-eb1ccacb112f?source=rss------hadoop-5)
-- [How to recover accidently deleted hadoop binaries and configuration files](https://blog.clairvoyantsoft.com/how-to-recover-accidently-deleted-hadoop-binaries-and-configuration-files-8b7bdeb8bffe?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
