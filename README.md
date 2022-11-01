@@ -296,6 +296,9 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Installation of Hadoop on Windows](https://medium.com/@prikshitsingla78/installation-of-hadoop-on-windows-266671e79921?source=rss------hadoop-5)
+- [Hadoop Users Mailing List](https://medium.com/@targetnxt1/hadoop-users-mailing-list-5972c9aca274?source=rss------hadoop-5)
+- [Glance on Spark optimization techniques](https://medium.com/globant/glance-on-spark-optimization-techniques-1d3df3074e41?source=rss------hadoop-5)
 - [What is the Hadoop Main Eco System then ?](https://medium.com/@neelanjoybandyopadhyay/what-is-the-hadoop-main-eco-system-then-6ece8df4e672?source=rss------hadoop-5)
 - [Handling Name Node Failures](https://medium.com/@prikshitsingla78/handling-name-node-failures-fced6552b52d?source=rss------hadoop-5)
 - [What is Distributed Systems ?](https://medium.com/@neelanjoybandyopadhyay/what-is-distributed-systems-48a2a3e2b513?source=rss------hadoop-5)
@@ -303,9 +306,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [What is the difference between SORT BY and ORDER BY in Hive?](https://medium.com/@mishra.oct786/what-is-the-difference-between-sort-by-and-order-by-in-hive-8705438c2b3c?source=rss------hadoop-5)
 - [Hadoop Docker Installation](https://medium.com/@mcheema2010/hadoop-docker-installation-d3a6082aac71?source=rss------hadoop-5)
 - [Hadoop For Beginners](https://medium.com/the-analytick/hadoop-for-beginners-1b956439853a?source=rss------hadoop-5)
-- [MapReduce คืออะไร เข้าใจที่มา Hadoop และในด้าน Distributed Computing](https://mesodiar.com/mapreduce-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3-%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B9%83%E0%B8%88%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A1%E0%B8%B2-hadoop-%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%83%E0%B8%99%E0%B8%94%E0%B9%89%E0%B8%B2%E0%B8%99-distributed-computing-d4312d6b52d7?source=rss------hadoop-5)
-- [Hadoop 2.0](https://sarvar04.medium.com/hadoop-2-0-353be28bad2d?source=rss------hadoop-5)
-- [Hadoop Map Reduce: O que é, sua arquitetura e como é executado na prática](https://medium.com/@krupck/hadoop-map-reduce-o-que-%C3%A9-sua-arquitetura-e-como-%C3%A9-executado-na-pr%C3%A1tica-eb1ccacb112f?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
