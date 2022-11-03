@@ -296,6 +296,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Map Reduce](https://medium.com/@prikshitsingla78/map-reduce-48f75605a299?source=rss------hadoop-5)
+- [Hadoop HDFS on Docker on Mac](https://medium.com/@meiyaowen/hadoop-hdfs-on-docker-on-mac-9724ca8dca34?source=rss------hadoop-5)
 - [Hadoop Nədir?.](https://medium.com/@vilayat571/hadoop-n%C9%99dir-da8338bd9886?source=rss------hadoop-5)
 - [HDFS Commands](https://medium.com/@prikshitsingla78/hdfs-commands-db5865e6305e?source=rss------hadoop-5)
 - [Installation of Hadoop on Windows](https://medium.com/@prikshitsingla78/installation-of-hadoop-on-windows-266671e79921?source=rss------hadoop-5)
@@ -304,8 +306,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [What is the Hadoop Main Eco System then ?](https://medium.com/@neelanjoybandyopadhyay/what-is-the-hadoop-main-eco-system-then-6ece8df4e672?source=rss------hadoop-5)
 - [Handling Name Node Failures](https://medium.com/@prikshitsingla78/handling-name-node-failures-fced6552b52d?source=rss------hadoop-5)
 - [What is Distributed Systems ?](https://medium.com/@neelanjoybandyopadhyay/what-is-distributed-systems-48a2a3e2b513?source=rss------hadoop-5)
-- [Learning Hadoop For Big Data Enthusiasts](https://medium.com/@daanishs078/9-must-know-r-packages-that-will-make-you-a-better-data-scientist-69d32977b312?source=rss------hadoop-5)
-- [What is the difference between SORT BY and ORDER BY in Hive?](https://medium.com/@mishra.oct786/what-is-the-difference-between-sort-by-and-order-by-in-hive-8705438c2b3c?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
