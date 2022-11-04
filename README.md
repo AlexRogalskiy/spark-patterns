@@ -296,6 +296,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Map Reduce Example](https://blog.devgenius.io/map-reduce-example-89bd529e4277?source=rss------hadoop-5)
 - [Map Reduce](https://medium.com/@prikshitsingla78/map-reduce-48f75605a299?source=rss------hadoop-5)
 - [Hadoop HDFS on Docker on Mac](https://medium.com/@meiyaowen/hadoop-hdfs-on-docker-on-mac-9724ca8dca34?source=rss------hadoop-5)
 - [Hadoop Nədir?.](https://medium.com/@vilayat571/hadoop-n%C9%99dir-da8338bd9886?source=rss------hadoop-5)
@@ -305,7 +306,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Glance at Spark optimization techniques](https://medium.com/globant/glance-on-spark-optimization-techniques-1d3df3074e41?source=rss------hadoop-5)
 - [What is the Hadoop Main Eco System then ?](https://medium.com/@neelanjoybandyopadhyay/what-is-the-hadoop-main-eco-system-then-6ece8df4e672?source=rss------hadoop-5)
 - [Handling Name Node Failures](https://medium.com/@prikshitsingla78/handling-name-node-failures-fced6552b52d?source=rss------hadoop-5)
-- [What is Distributed Systems ?](https://medium.com/@neelanjoybandyopadhyay/what-is-distributed-systems-48a2a3e2b513?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
