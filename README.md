@@ -296,6 +296,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [WordCount using PySpark and HDFS](https://blog.devgenius.io/wordcount-using-pyspark-and-hdfs-2567367beb63?source=rss------hadoop-5)
+- [What is Lambda Architecture](https://medium.com/cloud-believers/what-is-lambda-architecture-f18034bf271c?source=rss------hadoop-5)
 - [HDFS System with hdfs3 python](https://sid41x4.medium.com/hdfs-system-with-hdfs3-python-70d5b881a73b?source=rss------hadoop-5)
 - [Map Reduce Example](https://blog.devgenius.io/map-reduce-example-89bd529e4277?source=rss------hadoop-5)
 - [Map Reduce](https://medium.com/@prikshitsingla78/map-reduce-48f75605a299?source=rss------hadoop-5)
@@ -304,8 +306,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [HDFS Commands](https://medium.com/@prikshitsingla78/hdfs-commands-db5865e6305e?source=rss------hadoop-5)
 - [Installation of Hadoop on Windows](https://medium.com/@prikshitsingla78/installation-of-hadoop-on-windows-266671e79921?source=rss------hadoop-5)
 - [Hadoop Users Mailing List](https://medium.com/@targetnxt1/hadoop-users-mailing-list-5972c9aca274?source=rss------hadoop-5)
-- [Glance at Spark optimization techniques](https://medium.com/globant/glance-on-spark-optimization-techniques-1d3df3074e41?source=rss------hadoop-5)
-- [What is the Hadoop Main Eco System then ?](https://medium.com/@neelanjoybandyopadhyay/what-is-the-hadoop-main-eco-system-then-6ece8df4e672?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
