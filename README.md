@@ -296,6 +296,10 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [What happens when files are pushed to HDFS:
+===================](https://medium.com/@ambansal1014/what-happens-when-files-are-pushed-to-hdfs-9f2e77498960?source=rss------hadoop-5)
+- [2003–2023: A Brief History of Big Data](https://towardsdatascience.com/2003-2023-a-brief-history-of-big-data-25712351a6bc?source=rss------hadoop-5)
+- [Elasticsearch Snapshot And Restore HDFS Configuration](https://medium.com/@uysal.mg24/elasticsearch-snapshot-and-restore-hdfs-configuration-da9ee0b4f64e?source=rss------hadoop-5)
 - [YARN Long-Running Alerting Script &lpar;Shell and Python&rpar;](https://blog.clairvoyantsoft.com/yarn-long-running-alerting-script-shell-and-python-d3ce7f12de08?source=rss------hadoop-5)
 - [10 Hard Skills Every Java Developer Should Have](https://theiotacademy.medium.com/10-hard-skills-every-java-developer-should-have-cc1915a825fe?source=rss------hadoop-5)
 - [Optimizing Map Reduce Job](https://blog.devgenius.io/optimizing-map-reduce-job-fe7e3dc12001?source=rss------hadoop-5)
@@ -303,9 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [What is Lambda Architecture](https://medium.com/cloud-believers/what-is-lambda-architecture-f18034bf271c?source=rss------hadoop-5)
 - [HDFS System with hdfs3 python](https://sid41x4.medium.com/hdfs-system-with-hdfs3-python-70d5b881a73b?source=rss------hadoop-5)
 - [Map Reduce Example](https://blog.devgenius.io/map-reduce-example-89bd529e4277?source=rss------hadoop-5)
-- [Map Reduce](https://medium.com/@prikshitsingla78/map-reduce-48f75605a299?source=rss------hadoop-5)
-- [Hadoop HDFS on Docker on Mac](https://medium.com/@meiyaowen/hadoop-hdfs-on-docker-on-mac-9724ca8dca34?source=rss------hadoop-5)
-- [Hadoop Nədir?.](https://medium.com/@vilayat571/hadoop-n%C9%99dir-da8338bd9886?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
