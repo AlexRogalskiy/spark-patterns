@@ -296,6 +296,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Apache Spark: ecosystem overview with Apache Hadoop YARN and HDFS](https://medium.com/@glegoux/apache-spark-ecosystem-with-hadoop-apache-yarn-and-hdfs-8e64eeba68c0?source=rss------hadoop-5)
 - [What happens when files are pushed to HDFS:
 ===================](https://medium.com/@ambansal1014/what-happens-when-files-are-pushed-to-hdfs-9f2e77498960?source=rss------hadoop-5)
 - [2003–2023: A Brief History of Big Data](https://towardsdatascience.com/2003-2023-a-brief-history-of-big-data-25712351a6bc?source=rss------hadoop-5)
@@ -306,7 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [WordCount using PySpark and HDFS](https://blog.devgenius.io/wordcount-using-pyspark-and-hdfs-2567367beb63?source=rss------hadoop-5)
 - [What is Lambda Architecture](https://medium.com/cloud-believers/what-is-lambda-architecture-f18034bf271c?source=rss------hadoop-5)
 - [HDFS System with hdfs3 python](https://sid41x4.medium.com/hdfs-system-with-hdfs3-python-70d5b881a73b?source=rss------hadoop-5)
-- [Map Reduce Example](https://blog.devgenius.io/map-reduce-example-89bd529e4277?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
