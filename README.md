@@ -296,17 +296,17 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
-- [Apache Spark: ecosystem overview with Apache Hadoop YARN and HDFS](https://medium.com/@glegoux/apache-spark-ecosystem-with-hadoop-apache-yarn-and-hdfs-8e64eeba68c0?source=rss------hadoop-5)
+- [Data lake](https://sharikrishna26.medium.com/data-lake-dd3e988ba70a?source=rss------hadoop-5)
+- [Data Processing Applications-Hadoop Data Processing](https://sharikrishna26.medium.com/data-processing-applications-hadoop-data-processing-5634775c6424?source=rss------hadoop-5)
+- [What is Kafka?](https://adosi12.medium.com/what-is-kafka-877e73df5eba?source=rss------hadoop-5)
+- [Getting Started with SQOOP](https://medium.com/@prikshitsingla78/getting-started-with-sqoop-4d15a74f2e4a?source=rss------hadoop-5)
+- [Apache Spark: Ecosystem Overview with Apache Hadoop YARN and HDFS](https://medium.com/@glegoux/apache-spark-ecosystem-with-hadoop-apache-yarn-and-hdfs-8e64eeba68c0?source=rss------hadoop-5)
 - [What happens when files are pushed to HDFS:
 ===================](https://medium.com/@ambansal1014/what-happens-when-files-are-pushed-to-hdfs-9f2e77498960?source=rss------hadoop-5)
 - [2003–2023: A Brief History of Big Data](https://towardsdatascience.com/2003-2023-a-brief-history-of-big-data-25712351a6bc?source=rss------hadoop-5)
 - [Elasticsearch Snapshot And Restore HDFS Configuration](https://medium.com/@uysal.mg24/elasticsearch-snapshot-and-restore-hdfs-configuration-da9ee0b4f64e?source=rss------hadoop-5)
 - [YARN Long-Running Alerting Script &lpar;Shell and Python&rpar;](https://blog.clairvoyantsoft.com/yarn-long-running-alerting-script-shell-and-python-d3ce7f12de08?source=rss------hadoop-5)
 - [10 Hard Skills Every Java Developer Should Have](https://theiotacademy.medium.com/10-hard-skills-every-java-developer-should-have-cc1915a825fe?source=rss------hadoop-5)
-- [Optimizing Map Reduce Job](https://blog.devgenius.io/optimizing-map-reduce-job-fe7e3dc12001?source=rss------hadoop-5)
-- [WordCount using PySpark and HDFS](https://blog.devgenius.io/wordcount-using-pyspark-and-hdfs-2567367beb63?source=rss------hadoop-5)
-- [What is Lambda Architecture](https://medium.com/cloud-believers/what-is-lambda-architecture-f18034bf271c?source=rss------hadoop-5)
-- [HDFS System with hdfs3 python](https://sid41x4.medium.com/hdfs-system-with-hdfs3-python-70d5b881a73b?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
