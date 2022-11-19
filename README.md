@@ -296,6 +296,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Apache Hadoop Applications](https://adosi12.medium.com/apache-hadoop-applications-c5eb8dd85925?source=rss------hadoop-5)
 - [Selenium Training In Nagpur || PSK Technologies Pvt. Ltd](https://medium.com/@psk.apekshabagde20/selenium-training-in-nagpur-psk-technologies-pvt-ltd-299c23d31e24?source=rss------hadoop-5)
 - [Data Caching Essentials](https://sharikrishna26.medium.com/data-caching-essentials-3934389c65ba?source=rss------hadoop-5)
 - [Data lake](https://sharikrishna26.medium.com/data-lake-dd3e988ba70a?source=rss------hadoop-5)
@@ -306,7 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [What happens when files are pushed to HDFS:
 ===================](https://medium.com/@ambansal1014/what-happens-when-files-are-pushed-to-hdfs-9f2e77498960?source=rss------hadoop-5)
 - [2003–2023: A Brief History of Big Data](https://towardsdatascience.com/2003-2023-a-brief-history-of-big-data-25712351a6bc?source=rss------hadoop-5)
-- [Elasticsearch Snapshot And Restore HDFS Configuration](https://medium.com/@uysal.mg24/elasticsearch-snapshot-and-restore-hdfs-configuration-da9ee0b4f64e?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
