@@ -296,6 +296,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Python has a large number of machine learning libraries, but it cannot be combined with hadoop.](https://medium.com/@lydiabilodeau79/python-has-a-large-number-of-machine-learning-libraries-but-it-cannot-be-combined-with-hadoop-3347484d27f8?source=rss------hadoop-5)
 - [Apache Hadoop Applications](https://adosi12.medium.com/apache-hadoop-applications-c5eb8dd85925?source=rss------hadoop-5)
 - [Selenium Training In Nagpur || PSK Technologies Pvt. Ltd](https://medium.com/@psk.apekshabagde20/selenium-training-in-nagpur-psk-technologies-pvt-ltd-299c23d31e24?source=rss------hadoop-5)
 - [Data Caching Essentials](https://sharikrishna26.medium.com/data-caching-essentials-3934389c65ba?source=rss------hadoop-5)
@@ -306,7 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Apache Spark: Ecosystem Overview with Apache Hadoop YARN and HDFS](https://medium.com/@glegoux/apache-spark-ecosystem-with-hadoop-apache-yarn-and-hdfs-8e64eeba68c0?source=rss------hadoop-5)
 - [What happens when files are pushed to HDFS:
 ===================](https://medium.com/@ambansal1014/what-happens-when-files-are-pushed-to-hdfs-9f2e77498960?source=rss------hadoop-5)
-- [2003–2023: A Brief History of Big Data](https://towardsdatascience.com/2003-2023-a-brief-history-of-big-data-25712351a6bc?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
