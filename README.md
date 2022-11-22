@@ -296,6 +296,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [So How HDFS can fail ?](https://medium.com/@neelanjoybandyopadhyay/so-how-hdfs-can-fail-2ee84293a691?source=rss------hadoop-5)
+- [pyarrow and hdfs metadata: A love/hate story](https://medium.com/@steven_40734/pyarrow-and-hdfs-metadata-a-love-hate-story-e0d97dffaa25?source=rss------hadoop-5)
 - [Python has a large number of machine learning libraries, but it cannot be combined with hadoop.](https://medium.com/@lydiabilodeau79/python-has-a-large-number-of-machine-learning-libraries-but-it-cannot-be-combined-with-hadoop-3347484d27f8?source=rss------hadoop-5)
 - [Apache Hadoop Applications](https://adosi12.medium.com/apache-hadoop-applications-c5eb8dd85925?source=rss------hadoop-5)
 - [Selenium Training In Nagpur || PSK Technologies Pvt. Ltd](https://medium.com/@psk.apekshabagde20/selenium-training-in-nagpur-psk-technologies-pvt-ltd-299c23d31e24?source=rss------hadoop-5)
@@ -304,9 +306,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Data Processing Applications-Hadoop Data Processing](https://sharikrishna26.medium.com/data-processing-applications-hadoop-data-processing-5634775c6424?source=rss------hadoop-5)
 - [What is Kafka?](https://adosi12.medium.com/what-is-kafka-877e73df5eba?source=rss------hadoop-5)
 - [Getting Started with SQOOP](https://medium.com/towards-data-engineering/getting-started-with-sqoop-4d15a74f2e4a?source=rss------hadoop-5)
-- [Apache Spark: Ecosystem Overview with Apache Hadoop YARN and HDFS](https://medium.com/@glegoux/apache-spark-ecosystem-with-hadoop-apache-yarn-and-hdfs-8e64eeba68c0?source=rss------hadoop-5)
-- [What happens when files are pushed to HDFS:
-===================](https://medium.com/@ambansal1014/what-happens-when-files-are-pushed-to-hdfs-9f2e77498960?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
