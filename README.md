@@ -296,6 +296,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Renewing TLS Certificate for Cloudera](https://blog.clairvoyantsoft.com/renewing-tls-certificate-for-cloudera-41cf32469e8d?source=rss------hadoop-5)
 - [Apache Hive Hands-on](https://avinashnavlani.medium.com/apache-hive-hands-on-13342286b96a?source=rss------hadoop-5)
 - [HBase Table Schema Design and Concepts](https://nivedita-mondal.medium.com/hbase-table-schema-design-and-concepts-6106ef48adeb?source=rss------hadoop-5)
 - [So How HDFS can fail ?](https://medium.com/@neelanjoybandyopadhyay/so-how-hdfs-can-fail-2ee84293a691?source=rss------hadoop-5)
@@ -304,8 +305,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Apache Hadoop Applications](https://adosi12.medium.com/apache-hadoop-applications-c5eb8dd85925?source=rss------hadoop-5)
 - [Selenium Training In Nagpur || PSK Technologies Pvt. Ltd](https://medium.com/@psk.apekshabagde20/selenium-training-in-nagpur-psk-technologies-pvt-ltd-299c23d31e24?source=rss------hadoop-5)
 - [Data Caching Essentials](https://sharikrishna26.medium.com/data-caching-essentials-3934389c65ba?source=rss------hadoop-5)
-- [Data lake](https://sharikrishna26.medium.com/data-lake-dd3e988ba70a?source=rss------hadoop-5)
-- [Data Processing Applications-Hadoop Data Processing](https://sharikrishna26.medium.com/data-processing-applications-hadoop-data-processing-5634775c6424?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
