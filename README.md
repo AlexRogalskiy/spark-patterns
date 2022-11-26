@@ -274,6 +274,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Huge order lol](https://www.reddit.com/r/spark/comments/z4let0/huge_order_lol/)
 - [Does num_partions affect writing speed to rds ?](https://www.reddit.com/r/spark/comments/yrkm1a/does_num_partions_affect_writing_speed_to_rds/)
 - [SPARK as good as Rust for safer coding? AdaCore cites Nvidia case study.](https://www.reddit.com/r/spark/comments/yqhqte/spark_as_good_as_rust_for_safer_coding_adacore/)
 - [can someone tell me how to find the majority of elements in an array](https://www.reddit.com/r/spark/comments/y9blye/can_someone_tell_me_how_to_find_the_majority_of/)
@@ -283,7 +284,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [New Competition: Ada/SPARK Crate Of The Year Award](https://www.reddit.com/r/spark/comments/o9hbo3/new_competition_adaspark_crate_of_the_year_award/)
 - [SPARKNaCl with GNAT and SPARK Community 2021: Port, Proof and Performance](https://www.reddit.com/r/spark/comments/o7lcg7/sparknacl_with_gnat_and_spark_community_2021_port/)
 - [Going beyond Ada 2022](https://www.reddit.com/r/spark/comments/o69ual/going_beyond_ada_2022/)
-- [From Rust to SPARK: Formally Proven Bip-Buffers](https://www.reddit.com/r/spark/comments/n647py/from_rust_to_spark_formally_proven_bipbuffers/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld Spark posts*
