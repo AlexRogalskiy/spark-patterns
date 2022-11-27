@@ -296,15 +296,15 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Steps to move Cloudera Report Manager role to another node](https://blog.clairvoyantsoft.com/steps-to-move-cloudera-report-manager-role-to-another-node-d2fdfe358eee?source=rss------hadoop-5)
+- [Playing with Spark &amp; Jupyter Notebooks Locally](https://ogramos.medium.com/playing-with-spark-jupyter-notebooks-locally-78a8b13ff880?source=rss------hadoop-5)
+- [Big Data Interview Questions and Answers](https://avinashnavlani.medium.com/big-data-interview-questions-and-answers-e86147286bda?source=rss------hadoop-5)
 - [How  to solve the “large number of small files” problem in Spark](https://medium.com/globant/how-to-solve-a-large-number-of-small-files-problem-in-spark-21f819eb36d3?source=rss------hadoop-5)
 - [How to Handle Big Data with Apache Hadoop?](https://medium.com/@rajeshwariquake/how-to-handle-big-data-with-apache-hadoop-40f03e61e713?source=rss------hadoop-5)
 - [What is Distributed Computing?](https://medium.com/@dineshkumarkct/what-is-distributed-computing-331bd48f856e?source=rss------hadoop-5)
 - [Wordcount dengan Hadoop Mengunakan Terminal](https://medium.com/@jendra.tab/wordcount-dengan-hadoop-mengunakan-terminal-a789062d90cf?source=rss------hadoop-5)
 - [Hadoop Training In Nagpur || PSK Technologies Pvt. Ltd](https://medium.com/@psk.apekshabagde20/hadoop-training-in-nagpur-psk-technologies-pvt-ltd-f1d88dc68cf3?source=rss------hadoop-5)
 - [Renewing TLS Certificate for Cloudera](https://blog.clairvoyantsoft.com/renewing-tls-certificate-for-cloudera-41cf32469e8d?source=rss------hadoop-5)
-- [Apache Hive Hands-on](https://avinashnavlani.medium.com/apache-hive-hands-on-13342286b96a?source=rss------hadoop-5)
-- [HBase Table Schema Design and Concepts](https://nivedita-mondal.medium.com/hbase-table-schema-design-and-concepts-6106ef48adeb?source=rss------hadoop-5)
-- [So How HDFS can fail ?](https://medium.com/@neelanjoybandyopadhyay/so-how-hdfs-can-fail-2ee84293a691?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
