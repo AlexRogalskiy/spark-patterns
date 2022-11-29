@@ -296,6 +296,9 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Hadoop —Exemplos de execução](https://medium.com/@gabrielasereniski/hadoop-exemplos-de-execu%C3%A7%C3%A3o-d86bf46cbd12?source=rss------hadoop-5)
+- [What is Hadoop?](https://nitishdatascience.medium.com/what-is-hadoop-603a4c2ba168?source=rss------hadoop-5)
+- [Настройка кластера Apache NiFi со встроенным Zookeeper](https://medium.com/@bigdataschool/%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0-%D0%BA%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%B0-apache-nifi-%D1%81%D0%BE-%D0%B2%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BD%D0%BD%D1%8B%D0%BC-zookeeper-1c334fd03b1b?source=rss------hadoop-5)
 - [Data Analysis with Apache HDFS, Hive, Sqoop](https://medium.com/@TalhaNebiKumru/data-analysis-with-apache-hdfs-hive-sqoop-c60bf090d746?source=rss------hadoop-5)
 - [Hadoop : In One Minute](https://medium.com/@rakeshkr2/hadoop-in-one-minute-9d6def074179?source=rss------hadoop-5)
 - [Steps to move Cloudera Report Manager role to another node](https://blog.clairvoyantsoft.com/steps-to-move-cloudera-report-manager-role-to-another-node-d2fdfe358eee?source=rss------hadoop-5)
@@ -303,9 +306,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Big Data Interview Questions and Answers](https://avinashnavlani.medium.com/big-data-interview-questions-and-answers-e86147286bda?source=rss------hadoop-5)
 - [How  to solve the “large number of small files” problem in Spark](https://medium.com/globant/how-to-solve-a-large-number-of-small-files-problem-in-spark-21f819eb36d3?source=rss------hadoop-5)
 - [How to Handle Big Data with Apache Hadoop?](https://medium.com/@rajeshwariquake/how-to-handle-big-data-with-apache-hadoop-40f03e61e713?source=rss------hadoop-5)
-- [What is Distributed Computing?](https://medium.com/@dineshkumarkct/what-is-distributed-computing-331bd48f856e?source=rss------hadoop-5)
-- [Wordcount dengan Hadoop Mengunakan Terminal](https://medium.com/@jendra.tab/wordcount-dengan-hadoop-mengunakan-terminal-a789062d90cf?source=rss------hadoop-5)
-- [Hadoop Training In Nagpur || PSK Technologies Pvt. Ltd](https://medium.com/@psk.apekshabagde20/hadoop-training-in-nagpur-psk-technologies-pvt-ltd-f1d88dc68cf3?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
