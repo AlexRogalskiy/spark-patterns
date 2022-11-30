@@ -289,6 +289,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld Spark posts*
 
 <!-- INFOWORLD-SPARK-POST-LIST:START -->
+- [AWS Glue upgrades Spark engines, backs Ray framework](https://www.infoworld.com/article/3681339/aws-glue-upgrades-spark-engines-backs-ray-framework.html#tk.rss_apachespark)
 - [Databricks adds data governance, marketplace features](https://www.infoworld.com/article/3664939/databricks-adds-data-governance-marketplace-features.html#tk.rss_apachespark)
 - [Databricks open sources its Delta Lake data lakehouse](https://www.infoworld.com/article/3665117/databricks-open-sources-its-delta-lake-data-lake.html#tk.rss_apachespark)
 <!-- INFOWORLD-SPARK-POST-LIST:END -->
