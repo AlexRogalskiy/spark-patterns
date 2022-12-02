@@ -297,6 +297,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [CDH installation and CDP Upgrade Challenges](https://blog.clairvoyantsoft.com/cdh-installation-and-cdp-upgrade-challenges-e177efe66a2e?source=rss------hadoop-5)
+- [Wordcount Hadoop menggunakan Java](https://medium.com/@jendra.tab/wordcount-hadoop-menggunakan-java-70cb4c55dc4d?source=rss------hadoop-5)
 - [Analyzing the Saudi Stock Exchange &lpar;Tadawul&rpar; Using Hadoop](https://medium.com/@ERu24_/analyzing-the-saudi-stock-exchange-tadawul-using-hadoop-fd6e34a50775?source=rss------hadoop-5)
 - [Heard Big Data, let’s know it.](https://blog.devgenius.io/heard-big-data-lets-know-it-a3aac6cf5ae7?source=rss------hadoop-5)
 - [Сериализация данных в Apache Hive](https://medium.com/@bigdataschool/%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-%D0%B2-apache-hive-2bfd494be787?source=rss------hadoop-5)
@@ -305,8 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Настройка кластера Apache NiFi со встроенным Zookeeper](https://medium.com/@bigdataschool/%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0-%D0%BA%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%B0-apache-nifi-%D1%81%D0%BE-%D0%B2%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BD%D0%BD%D1%8B%D0%BC-zookeeper-1c334fd03b1b?source=rss------hadoop-5)
 - [Data Analysis with Apache HDFS, Hive, Sqoop](https://medium.com/@TalhaNebiKumru/data-analysis-with-apache-hdfs-hive-sqoop-c60bf090d746?source=rss------hadoop-5)
 - [Hadoop : In One Minute](https://medium.com/@rakeshkr2/hadoop-in-one-minute-9d6def074179?source=rss------hadoop-5)
-- [Steps to move Cloudera Report Manager role to another node](https://blog.clairvoyantsoft.com/steps-to-move-cloudera-report-manager-role-to-another-node-d2fdfe358eee?source=rss------hadoop-5)
-- [Playing with Spark &amp; Jupyter Notebooks Locally](https://ogramos.medium.com/playing-with-spark-jupyter-notebooks-locally-78a8b13ff880?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
