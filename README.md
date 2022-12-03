@@ -274,6 +274,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Null Values in PySpark](https://www.reddit.com/r/spark/comments/zaru1r/null_values_in_pyspark/)
 - [Huge order lol](https://www.reddit.com/r/spark/comments/z4let0/huge_order_lol/)
 - [Does num_partions affect writing speed to rds ?](https://www.reddit.com/r/spark/comments/yrkm1a/does_num_partions_affect_writing_speed_to_rds/)
 - [SPARK as good as Rust for safer coding? AdaCore cites Nvidia case study.](https://www.reddit.com/r/spark/comments/yqhqte/spark_as_good_as_rust_for_safer_coding_adacore/)
@@ -283,7 +284,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [JTEKT — Application of SPARK to Steering System Software](https://www.reddit.com/r/spark/comments/sa035u/jtekt_application_of_spark_to_steering_system/)
 - [New Competition: Ada/SPARK Crate Of The Year Award](https://www.reddit.com/r/spark/comments/o9hbo3/new_competition_adaspark_crate_of_the_year_award/)
 - [SPARKNaCl with GNAT and SPARK Community 2021: Port, Proof and Performance](https://www.reddit.com/r/spark/comments/o7lcg7/sparknacl_with_gnat_and_spark_community_2021_port/)
-- [Going beyond Ada 2022](https://www.reddit.com/r/spark/comments/o69ual/going_beyond_ada_2022/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld Spark posts*
