@@ -297,6 +297,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [MapR Platform vs Cloudera Platform](https://medium.com/@sweetaps1995/mapr-platform-vs-cloudera-platform-fdbfd902fa5b?source=rss------hadoop-5)
 - [CDH installation and CDP Upgrade Challenges](https://blog.clairvoyantsoft.com/cdh-installation-and-cdp-upgrade-challenges-e177efe66a2e?source=rss------hadoop-5)
 - [Wordcount Hadoop menggunakan Java](https://medium.com/@jendra.tab/wordcount-hadoop-menggunakan-java-70cb4c55dc4d?source=rss------hadoop-5)
 - [Analyzing the Saudi Stock Exchange &lpar;Tadawul&rpar; Using Hadoop](https://medium.com/@ERu24_/analyzing-the-saudi-stock-exchange-tadawul-using-hadoop-fd6e34a50775?source=rss------hadoop-5)
@@ -306,7 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [What is Hadoop?](https://nitishdatascience.medium.com/what-is-hadoop-603a4c2ba168?source=rss------hadoop-5)
 - [Настройка кластера Apache NiFi со встроенным Zookeeper](https://medium.com/@bigdataschool/%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0-%D0%BA%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%B0-apache-nifi-%D1%81%D0%BE-%D0%B2%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BD%D0%BD%D1%8B%D0%BC-zookeeper-1c334fd03b1b?source=rss------hadoop-5)
 - [Data Analysis with Apache HDFS, Hive, Sqoop](https://medium.com/@TalhaNebiKumru/data-analysis-with-apache-hdfs-hive-sqoop-c60bf090d746?source=rss------hadoop-5)
-- [Hadoop : In One Minute](https://medium.com/@rakeshkr2/hadoop-in-one-minute-9d6def074179?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
