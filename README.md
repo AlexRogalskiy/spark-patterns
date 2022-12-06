@@ -297,7 +297,9 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
-- [An Introduction to Hadoop](https://akhilanandkspa.medium.com/an-introduction-to-hadoop-2f3e08528259?source=rss------hadoop-5)
+- [HDFS Architecture — Data Replication](https://medium.com/@thetechnogeek/hdfs-architecture-data-replication-69e20f0fb775?source=rss------hadoop-5)
+- [Вместо Iceberg, Hudi и Delta Lake: хранение потоковых и пакетных таблиц с LakeSoul](https://medium.com/@bigdataschool/%D0%B2%D0%BC%D0%B5%D1%81%D1%82%D0%BE-iceberg-hudi-%D0%B8-delta-lake-%D1%85%D1%80%D0%B0%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BF%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%B2%D1%8B%D1%85-%D0%B8-%D0%BF%D0%B0%D0%BA%D0%B5%D1%82%D0%BD%D1%8B%D1%85-%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86-%D1%81-lakesoul-9f4985574000?source=rss------hadoop-5)
+- [An Introduction to Hadoop](https://medium.com/mlearning-ai/an-introduction-to-hadoop-2f3e08528259?source=rss------hadoop-5)
 - [Hadoop Ecosystem Application](https://adosi12.medium.com/hadoop-ecosystem-application-42db195d0b19?source=rss------hadoop-5)
 - [MapR Platform vs Cloudera Platform](https://medium.com/@sweetaps1995/mapr-platform-vs-cloudera-platform-fdbfd902fa5b?source=rss------hadoop-5)
 - [CDH installation and CDP Upgrade Challenges](https://blog.clairvoyantsoft.com/cdh-installation-and-cdp-upgrade-challenges-e177efe66a2e?source=rss------hadoop-5)
@@ -305,8 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Analyzing the Saudi Stock Exchange &lpar;Tadawul&rpar; Using Hadoop](https://medium.com/@ERu24_/analyzing-the-saudi-stock-exchange-tadawul-using-hadoop-fd6e34a50775?source=rss------hadoop-5)
 - [Heard Big Data, let’s know it.](https://blog.devgenius.io/heard-big-data-lets-know-it-a3aac6cf5ae7?source=rss------hadoop-5)
 - [Сериализация данных в Apache Hive](https://medium.com/@bigdataschool/%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-%D0%B2-apache-hive-2bfd494be787?source=rss------hadoop-5)
-- [Hadoop —Exemplos de execução](https://medium.com/@gabrielasereniski/hadoop-exemplos-de-execu%C3%A7%C3%A3o-d86bf46cbd12?source=rss------hadoop-5)
-- [What is Hadoop?](https://nitishdatascience.medium.com/what-is-hadoop-603a4c2ba168?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
