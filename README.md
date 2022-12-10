@@ -297,6 +297,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [How to build Hadoop &lpar;Disaster Recovery&rpar; DR environment?](https://medium.com/@marcinkosmider/how-to-build-hadoop-disaster-recovery-dr-environment-8ce6b1690c45?source=rss------hadoop-5)
+- [Install Relevant Software / Packages for Elasticsearch — Part 2](https://beverly-wang0005.medium.com/install-relevant-software-packages-for-elasticsearch-part-2-f040c7e91ba1?source=rss------hadoop-5)
 - [Apache Spark vs Hadoop: Can I replace one on other](https://medium.com/@sephinreji98/spark-vs-hadoop-47715dc3fd16?source=rss------hadoop-5)
 - [NYC Traffic Pattern Pre, Through, and Post Pandemic](https://medium.com/@ch3801/nyc-traffic-pattern-pre-through-and-post-pandemic-974231652e84?source=rss------hadoop-5)
 - [HDFS Architecture — Data Replication](https://medium.com/@thetechnogeek/hdfs-architecture-data-replication-69e20f0fb775?source=rss------hadoop-5)
@@ -305,8 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Hadoop Ecosystem Application](https://adosi12.medium.com/hadoop-ecosystem-application-42db195d0b19?source=rss------hadoop-5)
 - [MapR Platform vs Cloudera Platform](https://medium.com/@sweetaps1995/mapr-platform-vs-cloudera-platform-fdbfd902fa5b?source=rss------hadoop-5)
 - [CDH installation and CDP Upgrade Challenges](https://blog.clairvoyantsoft.com/cdh-installation-and-cdp-upgrade-challenges-e177efe66a2e?source=rss------hadoop-5)
-- [Wordcount Hadoop menggunakan Java](https://medium.com/@jendra.tab/wordcount-hadoop-menggunakan-java-70cb4c55dc4d?source=rss------hadoop-5)
-- [Analyzing the Saudi Stock Exchange &lpar;Tadawul&rpar; Using Hadoop](https://medium.com/@ERu24_/analyzing-the-saudi-stock-exchange-tadawul-using-hadoop-fd6e34a50775?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
