@@ -274,6 +274,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Collecting a column in a specific order that sticks](https://www.reddit.com/r/spark/comments/zhw5ox/collecting_a_column_in_a_specific_order_that/)
 - [How to apply different code to different blocks from XML files?](https://www.reddit.com/r/spark/comments/zf3rlt/how_to_apply_different_code_to_different_blocks/)
 - [Null Values in PySpark](https://www.reddit.com/r/spark/comments/zaru1r/null_values_in_pyspark/)
 - [Huge order lol](https://www.reddit.com/r/spark/comments/z4let0/huge_order_lol/)
@@ -283,7 +284,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [I can’t believe that I can prove that it can sort](https://www.reddit.com/r/spark/comments/vr9qfn/i_cant_believe_that_i_can_prove_that_it_can_sort/)
 - [SPARKNaCl: A Verified, Fast Re-implementation of TweetNaCl](https://www.reddit.com/r/spark/comments/srkif2/sparknacl_a_verified_fast_reimplementation_of/)
 - [JTEKT — Application of SPARK to Steering System Software](https://www.reddit.com/r/spark/comments/sa035u/jtekt_application_of_spark_to_steering_system/)
-- [New Competition: Ada/SPARK Crate Of The Year Award](https://www.reddit.com/r/spark/comments/o9hbo3/new_competition_adaspark_crate_of_the_year_award/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld Spark posts*
