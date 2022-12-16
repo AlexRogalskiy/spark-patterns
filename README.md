@@ -297,6 +297,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Отказоустойчивое распределение данных в Apache HBase](https://medium.com/@bigdataschool/%D0%BE%D1%82%D0%BA%D0%B0%D0%B7%D0%BE%D1%83%D1%81%D1%82%D0%BE%D0%B9%D1%87%D0%B8%D0%B2%D0%BE%D0%B5-%D1%80%D0%B0%D1%81%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-%D0%B2-apache-hbase-f048fa410ed1?source=rss------hadoop-5)
 - [Big Data Storage Case Study: Performance of dealing with large size files](https://medium.com/@zakariabouaouda1/big-data-storage-case-study-performance-of-dealing-with-large-size-files-e1a2060b16bf?source=rss------hadoop-5)
 - [From Hadoop to the Modern Stack](https://medium.com/@glegoux/from-hadoop-to-the-modern-stack-cdb2f10cee31?source=rss------hadoop-5)
 - [Introduction to Hadoop](https://avinashnavlani.medium.com/introduction-to-hadoop-7276cdee15cd?source=rss------hadoop-5)
@@ -306,7 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Apache Spark vs Hadoop: Can I replace one on other](https://medium.com/@sephinreji98/spark-vs-hadoop-47715dc3fd16?source=rss------hadoop-5)
 - [NYC Traffic Pattern Pre, Through, and Post Pandemic](https://medium.com/@ch3801/nyc-traffic-pattern-pre-through-and-post-pandemic-974231652e84?source=rss------hadoop-5)
 - [HDFS Architecture — Data Replication](https://medium.com/@thetechnogeek/hdfs-architecture-data-replication-69e20f0fb775?source=rss------hadoop-5)
-- [Вместо Iceberg, Hudi и Delta Lake: хранение потоковых и пакетных таблиц с LakeSoul](https://medium.com/@bigdataschool/%D0%B2%D0%BC%D0%B5%D1%81%D1%82%D0%BE-iceberg-hudi-%D0%B8-delta-lake-%D1%85%D1%80%D0%B0%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BF%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%B2%D1%8B%D1%85-%D0%B8-%D0%BF%D0%B0%D0%BA%D0%B5%D1%82%D0%BD%D1%8B%D1%85-%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86-%D1%81-lakesoul-9f4985574000?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
