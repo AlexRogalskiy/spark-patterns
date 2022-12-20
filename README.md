@@ -297,6 +297,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Poleposition Core Components Part I](https://beartell.medium.com/poleposition-core-components-63c5086c1bb9?source=rss------hadoop-5)
 - [Get to know important bigdata summaries](https://noerbarry.medium.com/get-to-know-important-bigdata-summaries-541740d33763?source=rss------hadoop-5)
 - [Spark Shell Commands | Spark Tutorials](https://medium.com/@mishra.oct786/spark-shell-commands-spark-tutorials-dec6751567e4?source=rss------hadoop-5)
 - [Отказоустойчивое распределение данных в Apache HBase](https://medium.com/@bigdataschool/%D0%BE%D1%82%D0%BA%D0%B0%D0%B7%D0%BE%D1%83%D1%81%D1%82%D0%BE%D0%B9%D1%87%D0%B8%D0%B2%D0%BE%D0%B5-%D1%80%D0%B0%D1%81%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-%D0%B2-apache-hbase-f048fa410ed1?source=rss------hadoop-5)
@@ -306,7 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Difference Between Hadoop and Splunk](https://medium.com/@sweetaps1995/difference-between-hadoop-and-splunk-77b18daeab1f?source=rss------hadoop-5)
 - [How to build Hadoop &lpar;Disaster Recovery&rpar; DR environment?](https://medium.com/@marcinkosmider/how-to-build-hadoop-disaster-recovery-dr-environment-8ce6b1690c45?source=rss------hadoop-5)
 - [Install Relevant Software / Packages for Elasticsearch — Part 2](https://beverly-wang0005.medium.com/install-relevant-software-packages-for-elasticsearch-part-2-f040c7e91ba1?source=rss------hadoop-5)
-- [Apache Spark vs Hadoop: Can I replace one on other](https://medium.com/@sephinreji98/spark-vs-hadoop-47715dc3fd16?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
