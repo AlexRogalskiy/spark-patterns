@@ -297,6 +297,9 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Spark Map, Reduce &amp; Shuffle Magic](https://medium.com/@arorasagar1811/spark-map-reduce-shuffle-magic-4946cbb300ec?source=rss------hadoop-5)
+- [Top 10 Hadoop Interview Questions for 2023 :](https://medium.com/@subisoundar1999/top-10-hadoop-interview-questions-for-2023-d87462681dfe?source=rss------hadoop-5)
+- [Материализованные представления в Apache Hive](https://medium.com/@bigdataschool/%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D0%B8%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5-%D0%BF%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-apache-hive-930949bd553e?source=rss------hadoop-5)
 - [Fixing yarn conflicts with Hadoop and NodeJs in Mac OSX](https://medium.com/@vamshisuram/fixing-yarn-conflicts-with-hadoop-and-nodejs-in-mac-osx-86f5a44a8071?source=rss------hadoop-5)
 - [Big data Spark Tutorials | How to select all elements greater than a given values in a dataframe](https://medium.com/@mishra.oct786/big-data-spark-tutorials-how-to-select-all-elements-greater-than-a-given-values-in-a-dataframe-ab6257e2ba91?source=rss------hadoop-5)
 - [How to Install Hadoop on Windows 10 | Easy Steps to Install Hadoop | Hadoop Tutorial | Edureka](https://medium.com/@damonlanglamare26/how-to-install-hadoop-on-windows-10-easy-steps-to-install-hadoop-hadoop-tutorial-edureka-3dfe7c49eed4?source=rss------hadoop-5)
@@ -304,9 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Poleposition Core Components Part I](https://beartell.medium.com/poleposition-core-components-63c5086c1bb9?source=rss------hadoop-5)
 - [Get to know important bigdata summaries](https://noerbarry.medium.com/get-to-know-important-bigdata-summaries-541740d33763?source=rss------hadoop-5)
 - [Spark Shell Commands | Spark Tutorials](https://medium.com/@mishra.oct786/spark-shell-commands-spark-tutorials-dec6751567e4?source=rss------hadoop-5)
-- [Отказоустойчивое распределение данных в Apache HBase](https://medium.com/@bigdataschool/%D0%BE%D1%82%D0%BA%D0%B0%D0%B7%D0%BE%D1%83%D1%81%D1%82%D0%BE%D0%B9%D1%87%D0%B8%D0%B2%D0%BE%D0%B5-%D1%80%D0%B0%D1%81%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-%D0%B2-apache-hbase-f048fa410ed1?source=rss------hadoop-5)
-- [Big Data Storage Case Study: Performance of dealing with large size files](https://medium.com/@zakariabouaouda1/big-data-storage-case-study-performance-of-dealing-with-large-size-files-e1a2060b16bf?source=rss------hadoop-5)
-- [From Hadoop to the modern data stack](https://medium.com/@glegoux/from-hadoop-to-the-modern-stack-cdb2f10cee31?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
