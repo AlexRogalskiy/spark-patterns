@@ -297,6 +297,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [How to read data from database/table using sparksession in spark java](https://medium.com/@akgupta014/how-to-read-data-from-database-table-using-sparksession-in-spark-java-34018e121469?source=rss------hadoop-5)
+- [Exploring the Possibilities of Big Data With the Hadoop Stack](https://medium.com/dataprophet/exploring-the-possibilities-of-big-data-with-the-hadoop-stack-f29ef7daea32?source=rss------hadoop-5)
 - [Incrementando el rendimiento de Spark para lectura de datos en conexión JDBC a una BD](https://medium.com/@agus100cia/incrementando-el-rendimiento-de-spark-para-lectura-de-datos-en-conexi%C3%B3n-jdbc-a-una-bd-381d264cdad3?source=rss------hadoop-5)
 - [Hadoop Uploads the data serially or parallelly ?](https://suman15.medium.com/hadoop-uploads-the-data-serially-or-parallelly-972420eb9ad1?source=rss------hadoop-5)
 - [Spark Map, Reduce &amp; Shuffle Magic](https://medium.com/@arorasagar1811/spark-map-reduce-shuffle-magic-4946cbb300ec?source=rss------hadoop-5)
@@ -305,8 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Fixing yarn conflicts with Hadoop and NodeJs in Mac OSX](https://medium.com/@vamshisuram/fixing-yarn-conflicts-with-hadoop-and-nodejs-in-mac-osx-86f5a44a8071?source=rss------hadoop-5)
 - [Big data Spark Tutorials | How to select all elements greater than a given values in a dataframe](https://medium.com/@mishra.oct786/big-data-spark-tutorials-how-to-select-all-elements-greater-than-a-given-values-in-a-dataframe-ab6257e2ba91?source=rss------hadoop-5)
 - [How to Install Hadoop on Windows 10 | Easy Steps to Install Hadoop | Hadoop Tutorial | Edureka](https://medium.com/@damonlanglamare26/how-to-install-hadoop-on-windows-10-easy-steps-to-install-hadoop-hadoop-tutorial-edureka-3dfe7c49eed4?source=rss------hadoop-5)
-- [Как повысить эффективность HDFS: 4 совета администратору кластера Apache Hadoop](https://medium.com/@bigdataschool/%D0%BA%D0%B0%D0%BA-%D0%BF%D0%BE%D0%B2%D1%8B%D1%81%D0%B8%D1%82%D1%8C-%D1%8D%D1%84%D1%84%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D1%8C-hdfs-4-%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D0%B0-%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%83-%D0%BA%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%B0-apache-hadoop-c92509574768?source=rss------hadoop-5)
-- [Poleposition Core Components Part I](https://beartell.medium.com/poleposition-core-components-63c5086c1bb9?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
