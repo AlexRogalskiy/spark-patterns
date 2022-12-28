@@ -297,6 +297,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Comprehensive Guide on HBase for Interview](https://nivedita-mondal.medium.com/comprehensive-guide-on-hbase-for-interview-1f6fed25fab0?source=rss------hadoop-5)
+- [Poleposition Core Components Part II](https://beartell.medium.com/poleposition-core-components-part-ii-d598fe52a52a?source=rss------hadoop-5)
 - [Hive beginners guide](https://mbvyn.medium.com/hive-beginners-guide-439836c25d0b?source=rss------hadoop-5)
 - [Avro, Parquet, and ORC File Format Comparison](https://medium.com/@ganeshnv0/avro-parquet-and-orc-file-format-comparison-ff776d375c7e?source=rss------hadoop-5)
 - [System Design #15 Apache Hadoop](https://medium.com/@sainathmitalakar/system-design-15-apache-hadoop-9f206d1cd2ab?source=rss------hadoop-5)
@@ -305,8 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Incrementando el rendimiento de Spark para lectura de datos en conexión JDBC a una BD](https://medium.com/@agus100cia/incrementando-el-rendimiento-de-spark-para-lectura-de-datos-en-conexi%C3%B3n-jdbc-a-una-bd-381d264cdad3?source=rss------hadoop-5)
 - [Hadoop Uploads the data serially or parallelly ?](https://suman15.medium.com/hadoop-uploads-the-data-serially-or-parallelly-972420eb9ad1?source=rss------hadoop-5)
 - [Spark Map, Reduce &amp; Shuffle Magic](https://medium.com/@arorasagar1811/spark-map-reduce-shuffle-magic-4946cbb300ec?source=rss------hadoop-5)
-- [Top 10 Hadoop Interview Questions for 2023 :](https://medium.com/@subisoundar1999/top-10-hadoop-interview-questions-for-2023-d87462681dfe?source=rss------hadoop-5)
-- [Материализованные представления в Apache Hive](https://medium.com/@bigdataschool/%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D0%B8%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5-%D0%BF%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-apache-hive-930949bd553e?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
