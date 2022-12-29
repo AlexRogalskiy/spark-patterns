@@ -297,6 +297,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Data Skew — Apache Spark 3.x Features](https://medium.com/@muhammadsalmansayani/data-skew-apache-spark-3-x-features-c2857043a00b?source=rss------hadoop-5)
+- [How to read csv file in spark using multiple delimiter](https://medium.com/@akgupta014/how-to-read-csv-file-in-spark-using-multiple-delimiter-c1f401f4297a?source=rss------hadoop-5)
 - [Comprehensive Guide on HBase for Interview](https://nivedita-mondal.medium.com/comprehensive-guide-on-hbase-for-interview-1f6fed25fab0?source=rss------hadoop-5)
 - [Poleposition Core Components Part II](https://beartell.medium.com/poleposition-core-components-part-ii-d598fe52a52a?source=rss------hadoop-5)
 - [Hive beginners guide](https://mbvyn.medium.com/hive-beginners-guide-439836c25d0b?source=rss------hadoop-5)
@@ -305,8 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [How to read data from database/table using sparksession in spark java](https://medium.com/@akgupta014/how-to-read-data-from-database-table-using-sparksession-in-spark-java-34018e121469?source=rss------hadoop-5)
 - [Exploring the Possibilities of Big Data With the Hadoop Stack](https://medium.com/dataprophet/exploring-the-possibilities-of-big-data-with-the-hadoop-stack-f29ef7daea32?source=rss------hadoop-5)
 - [Incrementando el rendimiento de Spark para lectura de datos en conexión JDBC a una BD](https://medium.com/@agus100cia/incrementando-el-rendimiento-de-spark-para-lectura-de-datos-en-conexi%C3%B3n-jdbc-a-una-bd-381d264cdad3?source=rss------hadoop-5)
-- [Hadoop Uploads the data serially or parallelly ?](https://suman15.medium.com/hadoop-uploads-the-data-serially-or-parallelly-972420eb9ad1?source=rss------hadoop-5)
-- [Spark Map, Reduce &amp; Shuffle Magic](https://medium.com/@arorasagar1811/spark-map-reduce-shuffle-magic-4946cbb300ec?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
