@@ -297,8 +297,9 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [10 — Tecnologías más importantes de Big Data](https://medium.com/big-data-para-ejecutivos/10-tecnolog%C3%ADas-m%C3%A1s-importantes-de-big-data-8a6a15a982a8?source=rss------hadoop-5)
 - [The Power of HDFS](https://medium.com/@ezzaldeeen/the-power-of-hdfs-577d5519bb3d?source=rss------hadoop-5)
-- [Big Data And Computing: A Beginners Approach](https://towardsdatascience.com/big-data-and-computing-a-beginners-approach-73461d389aba?source=rss------hadoop-5)
+- [Big Data And Computing: A Beginners Approach](https://blog.devgenius.io/big-data-and-computing-a-beginners-approach-73461d389aba?source=rss------hadoop-5)
 - [Data Skew — Apache Spark 3.x Features](https://medium.com/@muhammadsalmansayani/data-skew-apache-spark-3-x-features-c2857043a00b?source=rss------hadoop-5)
 - [How to read csv file in spark using multiple delimiter](https://medium.com/@akgupta014/how-to-read-csv-file-in-spark-using-multiple-delimiter-c1f401f4297a?source=rss------hadoop-5)
 - [Comprehensive Guide on HBase for Interview](https://nivedita-mondal.medium.com/comprehensive-guide-on-hbase-for-interview-1f6fed25fab0?source=rss------hadoop-5)
@@ -306,7 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Hive beginners guide](https://mbvyn.medium.com/hive-beginners-guide-439836c25d0b?source=rss------hadoop-5)
 - [Avro, Parquet, and ORC File Format Comparison](https://medium.com/@ganeshnv0/avro-parquet-and-orc-file-format-comparison-ff776d375c7e?source=rss------hadoop-5)
 - [System Design #15 Apache Hadoop](https://medium.com/@sainathmitalakar/system-design-15-apache-hadoop-9f206d1cd2ab?source=rss------hadoop-5)
-- [How to read data from database/table using sparksession in spark java](https://medium.com/@akgupta014/how-to-read-data-from-database-table-using-sparksession-in-spark-java-34018e121469?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
