@@ -297,6 +297,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Difference Between Hadoop And Spark](https://medium.com/@ansam.yousry/difference-between-hadoop-and-spark-aa03c3cec416?source=rss------hadoop-5)
+- [Getting started with Data Engineering](https://nomifar.medium.com/getting-started-with-data-engineering-fc823be0dab5?source=rss------hadoop-5)
 - [How hadoop works](https://incog-geek.medium.com/how-hadoop-works-42cb88668863?source=rss------hadoop-5)
 - [10 — Tecnologías más importantes de Big Data](https://medium.com/big-data-para-ejecutivos/10-tecnolog%C3%ADas-m%C3%A1s-importantes-de-big-data-8a6a15a982a8?source=rss------hadoop-5)
 - [The Power of HDFS](https://medium.com/@ezzaldeeen/the-power-of-hdfs-577d5519bb3d?source=rss------hadoop-5)
@@ -305,8 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [How to read csv file in spark using multiple delimiter](https://medium.com/@akgupta014/how-to-read-csv-file-in-spark-using-multiple-delimiter-c1f401f4297a?source=rss------hadoop-5)
 - [Comprehensive Guide on HBase for Interview](https://nivedita-mondal.medium.com/comprehensive-guide-on-hbase-for-interview-1f6fed25fab0?source=rss------hadoop-5)
 - [Poleposition Core Components Part II](https://beartell.medium.com/poleposition-core-components-part-ii-d598fe52a52a?source=rss------hadoop-5)
-- [Hive beginners guide](https://mbvyn.medium.com/hive-beginners-guide-439836c25d0b?source=rss------hadoop-5)
-- [Avro, Parquet, and ORC File Format Comparison](https://medium.com/@ganeshnv0/avro-parquet-and-orc-file-format-comparison-ff776d375c7e?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
