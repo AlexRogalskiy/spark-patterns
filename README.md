@@ -297,6 +297,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [YARN&lpar;Yet Another Resource Negotiator&rpar; Architecture](https://medium.com/@jwbtmf/yarn-yet-another-resource-manager-architecture-21d117364b26?source=rss------hadoop-5)
+- [Big Data And Computing: A Beginners Approach](https://blog.devgenius.io/big-data-and-computing-a-beginners-approach-1b5c8ca612d6?source=rss------hadoop-5)
 - [Difference Between Hadoop And Spark](https://medium.com/@ansam.yousry/difference-between-hadoop-and-spark-aa03c3cec416?source=rss------hadoop-5)
 - [Getting started with Data Engineering](https://nomifar.medium.com/getting-started-with-data-engineering-fc823be0dab5?source=rss------hadoop-5)
 - [How hadoop works](https://incog-geek.medium.com/how-hadoop-works-42cb88668863?source=rss------hadoop-5)
@@ -305,8 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Big Data And Computing: A Beginners Approach](https://blog.devgenius.io/big-data-and-computing-a-beginners-approach-73461d389aba?source=rss------hadoop-5)
 - [Data Skew — Apache Spark 3.x Features](https://medium.com/@muhammadsalmansayani/data-skew-apache-spark-3-x-features-c2857043a00b?source=rss------hadoop-5)
 - [How to read csv file in spark using multiple delimiter](https://medium.com/@akgupta014/how-to-read-csv-file-in-spark-using-multiple-delimiter-c1f401f4297a?source=rss------hadoop-5)
-- [Comprehensive Guide on HBase for Interview](https://nivedita-mondal.medium.com/comprehensive-guide-on-hbase-for-interview-1f6fed25fab0?source=rss------hadoop-5)
-- [Poleposition Core Components Part II](https://beartell.medium.com/poleposition-core-components-part-ii-d598fe52a52a?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
