@@ -297,16 +297,16 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Operations Transformation &amp; Action in Spark with Example](https://medium.com/@mishra.oct786/operations-transformation-action-in-spark-with-example-84dfbc0cf787?source=rss------hadoop-5)
+- [EMR 클러스터 생성 가이드](https://medium.com/@jasonxdy/emr-%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0-%EC%83%9D%EC%84%B1-%EA%B0%80%EC%9D%B4%EB%93%9C-a88068266f8b?source=rss------hadoop-5)
 - [YARN&lpar;Yet Another Resource Negotiator&rpar; Architecture](https://medium.com/@jwbtmf/yarn-yet-another-resource-manager-architecture-21d117364b26?source=rss------hadoop-5)
 - [Big Data And Computing: A Beginners Approach](https://blog.devgenius.io/big-data-and-computing-a-beginners-approach-1b5c8ca612d6?source=rss------hadoop-5)
-- [Difference Between Hadoop And Spark](https://medium.com/@ansam.yousry/difference-between-hadoop-and-spark-aa03c3cec416?source=rss------hadoop-5)
+- [Apache Spark vs Hadoop](https://medium.com/@ansam.yousry/difference-between-hadoop-and-spark-aa03c3cec416?source=rss------hadoop-5)
 - [Getting started with Data Engineering](https://nomifar.medium.com/getting-started-with-data-engineering-fc823be0dab5?source=rss------hadoop-5)
 - [How hadoop works](https://incog-geek.medium.com/how-hadoop-works-42cb88668863?source=rss------hadoop-5)
 - [10 — Tecnologías más importantes de Big Data](https://medium.com/big-data-para-ejecutivos/10-tecnolog%C3%ADas-m%C3%A1s-importantes-de-big-data-8a6a15a982a8?source=rss------hadoop-5)
 - [The Power of HDFS](https://medium.com/@ezzaldeeen/the-power-of-hdfs-577d5519bb3d?source=rss------hadoop-5)
 - [Big Data And Computing: A Beginners Approach](https://blog.devgenius.io/big-data-and-computing-a-beginners-approach-73461d389aba?source=rss------hadoop-5)
-- [Data Skew — Apache Spark 3.x Features](https://medium.com/@muhammadsalmansayani/data-skew-apache-spark-3-x-features-c2857043a00b?source=rss------hadoop-5)
-- [How to read csv file in spark using multiple delimiter](https://medium.com/@akgupta014/how-to-read-csv-file-in-spark-using-multiple-delimiter-c1f401f4297a?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
