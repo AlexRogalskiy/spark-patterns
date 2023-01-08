@@ -297,6 +297,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Installing Hadoop + Hbase](https://medium.com/@akshay.p.pradheep/installing-hadoop-hbase-ca4713310511?source=rss------hadoop-5)
+- [Hadoop Migration](https://medium.com/@leaplogicc/hadoop-migration-34d5b442fb61?source=rss------hadoop-5)
 - [Few intrinsic of Apache Zookeeper and their importance](https://gautambangalore.medium.com/few-intrinsic-of-apache-zookeeper-and-their-importance-c482e6d6f14?source=rss------hadoop-5)
 - [How to write parquet file in spark using dataset](https://medium.com/@akgupta014/how-to-write-parquet-file-in-spark-using-dataset-bbc55afb6256?source=rss------hadoop-5)
 - [How to write csv file in spark using dataset](https://medium.com/@akgupta014/how-to-write-csv-file-in-spark-using-dataset-43707ad04244?source=rss------hadoop-5)
@@ -305,8 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [YARN&lpar;Yet Another Resource Negotiator&rpar; Architecture](https://medium.com/@jwbtmf/yarn-yet-another-resource-manager-architecture-21d117364b26?source=rss------hadoop-5)
 - [Big Data And Computing: A Beginners Approach](https://blog.devgenius.io/big-data-and-computing-a-beginners-approach-1b5c8ca612d6?source=rss------hadoop-5)
 - [Apache Spark vs Hadoop](https://medium.com/@ansam.yousry/difference-between-hadoop-and-spark-aa03c3cec416?source=rss------hadoop-5)
-- [Getting started with Data Engineering](https://nomifar.medium.com/getting-started-with-data-engineering-fc823be0dab5?source=rss------hadoop-5)
-- [How hadoop works](https://incog-geek.medium.com/how-hadoop-works-42cb88668863?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
