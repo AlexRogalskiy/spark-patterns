@@ -297,16 +297,16 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
-- [Installing Hadoop + Hbase](https://medium.com/@akshay.p.pradheep/installing-hadoop-hbase-ca4713310511?source=rss------hadoop-5)
+- [Mastering the YARN Commands: A Comprehensive Guide](https://sonu-tyagi.medium.com/mastering-the-yarn-commands-a-comprehensive-guide-bef0847af4df?source=rss------hadoop-5)
+- [Mastering HDFS Commands: A Beginner’s Guide](https://sonu-tyagi.medium.com/mastering-hdfs-commands-a-beginners-guide-b3ded496dab9?source=rss------hadoop-5)
+- [How to write json file in spark using dataset](https://medium.com/@akgupta014/how-to-write-parquet-file-in-spark-using-dataset-b165b33c46f3?source=rss------hadoop-5)
+- [How to read excel file in spark](https://medium.com/@akgupta014/how-to-read-excel-file-in-spark-d197b2b2d0a?source=rss------hadoop-5)
+- [Installing Hadoop + Hbase](https://medium.com/@akshaypradheep/installing-hadoop-hbase-ca4713310511?source=rss------hadoop-5)
 - [Hadoop Migration](https://medium.com/@leaplogicc/hadoop-migration-34d5b442fb61?source=rss------hadoop-5)
 - [Few intrinsic of Apache Zookeeper and their importance](https://gautambangalore.medium.com/few-intrinsic-of-apache-zookeeper-and-their-importance-c482e6d6f14?source=rss------hadoop-5)
 - [How to write parquet file in spark using dataset](https://medium.com/@akgupta014/how-to-write-parquet-file-in-spark-using-dataset-bbc55afb6256?source=rss------hadoop-5)
 - [How to write csv file in spark using dataset](https://medium.com/@akgupta014/how-to-write-csv-file-in-spark-using-dataset-43707ad04244?source=rss------hadoop-5)
 - [Operations Transformation &amp; Action in Spark with Example](https://medium.com/@mishra.oct786/operations-transformation-action-in-spark-with-example-84dfbc0cf787?source=rss------hadoop-5)
-- [EMR 클러스터 생성 가이드](https://medium.com/@jasonxdy/emr-%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0-%EC%83%9D%EC%84%B1-%EA%B0%80%EC%9D%B4%EB%93%9C-a88068266f8b?source=rss------hadoop-5)
-- [YARN&lpar;Yet Another Resource Negotiator&rpar; Architecture](https://medium.com/@jwbtmf/yarn-yet-another-resource-manager-architecture-21d117364b26?source=rss------hadoop-5)
-- [Big Data And Computing: A Beginners Approach](https://blog.devgenius.io/big-data-and-computing-a-beginners-approach-1b5c8ca612d6?source=rss------hadoop-5)
-- [Apache Spark vs Hadoop](https://medium.com/@ansam.yousry/difference-between-hadoop-and-spark-aa03c3cec416?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
