@@ -274,6 +274,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [NGRAM with TFIDF](https://www.reddit.com/r/spark/comments/107cy21/ngram_with_tfidf/)
 - [How do I add an ID column that grows monotonically, also when data is already in the database?](https://www.reddit.com/r/spark/comments/znattz/how_do_i_add_an_id_column_that_grows/)
 - [Collecting a column in a specific order that sticks](https://www.reddit.com/r/spark/comments/zhw5ox/collecting_a_column_in_a_specific_order_that/)
 - [How to apply different code to different blocks from XML files?](https://www.reddit.com/r/spark/comments/zf3rlt/how_to_apply_different_code_to_different_blocks/)
@@ -283,7 +284,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [SPARK as good as Rust for safer coding? AdaCore cites Nvidia case study.](https://www.reddit.com/r/spark/comments/yqhqte/spark_as_good_as_rust_for_safer_coding_adacore/)
 - [can someone tell me how to find the majority of elements in an array](https://www.reddit.com/r/spark/comments/y9blye/can_someone_tell_me_how_to_find_the_majority_of/)
 - [I can’t believe that I can prove that it can sort](https://www.reddit.com/r/spark/comments/vr9qfn/i_cant_believe_that_i_can_prove_that_it_can_sort/)
-- [SPARKNaCl: A Verified, Fast Re-implementation of TweetNaCl](https://www.reddit.com/r/spark/comments/srkif2/sparknacl_a_verified_fast_reimplementation_of/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld Spark posts*
