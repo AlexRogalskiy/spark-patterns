@@ -297,6 +297,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Review of Mesos paper](https://okanexe.medium.com/review-of-mesos-paper-467a1f4f832b?source=rss------hadoop-5)
+- [Comparing Spark and MapReduce: The Pros and Cons of Two Popular Big Data Processing Frameworks on…](https://sabarevictor.medium.com/comparing-spark-and-mapreduce-the-pros-and-cons-of-two-popular-big-data-processing-frameworks-on-9c95d86a107?source=rss------hadoop-5)
 - [Mastering the YARN Commands: A Comprehensive Guide](https://sonu-tyagi.medium.com/mastering-the-yarn-commands-a-comprehensive-guide-bef0847af4df?source=rss------hadoop-5)
 - [Mastering HDFS Commands: A Beginner’s Guide](https://sonu-tyagi.medium.com/mastering-hdfs-commands-a-beginners-guide-b3ded496dab9?source=rss------hadoop-5)
 - [How to write json file in spark using dataset](https://medium.com/@akgupta014/how-to-write-parquet-file-in-spark-using-dataset-b165b33c46f3?source=rss------hadoop-5)
@@ -305,8 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Hadoop Migration](https://medium.com/@leaplogicc/hadoop-migration-34d5b442fb61?source=rss------hadoop-5)
 - [Few intrinsic of Apache Zookeeper and their importance](https://gautambangalore.medium.com/few-intrinsic-of-apache-zookeeper-and-their-importance-c482e6d6f14?source=rss------hadoop-5)
 - [How to write parquet file in spark using dataset](https://medium.com/@akgupta014/how-to-write-parquet-file-in-spark-using-dataset-bbc55afb6256?source=rss------hadoop-5)
-- [How to write csv file in spark using dataset](https://medium.com/@akgupta014/how-to-write-csv-file-in-spark-using-dataset-43707ad04244?source=rss------hadoop-5)
-- [Operations Transformation &amp; Action in Spark with Example](https://medium.com/@mishra.oct786/operations-transformation-action-in-spark-with-example-84dfbc0cf787?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
