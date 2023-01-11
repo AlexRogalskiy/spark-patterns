@@ -297,16 +297,16 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Data Science Notes](https://sonulakra.medium.com/data-science-notes-c2f3903fccb?source=rss------hadoop-5)
+- [What is Hadoop? Introduction, Architecture, Ecosystem, Components — Ultimate Guide 2023](https://londondataconsulting.medium.com/what-is-hadoop-introduction-architecture-ecosystem-components-ultimate-guide-2023-530326b592b8?source=rss------hadoop-5)
+- [Setting up Hadoop Yarn to run Spark applications](https://medium.com/@MarinAgli1/setting-up-hadoop-yarn-to-run-spark-applications-6ea1158287af?source=rss------hadoop-5)
+- [Data Engineer Road map](https://medium.com/@princekumar29021996/data-engineer-road-map-c2805bdc1d4c?source=rss------hadoop-5)
+- [How to use Hadoop in Oracle VM Virtual Box&lpar;2&rpar;](https://medium.com/@junwoo.hwang/how-to-use-hadoop-in-oracle-vm-virtual-box-2-d3172f7287fe?source=rss------hadoop-5)
 - [Review of Mesos paper](https://okanexe.medium.com/review-of-mesos-paper-467a1f4f832b?source=rss------hadoop-5)
 - [Comparing Spark and MapReduce: The Pros and Cons of Two Popular Big Data Processing Frameworks on…](https://sabarevictor.medium.com/comparing-spark-and-mapreduce-the-pros-and-cons-of-two-popular-big-data-processing-frameworks-on-9c95d86a107?source=rss------hadoop-5)
 - [Mastering the YARN Commands: A Comprehensive Guide](https://sonu-tyagi.medium.com/mastering-the-yarn-commands-a-comprehensive-guide-bef0847af4df?source=rss------hadoop-5)
 - [Mastering HDFS Commands: A Beginner’s Guide](https://sonu-tyagi.medium.com/mastering-hdfs-commands-a-beginners-guide-b3ded496dab9?source=rss------hadoop-5)
 - [How to write json file in spark using dataset](https://medium.com/@akgupta014/how-to-write-parquet-file-in-spark-using-dataset-b165b33c46f3?source=rss------hadoop-5)
-- [How to read excel file in spark](https://medium.com/@akgupta014/how-to-read-excel-file-in-spark-d197b2b2d0a?source=rss------hadoop-5)
-- [Installing Hadoop + Hbase](https://medium.com/@akshaypradheep/installing-hadoop-hbase-ca4713310511?source=rss------hadoop-5)
-- [Hadoop Migration](https://medium.com/@leaplogicc/hadoop-migration-34d5b442fb61?source=rss------hadoop-5)
-- [Few intrinsic of Apache Zookeeper and their importance](https://gautambangalore.medium.com/few-intrinsic-of-apache-zookeeper-and-their-importance-c482e6d6f14?source=rss------hadoop-5)
-- [How to write parquet file in spark using dataset](https://medium.com/@akgupta014/how-to-write-parquet-file-in-spark-using-dataset-bbc55afb6256?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
