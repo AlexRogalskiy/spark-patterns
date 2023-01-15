@@ -297,6 +297,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Using hostnames to access Hadoop resources running on Docker](https://medium.com/@MarinAgli1/using-hostnames-to-access-hadoop-resources-running-on-docker-5860cd7aeec1?source=rss------hadoop-5)
+- [Lag&lpar;&rpar; function in spark](https://medium.com/@akgupta014/lag-function-in-spark-239e49897ab3?source=rss------hadoop-5)
 - [Downloading files from Databricks’ DBFS](https://gbanhudo.medium.com/downloading-files-from-databricks-dbfs-87fe20efdeb6?source=rss------hadoop-5)
 - [Streamlining Data Movement with DistCP in Hadoop: A Guide for Data Engineers](https://sonu-tyagi.medium.com/streamlining-data-movement-with-distcp-in-hadoop-a-guide-for-data-engineers-1c4d6d0f81cb?source=rss------hadoop-5)
 - [Миграция с Apache HBase в TiDB: кейс Pinterest](https://medium.com/@bigdataschool/%D0%BC%D0%B8%D0%B3%D1%80%D0%B0%D1%86%D0%B8%D1%8F-%D1%81-apache-hbase-%D0%B2-tidb-%D0%BA%D0%B5%D0%B9%D1%81-pinterest-f71c066757ff?source=rss------hadoop-5)
@@ -305,8 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Setting up Hadoop Yarn to run Spark applications](https://medium.com/@MarinAgli1/setting-up-hadoop-yarn-to-run-spark-applications-6ea1158287af?source=rss------hadoop-5)
 - [Data Engineer Road map](https://medium.com/@princekumar29021996/data-engineer-road-map-c2805bdc1d4c?source=rss------hadoop-5)
 - [How to use Hadoop in Oracle VM Virtual Box&lpar;2&rpar;](https://medium.com/@junwoo.hwang/how-to-use-hadoop-in-oracle-vm-virtual-box-2-d3172f7287fe?source=rss------hadoop-5)
-- [Review of Mesos paper](https://okanexe.medium.com/review-of-mesos-paper-467a1f4f832b?source=rss------hadoop-5)
-- [Comparing Spark and MapReduce: The Pros and Cons of Two Popular Big Data Processing Frameworks on…](https://sabarevictor.medium.com/comparing-spark-and-mapreduce-the-pros-and-cons-of-two-popular-big-data-processing-frameworks-on-9c95d86a107?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
