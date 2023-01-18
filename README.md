@@ -297,6 +297,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [BİGDATA VE UYGULAMALARI](https://cerendemirci.medium.com/bi%CC%87gdata-ve-uygulamalari-3abfeaadb883?source=rss------hadoop-5)
+- [ETL с Apache Spark в озере данных на MinIO](https://medium.com/@bigdataschool/etl-%D1%81-apache-spark-%D0%B2-%D0%BE%D0%B7%D0%B5%D1%80%D0%B5-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-%D0%BD%D0%B0-minio-b1b4ac26c43?source=rss------hadoop-5)
 - [HDFS Architecture](https://medium.com/@k.harivara/hdfs-architecture-36c9ce3d87c3?source=rss------hadoop-5)
 - [Быстрая индексация данных в HDFS, Hadoop и Spark с библиотекой Dione от PayPal](https://medium.com/@bigdataschool/%D0%B1%D1%8B%D1%81%D1%82%D1%80%D0%B0%D1%8F-%D0%B8%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%D0%B0%D1%86%D0%B8%D1%8F-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-%D0%B2-hdfs-hadoop-%D0%B8-spark-%D1%81-%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%BE%D0%B9-dione-%D0%BE%D1%82-paypal-d1e31bb13a29?source=rss------hadoop-5)
 - [Using hostnames to access Hadoop resources running on Docker](https://medium.com/@MarinAgli1/using-hostnames-to-access-hadoop-resources-running-on-docker-5860cd7aeec1?source=rss------hadoop-5)
@@ -305,8 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Streamlining Data Movement with DistCP in Hadoop: A Guide for Data Engineers](https://sonu-tyagi.medium.com/streamlining-data-movement-with-distcp-in-hadoop-a-guide-for-data-engineers-1c4d6d0f81cb?source=rss------hadoop-5)
 - [Миграция с Apache HBase в TiDB: кейс Pinterest](https://medium.com/@bigdataschool/%D0%BC%D0%B8%D0%B3%D1%80%D0%B0%D1%86%D0%B8%D1%8F-%D1%81-apache-hbase-%D0%B2-tidb-%D0%BA%D0%B5%D0%B9%D1%81-pinterest-f71c066757ff?source=rss------hadoop-5)
 - [Data Science Notes](https://sonulakra.medium.com/data-science-notes-c2f3903fccb?source=rss------hadoop-5)
-- [What is Hadoop? Introduction, Architecture, Ecosystem, Components — Ultimate Guide 2023](https://londondataconsulting.medium.com/what-is-hadoop-introduction-architecture-ecosystem-components-ultimate-guide-2023-530326b592b8?source=rss------hadoop-5)
-- [Setting up Hadoop Yarn to run Spark applications](https://medium.com/@MarinAgli1/setting-up-hadoop-yarn-to-run-spark-applications-6ea1158287af?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
