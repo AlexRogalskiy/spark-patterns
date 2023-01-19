@@ -297,6 +297,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Unlimited Storage with Hadoop…! using LVM on AWS Cloud&lpar;EBS&rpar;](https://digambarnandrekar.medium.com/unlimited-storage-with-hadoop-using-lvm-on-aws-cloud-ebs-2e1ed0215d2b?source=rss------hadoop-5)
+- [Blocks in HDFS](https://medium.com/@ysk33/blocks-in-hdfs-6028c2f02823?source=rss------hadoop-5)
 - [BİGDATA VE UYGULAMALARI](https://cerendemirci.medium.com/bi%CC%87gdata-ve-uygulamalari-3abfeaadb883?source=rss------hadoop-5)
 - [ETL с Apache Spark в озере данных на MinIO](https://medium.com/@bigdataschool/etl-%D1%81-apache-spark-%D0%B2-%D0%BE%D0%B7%D0%B5%D1%80%D0%B5-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-%D0%BD%D0%B0-minio-b1b4ac26c43?source=rss------hadoop-5)
 - [HDFS Architecture](https://medium.com/@k.harivara/hdfs-architecture-36c9ce3d87c3?source=rss------hadoop-5)
@@ -305,8 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Lag&lpar;&rpar; function in spark](https://medium.com/@akgupta014/lag-function-in-spark-239e49897ab3?source=rss------hadoop-5)
 - [Downloading files from Databricks’ DBFS](https://gbanhudo.medium.com/downloading-files-from-databricks-dbfs-87fe20efdeb6?source=rss------hadoop-5)
 - [Streamlining Data Movement with DistCP in Hadoop: A Guide for Data Engineers](https://sonu-tyagi.medium.com/streamlining-data-movement-with-distcp-in-hadoop-a-guide-for-data-engineers-1c4d6d0f81cb?source=rss------hadoop-5)
-- [Миграция с Apache HBase в TiDB: кейс Pinterest](https://medium.com/@bigdataschool/%D0%BC%D0%B8%D0%B3%D1%80%D0%B0%D1%86%D0%B8%D1%8F-%D1%81-apache-hbase-%D0%B2-tidb-%D0%BA%D0%B5%D0%B9%D1%81-pinterest-f71c066757ff?source=rss------hadoop-5)
-- [Data Science Notes](https://sonulakra.medium.com/data-science-notes-c2f3903fccb?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
