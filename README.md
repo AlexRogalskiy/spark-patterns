@@ -297,6 +297,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [What is Google Dataproc?](https://medium.com/codex/what-is-google-dataproc-80b93249ad42?source=rss------hadoop-5)
 - [Roadmap to become perfect Data Engineer](https://naveenpn.medium.com/roadmap-to-become-perfect-data-engineer-ee8d5b83375?source=rss------hadoop-5)
 - [What’s new in Hadoop 3.3.0?](https://sonusingh-javatech.medium.com/whats-new-in-hadoop-3-3-0-9a2995f823c9?source=rss------hadoop-5)
 - [Amazon Elastic MapReduce](https://medium.com/@AWSCloudEngineer/amazon-elastic-mapreduce-c67a73cbc648?source=rss------hadoop-5)
@@ -306,7 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Unlimited Storage with Hadoop…! using LVM on AWS Cloud&lpar;EBS&rpar;](https://digambarnandrekar.medium.com/unlimited-storage-with-hadoop-using-lvm-on-aws-cloud-ebs-2e1ed0215d2b?source=rss------hadoop-5)
 - [Blocks in HDFS](https://medium.com/@ysk33/blocks-in-hdfs-6028c2f02823?source=rss------hadoop-5)
 - [BİGDATA VE UYGULAMALARI](https://cerendemirci.medium.com/bi%CC%87gdata-ve-uygulamalari-3abfeaadb883?source=rss------hadoop-5)
-- [ETL с Apache Spark в озере данных на MinIO](https://medium.com/@bigdataschool/etl-%D1%81-apache-spark-%D0%B2-%D0%BE%D0%B7%D0%B5%D1%80%D0%B5-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-%D0%BD%D0%B0-minio-b1b4ac26c43?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
