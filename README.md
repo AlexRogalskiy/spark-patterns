@@ -297,6 +297,9 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [In Hive, how to compare array of string with hivevar list?](https://code-kamran.medium.com/in-hive-how-to-compare-array-of-string-with-hivevar-list-df58cf18a566?source=rss------hadoop-5)
+- [Installing Hadoop with Homebrew on Mac M1 and M2 when Java already exists locally.](https://medium.com/@amabocanon/installing-hadoop-with-homebrew-on-mac-m1-and-m2-when-java-already-exists-locally-878ec5bfd414?source=rss------hadoop-5)
+- [Kafka Decoded: Unpacking its Architecture, Components, and Features](https://taylankabbani96.medium.com/kafka-decoded-unpacking-its-architecture-components-and-features-4bc95556f9d5?source=rss------hadoop-5)
 - [Dive into tdp-lib, the SDK in charge of TDP cluster management](https://medium.com/adaltas/dive-into-tdp-lib-the-sdk-in-charge-of-tdp-cluster-management-7866037a7594?source=rss------hadoop-5)
 - [Plongée dans tdp-lib, le SDK en charge de la gestion de clusters TDP](https://medium.com/adaltas-fr/plong%C3%A9e-dans-tdp-lib-le-sdk-en-charge-de-la-gestion-de-clusters-tdp-7c255a0cdc31?source=rss------hadoop-5)
 - [What is Google Dataproc?](https://medium.com/codex/what-is-google-dataproc-80b93249ad42?source=rss------hadoop-5)
@@ -304,9 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [What’s new in Hadoop 3.3.0?](https://sonusingh-javatech.medium.com/whats-new-in-hadoop-3-3-0-9a2995f823c9?source=rss------hadoop-5)
 - [Amazon Elastic MapReduce](https://medium.com/@AWSCloudEngineer/amazon-elastic-mapreduce-c67a73cbc648?source=rss------hadoop-5)
 - [Terraform : EMR Cluster](https://patelsaheb.medium.com/terraform-emr-cluster-ce045669123b?source=rss------hadoop-5)
-- [Memory Consumption of Hadoop NameNode](https://naveenpn.medium.com/memory-consumption-of-hadoop-namenode-fc88acd30037?source=rss------hadoop-5)
-- [Hive Query Execution](https://naveenpn.medium.com/hive-query-execution-5731bc2c6bcf?source=rss------hadoop-5)
-- [Unlimited Storage with Hadoop…! using LVM on AWS Cloud&lpar;EBS&rpar;](https://digambarnandrekar.medium.com/unlimited-storage-with-hadoop-using-lvm-on-aws-cloud-ebs-2e1ed0215d2b?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
