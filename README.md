@@ -297,6 +297,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Comparative Analysis of Hadoop Distributed File System and Google File System](https://medium.com/@aqsazim786/comparative-analysis-of-hadoop-distributed-file-system-and-google-file-system-62d622d9f5c9?source=rss------hadoop-5)
 - [In Hive, how to compare array of string with hivevar list?](https://code-kamran.medium.com/in-hive-how-to-compare-array-of-string-with-hivevar-list-df58cf18a566?source=rss------hadoop-5)
 - [Installing Hadoop with Homebrew on Mac M1 and M2 when Java already exists locally.](https://medium.com/@amabocanon/installing-hadoop-with-homebrew-on-mac-m1-and-m2-when-java-already-exists-locally-878ec5bfd414?source=rss------hadoop-5)
 - [Kafka Decoded: Unpacking its Architecture, Components, and Features](https://taylankabbani96.medium.com/kafka-decoded-unpacking-its-architecture-components-and-features-4bc95556f9d5?source=rss------hadoop-5)
@@ -306,7 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Roadmap to become perfect Data Engineer](https://naveenpn.medium.com/roadmap-to-become-perfect-data-engineer-ee8d5b83375?source=rss------hadoop-5)
 - [What’s new in Hadoop 3.3.0?](https://sonusingh-javatech.medium.com/whats-new-in-hadoop-3-3-0-9a2995f823c9?source=rss------hadoop-5)
 - [Amazon Elastic MapReduce](https://medium.com/@AWSCloudEngineer/amazon-elastic-mapreduce-c67a73cbc648?source=rss------hadoop-5)
-- [Terraform : EMR Cluster](https://patelsaheb.medium.com/terraform-emr-cluster-ce045669123b?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
