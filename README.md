@@ -297,16 +297,16 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [HDFS Balancer: Two nodes &amp; Multiple Nodes](https://blog.clairvoyantsoft.com/hdfs-balancer-two-nodes-multiple-nodes-77a7cd87fddd?source=rss------hadoop-5)
+- [How to connect Apache Spark with Elasicsearch](https://medium.com/@zakariabouaouda1/how-to-connect-apache-spark-with-elasicsearch-3f9d17eaacd9?source=rss------hadoop-5)
+- [Data Processing, Optimization, Transformation to Apache Hive, PostgreSQL and Delta Lake on Apache…](https://medium.com/@TalhaNebiKumru/data-processing-optimization-transformation-to-apache-hive-postgresql-and-delta-lake-on-apache-941b564ddc35?source=rss------hadoop-5)
 - [Comparative Analysis of Hadoop Distributed File System and Google File System](https://medium.com/@aqsazim786/comparative-analysis-of-hadoop-distributed-file-system-and-google-file-system-62d622d9f5c9?source=rss------hadoop-5)
 - [In Hive, how to compare array of string with hivevar list?](https://code-kamran.medium.com/in-hive-how-to-compare-array-of-string-with-hivevar-list-df58cf18a566?source=rss------hadoop-5)
 - [Installing Hadoop with Homebrew on Mac M1 and M2 when Java already exists locally.](https://medium.com/@amabocanon/installing-hadoop-with-homebrew-on-mac-m1-and-m2-when-java-already-exists-locally-878ec5bfd414?source=rss------hadoop-5)
-- [Kafka Decoded: Unpacking its Architecture, Components, and Features](https://taylankabbani96.medium.com/kafka-decoded-unpacking-its-architecture-components-and-features-4bc95556f9d5?source=rss------hadoop-5)
+- [Kafka Decoded: Unpacking its Architecture, Components, and Features](https://medium.com/swlh/kafka-decoded-unpacking-its-architecture-components-and-features-4bc95556f9d5?source=rss------hadoop-5)
 - [Dive into tdp-lib, the SDK in charge of TDP cluster management](https://medium.com/adaltas/dive-into-tdp-lib-the-sdk-in-charge-of-tdp-cluster-management-7866037a7594?source=rss------hadoop-5)
 - [Plongée dans tdp-lib, le SDK en charge de la gestion de clusters TDP](https://medium.com/adaltas-fr/plong%C3%A9e-dans-tdp-lib-le-sdk-en-charge-de-la-gestion-de-clusters-tdp-7c255a0cdc31?source=rss------hadoop-5)
 - [What is Google Dataproc?](https://medium.com/codex/what-is-google-dataproc-80b93249ad42?source=rss------hadoop-5)
-- [Roadmap to become perfect Data Engineer](https://naveenpn.medium.com/roadmap-to-become-perfect-data-engineer-ee8d5b83375?source=rss------hadoop-5)
-- [What’s new in Hadoop 3.3.0?](https://sonusingh-javatech.medium.com/whats-new-in-hadoop-3-3-0-9a2995f823c9?source=rss------hadoop-5)
-- [Amazon Elastic MapReduce](https://medium.com/@AWSCloudEngineer/amazon-elastic-mapreduce-c67a73cbc648?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
