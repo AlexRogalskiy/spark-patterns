@@ -297,6 +297,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Saving Big Data to Elasticsearch using Spark DataFrames](https://medium.com/@zakariabouaouda1/saving-big-data-to-elasticsearch-using-spark-dataframes-759eff6ae8c6?source=rss------hadoop-5)
 - [Big Data Technologies: Tackling the Challenges of Handling Large Amounts of Data](https://dnazevedo.medium.com/big-data-technologies-tackling-the-challenges-of-handling-large-amounts-of-data-b41136f9f183?source=rss------hadoop-5)
 - [Hadoop: Your Ticket to Mastering Big Data and Unlocking Business Potential](https://medium.com/@alexandre_cassis/hadoop-your-ticket-to-mastering-big-data-and-unlocking-business-potential-26244984ea9c?source=rss------hadoop-5)
 - [Internal Working of Spark Applications — How a Spark Job is executed?](https://medium.com/@ghoshsiddharth25/internal-working-of-spark-applications-how-a-spark-job-is-executed-98f471372a58?source=rss------hadoop-5)
@@ -306,7 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Comparative Analysis of Hadoop Distributed File System and Google File System](https://medium.com/@aqsazim786/comparative-analysis-of-hadoop-distributed-file-system-and-google-file-system-62d622d9f5c9?source=rss------hadoop-5)
 - [In Hive, how to compare array of string with hivevar list?](https://code-kamran.medium.com/in-hive-how-to-compare-array-of-string-with-hivevar-list-df58cf18a566?source=rss------hadoop-5)
 - [Installing Hadoop with Homebrew on Mac M1 and M2 when Java already exists locally.](https://medium.com/@amabocanon/installing-hadoop-with-homebrew-on-mac-m1-and-m2-when-java-already-exists-locally-878ec5bfd414?source=rss------hadoop-5)
-- [Kafka Decoded: Unpacking its Architecture, Components, and Features](https://medium.com/swlh/kafka-decoded-unpacking-its-architecture-components-and-features-4bc95556f9d5?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
