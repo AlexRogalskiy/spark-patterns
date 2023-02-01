@@ -297,6 +297,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Basic Troubleshooting of Apache Solr Related Issues](https://blog.clairvoyantsoft.com/basic-troubleshooting-of-apache-solr-related-issues-965b0334bbd6?source=rss------hadoop-5)
 - [Saving Big Data to Elasticsearch using Spark DataFrames](https://medium.com/@zakariabouaouda1/saving-big-data-to-elasticsearch-using-spark-dataframes-759eff6ae8c6?source=rss------hadoop-5)
 - [Big Data Technologies: Tackling the Challenges of Handling Large Amounts of Data](https://dnazevedo.medium.com/big-data-technologies-tackling-the-challenges-of-handling-large-amounts-of-data-b41136f9f183?source=rss------hadoop-5)
 - [Hadoop: Your Ticket to Mastering Big Data and Unlocking Business Potential](https://medium.com/@alexandre_cassis/hadoop-your-ticket-to-mastering-big-data-and-unlocking-business-potential-26244984ea9c?source=rss------hadoop-5)
@@ -306,7 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Data Processing, Optimization, Transformation to Apache Hive, PostgreSQL and Delta Lake on Apache…](https://medium.com/@TalhaNebiKumru/data-processing-optimization-transformation-to-apache-hive-postgresql-and-delta-lake-on-apache-941b564ddc35?source=rss------hadoop-5)
 - [Comparative Analysis of Hadoop Distributed File System and Google File System](https://medium.com/@aqsazim786/comparative-analysis-of-hadoop-distributed-file-system-and-google-file-system-62d622d9f5c9?source=rss------hadoop-5)
 - [In Hive, how to compare array of string with hivevar list?](https://code-kamran.medium.com/in-hive-how-to-compare-array-of-string-with-hivevar-list-df58cf18a566?source=rss------hadoop-5)
-- [Installing Hadoop with Homebrew on Mac M1 and M2 when Java already exists locally.](https://medium.com/@amabocanon/installing-hadoop-with-homebrew-on-mac-m1-and-m2-when-java-already-exists-locally-878ec5bfd414?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
