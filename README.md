@@ -297,6 +297,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Hadoop Training in Hyderabad](https://medium.com/@meetingday.119/hadoop-training-in-hyderabad-37918bf17a40?source=rss------hadoop-5)
+- [Абсолютно безопасно: 3 security-кита в Apache Hive](https://medium.com/@bigdataschool/%D0%B0%D0%B1%D1%81%D0%BE%D0%BB%D1%8E%D1%82%D0%BD%D0%BE-%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE-3-security-%D0%BA%D0%B8%D1%82%D0%B0-%D0%B2-apache-hive-e064338684b0?source=rss------hadoop-5)
 - [Basic Troubleshooting of Apache Solr Related Issues](https://blog.clairvoyantsoft.com/basic-troubleshooting-of-apache-solr-related-issues-965b0334bbd6?source=rss------hadoop-5)
 - [Saving Big Data to Elasticsearch using Spark DataFrames](https://medium.com/@zakariabouaouda1/saving-big-data-to-elasticsearch-using-spark-dataframes-759eff6ae8c6?source=rss------hadoop-5)
 - [Big Data Technologies: Tackling the Challenges of Handling Large Amounts of Data](https://dnazevedo.medium.com/big-data-technologies-tackling-the-challenges-of-handling-large-amounts-of-data-b41136f9f183?source=rss------hadoop-5)
@@ -305,8 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [HDFS Balancer: Two nodes &amp; Multiple Nodes](https://blog.clairvoyantsoft.com/hdfs-balancer-two-nodes-multiple-nodes-77a7cd87fddd?source=rss------hadoop-5)
 - [How to connect Apache Spark with Elasicsearch](https://medium.com/@zakariabouaouda1/how-to-connect-apache-spark-with-elasicsearch-3f9d17eaacd9?source=rss------hadoop-5)
 - [Data Processing, Optimization, Transformation to Apache Hive, PostgreSQL and Delta Lake on Apache…](https://medium.com/@TalhaNebiKumru/data-processing-optimization-transformation-to-apache-hive-postgresql-and-delta-lake-on-apache-941b564ddc35?source=rss------hadoop-5)
-- [Comparative Analysis of Hadoop Distributed File System and Google File System](https://medium.com/@aqsazim786/comparative-analysis-of-hadoop-distributed-file-system-and-google-file-system-62d622d9f5c9?source=rss------hadoop-5)
-- [In Hive, how to compare array of string with hivevar list?](https://code-kamran.medium.com/in-hive-how-to-compare-array-of-string-with-hivevar-list-df58cf18a566?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
