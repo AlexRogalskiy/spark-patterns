@@ -297,6 +297,9 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Hadoop Ecosystem](https://medium.com/@subankar/hadoop-ecosystem-58503497615a?source=rss------hadoop-5)
+- [All About The Hadoop Technology Stack](https://medium.com/@nigellimmm/all-about-the-hadoop-technology-stack-f7e732e62704?source=rss------hadoop-5)
+- [Сбалансированная изоляция данных в мультиарендном кластере Apache HBase: опыт Flipkart](https://medium.com/@bigdataschool/%D1%81%D0%B1%D0%B0%D0%BB%D0%B0%D0%BD%D1%81%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F-%D0%B8%D0%B7%D0%BE%D0%BB%D1%8F%D1%86%D0%B8%D1%8F-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-%D0%B2-%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D0%B8%D0%B0%D1%80%D0%B5%D0%BD%D0%B4%D0%BD%D0%BE%D0%BC-%D0%BA%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%B5-apache-hbase-%D0%BE%D0%BF%D1%8B%D1%82-flipkart-fd90dc142aeb?source=rss------hadoop-5)
 - [Hadoop Training in Hyderabad](https://medium.com/@meetingday.119/hadoop-training-in-hyderabad-37918bf17a40?source=rss------hadoop-5)
 - [Абсолютно безопасно: 3 security-кита в Apache Hive](https://medium.com/@bigdataschool/%D0%B0%D0%B1%D1%81%D0%BE%D0%BB%D1%8E%D1%82%D0%BD%D0%BE-%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE-3-security-%D0%BA%D0%B8%D1%82%D0%B0-%D0%B2-apache-hive-e064338684b0?source=rss------hadoop-5)
 - [Basic Troubleshooting of Apache Solr Related Issues](https://blog.clairvoyantsoft.com/basic-troubleshooting-of-apache-solr-related-issues-965b0334bbd6?source=rss------hadoop-5)
@@ -304,9 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Big Data Technologies: Tackling the Challenges of Handling Large Amounts of Data](https://dnazevedo.medium.com/big-data-technologies-tackling-the-challenges-of-handling-large-amounts-of-data-b41136f9f183?source=rss------hadoop-5)
 - [Hadoop: Your Ticket to Mastering Big Data and Unlocking Business Potential](https://medium.com/@alexandre_cassis/hadoop-your-ticket-to-mastering-big-data-and-unlocking-business-potential-26244984ea9c?source=rss------hadoop-5)
 - [Internal Working of Spark Applications — How a Spark Job is executed?](https://medium.com/@ghoshsiddharth25/internal-working-of-spark-applications-how-a-spark-job-is-executed-98f471372a58?source=rss------hadoop-5)
-- [HDFS Balancer: Two nodes &amp; Multiple Nodes](https://blog.clairvoyantsoft.com/hdfs-balancer-two-nodes-multiple-nodes-77a7cd87fddd?source=rss------hadoop-5)
-- [How to connect Apache Spark with Elasicsearch](https://medium.com/@zakariabouaouda1/how-to-connect-apache-spark-with-elasicsearch-3f9d17eaacd9?source=rss------hadoop-5)
-- [Data Processing, Optimization, Transformation to Apache Hive, PostgreSQL and Delta Lake on Apache…](https://medium.com/@TalhaNebiKumru/data-processing-optimization-transformation-to-apache-hive-postgresql-and-delta-lake-on-apache-941b564ddc35?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
