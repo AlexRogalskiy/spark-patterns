@@ -297,6 +297,9 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Navigating the World of Big Data with MapReduce: A Step-by-Step Guide](https://medium.com/@alexandre_cassis/navigating-the-world-of-big-data-with-mapreduce-a-step-by-step-guide-7812986a9fa0?source=rss------hadoop-5)
+- [PySpark vs Spark-Scala](https://medium.datadriveninvestor.com/pyspark-vs-spark-scala-b3a744d91846?source=rss------hadoop-5)
+- [Chronicle Of Big Data](https://medium.com/@rramiz.rraza/chronicle-of-big-data-bc3b951eac9b?source=rss------hadoop-5)
 - [Big Data Made Easy: An Intro Guide to HDFS and its Benefits](https://medium.com/@alexandre_cassis/big-data-made-easy-an-intro-guide-to-hdfs-and-its-benefits-f3973d91a471?source=rss------hadoop-5)
 - [Hadoop Ecosystem](https://medium.com/@subankar/hadoop-ecosystem-58503497615a?source=rss------hadoop-5)
 - [All About The Hadoop Technology Stack](https://medium.com/@nigellimmm/all-about-the-hadoop-technology-stack-f7e732e62704?source=rss------hadoop-5)
@@ -304,9 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Hadoop Training in Hyderabad](https://medium.com/@meetingday.119/hadoop-training-in-hyderabad-37918bf17a40?source=rss------hadoop-5)
 - [Абсолютно безопасно: 3 security-кита в Apache Hive](https://medium.com/@bigdataschool/%D0%B0%D0%B1%D1%81%D0%BE%D0%BB%D1%8E%D1%82%D0%BD%D0%BE-%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE-3-security-%D0%BA%D0%B8%D1%82%D0%B0-%D0%B2-apache-hive-e064338684b0?source=rss------hadoop-5)
 - [Basic Troubleshooting of Apache Solr Related Issues](https://blog.clairvoyantsoft.com/basic-troubleshooting-of-apache-solr-related-issues-965b0334bbd6?source=rss------hadoop-5)
-- [Saving Big Data to Elasticsearch using Spark DataFrames](https://medium.com/@zakariabouaouda1/saving-big-data-to-elasticsearch-using-spark-dataframes-759eff6ae8c6?source=rss------hadoop-5)
-- [Big Data Technologies: Tackling the Challenges of Handling Large Amounts of Data](https://dnazevedo.medium.com/big-data-technologies-tackling-the-challenges-of-handling-large-amounts-of-data-b41136f9f183?source=rss------hadoop-5)
-- [Hadoop: Your Ticket to Mastering Big Data and Unlocking Business Potential](https://medium.com/@alexandre_cassis/hadoop-your-ticket-to-mastering-big-data-and-unlocking-business-potential-26244984ea9c?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
