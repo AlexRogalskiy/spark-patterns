@@ -297,6 +297,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Optimising the runtime of massive PySpark applications](https://medium.com/dunnhumby-data-science-engineering/optimising-the-runtime-of-massive-pyspark-applications-633e3de13c17?source=rss------hadoop-5)
+- [What’s Hadoop/Spark Alternative for Small and Light Projects?](https://medium.com/@wdn0612/whats-hadoop-spark-alternative-for-small-and-light-projects-2e05d6457fcf?source=rss------hadoop-5)
 - [Understanding MapReduce Principle and Key-Value Concept](https://medium.com/@manarbenssssalah/understanding-mapreduce-principle-and-key-value-concept-58c998a698ca?source=rss------hadoop-5)
 - [Big Data: Introduction to Hadoop &amp; HDFS](https://medium.com/@husaincodes/big-data-introduction-to-hadoop-hdfs-52f8d4aae3da?source=rss------hadoop-5)
 - [Guidelines for uploading HDFS FSimage into Hive for monitoring and analytics](https://medium.com/x5-tech/guidelines-for-uploading-hdfs-fsimage-into-hive-for-monitoring-and-analytics-6e2ca07e1985?source=rss------hadoop-5)
@@ -305,8 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Chronicle Of Big Data](https://medium.com/@rramiz.rraza/chronicle-of-big-data-bc3b951eac9b?source=rss------hadoop-5)
 - [Big Data Made Easy: An Intro Guide to HDFS and its Benefits](https://medium.com/@alexandre_cassis/big-data-made-easy-an-intro-guide-to-hdfs-and-its-benefits-f3973d91a471?source=rss------hadoop-5)
 - [Hadoop Ecosystem](https://medium.com/@subankar/hadoop-ecosystem-58503497615a?source=rss------hadoop-5)
-- [All About The Hadoop Technology Stack](https://medium.com/@nigellimmm/all-about-the-hadoop-technology-stack-f7e732e62704?source=rss------hadoop-5)
-- [Сбалансированная изоляция данных в мультиарендном кластере Apache HBase: опыт Flipkart](https://medium.com/@bigdataschool/%D1%81%D0%B1%D0%B0%D0%BB%D0%B0%D0%BD%D1%81%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F-%D0%B8%D0%B7%D0%BE%D0%BB%D1%8F%D1%86%D0%B8%D1%8F-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-%D0%B2-%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D0%B8%D0%B0%D1%80%D0%B5%D0%BD%D0%B4%D0%BD%D0%BE%D0%BC-%D0%BA%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%B5-apache-hbase-%D0%BE%D0%BF%D1%8B%D1%82-flipkart-fd90dc142aeb?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
