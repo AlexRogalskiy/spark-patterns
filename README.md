@@ -297,6 +297,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Commonly used ETL tools](https://medium.com/@charlespraju/commonly-used-etl-tools-388a8f81cdd9?source=rss------hadoop-5)
 - [Creating Custom Hadoop Events in EventBridge on AWS](https://medium.com/newmathdata/creating-custom-hadoop-events-in-eventbridge-on-aws-a0e4de46c9c0?source=rss------hadoop-5)
 - [Different ways to select data in Spark !](https://medium.com/@raghwendra.analytics/different-ways-to-select-data-in-spark-89b914cb2228?source=rss------hadoop-5)
 - [AWS EMR Schedulers Explained](https://medium.com/machine-learning-reply-dach/aws-emr-schedulers-explained-a6930335787b?source=rss------hadoop-5)
@@ -306,7 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Big Data: Introduction to Hadoop &amp; HDFS](https://medium.com/@husaincodes/big-data-introduction-to-hadoop-hdfs-52f8d4aae3da?source=rss------hadoop-5)
 - [Guidelines for uploading HDFS FSimage into Hive for monitoring and analytics](https://medium.com/x5-tech/guidelines-for-uploading-hdfs-fsimage-into-hive-for-monitoring-and-analytics-6e2ca07e1985?source=rss------hadoop-5)
 - [Navigating the World of Big Data with MapReduce: A Step-by-Step Guide](https://medium.com/@alexandre_cassis/navigating-the-world-of-big-data-with-mapreduce-a-step-by-step-guide-7812986a9fa0?source=rss------hadoop-5)
-- [PySpark vs Spark-Scala](https://medium.datadriveninvestor.com/pyspark-vs-spark-scala-b3a744d91846?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
