@@ -297,6 +297,9 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Big Data, Big Problems: How to Handle the Scale and Complexity of Modern Data Sets](https://fsndzomga.medium.com/big-data-big-problems-how-to-handle-the-scale-and-complexity-of-modern-data-sets-4a9d94d9dfa9?source=rss------hadoop-5)
+- [why hadoop still groundbreaking framework](https://liukung23.medium.com/why-hadoop-still-groundbreaking-framework-2ccb51eabb87?source=rss------hadoop-5)
+- [Introduce a new open-source language SPL](https://medium.com/@grabajobss/introduce-a-new-open-source-language-spl-46bba9e8fc2f?source=rss------hadoop-5)
 - [Commonly used ETL tools](https://medium.com/@charlespraju/commonly-used-etl-tools-388a8f81cdd9?source=rss------hadoop-5)
 - [Creating Custom Hadoop Events in EventBridge on AWS](https://medium.com/newmathdata/creating-custom-hadoop-events-in-eventbridge-on-aws-a0e4de46c9c0?source=rss------hadoop-5)
 - [Different ways to select data in Spark !](https://medium.com/@raghwendra.analytics/different-ways-to-select-data-in-spark-89b914cb2228?source=rss------hadoop-5)
@@ -304,9 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Optimising the runtime of massive PySpark applications](https://medium.com/dunnhumby-data-science-engineering/optimising-the-runtime-of-massive-pyspark-applications-633e3de13c17?source=rss------hadoop-5)
 - [What’s Hadoop/Spark Alternative for Small and Light Projects?](https://medium.com/@wdn0612/whats-hadoop-spark-alternative-for-small-and-light-projects-2e05d6457fcf?source=rss------hadoop-5)
 - [Understanding MapReduce Principle and Key-Value Concept](https://medium.com/@manarbenssssalah/understanding-mapreduce-principle-and-key-value-concept-58c998a698ca?source=rss------hadoop-5)
-- [Big Data: Introduction to Hadoop &amp; HDFS](https://medium.com/@husaincodes/big-data-introduction-to-hadoop-hdfs-52f8d4aae3da?source=rss------hadoop-5)
-- [Guidelines for uploading HDFS FSimage into Hive for monitoring and analytics](https://medium.com/x5-tech/guidelines-for-uploading-hdfs-fsimage-into-hive-for-monitoring-and-analytics-6e2ca07e1985?source=rss------hadoop-5)
-- [Navigating the World of Big Data with MapReduce: A Step-by-Step Guide](https://medium.com/@alexandre_cassis/navigating-the-world-of-big-data-with-mapreduce-a-step-by-step-guide-7812986a9fa0?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
