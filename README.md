@@ -297,6 +297,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Hadoop architecture, or how the framework works](https://medium.com/dataprophet/hadoop-architecture-or-how-the-framework-works-aa34f0048380?source=rss------hadoop-5)
 - [How to Regenerate a missing Keytab file](https://blog.clairvoyantsoft.com/how-to-regenerate-a-missing-keytab-file-91b9e3d940d2?source=rss------hadoop-5)
 - [BIG DATA DISTRIBUTED SYSTEMS: HADOOP](https://medium.com/@arieljumba/big-data-distributed-systems-hadoop-8c1e1322b0c9?source=rss------hadoop-5)
 - [Big Data, Big Problems: How to Handle the Scale and Complexity of Modern Data Sets](https://fsndzomga.medium.com/big-data-big-problems-how-to-handle-the-scale-and-complexity-of-modern-data-sets-4a9d94d9dfa9?source=rss------hadoop-5)
@@ -306,7 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Creating Custom Hadoop Events in EventBridge on AWS](https://medium.com/newmathdata/creating-custom-hadoop-events-in-eventbridge-on-aws-a0e4de46c9c0?source=rss------hadoop-5)
 - [Different ways to select data in Spark !](https://medium.com/@raghwendra.analytics/different-ways-to-select-data-in-spark-89b914cb2228?source=rss------hadoop-5)
 - [AWS EMR Schedulers Explained](https://medium.com/machine-learning-reply-dach/aws-emr-schedulers-explained-a6930335787b?source=rss------hadoop-5)
-- [Optimising the runtime of massive PySpark applications](https://medium.com/dunnhumby-data-science-engineering/optimising-the-runtime-of-massive-pyspark-applications-633e3de13c17?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
