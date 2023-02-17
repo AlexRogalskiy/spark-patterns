@@ -297,6 +297,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [What is Hadoop Map-Reduce and How Does it Work?](https://medium.com/@rayanlazghab/what-is-hadoop-map-reduce-and-how-does-it-work-2f9b4892a962?source=rss------hadoop-5)
+- [Anatomy of MapReduce](https://medium.com/@joshuaudayagiri/anatomy-of-mapreduce-66578db14d9?source=rss------hadoop-5)
 - [Hadoop architecture, or how the framework works](https://medium.com/dataprophet/hadoop-architecture-or-how-the-framework-works-aa34f0048380?source=rss------hadoop-5)
 - [How to Regenerate a missing Keytab file](https://blog.clairvoyantsoft.com/how-to-regenerate-a-missing-keytab-file-91b9e3d940d2?source=rss------hadoop-5)
 - [BIG DATA DISTRIBUTED SYSTEMS: HADOOP](https://medium.com/@arieljumba/big-data-distributed-systems-hadoop-8c1e1322b0c9?source=rss------hadoop-5)
@@ -305,8 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Introduce a new open-source language SPL](https://medium.com/@grabajobss/introduce-a-new-open-source-language-spl-46bba9e8fc2f?source=rss------hadoop-5)
 - [Commonly used ETL tools](https://medium.com/@charlespraju/commonly-used-etl-tools-388a8f81cdd9?source=rss------hadoop-5)
 - [Creating Custom Hadoop Events in EventBridge on AWS](https://medium.com/newmathdata/creating-custom-hadoop-events-in-eventbridge-on-aws-a0e4de46c9c0?source=rss------hadoop-5)
-- [Different ways to select data in Spark !](https://medium.com/@raghwendra.analytics/different-ways-to-select-data-in-spark-89b914cb2228?source=rss------hadoop-5)
-- [AWS EMR Schedulers Explained](https://medium.com/machine-learning-reply-dach/aws-emr-schedulers-explained-a6930335787b?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
