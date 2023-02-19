@@ -297,6 +297,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Setting Up Apache Spark/PySpark on Windows 11 machine](https://medium.com/@ansabiqbal/setting-up-apache-spark-pyspark-on-windows-11-machine-e16b7382624a?source=rss------hadoop-5)
 - [What is Hadoop Map-Reduce and How Does it Work?](https://medium.com/@rayanlazghab/what-is-hadoop-map-reduce-and-how-does-it-work-2f9b4892a962?source=rss------hadoop-5)
 - [Anatomy of MapReduce](https://medium.com/@joshuaudayagiri/anatomy-of-mapreduce-66578db14d9?source=rss------hadoop-5)
 - [Hadoop architecture, or how the framework works](https://medium.com/dataprophet/hadoop-architecture-or-how-the-framework-works-aa34f0048380?source=rss------hadoop-5)
@@ -306,7 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [why hadoop still groundbreaking framework](https://liukung23.medium.com/why-hadoop-still-groundbreaking-framework-2ccb51eabb87?source=rss------hadoop-5)
 - [Introduce a new open-source language SPL](https://medium.com/@grabajobss/introduce-a-new-open-source-language-spl-46bba9e8fc2f?source=rss------hadoop-5)
 - [Commonly used ETL tools](https://medium.com/@charlespraju/commonly-used-etl-tools-388a8f81cdd9?source=rss------hadoop-5)
-- [Creating Custom Hadoop Events in EventBridge on AWS](https://medium.com/newmathdata/creating-custom-hadoop-events-in-eventbridge-on-aws-a0e4de46c9c0?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
