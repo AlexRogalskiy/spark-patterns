@@ -318,16 +318,16 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop in real world posts*
 
 <!-- HADOOPINREALWORLD-POST-LIST:START -->
-- [How to make Hive recursively read files from all the sub directories?](https://www.hadoopinrealworld.com/how-to-make-hive-recursively-read-files-from-all-the-sub-directories/)
-- [How to create a column with unique, incrementing index value in Spark?](https://www.hadoopinrealworld.com/how-to-create-a-column-with-unique-incrementing-index-value-in-spark/)
-- [How to find the number of partitions in a DataFrame?](https://www.hadoopinrealworld.com/how-to-find-the-number-of-partitions-in-a-dataframe/)
-- [How to delete multiple documents that match a specific condition in Elasticsearch?](https://www.hadoopinrealworld.com/how-to-delete-multiple-documents-that-match-a-specific-condition-in-elasticsearch/)
-- [How to fix could not connect to the endpoint URL issue in S3?](https://www.hadoopinrealworld.com/how-to-fix-could-not-connect-to-the-endpoint-url-issue-in-s3/)
-- [How to parse information from URL in Hive?](https://www.hadoopinrealworld.com/how-to-parse-information-from-url-in-hive/)
-- [How to pivot and unpivot a DataFrame in Spark?](https://www.hadoopinrealworld.com/how-to-pivot-and-unpivot-a-dataframe-in-spark/)
-- [Understanding stack function in Spark](https://www.hadoopinrealworld.com/understanding-stack-function-in-spark/)
-- [What is the difference between map and flatMap functions in Spark?](https://www.hadoopinrealworld.com/what-is-the-difference-between-map-and-flatmap-functions-in-spark/)
-- [How to copy selective documents from one index to a new index in Elasticsearch?](https://www.hadoopinrealworld.com/how-to-copy-selective-documents-from-one-index-to-a-new-index-in-elasticsearch/)
+- [How to make Hive recursively read files from all the sub directories?](https://www.hadoopinrealworld.com/how-to-make-hive-recursively-read-files-from-all-the-sub-directories/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-make-hive-recursively-read-files-from-all-the-sub-directories)
+- [How to create a column with unique, incrementing index value in Spark?](https://www.hadoopinrealworld.com/how-to-create-a-column-with-unique-incrementing-index-value-in-spark/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-create-a-column-with-unique-incrementing-index-value-in-spark)
+- [How to find the number of partitions in a DataFrame?](https://www.hadoopinrealworld.com/how-to-find-the-number-of-partitions-in-a-dataframe/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-find-the-number-of-partitions-in-a-dataframe)
+- [How to delete multiple documents that match a specific condition in Elasticsearch?](https://www.hadoopinrealworld.com/how-to-delete-multiple-documents-that-match-a-specific-condition-in-elasticsearch/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-delete-multiple-documents-that-match-a-specific-condition-in-elasticsearch)
+- [How to fix could not connect to the endpoint URL issue in S3?](https://www.hadoopinrealworld.com/how-to-fix-could-not-connect-to-the-endpoint-url-issue-in-s3/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-fix-could-not-connect-to-the-endpoint-url-issue-in-s3)
+- [How to parse information from URL in Hive?](https://www.hadoopinrealworld.com/how-to-parse-information-from-url-in-hive/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-parse-information-from-url-in-hive)
+- [How to pivot and unpivot a DataFrame in Spark?](https://www.hadoopinrealworld.com/how-to-pivot-and-unpivot-a-dataframe-in-spark/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-pivot-and-unpivot-a-dataframe-in-spark)
+- [Understanding stack function in Spark](https://www.hadoopinrealworld.com/understanding-stack-function-in-spark/?utm_source=rss&utm_medium=rss&utm_campaign=understanding-stack-function-in-spark)
+- [What is the difference between map and flatMap functions in Spark?](https://www.hadoopinrealworld.com/what-is-the-difference-between-map-and-flatmap-functions-in-spark/?utm_source=rss&utm_medium=rss&utm_campaign=what-is-the-difference-between-map-and-flatmap-functions-in-spark)
+- [How to copy selective documents from one index to a new index in Elasticsearch?](https://www.hadoopinrealworld.com/how-to-copy-selective-documents-from-one-index-to-a-new-index-in-elasticsearch/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-copy-selective-documents-from-one-index-to-a-new-index-in-elasticsearch)
 <!-- HADOOPINREALWORLD-POST-LIST:END -->
 
 ### *Kognitio posts*
