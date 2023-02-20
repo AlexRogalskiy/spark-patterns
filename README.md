@@ -318,6 +318,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop in real world posts*
 
 <!-- HADOOPINREALWORLD-POST-LIST:START -->
+- [Hadoop In Real World is changing to Big Data In Real World](https://www.hadoopinrealworld.com/hadoop-in-real-world-is-changing-to-big-data-in-real-world/?utm_source=rss&utm_medium=rss&utm_campaign=hadoop-in-real-world-is-changing-to-big-data-in-real-world)
 - [How to make Hive recursively read files from all the sub directories?](https://www.hadoopinrealworld.com/how-to-make-hive-recursively-read-files-from-all-the-sub-directories/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-make-hive-recursively-read-files-from-all-the-sub-directories)
 - [How to create a column with unique, incrementing index value in Spark?](https://www.hadoopinrealworld.com/how-to-create-a-column-with-unique-incrementing-index-value-in-spark/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-create-a-column-with-unique-incrementing-index-value-in-spark)
 - [How to find the number of partitions in a DataFrame?](https://www.hadoopinrealworld.com/how-to-find-the-number-of-partitions-in-a-dataframe/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-find-the-number-of-partitions-in-a-dataframe)
@@ -327,7 +328,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [How to pivot and unpivot a DataFrame in Spark?](https://www.hadoopinrealworld.com/how-to-pivot-and-unpivot-a-dataframe-in-spark/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-pivot-and-unpivot-a-dataframe-in-spark)
 - [Understanding stack function in Spark](https://www.hadoopinrealworld.com/understanding-stack-function-in-spark/?utm_source=rss&utm_medium=rss&utm_campaign=understanding-stack-function-in-spark)
 - [What is the difference between map and flatMap functions in Spark?](https://www.hadoopinrealworld.com/what-is-the-difference-between-map-and-flatmap-functions-in-spark/?utm_source=rss&utm_medium=rss&utm_campaign=what-is-the-difference-between-map-and-flatmap-functions-in-spark)
-- [How to copy selective documents from one index to a new index in Elasticsearch?](https://www.hadoopinrealworld.com/how-to-copy-selective-documents-from-one-index-to-a-new-index-in-elasticsearch/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-copy-selective-documents-from-one-index-to-a-new-index-in-elasticsearch)
 <!-- HADOOPINREALWORLD-POST-LIST:END -->
 
 ### *Kognitio posts*
