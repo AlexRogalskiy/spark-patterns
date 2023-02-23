@@ -297,6 +297,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [От Apache Hive к Iceberg и Spark: модернизация озера данных в Airbnb](https://medium.com/@bigdataschool/%D0%BE%D1%82-apache-hive-%D0%BA-iceberg-%D0%B8-spark-%D0%BC%D0%BE%D0%B4%D0%B5%D1%80%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F-%D0%BE%D0%B7%D0%B5%D1%80%D0%B0-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-%D0%B2-airbnb-25cd494f7e93?source=rss------hadoop-5)
 - [Distributed File Systems &lpar;DFS&rpar;](https://medium.com/@abdulwahabraza123/distributed-file-systems-dfs-ba53c55db68?source=rss------hadoop-5)
 - [Hadoop-based KNN algorithms](https://medium.com/algorithm-messengers/hadoop-based-knn-algorithms-d14a29b0f2c1?source=rss------hadoop-5)
 - [Apache Hadoop 3.3.4: краткий обзор главных обновлений](https://medium.com/@bigdataschool/apache-hadoop-3-3-4-%D0%BA%D1%80%D0%B0%D1%82%D0%BA%D0%B8%D0%B9-%D0%BE%D0%B1%D0%B7%D0%BE%D1%80-%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D1%8B%D1%85-%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9-da9e9a068c79?source=rss------hadoop-5)
@@ -306,7 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Hadoop architecture, or how the framework works](https://medium.com/dataprophet/hadoop-architecture-or-how-the-framework-works-aa34f0048380?source=rss------hadoop-5)
 - [How to Regenerate a missing Keytab file](https://blog.clairvoyantsoft.com/how-to-regenerate-a-missing-keytab-file-91b9e3d940d2?source=rss------hadoop-5)
 - [BIG DATA DISTRIBUTED SYSTEMS: HADOOP](https://medium.com/@arieljumba/big-data-distributed-systems-hadoop-8c1e1322b0c9?source=rss------hadoop-5)
-- [Big Data, Big Problems: How to Handle the Scale and Complexity of Modern Data Sets](https://fsndzomga.medium.com/big-data-big-problems-how-to-handle-the-scale-and-complexity-of-modern-data-sets-4a9d94d9dfa9?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
