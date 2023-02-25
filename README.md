@@ -274,6 +274,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How does Ada compare to Rust?](https://www.reddit.com/r/spark/comments/11b0unr/how_does_ada_compare_to_rust/)
 - [Scala DataFrame UDF Iterator](https://www.reddit.com/r/spark/comments/10jqysm/scala_dataframe_udf_iterator/)
 - [Creating Bug-Free Software -- Tools like Rust and SPARK make creation of reliable software easier.](https://www.reddit.com/r/spark/comments/10f5202/creating_bugfree_software_tools_like_rust_and/)
 - [NGRAM with TFIDF](https://www.reddit.com/r/spark/comments/107cy21/ngram_with_tfidf/)
@@ -283,7 +284,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Null Values in PySpark](https://www.reddit.com/r/spark/comments/zaru1r/null_values_in_pyspark/)
 - [Huge order lol](https://www.reddit.com/r/spark/comments/z4let0/huge_order_lol/)
 - [Does num_partions affect writing speed to rds ?](https://www.reddit.com/r/spark/comments/yrkm1a/does_num_partions_affect_writing_speed_to_rds/)
-- [SPARK as good as Rust for safer coding? AdaCore cites Nvidia case study.](https://www.reddit.com/r/spark/comments/yqhqte/spark_as_good_as_rust_for_safer_coding_adacore/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld Spark posts*
