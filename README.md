@@ -297,6 +297,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Everything you need to know about the Hadoop Distributed File System &lpar;with Architecture and Design&rpar;](https://medium.com/@saikatbera2001/everything-you-need-to-know-about-the-hadoop-distributed-file-system-with-architecture-and-design-b627c808c420?source=rss------hadoop-5)
+- [ETL-конвейер передачи данных из MySQL в Hive с Apache NiFi](https://medium.com/@bigdataschool/etl-%D0%BA%D0%BE%D0%BD%D0%B2%D0%B5%D0%B9%D0%B5%D1%80-%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%D0%B0%D1%87%D0%B8-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-%D0%B8%D0%B7-mysql-%D0%B2-hive-%D1%81-apache-nifi-517aa56c528d?source=rss------hadoop-5)
 - [“Are you ready to discover the ultimate solution for managing massive amounts of data?](https://medium.com/@vaishnavisingh1511/are-you-ready-to-discover-the-ultimate-solution-for-managing-massive-amounts-of-data-db2f3464c87?source=rss------hadoop-5)
 - [От Apache Hive к Iceberg и Spark: модернизация озера данных в Airbnb](https://medium.com/@bigdataschool/%D0%BE%D1%82-apache-hive-%D0%BA-iceberg-%D0%B8-spark-%D0%BC%D0%BE%D0%B4%D0%B5%D1%80%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F-%D0%BE%D0%B7%D0%B5%D1%80%D0%B0-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-%D0%B2-airbnb-25cd494f7e93?source=rss------hadoop-5)
 - [Distributed File Systems &lpar;DFS&rpar;](https://medium.com/@abdulwahabraza123/distributed-file-systems-dfs-ba53c55db68?source=rss------hadoop-5)
@@ -305,8 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Setting Up Apache Spark/PySpark on Windows 11 machine](https://medium.com/@ansabiqbal/setting-up-apache-spark-pyspark-on-windows-11-machine-e16b7382624a?source=rss------hadoop-5)
 - [What is Hadoop Map-Reduce and How Does it Work?](https://medium.com/@rayanlazghab/what-is-hadoop-map-reduce-and-how-does-it-work-2f9b4892a962?source=rss------hadoop-5)
 - [Anatomy of MapReduce](https://medium.com/@joshuaudayagiri/anatomy-of-mapreduce-66578db14d9?source=rss------hadoop-5)
-- [Hadoop architecture, or how the framework works](https://medium.com/dataprophet/hadoop-architecture-or-how-the-framework-works-aa34f0048380?source=rss------hadoop-5)
-- [How to Regenerate a missing Keytab file](https://blog.clairvoyantsoft.com/how-to-regenerate-a-missing-keytab-file-91b9e3d940d2?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
