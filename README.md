@@ -297,6 +297,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [How I Troubleshoot An Performance Issue In Apache Spark Job?](https://medium.com/@techisbeautiful/how-i-troubleshoot-an-performance-issue-in-apache-spark-job-9699c6b7f3c5?source=rss------hadoop-5)
 - [Tutorial: Nifi upload files to SharePoint API with Template](https://itsfelipe.medium.com/tutorial-nifi-upload-files-to-sharepoint-api-with-template-ae9fa94b3a79?source=rss------hadoop-5)
 - [Revolutionize Your Hadoop Storage with LVM: Scalable, Elastic, and Future-Proof](https://iivday21.medium.com/revolutionize-your-hadoop-storage-with-lvm-scalable-elastic-and-future-proof-a1597309b3d?source=rss------hadoop-5)
 - [Creating empty Dataframe in Spark](https://medium.com/@raghwendra.analytics/creating-empty-dataframe-in-spark-b7aaa8bb7bb7?source=rss------hadoop-5)
@@ -306,7 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [“Are you ready to discover the ultimate solution for managing massive amounts of data?](https://medium.com/@vaishnavisingh1511/are-you-ready-to-discover-the-ultimate-solution-for-managing-massive-amounts-of-data-db2f3464c87?source=rss------hadoop-5)
 - [От Apache Hive к Iceberg и Spark: модернизация озера данных в Airbnb](https://medium.com/@bigdataschool/%D0%BE%D1%82-apache-hive-%D0%BA-iceberg-%D0%B8-spark-%D0%BC%D0%BE%D0%B4%D0%B5%D1%80%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F-%D0%BE%D0%B7%D0%B5%D1%80%D0%B0-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-%D0%B2-airbnb-25cd494f7e93?source=rss------hadoop-5)
 - [Distributed File Systems &lpar;DFS&rpar;](https://medium.com/@abdulwahabraza123/distributed-file-systems-dfs-ba53c55db68?source=rss------hadoop-5)
-- [Hadoop-based KNN algorithms](https://medium.com/algorithm-messengers/hadoop-based-knn-algorithms-d14a29b0f2c1?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
