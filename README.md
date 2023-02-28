@@ -297,16 +297,16 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
-- [How I Troubleshoot An Performance Issue In Apache Spark Job?](https://medium.com/@techisbeautiful/how-i-troubleshoot-an-performance-issue-in-apache-spark-job-9699c6b7f3c5?source=rss------hadoop-5)
+- [Spark — Uma breve introdução](https://medium.com/@nick.comuni/tudo-que-voc%C3%AA-precisa-saber-sobre-spark-72aff111ca1f?source=rss------hadoop-5)
+- [Apache Spark &amp; Hadoop — Part 1](https://medium.com/@berry-l/apache-spark-hadoop-part-1-57ae6e0f7e8c?source=rss------hadoop-5)
+- [BIG DATA DISTRIBUTED SYSTEMS: APACHE SPARK](https://medium.com/@arieljumba/big-data-distributed-systems-spark-9902c380b9f?source=rss------hadoop-5)
+- [Hadoop!! Things We should know before initiating a Hadoop Cluster](https://medium.com/@dmkarthiksrini/hadoop-things-we-should-know-before-initiating-a-hadoop-cluster-2ac0d7abb6e9?source=rss------hadoop-5)
+- [How I Troubleshoot An Performance Issue In Apache Spark Job?](https://blog.devgenius.io/how-i-troubleshoot-an-performance-issue-in-apache-spark-job-9699c6b7f3c5?source=rss------hadoop-5)
 - [Tutorial: Nifi upload files to SharePoint API with Template](https://itsfelipe.medium.com/tutorial-nifi-upload-files-to-sharepoint-api-with-template-ae9fa94b3a79?source=rss------hadoop-5)
 - [Revolutionize Your Hadoop Storage with LVM: Scalable, Elastic, and Future-Proof](https://iivday21.medium.com/revolutionize-your-hadoop-storage-with-lvm-scalable-elastic-and-future-proof-a1597309b3d?source=rss------hadoop-5)
 - [Creating empty Dataframe in Spark](https://medium.com/@raghwendra.analytics/creating-empty-dataframe-in-spark-b7aaa8bb7bb7?source=rss------hadoop-5)
-- [Hadoop/Spark is too heavy, esProc SPL is light](https://adarsh-gupta.medium.com/hadoop-spark-is-too-heavy-esproc-spl-is-light-a1429d3fd094?source=rss------hadoop-5)
+- [Hadoop/Spark is too heavy, esProc SPL is light](https://blog.devgenius.io/hadoop-spark-is-too-heavy-esproc-spl-is-light-a1429d3fd094?source=rss------hadoop-5)
 - [Everything you need to know about the Hadoop Distributed File System &lpar;with Architecture and Design&rpar;](https://medium.com/@saikatbera2001/everything-you-need-to-know-about-the-hadoop-distributed-file-system-with-architecture-and-design-b627c808c420?source=rss------hadoop-5)
-- [ETL-конвейер передачи данных из MySQL в Hive с Apache NiFi](https://medium.com/@bigdataschool/etl-%D0%BA%D0%BE%D0%BD%D0%B2%D0%B5%D0%B9%D0%B5%D1%80-%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%D0%B0%D1%87%D0%B8-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-%D0%B8%D0%B7-mysql-%D0%B2-hive-%D1%81-apache-nifi-517aa56c528d?source=rss------hadoop-5)
-- [“Are you ready to discover the ultimate solution for managing massive amounts of data?](https://medium.com/@vaishnavisingh1511/are-you-ready-to-discover-the-ultimate-solution-for-managing-massive-amounts-of-data-db2f3464c87?source=rss------hadoop-5)
-- [От Apache Hive к Iceberg и Spark: модернизация озера данных в Airbnb](https://medium.com/@bigdataschool/%D0%BE%D1%82-apache-hive-%D0%BA-iceberg-%D0%B8-spark-%D0%BC%D0%BE%D0%B4%D0%B5%D1%80%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F-%D0%BE%D0%B7%D0%B5%D1%80%D0%B0-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-%D0%B2-airbnb-25cd494f7e93?source=rss------hadoop-5)
-- [Distributed File Systems &lpar;DFS&rpar;](https://medium.com/@abdulwahabraza123/distributed-file-systems-dfs-ba53c55db68?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
