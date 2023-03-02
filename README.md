@@ -297,6 +297,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Регулярные выражения в Apache HBase](https://medium.com/@bigdataschool/%D1%80%D0%B5%D0%B3%D1%83%D0%BB%D1%8F%D1%80%D0%BD%D1%8B%D0%B5-%D0%B2%D1%8B%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-apache-hbase-bb7eff95a608?source=rss------hadoop-5)
 - [Spark — Uma breve introdução](https://medium.com/@nick.comuni/tudo-que-voc%C3%AA-precisa-saber-sobre-spark-72aff111ca1f?source=rss------hadoop-5)
 - [Apache Spark &amp; Hadoop — Part 1](https://medium.com/@berry-l/apache-spark-hadoop-part-1-57ae6e0f7e8c?source=rss------hadoop-5)
 - [BIG DATA DISTRIBUTED SYSTEMS: APACHE SPARK](https://medium.com/@arieljumba/big-data-distributed-systems-spark-9902c380b9f?source=rss------hadoop-5)
@@ -306,7 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Revolutionize Your Hadoop Storage with LVM: Scalable, Elastic, and Future-Proof](https://iivday21.medium.com/revolutionize-your-hadoop-storage-with-lvm-scalable-elastic-and-future-proof-a1597309b3d?source=rss------hadoop-5)
 - [Creating empty Dataframe in Spark](https://medium.com/@raghwendra.analytics/creating-empty-dataframe-in-spark-b7aaa8bb7bb7?source=rss------hadoop-5)
 - [Hadoop/Spark is too heavy, esProc SPL is light](https://blog.devgenius.io/hadoop-spark-is-too-heavy-esproc-spl-is-light-a1429d3fd094?source=rss------hadoop-5)
-- [Everything you need to know about the Hadoop Distributed File System &lpar;with Architecture and Design&rpar;](https://medium.com/@saikatbera2001/everything-you-need-to-know-about-the-hadoop-distributed-file-system-with-architecture-and-design-b627c808c420?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
