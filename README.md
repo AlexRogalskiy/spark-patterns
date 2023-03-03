@@ -297,6 +297,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Apache Spark vs Hadoop, qual a diferença e quando utilizá-los?](https://paulomelophpm.medium.com/apache-spark-vs-hadoop-qual-a-diferen%C3%A7a-e-quando-utiliz%C3%A1-los-8f1c5b91f5fd?source=rss------hadoop-5)
+- [Hadoop Interview Questions — 1](https://naveenpn.medium.com/hadoop-interview-questions-1-bc0602dd4093?source=rss------hadoop-5)
 - [Регулярные выражения в Apache HBase](https://medium.com/@bigdataschool/%D1%80%D0%B5%D0%B3%D1%83%D0%BB%D1%8F%D1%80%D0%BD%D1%8B%D0%B5-%D0%B2%D1%8B%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-apache-hbase-bb7eff95a608?source=rss------hadoop-5)
 - [Spark — Uma breve introdução](https://medium.com/@nick.comuni/tudo-que-voc%C3%AA-precisa-saber-sobre-spark-72aff111ca1f?source=rss------hadoop-5)
 - [Apache Spark &amp; Hadoop — Part 1](https://medium.com/@berry-l/apache-spark-hadoop-part-1-57ae6e0f7e8c?source=rss------hadoop-5)
@@ -305,8 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [How I Troubleshoot An Performance Issue In Apache Spark Job?](https://blog.devgenius.io/how-i-troubleshoot-an-performance-issue-in-apache-spark-job-9699c6b7f3c5?source=rss------hadoop-5)
 - [Tutorial: Nifi upload files to SharePoint API with Template](https://itsfelipe.medium.com/tutorial-nifi-upload-files-to-sharepoint-api-with-template-ae9fa94b3a79?source=rss------hadoop-5)
 - [Revolutionize Your Hadoop Storage with LVM: Scalable, Elastic, and Future-Proof](https://iivday21.medium.com/revolutionize-your-hadoop-storage-with-lvm-scalable-elastic-and-future-proof-a1597309b3d?source=rss------hadoop-5)
-- [Creating empty Dataframe in Spark](https://medium.com/@raghwendra.analytics/creating-empty-dataframe-in-spark-b7aaa8bb7bb7?source=rss------hadoop-5)
-- [Hadoop/Spark is too heavy, esProc SPL is light](https://blog.devgenius.io/hadoop-spark-is-too-heavy-esproc-spl-is-light-a1429d3fd094?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
