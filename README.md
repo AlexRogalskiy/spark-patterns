@@ -297,6 +297,9 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Using AWS EMR &lpar;Spark&rpar; To Solve An Infamous Real Estate Problem](https://medium.com/@austinwolff/using-aws-emr-spark-to-solve-an-infamous-real-estate-problem-240de3dbca7b?source=rss------hadoop-5)
+- [Want to practice PySpark data processing? Spin up a Spark Standalone Cluster for free in 5 minutes](https://medium.com/@sounder.rahul/want-to-practice-pyspark-data-processing-spin-up-a-spark-standalone-cluster-for-free-in-5-minutes-56e0106a33f3?source=rss------hadoop-5)
+- [Run your first Big Data project using Hadoop and Docker in less than 10 Minutes!](https://faun.pub/run-your-first-big-data-project-using-hadoop-and-docker-in-less-than-10-minutes-e1bbe2974ef3?source=rss------hadoop-5)
 - [5 Big Data and Hadoop Use Cases in Retail Analytics](https://medium.com/dataprophet/5-big-data-and-hadoop-use-cases-in-retail-analytics-dbc2dfd83ac6?source=rss------hadoop-5)
 - [DataNodes Not Working on Hadoop Single Cluster](https://medium.com/@i211671/datanodes-not-working-on-hadoop-single-cluster-74e26363640e?source=rss------hadoop-5)
 - [Apache Spark vs Hadoop, qual a diferença e quando utilizá-los?](https://paulomelophpm.medium.com/apache-spark-vs-hadoop-qual-a-diferen%C3%A7a-e-quando-utiliz%C3%A1-los-8f1c5b91f5fd?source=rss------hadoop-5)
@@ -304,9 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Регулярные выражения в Apache HBase](https://medium.com/@bigdataschool/%D1%80%D0%B5%D0%B3%D1%83%D0%BB%D1%8F%D1%80%D0%BD%D1%8B%D0%B5-%D0%B2%D1%8B%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-apache-hbase-bb7eff95a608?source=rss------hadoop-5)
 - [Spark — Uma breve introdução](https://medium.com/@nick.comuni/tudo-que-voc%C3%AA-precisa-saber-sobre-spark-72aff111ca1f?source=rss------hadoop-5)
 - [Apache Spark &amp; Hadoop — Part 1](https://medium.com/@berry-l/apache-spark-hadoop-part-1-57ae6e0f7e8c?source=rss------hadoop-5)
-- [BIG DATA DISTRIBUTED SYSTEMS: APACHE SPARK](https://medium.com/@arieljumba/big-data-distributed-systems-spark-9902c380b9f?source=rss------hadoop-5)
-- [Hadoop!! Things We should know before initiating a Hadoop Cluster](https://medium.com/@dmkarthiksrini/hadoop-things-we-should-know-before-initiating-a-hadoop-cluster-2ac0d7abb6e9?source=rss------hadoop-5)
-- [How I Troubleshoot An Performance Issue In Apache Spark Job?](https://blog.devgenius.io/how-i-troubleshoot-an-performance-issue-in-apache-spark-job-9699c6b7f3c5?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
