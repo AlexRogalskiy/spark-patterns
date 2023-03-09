@@ -297,6 +297,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Prepare Ubuntu for Big Data Analytics](https://medium.com/@shuv.sdr/prepare-ubuntu-for-big-data-analytics-1543abc549c0?source=rss------hadoop-5)
+- [Big Data Analytics: A Beginner’s Guide to Hadoop, Spark, and NoSQL Databases](https://pagadala-saiteja.medium.com/big-data-analytics-a-beginners-guide-to-hadoop-spark-and-nosql-databases-8fe341816fe7?source=rss------hadoop-5)
 - [Understanding Hadoop Architecture](https://medium.com/@TejesDasari/understanding-hadoop-architecture-9016dc8f6b8a?source=rss------hadoop-5)
 - [Hadoop Fundamentals](https://medium.com/@abbad/hadoop-fundamentals-b2b584e4b311?source=rss------hadoop-5)
 - [Using AWS EMR &lpar;Spark&rpar; To Solve An Infamous Real Estate Problem](https://medium.com/@austinwolff/using-aws-emr-spark-to-solve-an-infamous-real-estate-problem-240de3dbca7b?source=rss------hadoop-5)
@@ -305,8 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [5 Big Data and Hadoop Use Cases in Retail Analytics](https://medium.com/dataprophet/5-big-data-and-hadoop-use-cases-in-retail-analytics-dbc2dfd83ac6?source=rss------hadoop-5)
 - [DataNodes Not Working on Hadoop Single Cluster](https://medium.com/@i211671/datanodes-not-working-on-hadoop-single-cluster-74e26363640e?source=rss------hadoop-5)
 - [Apache Spark vs Hadoop, qual a diferença e quando utilizá-los?](https://paulomelophpm.medium.com/apache-spark-vs-hadoop-qual-a-diferen%C3%A7a-e-quando-utiliz%C3%A1-los-8f1c5b91f5fd?source=rss------hadoop-5)
-- [Hadoop Interview Questions — 1](https://naveenpn.medium.com/hadoop-interview-questions-1-bc0602dd4093?source=rss------hadoop-5)
-- [Регулярные выражения в Apache HBase](https://medium.com/@bigdataschool/%D1%80%D0%B5%D0%B3%D1%83%D0%BB%D1%8F%D1%80%D0%BD%D1%8B%D0%B5-%D0%B2%D1%8B%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-apache-hbase-bb7eff95a608?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
