@@ -297,6 +297,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [The Battle of Big Data: Spark vs Hadoop](https://medium.com/@xywa_66377/the-battle-of-big-data-spark-vs-hadoop-3b042b54f5f8?source=rss------hadoop-5)
 - [Prepare Ubuntu for Big Data Analytics](https://medium.com/@shuv.sdr/prepare-ubuntu-for-big-data-analytics-1543abc549c0?source=rss------hadoop-5)
 - [Big Data Analytics: A Beginner’s Guide to Hadoop, Spark, and NoSQL Databases](https://pagadala-saiteja.medium.com/big-data-analytics-a-beginners-guide-to-hadoop-spark-and-nosql-databases-8fe341816fe7?source=rss------hadoop-5)
 - [Understanding Hadoop Architecture](https://medium.com/@TejesDasari/understanding-hadoop-architecture-9016dc8f6b8a?source=rss------hadoop-5)
@@ -306,7 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Run your first Big Data project using Hadoop and Docker in less than 10 Minutes!](https://faun.pub/run-your-first-big-data-project-using-hadoop-and-docker-in-less-than-10-minutes-e1bbe2974ef3?source=rss------hadoop-5)
 - [5 Big Data and Hadoop Use Cases in Retail Analytics](https://medium.com/dataprophet/5-big-data-and-hadoop-use-cases-in-retail-analytics-dbc2dfd83ac6?source=rss------hadoop-5)
 - [DataNodes Not Working on Hadoop Single Cluster](https://medium.com/@i211671/datanodes-not-working-on-hadoop-single-cluster-74e26363640e?source=rss------hadoop-5)
-- [Apache Spark vs Hadoop, qual a diferença e quando utilizá-los?](https://paulomelophpm.medium.com/apache-spark-vs-hadoop-qual-a-diferen%C3%A7a-e-quando-utiliz%C3%A1-los-8f1c5b91f5fd?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
