@@ -318,6 +318,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop in real world posts*
 
 <!-- HADOOPINREALWORLD-POST-LIST:START -->
+- [How to rename files or objects in Amazon S3?](https://www.bigdatainrealworld.com/how-to-rename-files-or-objects-in-amazon-s3/)
 - [How to delete duplicate data from the Hive table?](https://www.bigdatainrealworld.com/how-to-delete-duplicate-data-from-the-hive-table/)
 - [Hadoop In Real World is now Big Data In Real World!](https://www.bigdatainrealworld.com/hadoop-in-real-world-is-now-big-data-in-real-world/)
 - [Hadoop In Real World is changing to Big Data In Real World](https://www.bigdatainrealworld.com/hadoop-in-real-world-is-changing-to-big-data-in-real-world/)
@@ -327,7 +328,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [How to delete multiple documents that match a specific condition in Elasticsearch?](https://www.bigdatainrealworld.com/how-to-delete-multiple-documents-that-match-a-specific-condition-in-elasticsearch/)
 - [How to fix could not connect to the endpoint URL issue in S3?](https://www.bigdatainrealworld.com/how-to-fix-could-not-connect-to-the-endpoint-url-issue-in-s3/)
 - [How to parse information from URL in Hive?](https://www.bigdatainrealworld.com/how-to-parse-information-from-url-in-hive/)
-- [How to pivot and unpivot a DataFrame in Spark?](https://www.bigdatainrealworld.com/how-to-pivot-and-unpivot-a-dataframe-in-spark/)
 <!-- HADOOPINREALWORLD-POST-LIST:END -->
 
 ### *Kognitio posts*
