@@ -297,6 +297,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Apache Hadoop YARN: Yet Another Resource Negotiator](https://medium.com/@hoodananya/apache-hadoop-yarn-yet-another-resource-negotiator-a4b18a928399?source=rss------hadoop-5)
+- [MapReduce: Simplified Data Processing on Large Clusters](https://medium.com/@hoodananya/mapreduce-simplified-data-processing-on-large-clusters-74fab355569?source=rss------hadoop-5)
 - [The Battle of Big Data: Spark vs Hadoop](https://medium.com/@xywa_66377/the-battle-of-big-data-spark-vs-hadoop-3b042b54f5f8?source=rss------hadoop-5)
 - [Prepare Ubuntu for Big Data Analytics](https://medium.com/@shuv.sdr/prepare-ubuntu-for-big-data-analytics-1543abc549c0?source=rss------hadoop-5)
 - [Big Data Analytics: A Beginner’s Guide to Hadoop, Spark, and NoSQL Databases](https://pagadala-saiteja.medium.com/big-data-analytics-a-beginners-guide-to-hadoop-spark-and-nosql-databases-8fe341816fe7?source=rss------hadoop-5)
@@ -305,8 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Using AWS EMR &lpar;Spark&rpar; To Solve An Infamous Real Estate Problem](https://medium.com/@austinwolff/using-aws-emr-spark-to-solve-an-infamous-real-estate-problem-240de3dbca7b?source=rss------hadoop-5)
 - [Want to practice PySpark data processing? Spin up a Spark Standalone Cluster for free in 5 minutes](https://medium.com/@sounder.rahul/want-to-practice-pyspark-data-processing-spin-up-a-spark-standalone-cluster-for-free-in-5-minutes-56e0106a33f3?source=rss------hadoop-5)
 - [Run your first Big Data project using Hadoop and Docker in less than 10 Minutes!](https://faun.pub/run-your-first-big-data-project-using-hadoop-and-docker-in-less-than-10-minutes-e1bbe2974ef3?source=rss------hadoop-5)
-- [5 Big Data and Hadoop Use Cases in Retail Analytics](https://medium.com/dataprophet/5-big-data-and-hadoop-use-cases-in-retail-analytics-dbc2dfd83ac6?source=rss------hadoop-5)
-- [DataNodes Not Working on Hadoop Single Cluster](https://medium.com/@i211671/datanodes-not-working-on-hadoop-single-cluster-74e26363640e?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
