@@ -297,16 +297,16 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Evolution of Big Data Analytics](https://medium.com/@sandeep-sudesh-kumar/evolution-of-big-data-analytics-25daf091ffad?source=rss------hadoop-5)
+- [La batalla de las herramientas Big Data: Spark y Hadoop](https://medium.com/@henrysan952908/la-batalla-de-las-herramientas-big-data-spark-y-hadoop-1d2c25bf95c0?source=rss------hadoop-5)
+- [Learn the basic concepts of Hadoop MapReduce](https://medium.com/@lalbaburay.analyst/learn-the-basic-concepts-of-hadoop-mapreduce-9f783f35ca04?source=rss------hadoop-5)
+- [Tips to Improve the Performance of Hadoop](https://medium.com/@i222999/tips-to-improve-the-performance-of-hadoop-4e898f6b85f4?source=rss------hadoop-5)
+- [Spark vs Hadoop —cuales son las diferencias de estas dos?](https://medium.com/@juanjp20/spark-vs-hadoop-cuales-son-las-diferencias-de-estas-dos-db0f75d67450?source=rss------hadoop-5)
+- [Comparativo entre Hadoop y Spark](https://medium.com/@jscampoy97/comparativo-entre-hadoop-y-spark-62a2190a0d3b?source=rss------hadoop-5)
+- [Mastering Hive Optimization: Tips and Techniques for Speeding Up Your Big Data Analytics](https://medium.com/@nksnaveen13/mastering-hive-optimization-tips-and-techniques-for-speeding-up-your-big-data-analytics-43b0d011974e?source=rss------hadoop-5)
+- [Configuration Hadoop in VM](https://medium.com/@mmodi2561/configuration-hadoop-in-vm-aedc7d8f22c2?source=rss------hadoop-5)
 - [Apache Hadoop YARN: Yet Another Resource Negotiator](https://medium.com/@hoodananya/apache-hadoop-yarn-yet-another-resource-negotiator-a4b18a928399?source=rss------hadoop-5)
 - [MapReduce: Simplified Data Processing on Large Clusters](https://medium.com/@hoodananya/mapreduce-simplified-data-processing-on-large-clusters-74fab355569?source=rss------hadoop-5)
-- [The Battle of Big Data: Spark vs Hadoop](https://medium.com/@xywa_66377/the-battle-of-big-data-spark-vs-hadoop-3b042b54f5f8?source=rss------hadoop-5)
-- [Prepare Ubuntu for Big Data Analytics](https://medium.com/@shuv.sdr/prepare-ubuntu-for-big-data-analytics-1543abc549c0?source=rss------hadoop-5)
-- [Big Data Analytics: A Beginner’s Guide to Hadoop, Spark, and NoSQL Databases](https://pagadala-saiteja.medium.com/big-data-analytics-a-beginners-guide-to-hadoop-spark-and-nosql-databases-8fe341816fe7?source=rss------hadoop-5)
-- [Understanding Hadoop Architecture](https://medium.com/@TejesDasari/understanding-hadoop-architecture-9016dc8f6b8a?source=rss------hadoop-5)
-- [Hadoop Fundamentals](https://medium.com/@abbad/hadoop-fundamentals-b2b584e4b311?source=rss------hadoop-5)
-- [Using AWS EMR &lpar;Spark&rpar; To Solve An Infamous Real Estate Problem](https://medium.com/@austinwolff/using-aws-emr-spark-to-solve-an-infamous-real-estate-problem-240de3dbca7b?source=rss------hadoop-5)
-- [Want to practice PySpark data processing? Spin up a Spark Standalone Cluster for free in 5 minutes](https://medium.com/@sounder.rahul/want-to-practice-pyspark-data-processing-spin-up-a-spark-standalone-cluster-for-free-in-5-minutes-56e0106a33f3?source=rss------hadoop-5)
-- [Run your first Big Data project using Hadoop and Docker in less than 10 Minutes!](https://faun.pub/run-your-first-big-data-project-using-hadoop-and-docker-in-less-than-10-minutes-e1bbe2974ef3?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
