@@ -297,16 +297,16 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Have a great St. Patrick’s Day! 25% Off on Qualifacts EHR Users Email List](https://medium.com/@rogerslydia42/have-a-great-st-patricks-day-25-off-on-qualifacts-ehr-users-email-list-9350637f1850?source=rss------hadoop-5)
+- [HDFS configuration](https://medium.com/@mmodi2561/hdfs-configuration-348dfb577494?source=rss------hadoop-5)
+- [HDFS-SSH Configuration](https://medium.com/@mmodi2561/hdfs-ssh-configuration-e0f4ddb350fa?source=rss------hadoop-5)
+- [Блеск и нищета каталогов метаданных для Data Lake: преимущества Apache Iceberg над Hive](https://medium.com/@bigdataschool/%D0%B1%D0%BB%D0%B5%D1%81%D0%BA-%D0%B8-%D0%BD%D0%B8%D1%89%D0%B5%D1%82%D0%B0-%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3%D0%BE%D0%B2-%D0%BC%D0%B5%D1%82%D0%B0%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-%D0%B4%D0%BB%D1%8F-data-lake-%D0%BF%D1%80%D0%B5%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0-apache-iceberg-%D0%BD%D0%B0%D0%B4-hive-f41f1ecb92b0?source=rss------hadoop-5)
 - [Evolution of Big Data Analytics](https://medium.com/@sandeep-sudesh-kumar/evolution-of-big-data-analytics-25daf091ffad?source=rss------hadoop-5)
 - [La batalla de las herramientas Big Data: Spark y Hadoop](https://medium.com/@henrysan952908/la-batalla-de-las-herramientas-big-data-spark-y-hadoop-1d2c25bf95c0?source=rss------hadoop-5)
 - [Learn the basic concepts of Hadoop MapReduce](https://medium.com/@lalbaburay.analyst/learn-the-basic-concepts-of-hadoop-mapreduce-9f783f35ca04?source=rss------hadoop-5)
 - [Tips to Improve the Performance of Hadoop](https://medium.com/@i222999/tips-to-improve-the-performance-of-hadoop-4e898f6b85f4?source=rss------hadoop-5)
 - [Spark vs Hadoop —cuales son las diferencias de estas dos?](https://medium.com/@juanjp20/spark-vs-hadoop-cuales-son-las-diferencias-de-estas-dos-db0f75d67450?source=rss------hadoop-5)
 - [Comparativo entre Hadoop y Spark](https://medium.com/@jscampoy97/comparativo-entre-hadoop-y-spark-62a2190a0d3b?source=rss------hadoop-5)
-- [Mastering Hive Optimization: Tips and Techniques for Speeding Up Your Big Data Analytics](https://medium.com/@nksnaveen13/mastering-hive-optimization-tips-and-techniques-for-speeding-up-your-big-data-analytics-43b0d011974e?source=rss------hadoop-5)
-- [Configuration Hadoop in VM](https://medium.com/@mmodi2561/configuration-hadoop-in-vm-aedc7d8f22c2?source=rss------hadoop-5)
-- [Apache Hadoop YARN: Yet Another Resource Negotiator](https://medium.com/@hoodananya/apache-hadoop-yarn-yet-another-resource-negotiator-a4b18a928399?source=rss------hadoop-5)
-- [MapReduce: Simplified Data Processing on Large Clusters](https://medium.com/@hoodananya/mapreduce-simplified-data-processing-on-large-clusters-74fab355569?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
