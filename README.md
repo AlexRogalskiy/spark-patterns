@@ -297,6 +297,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Spark - Why You Should Care as ML Engineer](https://medium.com/geekculture/spark-why-you-should-care-as-ml-engineer-ce8bfdd8fbae?source=rss------hadoop-5)
 - [Have a great St. Patrick’s Day! 25% Off on Qualifacts EHR Users Email List](https://medium.com/@rogerslydia42/have-a-great-st-patricks-day-25-off-on-qualifacts-ehr-users-email-list-9350637f1850?source=rss------hadoop-5)
 - [HDFS configuration](https://medium.com/@mmodi2561/hdfs-configuration-348dfb577494?source=rss------hadoop-5)
 - [HDFS-SSH Configuration](https://medium.com/@mmodi2561/hdfs-ssh-configuration-e0f4ddb350fa?source=rss------hadoop-5)
@@ -306,7 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Learn the basic concepts of Hadoop MapReduce](https://medium.com/@lalbaburay.analyst/learn-the-basic-concepts-of-hadoop-mapreduce-9f783f35ca04?source=rss------hadoop-5)
 - [Tips to Improve the Performance of Hadoop](https://medium.com/@i222999/tips-to-improve-the-performance-of-hadoop-4e898f6b85f4?source=rss------hadoop-5)
 - [Spark vs Hadoop —cuales son las diferencias de estas dos?](https://medium.com/@juanjp20/spark-vs-hadoop-cuales-son-las-diferencias-de-estas-dos-db0f75d67450?source=rss------hadoop-5)
-- [Comparativo entre Hadoop y Spark](https://medium.com/@jscampoy97/comparativo-entre-hadoop-y-spark-62a2190a0d3b?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
