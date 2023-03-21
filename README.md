@@ -297,6 +297,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [MapReduce: The Data Processing Revolution You Can’t Afford to Ignore](https://medium.com/@maimoona.khilji/mapreduce-the-data-processing-revolution-you-cant-afford-to-ignore-4c49dfc528?source=rss------hadoop-5)
 - [What are the challenges in Hadoop-Delta Lake Migration?](https://medium.com/dataprophet/what-are-the-challenges-in-hadoop-delta-lake-migration-f27bdd77587e?source=rss------hadoop-5)
 - [Unleashing the Responsibilities and SkillSets of a Data Engineer](https://medium.com/@hamza_mehmood/unleashing-the-responsibilities-and-skillsets-of-a-data-engineer-f518a3889f34?source=rss------hadoop-5)
 - [Why is Spark faster than Hadoop &lpar;Map Reduce ?&rpar;](https://medium.com/@shanbsundar/spark-vs-hadoop-map-reduce-622072b49e72?source=rss------hadoop-5)
@@ -306,7 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [What is Big Data?](https://medium.com/@rohitkr.rht78/what-is-big-data-f5c36af6b766?source=rss------hadoop-5)
 - [Data Engineering: An Overview of the Field](https://medium.com/@sheroze2017/data-engineering-an-overview-of-the-field-b6dca755f446?source=rss------hadoop-5)
 - [Spark - Why You Should Care as ML Engineer](https://medium.com/geekculture/spark-why-you-should-care-as-ml-engineer-ce8bfdd8fbae?source=rss------hadoop-5)
-- [Have a great St. Patrick’s Day! 25% Off on Qualifacts EHR Users Email List](https://medium.com/@rogerslydia42/have-a-great-st-patricks-day-25-off-on-qualifacts-ehr-users-email-list-9350637f1850?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
