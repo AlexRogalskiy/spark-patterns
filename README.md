@@ -297,6 +297,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Hadoop Security](https://medium.com/@zakariabouaouda1/hadoop-security-5dac0ffe209e?source=rss------hadoop-5)
+- [How can I build a modern Big Data pipeline using Hadoop Spark and Kafka?](https://medium.com/cloud-believers/how-can-i-build-a-modern-big-data-pipeline-using-hadoop-spark-and-kafka-e5c152cf0976?source=rss------hadoop-5)
 - [MapReduce: The Data Processing Revolution You Can’t Afford to Ignore](https://medium.com/@maimoona.khilji/mapreduce-the-data-processing-revolution-you-cant-afford-to-ignore-4c49dfc528?source=rss------hadoop-5)
 - [What are the challenges in Hadoop-Delta Lake Migration?](https://medium.com/dataprophet/what-are-the-challenges-in-hadoop-delta-lake-migration-f27bdd77587e?source=rss------hadoop-5)
 - [Unleashing the Responsibilities and SkillSets of a Data Engineer](https://medium.com/@hamza_mehmood/unleashing-the-responsibilities-and-skillsets-of-a-data-engineer-f518a3889f34?source=rss------hadoop-5)
@@ -305,8 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Introduction to Hadoop: Architecture, Components and Ecosystem](https://medium.com/@sthitiswain4/introduction-to-hadoop-architecture-components-and-ecosystem-a0c8ea99852d?source=rss------hadoop-5)
 - [Hadoop Commands and Usage Log:-](https://medium.com/@gvpreddy1995/hadoop-commands-and-usage-log-41b77bea9be4?source=rss------hadoop-5)
 - [What is Big Data?](https://medium.com/@rohitkr.rht78/what-is-big-data-f5c36af6b766?source=rss------hadoop-5)
-- [Data Engineering: An Overview of the Field](https://medium.com/@sheroze2017/data-engineering-an-overview-of-the-field-b6dca755f446?source=rss------hadoop-5)
-- [Spark - Why You Should Care as ML Engineer](https://medium.com/geekculture/spark-why-you-should-care-as-ml-engineer-ce8bfdd8fbae?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
