@@ -297,16 +297,16 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Apache Sqoop, Hadoop  RDBMS](https://medium.com/@abbad/apache-sqoop-hadoop-rdbms-27c64a06ea4e?source=rss------hadoop-5)
+- [How to install Hadoop on Mac OS &lpar;M1/M2&rpar;](https://medium.com/@nafay2002rizwani/how-to-install-hadoop-on-mac-os-m1-m2-7f9fa8d4ae6?source=rss------hadoop-5)
 - [Hadoop Security](https://medium.com/@zakariabouaouda1/hadoop-security-5dac0ffe209e?source=rss------hadoop-5)
 - [How can I build a modern Big Data pipeline using Hadoop Spark and Kafka?](https://medium.com/cloud-believers/how-can-i-build-a-modern-big-data-pipeline-using-hadoop-spark-and-kafka-e5c152cf0976?source=rss------hadoop-5)
 - [MapReduce: The Data Processing Revolution You Can’t Afford to Ignore](https://medium.com/@maimoona.khilji/mapreduce-the-data-processing-revolution-you-cant-afford-to-ignore-4c49dfc528?source=rss------hadoop-5)
 - [What are the challenges in Hadoop-Delta Lake Migration?](https://medium.com/dataprophet/what-are-the-challenges-in-hadoop-delta-lake-migration-f27bdd77587e?source=rss------hadoop-5)
 - [Unleashing the Responsibilities and SkillSets of a Data Engineer](https://medium.com/@hamza_mehmood/unleashing-the-responsibilities-and-skillsets-of-a-data-engineer-f518a3889f34?source=rss------hadoop-5)
-- [Why is Spark faster than Hadoop &lpar;Map Reduce ?&rpar;](https://medium.com/@shanbsundar/spark-vs-hadoop-map-reduce-622072b49e72?source=rss------hadoop-5)
+- [Why is Spark faster than Hadoop &lpar;Map Reduce ?&rpar;](https://faun.pub/spark-vs-hadoop-map-reduce-622072b49e72?source=rss------hadoop-5)
 - [Developing Multi Nodes Hadoop, Spark Cluster, and Airflow in Docker Compose &lpar;Part 1&rpar;](https://medium.com/@ayyoubmaulana/developing-multi-nodes-hadoop-spark-cluster-and-airflow-in-docker-compose-part-1-10331e1e71b3?source=rss------hadoop-5)
 - [Introduction to Hadoop: Architecture, Components and Ecosystem](https://medium.com/@sthitiswain4/introduction-to-hadoop-architecture-components-and-ecosystem-a0c8ea99852d?source=rss------hadoop-5)
-- [Hadoop Commands and Usage Log:-](https://medium.com/@gvpreddy1995/hadoop-commands-and-usage-log-41b77bea9be4?source=rss------hadoop-5)
-- [What is Big Data?](https://medium.com/@rohitkr.rht78/what-is-big-data-f5c36af6b766?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
