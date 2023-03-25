@@ -297,6 +297,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Efficient Big Data Processing with Apache Spark + Postgres DB — Part 1](https://medium.com/@gmrarunn/efficient-big-data-processing-with-apache-spark-and-postgres-db-part-1-cf36eed66484?source=rss------hadoop-5)
 - [DE- Örnek Proje 1](https://emreevcimen.medium.com/de-%C3%B6rnek-proje-1-6e02a948ba3a?source=rss------hadoop-5)
 - [Apache Sqoop, Hadoop  RDBMS](https://medium.com/@abbad/apache-sqoop-hadoop-rdbms-27c64a06ea4e?source=rss------hadoop-5)
 - [How to install Hadoop on Mac OS &lpar;M1/M2&rpar;](https://medium.com/@nafay2002rizwani/how-to-install-hadoop-on-mac-os-m1-m2-7f9fa8d4ae6?source=rss------hadoop-5)
@@ -306,7 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [What are the challenges in Hadoop-Delta Lake Migration?](https://medium.com/dataprophet/what-are-the-challenges-in-hadoop-delta-lake-migration-f27bdd77587e?source=rss------hadoop-5)
 - [Unleashing the Responsibilities and SkillSets of a Data Engineer](https://medium.com/@hamza_mehmood/unleashing-the-responsibilities-and-skillsets-of-a-data-engineer-f518a3889f34?source=rss------hadoop-5)
 - [Why is Spark faster than Hadoop &lpar;Map Reduce ?&rpar;](https://faun.pub/spark-vs-hadoop-map-reduce-622072b49e72?source=rss------hadoop-5)
-- [Developing Multi Nodes Hadoop, Spark Cluster, and Airflow in Docker Compose &lpar;Part 1&rpar;](https://medium.com/@ayyoubmaulana/developing-multi-nodes-hadoop-spark-cluster-and-airflow-in-docker-compose-part-1-10331e1e71b3?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
