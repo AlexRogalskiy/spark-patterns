@@ -297,16 +297,16 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Errors in BDA](https://medium.com/@kinjal.280201/errors-in-bda-9253af99b30a?source=rss------hadoop-5)
+- [Hadoop 核心組件-MapReduce](https://medium.com/@chrischen.guanyu/mapreduce-hadoop-%E6%A0%B8%E5%BF%83%E7%B5%84%E4%BB%B6-b3fbcf087f9a?source=rss------hadoop-5)
+- [Hadoop 核心組件-HDFS](https://medium.com/@chrischen.guanyu/hadoop-%E6%A0%B8%E5%BF%83%E7%B5%84%E4%BB%B6-hdfs-e017805e83e5?source=rss------hadoop-5)
+- [Hadoop Ecosystem的歷史和發展](https://medium.com/@chrischen.guanyu/hadoop-ecosystem%E7%9A%84%E6%AD%B7%E5%8F%B2%E5%92%8C%E7%99%BC%E5%B1%95-b68f43b6353c?source=rss------hadoop-5)
+- [Hadoop Ecosystem的定義和簡介](https://medium.com/@chrischen.guanyu/hadoop-ecosystem%E7%9A%84%E5%AE%9A%E7%BE%A9%E5%92%8C%E7%B0%A1%E4%BB%8B-c03bb7bf7729?source=rss------hadoop-5)
 - [Hadoop distributed storage : HDFS](https://medium.com/@rohitkr.rht78/hadoop-distributed-storage-hdfs-8071021ed5f2?source=rss------hadoop-5)
 - [Efficient Big Data Processing with Apache Spark + Postgres DB — Part 1](https://medium.com/@gmrarunn/efficient-big-data-processing-with-apache-spark-and-postgres-db-part-1-cf36eed66484?source=rss------hadoop-5)
 - [DE- Örnek Proje 1](https://emreevcimen.medium.com/de-%C3%B6rnek-proje-1-6e02a948ba3a?source=rss------hadoop-5)
 - [Apache Sqoop, Hadoop  RDBMS](https://medium.com/@abbad/apache-sqoop-hadoop-rdbms-27c64a06ea4e?source=rss------hadoop-5)
 - [How to install Hadoop on Mac OS &lpar;M1/M2&rpar;](https://medium.com/@nafay2002rizwani/how-to-install-hadoop-on-mac-os-m1-m2-7f9fa8d4ae6?source=rss------hadoop-5)
-- [Hadoop Security](https://medium.com/@zakariabouaouda1/hadoop-security-5dac0ffe209e?source=rss------hadoop-5)
-- [How can I build a modern Big Data pipeline using Hadoop Spark and Kafka?](https://medium.com/cloud-believers/how-can-i-build-a-modern-big-data-pipeline-using-hadoop-spark-and-kafka-e5c152cf0976?source=rss------hadoop-5)
-- [MapReduce: The Data Processing Revolution You Can’t Afford to Ignore](https://medium.com/@maimoona.khilji/mapreduce-the-data-processing-revolution-you-cant-afford-to-ignore-4c49dfc528?source=rss------hadoop-5)
-- [What are the challenges in Hadoop-Delta Lake Migration?](https://medium.com/dataprophet/what-are-the-challenges-in-hadoop-delta-lake-migration-f27bdd77587e?source=rss------hadoop-5)
-- [Unleashing the Responsibilities and SkillSets of a Data Engineer](https://medium.com/@hamza_mehmood/unleashing-the-responsibilities-and-skillsets-of-a-data-engineer-f518a3889f34?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
