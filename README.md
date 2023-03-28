@@ -318,6 +318,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop in real world posts*
 
 <!-- HADOOPINREALWORLD-POST-LIST:START -->
+- [How to automatically add timestamp to documents and find the latest document in Elasticsearch?](https://www.bigdatainrealworld.com/how-to-automatically-add-timestamp-to-documents-and-find-the-latest-document-in-elasticsearch/)
 - [How to search a file or objects by name inside an S3 bucket?](https://www.bigdatainrealworld.com/how-to-search-a-file-or-objects-by-name-inside-an-s3-bucket/)
 - [How to fail a Hive script based on a condition?](https://www.bigdatainrealworld.com/how-to-fail-a-hive-script-based-on-a-condition/)
 - [How to read and write Excel files with Spark?](https://www.bigdatainrealworld.com/how-to-read-and-write-excel-files-with-spark/)
@@ -327,7 +328,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Hadoop In Real World is now Big Data In Real World!](https://www.bigdatainrealworld.com/hadoop-in-real-world-is-now-big-data-in-real-world/)
 - [Hadoop In Real World is changing to Big Data In Real World](https://www.bigdatainrealworld.com/hadoop-in-real-world-is-changing-to-big-data-in-real-world/)
 - [How to make Hive recursively read files from all the sub directories?](https://www.bigdatainrealworld.com/how-to-make-hive-recursively-read-files-from-all-the-sub-directories/)
-- [How to create a column with unique, incrementing index value in Spark?](https://www.bigdatainrealworld.com/how-to-create-a-column-with-unique-incrementing-index-value-in-spark/)
 <!-- HADOOPINREALWORLD-POST-LIST:END -->
 
 ### *Kognitio posts*
