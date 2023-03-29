@@ -297,16 +297,15 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Distributed Computing 101: An Introduction to the World of Parallel Processing](https://siraj-deen.medium.com/distributed-computing-101-an-introduction-to-the-world-of-parallel-processing-343809851dd7?source=rss------hadoop-5)
+- [YARN Configuration](https://medium.com/@mmodi2561/yarn-configuration-9e3bbbe23485?source=rss------hadoop-5)
 - [Exploring Beyond Hadoop: Alternative Technologies for Large-Scale Data Processing](https://medium.com/@bj8128/exploring-beyond-hadoop-alternative-technologies-for-large-scale-data-processing-aaaf572f4e95?source=rss------hadoop-5)
 - [Exploring the Impact of Big Data on Business and Society](https://medium.com/@jpasalagua/exploring-the-impact-of-big-data-on-business-and-society-comprehensive-guide-7dd8203a5300?source=rss------hadoop-5)
-- [Errors in BDA](https://medium.com/@kinjal.280201/errors-in-bda-9253af99b30a?source=rss------hadoop-5)
 - [Hadoop 核心組件-MapReduce](https://medium.com/@chrischen.guanyu/mapreduce-hadoop-%E6%A0%B8%E5%BF%83%E7%B5%84%E4%BB%B6-b3fbcf087f9a?source=rss------hadoop-5)
 - [Hadoop 核心組件-HDFS](https://medium.com/@chrischen.guanyu/hadoop-%E6%A0%B8%E5%BF%83%E7%B5%84%E4%BB%B6-hdfs-e017805e83e5?source=rss------hadoop-5)
 - [Hadoop Ecosystem的歷史和發展](https://medium.com/@chrischen.guanyu/hadoop-ecosystem%E7%9A%84%E6%AD%B7%E5%8F%B2%E5%92%8C%E7%99%BC%E5%B1%95-b68f43b6353c?source=rss------hadoop-5)
 - [Hadoop Ecosystem的定義和簡介](https://medium.com/@chrischen.guanyu/hadoop-ecosystem%E7%9A%84%E5%AE%9A%E7%BE%A9%E5%92%8C%E7%B0%A1%E4%BB%8B-c03bb7bf7729?source=rss------hadoop-5)
 - [Hadoop distributed storage : HDFS](https://medium.com/@rohitkr.rht78/hadoop-distributed-storage-hdfs-8071021ed5f2?source=rss------hadoop-5)
-- [Efficient Big Data Processing with Apache Spark + Postgres DB — Part 1](https://medium.com/@gmrarunn/efficient-big-data-processing-with-apache-spark-and-postgres-db-part-1-cf36eed66484?source=rss------hadoop-5)
-- [DE- Örnek Proje 1](https://emreevcimen.medium.com/de-%C3%B6rnek-proje-1-6e02a948ba3a?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
