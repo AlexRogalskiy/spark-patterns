@@ -297,6 +297,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [AWS Migration Journey](https://medium.com/@bagalsharad/aws-migration-journey-118b34ab78fd?source=rss------hadoop-5)
+- [Migrating Hadoop infrastructure to Google Cloud](https://medium.com/cloud-believers/migrating-hadoop-infrastructure-to-google-cloud-ee47d0471e45?source=rss------hadoop-5)
 - [Distributed Computing 101: An Introduction to the World of Parallel Processing](https://siraj-deen.medium.com/distributed-computing-101-an-introduction-to-the-world-of-parallel-processing-343809851dd7?source=rss------hadoop-5)
 - [YARN Configuration](https://medium.com/@mmodi2561/yarn-configuration-9e3bbbe23485?source=rss------hadoop-5)
 - [Exploring Beyond Hadoop: Alternative Technologies for Large-Scale Data Processing](https://medium.com/@bj8128/exploring-beyond-hadoop-alternative-technologies-for-large-scale-data-processing-aaaf572f4e95?source=rss------hadoop-5)
@@ -304,8 +306,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Hadoop 核心組件-MapReduce](https://medium.com/@chrischen.guanyu/mapreduce-hadoop-%E6%A0%B8%E5%BF%83%E7%B5%84%E4%BB%B6-b3fbcf087f9a?source=rss------hadoop-5)
 - [Hadoop 核心組件-HDFS](https://medium.com/@chrischen.guanyu/hadoop-%E6%A0%B8%E5%BF%83%E7%B5%84%E4%BB%B6-hdfs-e017805e83e5?source=rss------hadoop-5)
 - [Hadoop Ecosystem的歷史和發展](https://medium.com/@chrischen.guanyu/hadoop-ecosystem%E7%9A%84%E6%AD%B7%E5%8F%B2%E5%92%8C%E7%99%BC%E5%B1%95-b68f43b6353c?source=rss------hadoop-5)
-- [Hadoop Ecosystem的定義和簡介](https://medium.com/@chrischen.guanyu/hadoop-ecosystem%E7%9A%84%E5%AE%9A%E7%BE%A9%E5%92%8C%E7%B0%A1%E4%BB%8B-c03bb7bf7729?source=rss------hadoop-5)
-- [Hadoop distributed storage : HDFS](https://medium.com/@rohitkr.rht78/hadoop-distributed-storage-hdfs-8071021ed5f2?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
