@@ -312,7 +312,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld Hadoop posts*
 
 <!-- INFOWORLD-HADOOP-POST-LIST:START -->
-- [Matei Zaharia, creator of the Apache Spark project, on the big data framework  | True Technologist Ep 2](https://www.infoworld.com/video/90407/matei-zaharia-creator-of-the-apache-spark-project-on-the-big-data-framework-true-technologist-ep-2#tk.rss_hadoop)
+- [What is Apache Spark? The big data platform that crushed Hadoop](https://www.infoworld.com/article/3236869/what-is-apache-spark-the-big-data-platform-that-crushed-hadoop.html#tk.rss_hadoop)
 <!-- INFOWORLD-HADOOP-POST-LIST:END -->
 
 ### *Hadoop in real world posts*
