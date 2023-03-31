@@ -297,15 +297,16 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [What is Apache Spark?](https://medium.com/@kumarsatwik25/what-is-apache-spark-be2618bac387?source=rss------hadoop-5)
+- [Change external database host for Sqoop jobs.](https://blog.clairvoyantsoft.com/change-external-database-host-for-sqoop-jobs-3c043499453a?source=rss------hadoop-5)
+- [Big Data Cluster Demistified : Advanced Exploration of Hadoop FS &amp; Spark Engine](https://medium.com/@kamaljp/big-data-cluster-demistified-advanced-exploration-of-hadoop-fs-spark-engine-6c58863cbd2?source=rss------hadoop-5)
+- [History and Evolution of Distributed Computing](https://medium.com/@krishnakanth1309/history-and-evolution-of-distributed-computing-24587e77aaa5?source=rss------hadoop-5)
 - [AWS Migration Journey](https://medium.com/@bagalsharad/aws-migration-journey-118b34ab78fd?source=rss------hadoop-5)
 - [Migrating Hadoop infrastructure to Google Cloud](https://medium.com/cloud-believers/migrating-hadoop-infrastructure-to-google-cloud-ee47d0471e45?source=rss------hadoop-5)
 - [Distributed Computing 101: An Introduction to the World of Parallel Processing](https://siraj-deen.medium.com/distributed-computing-101-an-introduction-to-the-world-of-parallel-processing-343809851dd7?source=rss------hadoop-5)
 - [YARN Configuration](https://medium.com/@mmodi2561/yarn-configuration-9e3bbbe23485?source=rss------hadoop-5)
 - [Exploring Beyond Hadoop: Alternative Technologies for Large-Scale Data Processing](https://medium.com/@bj8128/exploring-beyond-hadoop-alternative-technologies-for-large-scale-data-processing-aaaf572f4e95?source=rss------hadoop-5)
 - [Exploring the Impact of Big Data on Business and Society](https://medium.com/@jpasalagua/exploring-the-impact-of-big-data-on-business-and-society-comprehensive-guide-7dd8203a5300?source=rss------hadoop-5)
-- [Hadoop 核心組件-MapReduce](https://medium.com/@chrischen.guanyu/mapreduce-hadoop-%E6%A0%B8%E5%BF%83%E7%B5%84%E4%BB%B6-b3fbcf087f9a?source=rss------hadoop-5)
-- [Hadoop 核心組件-HDFS](https://medium.com/@chrischen.guanyu/hadoop-%E6%A0%B8%E5%BF%83%E7%B5%84%E4%BB%B6-hdfs-e017805e83e5?source=rss------hadoop-5)
-- [Hadoop Ecosystem的歷史和發展](https://medium.com/@chrischen.guanyu/hadoop-ecosystem%E7%9A%84%E6%AD%B7%E5%8F%B2%E5%92%8C%E7%99%BC%E5%B1%95-b68f43b6353c?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
