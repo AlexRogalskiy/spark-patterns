@@ -297,16 +297,15 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Big Data Demystified: Advanced Exploration of Hadoop FS &amp; Spark Engine](https://medium.com/@kamaljp/big-data-demystified-advanced-exploration-of-hadoop-fs-spark-engine-f2f07988c76c?source=rss------hadoop-5)
+- [How To Perform Your 1st ETL on Spark Cluster](https://medium.com/@kamaljp/how-to-perform-your-1st-etl-on-spark-cluster-c05a4486c1ef?source=rss------hadoop-5)
+- [Mastering Big Data Processing: A Comprehensive Guide to use SageMaker Processing with Spark…](https://medium.com/@brn.pistone/mastering-big-data-processing-a-comprehensive-guide-to-use-sagemaker-processing-with-spark-506e2fb351f5?source=rss------hadoop-5)
+- [Как перейти от Apache Hive к Iceberg: стратегии миграции данных](https://medium.com/@bigdataschool/%D0%BA%D0%B0%D0%BA-%D0%BF%D0%B5%D1%80%D0%B5%D0%B9%D1%82%D0%B8-%D0%BE%D1%82-apache-hive-%D0%BA-iceberg-%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%B5%D0%B3%D0%B8%D0%B8-%D0%BC%D0%B8%D0%B3%D1%80%D0%B0%D1%86%D0%B8%D0%B8-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-a3fba8a547f8?source=rss------hadoop-5)
+- [Data Marketing Management](https://medium.com/@adi_pradana14/data-marketing-management-960532517b6f?source=rss------hadoop-5)
 - [What is Apache Spark?](https://medium.com/@kumarsatwik25/what-is-apache-spark-be2618bac387?source=rss------hadoop-5)
 - [Change external database host for Sqoop jobs.](https://blog.clairvoyantsoft.com/change-external-database-host-for-sqoop-jobs-3c043499453a?source=rss------hadoop-5)
-- [Big Data Cluster Demistified : Advanced Exploration of Hadoop FS &amp; Spark Engine](https://medium.com/@kamaljp/big-data-cluster-demistified-advanced-exploration-of-hadoop-fs-spark-engine-6c58863cbd2?source=rss------hadoop-5)
 - [History and Evolution of Distributed Computing](https://medium.com/@krishnakanth1309/history-and-evolution-of-distributed-computing-24587e77aaa5?source=rss------hadoop-5)
 - [AWS Migration Journey](https://medium.com/@bagalsharad/aws-migration-journey-118b34ab78fd?source=rss------hadoop-5)
-- [Migrating Hadoop infrastructure to Google Cloud](https://medium.com/cloud-believers/migrating-hadoop-infrastructure-to-google-cloud-ee47d0471e45?source=rss------hadoop-5)
-- [Distributed Computing 101: An Introduction to the World of Parallel Processing](https://siraj-deen.medium.com/distributed-computing-101-an-introduction-to-the-world-of-parallel-processing-343809851dd7?source=rss------hadoop-5)
-- [YARN Configuration](https://medium.com/@mmodi2561/yarn-configuration-9e3bbbe23485?source=rss------hadoop-5)
-- [Exploring Beyond Hadoop: Alternative Technologies for Large-Scale Data Processing](https://medium.com/@bj8128/exploring-beyond-hadoop-alternative-technologies-for-large-scale-data-processing-aaaf572f4e95?source=rss------hadoop-5)
-- [Exploring the Impact of Big Data on Business and Society](https://medium.com/@jpasalagua/exploring-the-impact-of-big-data-on-business-and-society-comprehensive-guide-7dd8203a5300?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
