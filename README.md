@@ -298,6 +298,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Apache Spark Checkpointing in Structured Streaming with Kafka and HDFS](https://kumaravi256.medium.com/apache-spark-checkpointing-in-structured-streaming-with-kafka-and-hdfs-32a4796b1c0f?source=rss------hadoop-5)
 - [Big Data Demystified: Advanced Exploration of Hadoop FS &amp; Spark Engine](https://medium.com/@kamaljp/big-data-demystified-advanced-exploration-of-hadoop-fs-spark-engine-f2f07988c76c?source=rss------hadoop-5)
 - [How To Perform Your 1st ETL on Spark Cluster](https://medium.com/@kamaljp/how-to-perform-your-1st-etl-on-spark-cluster-c05a4486c1ef?source=rss------hadoop-5)
 - [Mastering Big Data Processing: A Comprehensive Guide to use SageMaker Processing with Spark…](https://medium.com/@brn.pistone/mastering-big-data-processing-a-comprehensive-guide-to-use-sagemaker-processing-with-spark-506e2fb351f5?source=rss------hadoop-5)
@@ -306,7 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [What is Apache Spark?](https://medium.com/@kumarsatwik25/what-is-apache-spark-be2618bac387?source=rss------hadoop-5)
 - [Change external database host for Sqoop jobs.](https://blog.clairvoyantsoft.com/change-external-database-host-for-sqoop-jobs-3c043499453a?source=rss------hadoop-5)
 - [History and Evolution of Distributed Computing](https://medium.com/@krishnakanth1309/history-and-evolution-of-distributed-computing-24587e77aaa5?source=rss------hadoop-5)
-- [AWS Migration Journey](https://medium.com/@bagalsharad/aws-migration-journey-118b34ab78fd?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
