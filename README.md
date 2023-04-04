@@ -319,6 +319,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop in real world posts*
 
 <!-- HADOOPINREALWORLD-POST-LIST:START -->
+- [How to transpose or convert columns to rows in Hive?](https://www.bigdatainrealworld.com/how-to-transpose-or-convert-columns-to-rows-in-hive/)
 - [How to read and write XML files with Spark?](https://www.bigdatainrealworld.com/how-to-read-and-write-xml-files-with-spark/)
 - [How to automatically add timestamp to documents and find the latest document in Elasticsearch?](https://www.bigdatainrealworld.com/how-to-automatically-add-timestamp-to-documents-and-find-the-latest-document-in-elasticsearch/)
 - [How to search a file or objects by name inside an S3 bucket?](https://www.bigdatainrealworld.com/how-to-search-a-file-or-objects-by-name-inside-an-s3-bucket/)
@@ -328,7 +329,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [How to rename files or objects in Amazon S3?](https://www.bigdatainrealworld.com/how-to-rename-files-or-objects-in-amazon-s3/)
 - [How to delete duplicate data from the Hive table?](https://www.bigdatainrealworld.com/how-to-delete-duplicate-data-from-the-hive-table/)
 - [Hadoop In Real World is now Big Data In Real World!](https://www.bigdatainrealworld.com/hadoop-in-real-world-is-now-big-data-in-real-world/)
-- [Hadoop In Real World is changing to Big Data In Real World](https://www.bigdatainrealworld.com/hadoop-in-real-world-is-changing-to-big-data-in-real-world/)
 <!-- HADOOPINREALWORLD-POST-LIST:END -->
 
 ### *Kognitio posts*
