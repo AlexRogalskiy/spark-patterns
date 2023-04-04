@@ -298,15 +298,16 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [빅데이터, 하둡, 그 다음은…](https://medium.com/monday-9-pm/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%95%98%EB%91%A1-%EA%B7%B8-%EB%8B%A4%EC%9D%8C%EC%9D%80-95ce2bf5e22c?source=rss------hadoop-5)
+- [Building Data Pipelines with Apache Kafka: A Practical Guide for Data Engineers](https://kumaravi256.medium.com/building-data-pipelines-with-apache-kafka-a-practical-guide-for-data-engineers-25c5f90e77bc?source=rss------hadoop-5)
+- [How to install Hadoop, Yarn, HDFS, Map/Reduce framework with hands on example](https://medium.com/@gbodje/how-to-install-hadoop-yarn-hdfs-map-reduce-framework-with-hands-on-example-4426e7e37b14?source=rss------hadoop-5)
+- [HDFS 101 &lpar;Hadoop Distributed File System nedir ve nasıl çalışır? &rpar;](https://medium.com/@muhammetarslantosun/hdfs-101-hadoop-distributed-file-system-nedir-ve-nas%C4%B1l-%C3%A7al%C4%B1%C5%9F%C4%B1r-4e07d1009911?source=rss------hadoop-5)
+- [HDFS 101 &lpar;Hadoop Distributed File System, what is it, and how it works?&rpar;](https://medium.com/@muhammetarslantosun/hdfs-101-hadoop-distributed-file-system-what-is-it-and-how-it-works-7b415c4b250d?source=rss------hadoop-5)
 - [Apache Spark Checkpointing in Structured Streaming with Kafka and HDFS](https://kumaravi256.medium.com/apache-spark-checkpointing-in-structured-streaming-with-kafka-and-hdfs-32a4796b1c0f?source=rss------hadoop-5)
 - [Big Data Demystified: Advanced Exploration of Hadoop FS &amp; Spark Engine](https://medium.com/@kamaljp/big-data-demystified-advanced-exploration-of-hadoop-fs-spark-engine-f2f07988c76c?source=rss------hadoop-5)
 - [How To Perform Your 1st ETL on Spark Cluster](https://medium.com/@kamaljp/how-to-perform-your-1st-etl-on-spark-cluster-c05a4486c1ef?source=rss------hadoop-5)
 - [Mastering Big Data Processing: A Comprehensive Guide to use SageMaker Processing with Spark…](https://medium.com/@brn.pistone/mastering-big-data-processing-a-comprehensive-guide-to-use-sagemaker-processing-with-spark-506e2fb351f5?source=rss------hadoop-5)
 - [Как перейти от Apache Hive к Iceberg: стратегии миграции данных](https://medium.com/@bigdataschool/%D0%BA%D0%B0%D0%BA-%D0%BF%D0%B5%D1%80%D0%B5%D0%B9%D1%82%D0%B8-%D0%BE%D1%82-apache-hive-%D0%BA-iceberg-%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%B5%D0%B3%D0%B8%D0%B8-%D0%BC%D0%B8%D0%B3%D1%80%D0%B0%D1%86%D0%B8%D0%B8-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-a3fba8a547f8?source=rss------hadoop-5)
-- [Data Marketing Management](https://medium.com/@adi_pradana14/data-marketing-management-960532517b6f?source=rss------hadoop-5)
-- [What is Apache Spark?](https://medium.com/@kumarsatwik25/what-is-apache-spark-be2618bac387?source=rss------hadoop-5)
-- [Change external database host for Sqoop jobs.](https://blog.clairvoyantsoft.com/change-external-database-host-for-sqoop-jobs-3c043499453a?source=rss------hadoop-5)
-- [History and Evolution of Distributed Computing](https://medium.com/@krishnakanth1309/history-and-evolution-of-distributed-computing-24587e77aaa5?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
