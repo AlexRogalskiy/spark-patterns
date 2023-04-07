@@ -298,6 +298,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Zeppelin interpreter issue after the renewal of TLS/SSL certificates](https://blog.clairvoyantsoft.com/zeppelin-interpreter-issue-after-the-renewal-of-tls-ssl-certificates-ef61dcb4037d?source=rss------hadoop-5)
 - [Unable to Perform Basic Operations on HBase after Upgrade from CDH to CDP](https://blog.clairvoyantsoft.com/unable-to-perform-basic-operation-on-hbase-after-upgradation-from-cdh-to-cdpc-232972d50a37?source=rss------hadoop-5)
 - [What is Big Data: A Comprehensive Overview](https://medium.datadriveninvestor.com/what-is-big-data-a-comprehensive-overview-39ab254cb58e?source=rss------hadoop-5)
 - [Building a Web Server Log Analysis Pipeline with ELK: A Complete End-to-End Example](https://towardsdev.com/building-a-web-server-log-analysis-pipeline-with-elk-a-complete-end-to-end-example-aa7dd72fb58c?source=rss------hadoop-5)
@@ -307,7 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [How to install Hadoop, Yarn, HDFS, Map/Reduce framework with hands on example](https://medium.com/@gbodje/how-to-install-hadoop-yarn-hdfs-map-reduce-framework-with-hands-on-example-4426e7e37b14?source=rss------hadoop-5)
 - [HDFS 101 &lpar;Hadoop Distributed File System nedir ve nasıl çalışır? &rpar;](https://medium.com/@muhammetarslantosun/hdfs-101-hadoop-distributed-file-system-nedir-ve-nas%C4%B1l-%C3%A7al%C4%B1%C5%9F%C4%B1r-4e07d1009911?source=rss------hadoop-5)
 - [HDFS 101 &lpar;Hadoop Distributed File System, what is it, and how it works?&rpar;](https://medium.com/@muhammetarslantosun/hdfs-101-hadoop-distributed-file-system-what-is-it-and-how-it-works-7b415c4b250d?source=rss------hadoop-5)
-- [Apache Spark Checkpointing in Structured Streaming with Kafka and HDFS](https://towardsdev.com/apache-spark-checkpointing-in-structured-streaming-with-kafka-and-hdfs-32a4796b1c0f?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
