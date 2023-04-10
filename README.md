@@ -298,6 +298,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Best practices for table partitioning in Hive](https://fahadthedatascientist.medium.com/best-practices-for-table-partitioning-in-hive-61b455d8ae52?source=rss------hadoop-5)
+- [It’s really too big to ignore — Part](https://medium.com/@gellasangamesh/its-really-too-big-to-ignore-part-544f824f6b8e?source=rss------hadoop-5)
 - [Big Data — Part 1](https://medium.com/@luvverma2011/big-data-part-1-94bf087cad46?source=rss------hadoop-5)
 - [Understanding CPU Oversubscription in Dataproc/Hadoop](https://betterprogramming.pub/understanding-cpu-oversubscription-in-dataproc-hadoop-95eb92e4f45d?source=rss------hadoop-5)
 - [Zeppelin interpreter issue after the renewal of TLS/SSL certificates](https://blog.clairvoyantsoft.com/zeppelin-interpreter-issue-after-the-renewal-of-tls-ssl-certificates-ef61dcb4037d?source=rss------hadoop-5)
@@ -306,8 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Building a Web Server Log Analysis Pipeline with ELK: A Complete End-to-End Example](https://towardsdev.com/building-a-web-server-log-analysis-pipeline-with-elk-a-complete-end-to-end-example-aa7dd72fb58c?source=rss------hadoop-5)
 - [Introduction to Apache Spark RDD and Parallelism in Scala](https://towardsdev.com/introduction-to-apache-spark-rdd-and-parallelism-in-scala-82ab4a2252e4?source=rss------hadoop-5)
 - [빅데이터, 하둡, 그 다음은…](https://medium.com/monday-9-pm/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%95%98%EB%91%A1-%EA%B7%B8-%EB%8B%A4%EC%9D%8C%EC%9D%80-95ce2bf5e22c?source=rss------hadoop-5)
-- [Building Data Pipelines with Apache Kafka: A Practical Guide for Data Engineers](https://towardsdev.com/building-data-pipelines-with-apache-kafka-a-practical-guide-for-data-engineers-25c5f90e77bc?source=rss------hadoop-5)
-- [How to install Hadoop, Yarn, HDFS, Map/Reduce framework with hands on example](https://medium.com/@gbodje/how-to-install-hadoop-yarn-hdfs-map-reduce-framework-with-hands-on-example-4426e7e37b14?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
