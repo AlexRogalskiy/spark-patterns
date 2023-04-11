@@ -298,6 +298,9 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [What is HDFS?](https://medium.com/@m97alim/what-is-hdfs-a8b0f085b135?source=rss------hadoop-5)
+- [How to install Hive on Ubuntu?](https://medium.com/@tayalavishi/how-to-install-hive-on-ubuntu-60222680477?source=rss------hadoop-5)
+- [How to install Hadoop on Ubuntu?](https://medium.com/@tyaginandini82/how-to-install-hadoop-on-ubuntu-6f0ebd055d88?source=rss------hadoop-5)
 - [Best practices for table partitioning in Hive](https://fahadthedatascientist.medium.com/best-practices-for-table-partitioning-in-hive-61b455d8ae52?source=rss------hadoop-5)
 - [It’s really too big to ignore — Part](https://medium.com/@gellasangamesh/its-really-too-big-to-ignore-part-544f824f6b8e?source=rss------hadoop-5)
 - [Big Data — Part 1](https://medium.com/@luvverma2011/big-data-part-1-94bf087cad46?source=rss------hadoop-5)
@@ -305,9 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Zeppelin interpreter issue after the renewal of TLS/SSL certificates](https://blog.clairvoyantsoft.com/zeppelin-interpreter-issue-after-the-renewal-of-tls-ssl-certificates-ef61dcb4037d?source=rss------hadoop-5)
 - [Unable to Perform Basic Operations on HBase after Upgrade from CDH to CDP](https://blog.clairvoyantsoft.com/unable-to-perform-basic-operation-on-hbase-after-upgradation-from-cdh-to-cdpc-232972d50a37?source=rss------hadoop-5)
 - [What is Big Data: A Comprehensive Overview](https://medium.datadriveninvestor.com/what-is-big-data-a-comprehensive-overview-39ab254cb58e?source=rss------hadoop-5)
-- [Building a Web Server Log Analysis Pipeline with ELK: A Complete End-to-End Example](https://towardsdev.com/building-a-web-server-log-analysis-pipeline-with-elk-a-complete-end-to-end-example-aa7dd72fb58c?source=rss------hadoop-5)
-- [Introduction to Apache Spark RDD and Parallelism in Scala](https://towardsdev.com/introduction-to-apache-spark-rdd-and-parallelism-in-scala-82ab4a2252e4?source=rss------hadoop-5)
-- [빅데이터, 하둡, 그 다음은…](https://medium.com/monday-9-pm/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%95%98%EB%91%A1-%EA%B7%B8-%EB%8B%A4%EC%9D%8C%EC%9D%80-95ce2bf5e22c?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
