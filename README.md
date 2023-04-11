@@ -319,6 +319,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop in real world posts*
 
 <!-- HADOOPINREALWORLD-POST-LIST:START -->
+- [What is an alias and how to create an alias in Elasticsearch?](https://www.bigdatainrealworld.com/what-is-an-alias-and-how-to-create-an-alias-in-elasticsearch/)
 - [How to check size of a bucket in S3?](https://www.bigdatainrealworld.com/how-to-check-size-of-a-bucket-in-s3/)
 - [How to transpose or convert columns to rows in Hive?](https://www.bigdatainrealworld.com/how-to-transpose-or-convert-columns-to-rows-in-hive/)
 - [How to read and write XML files with Spark?](https://www.bigdatainrealworld.com/how-to-read-and-write-xml-files-with-spark/)
@@ -328,7 +329,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [How to read and write Excel files with Spark?](https://www.bigdatainrealworld.com/how-to-read-and-write-excel-files-with-spark/)
 - [What is a pipeline and how to create a pipeline in Elasticsearch?](https://www.bigdatainrealworld.com/what-is-a-pipeline-and-how-to-create-a-pipeline-in-elasticsearch/)
 - [How to rename files or objects in Amazon S3?](https://www.bigdatainrealworld.com/how-to-rename-files-or-objects-in-amazon-s3/)
-- [How to delete duplicate data from the Hive table?](https://www.bigdatainrealworld.com/how-to-delete-duplicate-data-from-the-hive-table/)
 <!-- HADOOPINREALWORLD-POST-LIST:END -->
 
 ### *Kognitio posts*
