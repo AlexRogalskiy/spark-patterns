@@ -298,6 +298,9 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Performing a Major Operating System Upgrade on Cloudera Worker Node](https://blog.clairvoyantsoft.com/performing-a-major-operating-system-upgrade-on-cloudera-worker-node-27cac1ba666d?source=rss------hadoop-5)
+- [Apache Oozie](https://medium.com/@bagalsharad/apache-oozie-f25c32afc113?source=rss------hadoop-5)
+- [Benefits of Cloud Computing Frameworks and Platforms](https://medium.com/@martechcube88/benefits-of-cloud-computing-frameworks-and-platforms-10f82916690f?source=rss------hadoop-5)
 - [What is HDFS?](https://medium.com/@m97alim/what-is-hdfs-a8b0f085b135?source=rss------hadoop-5)
 - [How to install Hive on Ubuntu?](https://medium.com/@tayalavishi/how-to-install-hive-on-ubuntu-60222680477?source=rss------hadoop-5)
 - [How to install Hadoop on Ubuntu?](https://medium.com/@tyaginandini82/how-to-install-hadoop-on-ubuntu-6f0ebd055d88?source=rss------hadoop-5)
@@ -305,9 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [It’s really too big to ignore — Part](https://medium.com/@gellasangamesh/its-really-too-big-to-ignore-part-544f824f6b8e?source=rss------hadoop-5)
 - [Big Data — Part 1](https://medium.com/@luvverma2011/big-data-part-1-94bf087cad46?source=rss------hadoop-5)
 - [Understanding CPU Oversubscription in Dataproc/Hadoop](https://betterprogramming.pub/understanding-cpu-oversubscription-in-dataproc-hadoop-95eb92e4f45d?source=rss------hadoop-5)
-- [Zeppelin interpreter issue after the renewal of TLS/SSL certificates](https://blog.clairvoyantsoft.com/zeppelin-interpreter-issue-after-the-renewal-of-tls-ssl-certificates-ef61dcb4037d?source=rss------hadoop-5)
-- [Unable to Perform Basic Operations on HBase after Upgrade from CDH to CDP](https://blog.clairvoyantsoft.com/unable-to-perform-basic-operation-on-hbase-after-upgradation-from-cdh-to-cdpc-232972d50a37?source=rss------hadoop-5)
-- [What is Big Data: A Comprehensive Overview](https://medium.datadriveninvestor.com/what-is-big-data-a-comprehensive-overview-39ab254cb58e?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
