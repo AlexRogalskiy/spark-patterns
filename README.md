@@ -298,6 +298,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Zeppelin — No Quarter All Dollar](https://medium.com/@louissimpson/zeppelin-no-quarter-all-dollar-7696756eb607?source=rss------hadoop-5)
+- [Hadoop Migration: How we pulled this off together](https://medium.com/berlin-tech-blog/hadoop-migration-how-we-pulled-this-off-together-948924783d98?source=rss------hadoop-5)
 - [Apache Cassandra vs Apache Hadoop vs Apache Spark: Choosing the Best Big Data Solution](https://medium.com/@bertowareofficial/apache-cassandra-vs-apache-hadoop-vs-apache-spark-choosing-the-best-big-data-solution-f77c15f7c5d9?source=rss------hadoop-5)
 - [Mastering Hadoop in No Time: A Comprehensive 2023 Guide for Beginners](https://medium.com/@HalderNilimesh/mastering-hadoop-in-no-time-a-comprehensive-2023-guide-for-beginners-4f324b0d99f9?source=rss------hadoop-5)
 - [What is Apache Spark ?](https://zapeeosheikh.medium.com/what-is-apache-spark-e9620cbcf276?source=rss------hadoop-5)
@@ -306,8 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Apache Oozie](https://medium.com/@bagalsharad/apache-oozie-f25c32afc113?source=rss------hadoop-5)
 - [Benefits of Cloud Computing Frameworks and Platforms](https://medium.com/@martechcube88/benefits-of-cloud-computing-frameworks-and-platforms-10f82916690f?source=rss------hadoop-5)
 - [What is HDFS?](https://medium.com/@m97alim/what-is-hdfs-a8b0f085b135?source=rss------hadoop-5)
-- [How to install Hive on Ubuntu?](https://medium.com/@tayalavishi/how-to-install-hive-on-ubuntu-60222680477?source=rss------hadoop-5)
-- [How to install Hadoop on Ubuntu?](https://medium.com/@tyaginandini82/how-to-install-hadoop-on-ubuntu-6f0ebd055d88?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
