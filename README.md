@@ -274,6 +274,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Get Started with Open Source Formal Verification &lpar;2023 talk&rpar;](https://www.reddit.com/r/spark/comments/12o8ftc/get_started_with_open_source_formal_verification/)
 - [How does Ada compare to Rust?](https://www.reddit.com/r/spark/comments/11b0unr/how_does_ada_compare_to_rust/)
 - [Scala DataFrame UDF Iterator](https://www.reddit.com/r/spark/comments/10jqysm/scala_dataframe_udf_iterator/)
 - [Creating Bug-Free Software -- Tools like Rust and SPARK make creation of reliable software easier.](https://www.reddit.com/r/spark/comments/10f5202/creating_bugfree_software_tools_like_rust_and/)
@@ -283,7 +284,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [How to apply different code to different blocks from XML files?](https://www.reddit.com/r/spark/comments/zf3rlt/how_to_apply_different_code_to_different_blocks/)
 - [Null Values in PySpark](https://www.reddit.com/r/spark/comments/zaru1r/null_values_in_pyspark/)
 - [Huge order lol](https://www.reddit.com/r/spark/comments/z4let0/huge_order_lol/)
-- [Does num_partions affect writing speed to rds ?](https://www.reddit.com/r/spark/comments/yrkm1a/does_num_partions_affect_writing_speed_to_rds/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld Spark posts*
