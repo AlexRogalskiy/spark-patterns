@@ -319,6 +319,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop in real world posts*
 
 <!-- HADOOPINREALWORLD-POST-LIST:START -->
+- [How to view a message in Kafka?](https://www.bigdatainrealworld.com/how-to-view-a-message-in-kafka/)
 - [What is the difference between map and mapValues functions in Spark?](https://www.bigdatainrealworld.com/what-is-the-difference-between-map-and-mapvalues-functions-in-spark/)
 - [What is an alias and how to create an alias in Elasticsearch?](https://www.bigdatainrealworld.com/what-is-an-alias-and-how-to-create-an-alias-in-elasticsearch/)
 - [How to check size of a bucket in S3?](https://www.bigdatainrealworld.com/how-to-check-size-of-a-bucket-in-s3/)
@@ -328,7 +329,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [How to search a file or objects by name inside an S3 bucket?](https://www.bigdatainrealworld.com/how-to-search-a-file-or-objects-by-name-inside-an-s3-bucket/)
 - [How to fail a Hive script based on a condition?](https://www.bigdatainrealworld.com/how-to-fail-a-hive-script-based-on-a-condition/)
 - [How to read and write Excel files with Spark?](https://www.bigdatainrealworld.com/how-to-read-and-write-excel-files-with-spark/)
-- [What is a pipeline and how to create a pipeline in Elasticsearch?](https://www.bigdatainrealworld.com/what-is-a-pipeline-and-how-to-create-a-pipeline-in-elasticsearch/)
 <!-- HADOOPINREALWORLD-POST-LIST:END -->
 
 ### *Kognitio posts*
