@@ -298,16 +298,16 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [How to Hive, an Introduction of The Apache Hive Theory](https://medium.com/@abbad/how-to-hive-an-introduction-of-the-apache-hive-theory-dfbc53cf4646?source=rss------hadoop-5)
 - [Introdução ao Apache Spark](https://medium.com/@henrique.silvamacedo20/introdu%C3%A7%C3%A3o-ao-apache-spark-cf678ce5a92e?source=rss------hadoop-5)
 - [Zeppelin — No Quarter All Dollar](https://medium.com/@louissimpson/zeppelin-no-quarter-all-dollar-7696756eb607?source=rss------hadoop-5)
 - [Hadoop Migration: How we pulled this off together](https://medium.com/berlin-tech-blog/hadoop-migration-how-we-pulled-this-off-together-948924783d98?source=rss------hadoop-5)
-- [Apache Cassandra vs Apache Hadoop vs Apache Spark: Choosing the Best Big Data Solution](https://medium.com/@bertowareofficial/apache-cassandra-vs-apache-hadoop-vs-apache-spark-choosing-the-best-big-data-solution-f77c15f7c5d9?source=rss------hadoop-5)
+- [Apache Cassandra vs Apache Hadoop vs Apache Spark: Choosing the Best Big Data Solution](https://towardsdev.com/apache-cassandra-vs-apache-hadoop-vs-apache-spark-choosing-the-best-big-data-solution-f77c15f7c5d9?source=rss------hadoop-5)
 - [Mastering Hadoop in No Time: A Comprehensive 2023 Guide for Beginners](https://medium.com/@HalderNilimesh/mastering-hadoop-in-no-time-a-comprehensive-2023-guide-for-beginners-4f324b0d99f9?source=rss------hadoop-5)
 - [What is Apache Spark ?](https://zapeeosheikh.medium.com/what-is-apache-spark-e9620cbcf276?source=rss------hadoop-5)
 - [Date Functions in Apache Hive](https://naveenpn.medium.com/date-functions-in-apache-hive-28def2ff27a8?source=rss------hadoop-5)
 - [Performing a Major Operating System Upgrade on Cloudera Worker Node](https://blog.clairvoyantsoft.com/performing-a-major-operating-system-upgrade-on-cloudera-worker-node-27cac1ba666d?source=rss------hadoop-5)
 - [Apache Oozie](https://medium.com/@bagalsharad/apache-oozie-f25c32afc113?source=rss------hadoop-5)
-- [Benefits of Cloud Computing Frameworks and Platforms](https://medium.com/@martechcube88/benefits-of-cloud-computing-frameworks-and-platforms-10f82916690f?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
