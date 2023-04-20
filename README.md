@@ -298,16 +298,16 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Dataproc lifecycle management orchestrated by Composer](https://medium.com/@oscarpulido55/dataproc-lifecycle-management-orchestrated-by-composer-a9a40371c250?source=rss------hadoop-5)
+- [What is Hadoop](https://medium.com/@harsh.b26/what-is-hadoop-e0acad85ca42?source=rss------hadoop-5)
+- [Understand The Internal Working of Apache Spark](https://medium.com/@biswasavhijit007/understand-the-internal-working-of-apache-spark-5a5eda4e937a?source=rss------hadoop-5)
+- [Как запустить службу внешнего хранилища метаданных Apache Hive в AWS EKS](https://medium.com/@bigdataschool/%D0%BA%D0%B0%D0%BA-%D0%B7%D0%B0%D0%BF%D1%83%D1%81%D1%82%D0%B8%D1%82%D1%8C-%D1%81%D0%BB%D1%83%D0%B6%D0%B1%D1%83-%D0%B2%D0%BD%D0%B5%D1%88%D0%BD%D0%B5%D0%B3%D0%BE-%D1%85%D1%80%D0%B0%D0%BD%D0%B8%D0%BB%D0%B8%D1%89%D0%B0-%D0%BC%D0%B5%D1%82%D0%B0%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-apache-hive-%D0%B2-aws-eks-f0413bd0354a?source=rss------hadoop-5)
 - [Case Study: On-premise Hadoop &lpar;CDH&rpar; Migration and Transformation to a Modern Data Lake and ETL…](https://verticalserve.medium.com/case-study-on-premise-hadoop-cdh-migration-and-transformation-to-a-modern-data-lake-and-etl-17c74277f447?source=rss------hadoop-5)
 - [Hadoop for Beginners](https://medium.com/@markcubeben/hadoop-for-beginners-c0d2189ce0a8?source=rss------hadoop-5)
 - [How to Hive, an Introduction of The Apache Hive Theory](https://medium.com/@abbad/how-to-hive-an-introduction-of-the-apache-hive-theory-dfbc53cf4646?source=rss------hadoop-5)
 - [Introdução ao Apache Spark](https://medium.com/@henrique.silvamacedo20/introdu%C3%A7%C3%A3o-ao-apache-spark-cf678ce5a92e?source=rss------hadoop-5)
 - [Zeppelin — No Quarter All Dollar](https://medium.com/@louissimpson/zeppelin-no-quarter-all-dollar-7696756eb607?source=rss------hadoop-5)
 - [Hadoop Migration: How we pulled this off together](https://medium.com/berlin-tech-blog/hadoop-migration-how-we-pulled-this-off-together-948924783d98?source=rss------hadoop-5)
-- [Apache Cassandra vs Apache Hadoop vs Apache Spark: Choosing the Best Big Data Solution](https://towardsdev.com/apache-cassandra-vs-apache-hadoop-vs-apache-spark-choosing-the-best-big-data-solution-f77c15f7c5d9?source=rss------hadoop-5)
-- [Mastering Hadoop in No Time: A Comprehensive 2023 Guide for Beginners](https://medium.com/@HalderNilimesh/mastering-hadoop-in-no-time-a-comprehensive-2023-guide-for-beginners-4f324b0d99f9?source=rss------hadoop-5)
-- [What is Apache Spark ?](https://zapeeosheikh.medium.com/what-is-apache-spark-e9620cbcf276?source=rss------hadoop-5)
-- [Date Functions in Apache Hive](https://naveenpn.medium.com/date-functions-in-apache-hive-28def2ff27a8?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
