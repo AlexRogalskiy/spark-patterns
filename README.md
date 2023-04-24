@@ -298,6 +298,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Unveiling the Web of Communities on YouTube: A Machine Learning Approach](https://satvikjalan15.medium.com/unveiling-the-web-of-communities-on-youtube-a-machine-learning-approach-2773f7f9a4ba?source=rss------hadoop-5)
 - [Hadoop Ecosystem: Explained Like You’re 10: The Kitchen Analogy](https://medium.com/@SaiParvathaneni/hadoop-ecosystem-explained-like-youre-10-the-kitchen-analogy-595ff624165c?source=rss------hadoop-5)
 - [Hadoop — Understanding Splits, Blocks &amp; Everything In Between](https://betterprogramming.pub/hadoop-understanding-splits-blocks-everything-in-between-a1cdfc42ba72?source=rss------hadoop-5)
 - [What is Hive &lpar;And How Does It Impact Business Intelligence&rpar;?](https://medium.com/@5000fish/what-is-hive-and-how-does-it-impact-business-intelligence-1a191acd3b66?source=rss------hadoop-5)
@@ -307,7 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Dataproc lifecycle management orchestrated by Composer](https://medium.com/@oscarpulido55/dataproc-lifecycle-management-orchestrated-by-composer-a9a40371c250?source=rss------hadoop-5)
 - [What is Hadoop](https://medium.com/@harsh.b26/what-is-hadoop-e0acad85ca42?source=rss------hadoop-5)
 - [Understand The Internal Working of Apache Spark](https://blog.devgenius.io/understand-the-internal-working-of-apache-spark-5a5eda4e937a?source=rss------hadoop-5)
-- [Как запустить службу внешнего хранилища метаданных Apache Hive в AWS EKS](https://medium.com/@bigdataschool/%D0%BA%D0%B0%D0%BA-%D0%B7%D0%B0%D0%BF%D1%83%D1%81%D1%82%D0%B8%D1%82%D1%8C-%D1%81%D0%BB%D1%83%D0%B6%D0%B1%D1%83-%D0%B2%D0%BD%D0%B5%D1%88%D0%BD%D0%B5%D0%B3%D0%BE-%D1%85%D1%80%D0%B0%D0%BD%D0%B8%D0%BB%D0%B8%D1%89%D0%B0-%D0%BC%D0%B5%D1%82%D0%B0%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-apache-hive-%D0%B2-aws-eks-f0413bd0354a?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
