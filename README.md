@@ -298,16 +298,16 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Choosing the Right Tool for Distributed Data Processing: RDDs, MapReduce, or Cassandra?](https://medium.com/geekculture/choosing-the-right-tool-for-distributed-data-processing-rdds-mapreduce-or-cassandra-921a4079f993?source=rss------hadoop-5)
+- [Big Data Crusader — Power of Spark](https://medium.com/@payalbhatia.ece/big-data-crusader-power-of-spark-417b2d0ff9b8?source=rss------hadoop-5)
+- [Spark Data Structures](https://medium.com/@payalbhatia.ece/rdd-e8cbc1383afd?source=rss------hadoop-5)
+- [Big Data Ecosystem’s CONFUSING Terminologies](https://medium.com/@payalbhatia.ece/big-data-ecosystems-confusing-terminologies-e717e56f3780?source=rss------hadoop-5)
+- [Using Hadoop to Process Big Data ecosystem](https://harshit-28.medium.com/using-hadoop-to-process-bigdata-ecosystem-1d7944ea4bd2?source=rss------hadoop-5)
 - [Distributed Systems for Data Engineers explained!](https://blog.devgenius.io/distributed-systems-for-data-engineers-explained-949b19eb1880?source=rss------hadoop-5)
 - [PySpark Installation Step by Step on window](https://smanhar.medium.com/pyspark-installation-step-by-step-on-window-8e6e29d9b7df?source=rss------hadoop-5)
 - [Hadoop Optimizations](https://medium.com/@harsh.b26/hadoop-improvements-b0deaac67343?source=rss------hadoop-5)
 - [Hive Compression Techniques](https://medium.com/@onlypallavipatra/hive-compression-techniques-60f19c1cf9af?source=rss------hadoop-5)
 - [Unveiling the Web of Communities on YouTube: A Machine Learning Approach](https://satvikjalan15.medium.com/unveiling-the-web-of-communities-on-youtube-a-machine-learning-approach-2773f7f9a4ba?source=rss------hadoop-5)
-- [Hadoop Ecosystem: Explained Like You’re 10: The Kitchen Analogy](https://medium.com/@SaiParvathaneni/hadoop-ecosystem-explained-like-youre-10-the-kitchen-analogy-595ff624165c?source=rss------hadoop-5)
-- [Hadoop — Understanding Splits, Blocks &amp; Everything In Between](https://medium.com/google-cloud/hadoop-understanding-splits-blocks-everything-in-between-a1cdfc42ba72?source=rss------hadoop-5)
-- [What is Hive &lpar;And How Does It Impact Business Intelligence&rpar;?](https://medium.com/@5000fish/what-is-hive-and-how-does-it-impact-business-intelligence-1a191acd3b66?source=rss------hadoop-5)
-- [What is Hadoop &lpar;And How Does It Impact Business Intelligence&rpar;?](https://medium.com/@5000fish/what-is-hadoop-and-how-does-it-impact-business-intelligence-fc7922f24d5f?source=rss------hadoop-5)
-- [데이터 엔지니어링은 무엇인가?](https://medium.com/@0joon/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81%EC%9D%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-f2b668e232b8?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
