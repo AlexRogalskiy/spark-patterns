@@ -298,6 +298,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Mastering HDFS Commands: Your Essential Guide](https://medium.com/@noorayesha2000/mastering-hdfs-commands-your-essential-guide-b83d4eb81f1c?source=rss------hadoop-5)
 - [Map Reduce Programming Paradigm and its successors](https://medium.com/@tkc.reg/map-reduce-programming-paradigm-and-its-successors-c8780433e955?source=rss------hadoop-5)
 - [Как соединить таблицы в Apache Hive: JOIN в NoSQL](https://medium.com/@bigdataschool/%D0%BA%D0%B0%D0%BA-%D1%81%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D0%B8%D1%82%D1%8C-%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D1%8B-%D0%B2-apache-hive-join-%D0%B2-nosql-6ee4ac360430?source=rss------hadoop-5)
 - [Choosing the Right Tool for Distributed Data Processing: RDDs, MapReduce, or Cassandra?](https://medium.com/geekculture/choosing-the-right-tool-for-distributed-data-processing-rdds-mapreduce-or-cassandra-921a4079f993?source=rss------hadoop-5)
@@ -307,7 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Using Hadoop to Process Big Data ecosystem](https://harshit-28.medium.com/using-hadoop-to-process-bigdata-ecosystem-1d7944ea4bd2?source=rss------hadoop-5)
 - [Distributed Systems for Data Engineers explained!](https://blog.devgenius.io/distributed-systems-for-data-engineers-explained-949b19eb1880?source=rss------hadoop-5)
 - [PySpark Installation Step by Step on window](https://smanhar.medium.com/pyspark-installation-step-by-step-on-window-8e6e29d9b7df?source=rss------hadoop-5)
-- [Hadoop Optimizations](https://medium.com/@harsh.b26/hadoop-improvements-b0deaac67343?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
