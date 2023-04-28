@@ -319,6 +319,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop in real world posts*
 
 <!-- HADOOPINREALWORLD-POST-LIST:START -->
+- [How to transpose a DataFrame from columns to rows in Spark?](https://www.bigdatainrealworld.com/how-to-transpose-a-dataframe-from-columns-to-rows-in-spark/)
 - [How to properly remove or decommission a node from an Elasticsearch cluster?](https://www.bigdatainrealworld.com/how-to-properly-remove-or-decommission-a-node-from-an-elasticsearch-cluster/)
 - [How to rename an S3 bucket?](https://www.bigdatainrealworld.com/how-to-rename-an-s3-bucket/)
 - [How to view a message in Kafka?](https://www.bigdatainrealworld.com/how-to-view-a-message-in-kafka/)
@@ -328,7 +329,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [How to transpose or convert columns to rows in Hive?](https://www.bigdatainrealworld.com/how-to-transpose-or-convert-columns-to-rows-in-hive/)
 - [How to read and write XML files with Spark?](https://www.bigdatainrealworld.com/how-to-read-and-write-xml-files-with-spark/)
 - [How to automatically add timestamp to documents and find the latest document in Elasticsearch?](https://www.bigdatainrealworld.com/how-to-automatically-add-timestamp-to-documents-and-find-the-latest-document-in-elasticsearch/)
-- [How to search a file or objects by name inside an S3 bucket?](https://www.bigdatainrealworld.com/how-to-search-a-file-or-objects-by-name-inside-an-s3-bucket/)
 <!-- HADOOPINREALWORLD-POST-LIST:END -->
 
 ### *Kognitio posts*
