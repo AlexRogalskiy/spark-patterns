@@ -298,6 +298,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Apache Spark #2](https://medium.com/yavar/apache-spark-2-d3ce0e4e87d2?source=rss------hadoop-5)
+- [Unleashing Graph Analytics Power: A Comprehensive Guide to Integrating Apache AGE with Hadoop and…](https://medium.com/@humzakt/unleashing-graph-analytics-power-a-comprehensive-guide-to-integrating-apache-age-with-hadoop-and-7cc4aca7be4e?source=rss------hadoop-5)
 - [Mastering HDFS Commands: Your Essential Guide](https://medium.com/@noorayesha2000/mastering-hdfs-commands-your-essential-guide-b83d4eb81f1c?source=rss------hadoop-5)
 - [Map Reduce Programming Paradigm and its successors](https://medium.com/@tkc.reg/map-reduce-programming-paradigm-and-its-successors-c8780433e955?source=rss------hadoop-5)
 - [Как соединить таблицы в Apache Hive: JOIN в NoSQL](https://medium.com/@bigdataschool/%D0%BA%D0%B0%D0%BA-%D1%81%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D0%B8%D1%82%D1%8C-%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D1%8B-%D0%B2-apache-hive-join-%D0%B2-nosql-6ee4ac360430?source=rss------hadoop-5)
@@ -306,8 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Spark Data Structures](https://medium.com/@payalbhatia.ece/rdd-e8cbc1383afd?source=rss------hadoop-5)
 - [Big Data Ecosystem’s CONFUSING Terminologies](https://medium.com/@payalbhatia.ece/big-data-ecosystems-confusing-terminologies-e717e56f3780?source=rss------hadoop-5)
 - [Using Hadoop to Process Big Data ecosystem](https://harshit-28.medium.com/using-hadoop-to-process-bigdata-ecosystem-1d7944ea4bd2?source=rss------hadoop-5)
-- [Distributed Systems for Data Engineers explained!](https://blog.devgenius.io/distributed-systems-for-data-engineers-explained-949b19eb1880?source=rss------hadoop-5)
-- [PySpark Installation Step by Step on window](https://smanhar.medium.com/pyspark-installation-step-by-step-on-window-8e6e29d9b7df?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
