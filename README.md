@@ -298,6 +298,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [From MapReduce to Spark: A Game-Changing Evolution in Big Data Processing](https://medium.com/@itanzerocode/from-mapreduce-to-spark-a-game-changing-evolution-in-big-data-processing-6de3b54a25a6?source=rss------hadoop-5)
 - [Apache Spark #2](https://medium.com/yavar/apache-spark-2-d3ce0e4e87d2?source=rss------hadoop-5)
 - [Unleashing Graph Analytics Power: A Comprehensive Guide to Integrating Apache AGE with Hadoop and…](https://medium.com/@humzakt/unleashing-graph-analytics-power-a-comprehensive-guide-to-integrating-apache-age-with-hadoop-and-7cc4aca7be4e?source=rss------hadoop-5)
 - [Mastering HDFS Commands: Your Essential Guide](https://medium.com/@noorayesha2000/mastering-hdfs-commands-your-essential-guide-b83d4eb81f1c?source=rss------hadoop-5)
@@ -307,7 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Big Data Crusader — Power of Spark](https://medium.com/@payalbhatia.ece/big-data-crusader-power-of-spark-417b2d0ff9b8?source=rss------hadoop-5)
 - [Spark Data Structures](https://medium.com/@payalbhatia.ece/rdd-e8cbc1383afd?source=rss------hadoop-5)
 - [Big Data Ecosystem’s CONFUSING Terminologies](https://medium.com/@payalbhatia.ece/big-data-ecosystems-confusing-terminologies-e717e56f3780?source=rss------hadoop-5)
-- [Using Hadoop to Process Big Data ecosystem](https://harshit-28.medium.com/using-hadoop-to-process-bigdata-ecosystem-1d7944ea4bd2?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
