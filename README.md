@@ -298,6 +298,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Difference between distributed file storage and object-based file storage systems.](https://medium.com/@bose8747/difference-between-distributed-file-storage-and-object-based-file-storage-systems-a7e30e2523fc?source=rss------hadoop-5)
 - [HDFS Mastery for 2023: A Comprehensive Beginner’s Guide to Hadoop’s Distributed File System](https://medium.com/@HalderNilimesh/hdfs-mastery-for-2023-a-comprehensive-beginners-guide-to-hadoop-s-distributed-file-system-aad090a0ebec?source=rss------hadoop-5)
 - [Demystifying YARN: Understanding Its Architecture, Components, and How It Works](https://medium.com/@chenglong.w1/demystifying-yarn-understanding-its-architecture-components-and-how-it-works-738dd95ad453?source=rss------hadoop-5)
 - [From MapReduce to Spark: A Game-Changing Evolution in Big Data Processing](https://medium.com/@itanzerocode/from-mapreduce-to-spark-a-game-changing-evolution-in-big-data-processing-6de3b54a25a6?source=rss------hadoop-5)
@@ -307,7 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Map Reduce Programming Paradigm and its successors](https://medium.com/@tkc.reg/map-reduce-programming-paradigm-and-its-successors-c8780433e955?source=rss------hadoop-5)
 - [Как соединить таблицы в Apache Hive: JOIN в NoSQL](https://medium.com/@bigdataschool/%D0%BA%D0%B0%D0%BA-%D1%81%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D0%B8%D1%82%D1%8C-%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D1%8B-%D0%B2-apache-hive-join-%D0%B2-nosql-6ee4ac360430?source=rss------hadoop-5)
 - [Choosing the Right Tool for Distributed Data Processing: RDDs, MapReduce, or Cassandra?](https://medium.com/geekculture/choosing-the-right-tool-for-distributed-data-processing-rdds-mapreduce-or-cassandra-921a4079f993?source=rss------hadoop-5)
-- [Big Data Crusader — Power of Spark](https://medium.com/@payalbhatia.ece/big-data-crusader-power-of-spark-417b2d0ff9b8?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
