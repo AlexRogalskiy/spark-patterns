@@ -319,6 +319,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop in real world posts*
 
 <!-- HADOOPINREALWORLD-POST-LIST:START -->
+- [Getting started with Snowflake in less than 10 minutes](https://www.bigdatainrealworld.com/getting-started-with-snowflake-in-less-than-10-minutes/)
 - [How to transpose a DataFrame from columns to rows in Spark?](https://www.bigdatainrealworld.com/how-to-transpose-a-dataframe-from-columns-to-rows-in-spark/)
 - [How to properly remove or decommission a node from an Elasticsearch cluster?](https://www.bigdatainrealworld.com/how-to-properly-remove-or-decommission-a-node-from-an-elasticsearch-cluster/)
 - [How to rename an S3 bucket?](https://www.bigdatainrealworld.com/how-to-rename-an-s3-bucket/)
@@ -328,7 +329,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [How to check size of a bucket in S3?](https://www.bigdatainrealworld.com/how-to-check-size-of-a-bucket-in-s3/)
 - [How to transpose or convert columns to rows in Hive?](https://www.bigdatainrealworld.com/how-to-transpose-or-convert-columns-to-rows-in-hive/)
 - [How to read and write XML files with Spark?](https://www.bigdatainrealworld.com/how-to-read-and-write-xml-files-with-spark/)
-- [How to automatically add timestamp to documents and find the latest document in Elasticsearch?](https://www.bigdatainrealworld.com/how-to-automatically-add-timestamp-to-documents-and-find-the-latest-document-in-elasticsearch/)
 <!-- HADOOPINREALWORLD-POST-LIST:END -->
 
 ### *Kognitio posts*
