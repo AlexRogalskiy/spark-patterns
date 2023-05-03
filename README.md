@@ -274,7 +274,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Help in understanding Fold](https://www.reddit.com/r/spark/comments/134lqdz/help_in_understanding_fold/)
 - [Spark sql query trigger error because of date time format](https://www.reddit.com/r/spark/comments/12wmt22/spark_sql_query_trigger_error_because_of_date/)
 - [Get Started with Open Source Formal Verification &lpar;2023 talk&rpar;](https://www.reddit.com/r/spark/comments/12o8ftc/get_started_with_open_source_formal_verification/)
 - [How does Ada compare to Rust?](https://www.reddit.com/r/spark/comments/11b0unr/how_does_ada_compare_to_rust/)
@@ -284,6 +283,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [How do I add an ID column that grows monotonically, also when data is already in the database?](https://www.reddit.com/r/spark/comments/znattz/how_do_i_add_an_id_column_that_grows/)
 - [Collecting a column in a specific order that sticks](https://www.reddit.com/r/spark/comments/zhw5ox/collecting_a_column_in_a_specific_order_that/)
 - [How to apply different code to different blocks from XML files?](https://www.reddit.com/r/spark/comments/zf3rlt/how_to_apply_different_code_to_different_blocks/)
+- [Null Values in PySpark](https://www.reddit.com/r/spark/comments/zaru1r/null_values_in_pyspark/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld Spark posts*
