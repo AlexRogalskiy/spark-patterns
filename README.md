@@ -298,6 +298,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Apache Spark standalone architecture](https://medium.com/yavar/spark-standalone-architecture-dafe8fe0d2e?source=rss------hadoop-5)
+- [Bigdata Hadoop Training in Hyderabad](https://medium.com/@meetingday.150/bigdata-hadoop-training-in-hyderabad-fbb1c0b9cf9f?source=rss------hadoop-5)
 - [Difference between distributed file storage and object-based file storage systems.](https://medium.com/@bose8747/difference-between-distributed-file-storage-and-object-based-file-storage-systems-a7e30e2523fc?source=rss------hadoop-5)
 - [HDFS Mastery for 2023: A Comprehensive Beginner’s Guide to Hadoop’s Distributed File System](https://medium.com/@HalderNilimesh/hdfs-mastery-for-2023-a-comprehensive-beginners-guide-to-hadoop-s-distributed-file-system-aad090a0ebec?source=rss------hadoop-5)
 - [Demystifying YARN: Understanding Its Architecture, Components, and How It Works](https://medium.com/@chenglong.w1/demystifying-yarn-understanding-its-architecture-components-and-how-it-works-738dd95ad453?source=rss------hadoop-5)
@@ -306,8 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Unleashing Graph Analytics Power: A Comprehensive Guide to Integrating Apache AGE with Hadoop and…](https://medium.com/@humzakt/unleashing-graph-analytics-power-a-comprehensive-guide-to-integrating-apache-age-with-hadoop-and-7cc4aca7be4e?source=rss------hadoop-5)
 - [Mastering HDFS Commands: Your Essential Guide](https://medium.com/@noorayesha2000/mastering-hdfs-commands-your-essential-guide-b83d4eb81f1c?source=rss------hadoop-5)
 - [Map Reduce Programming Paradigm and its successors](https://medium.com/@tkc.reg/map-reduce-programming-paradigm-and-its-successors-c8780433e955?source=rss------hadoop-5)
-- [Как соединить таблицы в Apache Hive: JOIN в NoSQL](https://medium.com/@bigdataschool/%D0%BA%D0%B0%D0%BA-%D1%81%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D0%B8%D1%82%D1%8C-%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D1%8B-%D0%B2-apache-hive-join-%D0%B2-nosql-6ee4ac360430?source=rss------hadoop-5)
-- [Choosing the Right Tool for Distributed Data Processing: RDDs, MapReduce, or Cassandra?](https://medium.com/geekculture/choosing-the-right-tool-for-distributed-data-processing-rdds-mapreduce-or-cassandra-921a4079f993?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
