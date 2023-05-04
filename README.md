@@ -298,6 +298,9 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [The Top Distributed Data Processing Technologies: A Comprehensive Overview](https://medium.com/@singhal.ankur8/the-top-distributed-data-processing-technologies-a-comprehensive-overview-712756db3242?source=rss------hadoop-5)
+- [ETL Pipelines on Apache Hadoop](https://medium.com/@danielfrees/etl-pipelines-on-apache-hadoop-e0347a1ddbf3?source=rss------hadoop-5)
+- [Setup Apache Hadoop on AWS](https://medium.com/@danielfrees/setup-apache-hadoop-on-aws-27f6a3c3c4c?source=rss------hadoop-5)
 - [Apache Spark standalone architecture](https://medium.com/yavar/spark-standalone-architecture-dafe8fe0d2e?source=rss------hadoop-5)
 - [Bigdata Hadoop Training in Hyderabad](https://medium.com/@meetingday.150/bigdata-hadoop-training-in-hyderabad-fbb1c0b9cf9f?source=rss------hadoop-5)
 - [Difference between distributed file storage and object-based file storage systems.](https://medium.com/@bose8747/difference-between-distributed-file-storage-and-object-based-file-storage-systems-a7e30e2523fc?source=rss------hadoop-5)
@@ -305,9 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Demystifying YARN: Understanding Its Architecture, Components, and How It Works](https://medium.com/@chenglong.w1/demystifying-yarn-understanding-its-architecture-components-and-how-it-works-738dd95ad453?source=rss------hadoop-5)
 - [From MapReduce to Spark: A Game-Changing Evolution in Big Data Processing](https://medium.com/@itanzerocode/from-mapreduce-to-spark-a-game-changing-evolution-in-big-data-processing-6de3b54a25a6?source=rss------hadoop-5)
 - [Apache Spark #2](https://medium.com/yavar/apache-spark-2-d3ce0e4e87d2?source=rss------hadoop-5)
-- [Unleashing Graph Analytics Power: A Comprehensive Guide to Integrating Apache AGE with Hadoop and…](https://medium.com/@humzakt/unleashing-graph-analytics-power-a-comprehensive-guide-to-integrating-apache-age-with-hadoop-and-7cc4aca7be4e?source=rss------hadoop-5)
-- [Mastering HDFS Commands: Your Essential Guide](https://medium.com/@noorayesha2000/mastering-hdfs-commands-your-essential-guide-b83d4eb81f1c?source=rss------hadoop-5)
-- [Map Reduce Programming Paradigm and its successors](https://medium.com/@tkc.reg/map-reduce-programming-paradigm-and-its-successors-c8780433e955?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
