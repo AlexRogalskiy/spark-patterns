@@ -298,16 +298,16 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [5 Ways to Reduce Hadoop Risk](https://acceldataio.medium.com/5-ways-to-reduce-hadoop-risk-bd3f2dbbe13b?source=rss------hadoop-5)
+- [Hadoop Architecture](https://medium.com/cloudnloud/hadoop-architecture-be8181769e7?source=rss------hadoop-5)
+- [What is Big Data? Why is Big Data Important?](https://medium.com/@lydfatmagunay/what-is-big-data-why-is-big-data-important-909bced25d42?source=rss------hadoop-5)
+- [Unleashing MapReduce in 2023: An In-Depth Guide to Hadoop’s Distributed Data Processing](https://medium.com/@HalderNilimesh/unleashing-mapreduce-in-2023-an-in-depth-guide-to-hadoops-distributed-data-processing-93791282357c?source=rss------hadoop-5)
+- [Перекосы данных в Apache Flink и что с ними делать: MapReduce Combiner и Bundle оператор](https://medium.com/@bigdataschool/%D0%BF%D0%B5%D1%80%D0%B5%D0%BA%D0%BE%D1%81%D1%8B-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-%D0%B2-apache-flink-%D0%B8-%D1%87%D1%82%D0%BE-%D1%81-%D0%BD%D0%B8%D0%BC%D0%B8-%D0%B4%D0%B5%D0%BB%D0%B0%D1%82%D1%8C-mapreduce-combiner-%D0%B8-bundle-%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80-208e9e2c99a3?source=rss------hadoop-5)
 - [The Top Distributed Data Processing Technologies: A Comprehensive Overview](https://medium.com/@singhal.ankur8/the-top-distributed-data-processing-technologies-a-comprehensive-overview-712756db3242?source=rss------hadoop-5)
 - [ETL Pipelines on Apache Hadoop](https://medium.com/@danielfrees/etl-pipelines-on-apache-hadoop-e0347a1ddbf3?source=rss------hadoop-5)
 - [Setup Apache Hadoop on AWS](https://medium.com/@danielfrees/setup-apache-hadoop-on-aws-27f6a3c3c4c?source=rss------hadoop-5)
 - [Apache Spark standalone architecture](https://medium.com/yavar/spark-standalone-architecture-dafe8fe0d2e?source=rss------hadoop-5)
 - [Bigdata Hadoop Training in Hyderabad](https://medium.com/@meetingday.150/bigdata-hadoop-training-in-hyderabad-fbb1c0b9cf9f?source=rss------hadoop-5)
-- [Difference between distributed file storage and object-based file storage systems.](https://medium.com/@bose8747/difference-between-distributed-file-storage-and-object-based-file-storage-systems-a7e30e2523fc?source=rss------hadoop-5)
-- [HDFS Mastery for 2023: A Comprehensive Beginner’s Guide to Hadoop’s Distributed File System](https://medium.com/@HalderNilimesh/hdfs-mastery-for-2023-a-comprehensive-beginners-guide-to-hadoop-s-distributed-file-system-aad090a0ebec?source=rss------hadoop-5)
-- [Demystifying YARN: Understanding Its Architecture, Components, and How It Works](https://medium.com/@chenglong.w1/demystifying-yarn-understanding-its-architecture-components-and-how-it-works-738dd95ad453?source=rss------hadoop-5)
-- [From MapReduce to Spark: A Game-Changing Evolution in Big Data Processing](https://medium.com/@itanzerocode/from-mapreduce-to-spark-a-game-changing-evolution-in-big-data-processing-6de3b54a25a6?source=rss------hadoop-5)
-- [Apache Spark #2](https://medium.com/yavar/apache-spark-2-d3ce0e4e87d2?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
