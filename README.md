@@ -298,6 +298,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Maximizing Hadoop Cluster Utilization with Effective YARN Scheduling Techniques](https://medium.com/@chenglong.w1/maximizing-hadoop-performance-with-effective-yarn-scheduling-techniques-4173046f1939?source=rss------hadoop-5)
+- [Retain YARN logs](https://medium.com/@praneeth.nimmagadda/retain-yarn-logs-ab6a01ee5472?source=rss------hadoop-5)
 - [5 Ways to Reduce Hadoop Risk](https://acceldataio.medium.com/5-ways-to-reduce-hadoop-risk-bd3f2dbbe13b?source=rss------hadoop-5)
 - [Hadoop Architecture](https://medium.com/cloudnloud/hadoop-architecture-be8181769e7?source=rss------hadoop-5)
 - [What is Big Data? Why is Big Data Important?](https://medium.com/@lydfatmagunay/what-is-big-data-why-is-big-data-important-909bced25d42?source=rss------hadoop-5)
@@ -306,8 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [The Top Distributed Data Processing Technologies: A Comprehensive Overview](https://medium.com/@singhal.ankur8/the-top-distributed-data-processing-technologies-a-comprehensive-overview-712756db3242?source=rss------hadoop-5)
 - [ETL Pipelines on Apache Hadoop](https://medium.com/@danielfrees/etl-pipelines-on-apache-hadoop-e0347a1ddbf3?source=rss------hadoop-5)
 - [Setup Apache Hadoop on AWS](https://medium.com/@danielfrees/setup-apache-hadoop-on-aws-27f6a3c3c4c?source=rss------hadoop-5)
-- [Apache Spark standalone architecture](https://medium.com/yavar/spark-standalone-architecture-dafe8fe0d2e?source=rss------hadoop-5)
-- [Bigdata Hadoop Training in Hyderabad](https://medium.com/@meetingday.150/bigdata-hadoop-training-in-hyderabad-fbb1c0b9cf9f?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
