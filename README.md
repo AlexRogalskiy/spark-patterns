@@ -298,16 +298,16 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [NYC Property Sales and Complaints Analysis: Investigating the Volatility of the Real Estate Market](https://medium.com/@zw2047/nyc-property-sales-and-complaints-analysis-investigating-the-volatility-of-the-real-estate-market-6f876a74ac66?source=rss------hadoop-5)
+- [Mastering PySpark Resource Management: Strategies for Maximising Efficiency &amp; Performance](https://medium.com/@alinakhay/mastering-pyspark-resource-management-strategies-for-maximising-efficiency-performance-44da24a7a5b?source=rss------hadoop-5)
+- [Understanding Data Engineering](https://learncsdesigns.medium.com/understanding-data-engineering-236cf6c16563?source=rss------hadoop-5)
+- [Pig and Hive in 2023: A Comprehensive Guide to Hadoop’s Data Processing Tools](https://medium.com/@HalderNilimesh/pig-and-hive-in-2023-a-comprehensive-guide-to-hadoops-data-processing-tools-73dd6ec20eba?source=rss------hadoop-5)
+- [Flume Made Easy in 2023: Your Step-by-Step Guide to Creating Your First Flume Data Ingestion…](https://medium.com/@HalderNilimesh/flume-made-easy-in-2023-your-step-by-step-guide-to-creating-your-first-flume-data-ingestion-d57597a0a742?source=rss------hadoop-5)
+- [Mastering Flume and Sqoop in 2023: A Comprehensive Guide to Hadoop’s Data Ingestion Tools](https://medium.com/@HalderNilimesh/mastering-flume-and-sqoop-in-2023-a-comprehensive-guide-to-hadoops-data-ingestion-tools-81bbced894d2?source=rss------hadoop-5)
 - [How to Set Up Hadoop on Windows: A Step-by-Step Guide](https://medium.com/@mtadata/how-to-set-up-hadoop-on-windows-a-step-by-step-guide-37d1ab4bee57?source=rss------hadoop-5)
 - [HDFS Architecture](https://medium.com/cloudnloud/hdfs-architecture-3c838c38b9a5?source=rss------hadoop-5)
 - [Hadoop vs. HDFS vs. HBase vs. Hive](https://medium.com/@Divithraju/hadoop-vs-hdfs-vs-hbase-vs-hive-f21dedc67d9?source=rss------hadoop-5)
 - [Maximizing Hadoop Cluster Utilization with Effective YARN Scheduling Techniques](https://medium.com/@chenglong.w1/maximizing-hadoop-performance-with-effective-yarn-scheduling-techniques-4173046f1939?source=rss------hadoop-5)
-- [Retain YARN logs](https://medium.com/@praneeth.nimmagadda/retain-yarn-logs-ab6a01ee5472?source=rss------hadoop-5)
-- [5 Ways to Reduce Hadoop Risk](https://acceldataio.medium.com/5-ways-to-reduce-hadoop-risk-bd3f2dbbe13b?source=rss------hadoop-5)
-- [Hadoop Architecture](https://medium.com/cloudnloud/hadoop-architecture-be8181769e7?source=rss------hadoop-5)
-- [What is Big Data? Why is Big Data Important?](https://medium.com/@lydfatmagunay/what-is-big-data-why-is-big-data-important-909bced25d42?source=rss------hadoop-5)
-- [Unleashing MapReduce in 2023: An In-Depth Guide to Hadoop’s Distributed Data Processing](https://medium.com/@HalderNilimesh/unleashing-mapreduce-in-2023-an-in-depth-guide-to-hadoops-distributed-data-processing-93791282357c?source=rss------hadoop-5)
-- [Перекосы данных в Apache Flink и что с ними делать: MapReduce Combiner и Bundle оператор](https://medium.com/@bigdataschool/%D0%BF%D0%B5%D1%80%D0%B5%D0%BA%D0%BE%D1%81%D1%8B-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-%D0%B2-apache-flink-%D0%B8-%D1%87%D1%82%D0%BE-%D1%81-%D0%BD%D0%B8%D0%BC%D0%B8-%D0%B4%D0%B5%D0%BB%D0%B0%D1%82%D1%8C-mapreduce-combiner-%D0%B8-bundle-%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80-208e9e2c99a3?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
