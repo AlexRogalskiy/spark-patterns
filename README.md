@@ -298,6 +298,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [HDFS Commands to handle the files](https://medium.com/cloudnloud/hdfs-commands-to-handle-the-files-dcc8aa13296e?source=rss------hadoop-5)
+- [FLUME Configuration](https://medium.com/@mmodi2561/flume-configuration-9f449c50d610?source=rss------hadoop-5)
 - [NYC Property Sales and Complaints Analysis: Investigating the Volatility of the Real Estate Market](https://medium.com/@zw2047/nyc-property-sales-and-complaints-analysis-investigating-the-volatility-of-the-real-estate-market-6f876a74ac66?source=rss------hadoop-5)
 - [Mastering PySpark Resource Management: Strategies for Maximising Efficiency &amp; Performance](https://medium.com/@alinakhay/mastering-pyspark-resource-management-strategies-for-maximising-efficiency-performance-44da24a7a5b?source=rss------hadoop-5)
 - [Understanding Data Engineering](https://learncsdesigns.medium.com/understanding-data-engineering-236cf6c16563?source=rss------hadoop-5)
@@ -306,8 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Mastering Flume and Sqoop in 2023: A Comprehensive Guide to Hadoop’s Data Ingestion Tools](https://medium.com/@HalderNilimesh/mastering-flume-and-sqoop-in-2023-a-comprehensive-guide-to-hadoops-data-ingestion-tools-81bbced894d2?source=rss------hadoop-5)
 - [How to Set Up Hadoop on Windows: A Step-by-Step Guide](https://medium.com/@mtadata/how-to-set-up-hadoop-on-windows-a-step-by-step-guide-37d1ab4bee57?source=rss------hadoop-5)
 - [HDFS Architecture](https://medium.com/cloudnloud/hdfs-architecture-3c838c38b9a5?source=rss------hadoop-5)
-- [Hadoop vs. HDFS vs. HBase vs. Hive](https://medium.com/@Divithraju/hadoop-vs-hdfs-vs-hbase-vs-hive-f21dedc67d9?source=rss------hadoop-5)
-- [Maximizing Hadoop Cluster Utilization with Effective YARN Scheduling Techniques](https://medium.com/@chenglong.w1/maximizing-hadoop-performance-with-effective-yarn-scheduling-techniques-4173046f1939?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
