@@ -319,6 +319,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop in real world posts*
 
 <!-- HADOOPINREALWORLD-POST-LIST:START -->
+- [How to fix Kafka Broker may not be available on 127.0.0.1 error?](https://www.bigdatainrealworld.com/how-to-fix-kafka-broker-may-not-be-available-on-127-0-0-1-error/)
 - [How to use SnowSQL client to work with Snowflake?](https://www.bigdatainrealworld.com/how-to-use-snowsql-client-to-work-with-snowflake/)
 - [Getting started with Snowflake in less than 10 minutes](https://www.bigdatainrealworld.com/getting-started-with-snowflake-in-less-than-10-minutes/)
 - [How to transpose a DataFrame from columns to rows in Spark?](https://www.bigdatainrealworld.com/how-to-transpose-a-dataframe-from-columns-to-rows-in-spark/)
@@ -328,7 +329,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [What is the difference between map and mapValues functions in Spark?](https://www.bigdatainrealworld.com/what-is-the-difference-between-map-and-mapvalues-functions-in-spark/)
 - [What is an alias and how to create an alias in Elasticsearch?](https://www.bigdatainrealworld.com/what-is-an-alias-and-how-to-create-an-alias-in-elasticsearch/)
 - [How to check size of a bucket in S3?](https://www.bigdatainrealworld.com/how-to-check-size-of-a-bucket-in-s3/)
-- [How to transpose or convert columns to rows in Hive?](https://www.bigdatainrealworld.com/how-to-transpose-or-convert-columns-to-rows-in-hive/)
 <!-- HADOOPINREALWORLD-POST-LIST:END -->
 
 ### *Kognitio posts*
