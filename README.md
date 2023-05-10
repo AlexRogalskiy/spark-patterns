@@ -298,6 +298,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Apache Hive 4.0.0-alpha-2: что нового?](https://medium.com/@bigdataschool/apache-hive-4-0-0-alpha-2-%D1%87%D1%82%D0%BE-%D0%BD%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE-f982ec4f0a71?source=rss------hadoop-5)
 - [HDFS Commands to handle the files](https://medium.com/cloudnloud/hdfs-commands-to-handle-the-files-dcc8aa13296e?source=rss------hadoop-5)
 - [FLUME Configuration](https://medium.com/@mmodi2561/flume-configuration-9f449c50d610?source=rss------hadoop-5)
 - [NYC Property Sales and Complaints Analysis: Investigating the Volatility of the Real Estate Market](https://medium.com/@zw2047/nyc-property-sales-and-complaints-analysis-investigating-the-volatility-of-the-real-estate-market-6f876a74ac66?source=rss------hadoop-5)
@@ -307,7 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Flume Made Easy in 2023: Your Step-by-Step Guide to Creating Your First Flume Data Ingestion…](https://medium.com/@HalderNilimesh/flume-made-easy-in-2023-your-step-by-step-guide-to-creating-your-first-flume-data-ingestion-d57597a0a742?source=rss------hadoop-5)
 - [Mastering Flume and Sqoop in 2023: A Comprehensive Guide to Hadoop’s Data Ingestion Tools](https://medium.com/@HalderNilimesh/mastering-flume-and-sqoop-in-2023-a-comprehensive-guide-to-hadoops-data-ingestion-tools-81bbced894d2?source=rss------hadoop-5)
 - [How to Set Up Hadoop on Windows: A Step-by-Step Guide](https://medium.com/@mtadata/how-to-set-up-hadoop-on-windows-a-step-by-step-guide-37d1ab4bee57?source=rss------hadoop-5)
-- [HDFS Architecture](https://medium.com/cloudnloud/hdfs-architecture-3c838c38b9a5?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
