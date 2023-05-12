@@ -298,6 +298,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Java ve veri analizi: Apache Spark ve Hadoop kullanımı](https://muhammedtalhacevik.medium.com/java-ve-veri-analizi-apache-spark-ve-hadoop-kullan%C4%B1m%C4%B1-e48373d0eee6?source=rss------hadoop-5)
 - [Big Data on Kubernetes: Streamline Your Big Data Workflows with Ease &lpar;Hadoop&rpar;](https://medium.com/@lfoster49203/big-data-on-kubernetes-streamline-your-big-data-workflows-with-ease-hadoop-8934a33ee2c5?source=rss------hadoop-5)
 - [Getting Started with Hadoop on Vagrant &lpar;originally written in 2017&rpar;](https://medium.com/@jaryya/getting-started-with-hadoop-on-vagrant-originally-written-in-2017-762acf454b58?source=rss------hadoop-5)
 - [Apache Hive 4.0.0-alpha-2: что нового?](https://medium.com/@bigdataschool/apache-hive-4-0-0-alpha-2-%D1%87%D1%82%D0%BE-%D0%BD%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE-f982ec4f0a71?source=rss------hadoop-5)
@@ -307,7 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Mastering PySpark Resource Management: Strategies for Maximising Efficiency &amp; Performance](https://medium.com/@alinakhay/mastering-pyspark-resource-management-strategies-for-maximising-efficiency-performance-44da24a7a5b?source=rss------hadoop-5)
 - [Understanding Data Engineering](https://learncsdesigns.medium.com/understanding-data-engineering-236cf6c16563?source=rss------hadoop-5)
 - [Pig and Hive in 2023: A Comprehensive Guide to Hadoop’s Data Processing Tools](https://medium.com/@HalderNilimesh/pig-and-hive-in-2023-a-comprehensive-guide-to-hadoops-data-processing-tools-73dd6ec20eba?source=rss------hadoop-5)
-- [Flume Made Easy in 2023: Your Step-by-Step Guide to Creating Your First Flume Data Ingestion…](https://medium.com/@HalderNilimesh/flume-made-easy-in-2023-your-step-by-step-guide-to-creating-your-first-flume-data-ingestion-d57597a0a742?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
