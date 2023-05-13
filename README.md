@@ -298,16 +298,16 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [The Future of Data Processing: Exploring the Power and Potential of Hadoop Big Data](https://medium.com/@ron_36041/the-future-of-data-processing-exploring-the-power-and-potential-of-hadoop-big-data-f9f20c9f645b?source=rss------hadoop-5)
+- [Hive Configuration](https://medium.com/@mmodi2561/hive-configuration-871783de1870?source=rss------hadoop-5)
+- [The Buzz About Hive: A Beginner’s Guide to Big Data Querying](https://medium.com/@sukaneshsk/the-buzz-about-hive-a-beginners-guide-to-big-data-querying-bd34588d15b2?source=rss------hadoop-5)
+- [Sqoop Configuration with MySql Connector](https://medium.com/@mmodi2561/sqoop-configuration-with-mysql-connector-74b344603912?source=rss------hadoop-5)
+- [Чтение и запись файлов в Google Cloud Storage с Apache Spark](https://medium.com/@bigdataschool/%D1%87%D1%82%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B8-%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C-%D1%84%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2-%D0%B2-google-cloud-storage-%D1%81-apache-spark-3bf11c1dabc1?source=rss------hadoop-5)
 - [Java ve veri analizi: Apache Spark ve Hadoop kullanımı](https://muhammedtalhacevik.medium.com/java-ve-veri-analizi-apache-spark-ve-hadoop-kullan%C4%B1m%C4%B1-e48373d0eee6?source=rss------hadoop-5)
 - [Big Data on Kubernetes: Streamline Your Big Data Workflows with Ease &lpar;Hadoop&rpar;](https://medium.com/@lfoster49203/big-data-on-kubernetes-streamline-your-big-data-workflows-with-ease-hadoop-8934a33ee2c5?source=rss------hadoop-5)
-- [Getting Started with Hadoop on Vagrant &lpar;originally written in 2017&rpar;](https://medium.com/@jaryya/getting-started-with-hadoop-on-vagrant-originally-written-in-2017-762acf454b58?source=rss------hadoop-5)
+- [Getting Started with Hadoop on Vagrant &lpar;written in 2017&rpar;](https://medium.com/@jaryya/getting-started-with-hadoop-on-vagrant-originally-written-in-2017-762acf454b58?source=rss------hadoop-5)
 - [Apache Hive 4.0.0-alpha-2: что нового?](https://medium.com/@bigdataschool/apache-hive-4-0-0-alpha-2-%D1%87%D1%82%D0%BE-%D0%BD%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE-f982ec4f0a71?source=rss------hadoop-5)
 - [HDFS Commands to handle the files](https://medium.com/cloudnloud/hdfs-commands-to-handle-the-files-dcc8aa13296e?source=rss------hadoop-5)
-- [FLUME Configuration](https://medium.com/@mmodi2561/flume-configuration-9f449c50d610?source=rss------hadoop-5)
-- [NYC Property Sales and Complaints Analysis: Investigating the Volatility of the Real Estate Market](https://medium.com/@zw2047/nyc-property-sales-and-complaints-analysis-investigating-the-volatility-of-the-real-estate-market-6f876a74ac66?source=rss------hadoop-5)
-- [Mastering PySpark Resource Management: Strategies for Maximising Efficiency &amp; Performance](https://medium.com/@alinakhay/mastering-pyspark-resource-management-strategies-for-maximising-efficiency-performance-44da24a7a5b?source=rss------hadoop-5)
-- [Understanding Data Engineering](https://learncsdesigns.medium.com/understanding-data-engineering-236cf6c16563?source=rss------hadoop-5)
-- [Pig and Hive in 2023: A Comprehensive Guide to Hadoop’s Data Processing Tools](https://medium.com/@HalderNilimesh/pig-and-hive-in-2023-a-comprehensive-guide-to-hadoops-data-processing-tools-73dd6ec20eba?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
