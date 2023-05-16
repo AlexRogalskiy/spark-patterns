@@ -319,6 +319,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop in real world posts*
 
 <!-- HADOOPINREALWORLD-POST-LIST:START -->
+- [How to query data from Snowflake in Spark?](https://www.bigdatainrealworld.com/how-to-query-data-from-snowflake-in-spark/)
 - [What is the difference between sync and cp operations in S3?](https://www.bigdatainrealworld.com/what-is-the-difference-between-sync-and-cp-operations-in-s3/)
 - [How to fix Kafka Broker may not be available on 127.0.0.1 error?](https://www.bigdatainrealworld.com/how-to-fix-kafka-broker-may-not-be-available-on-127-0-0-1-error/)
 - [How to use SnowSQL client to work with Snowflake?](https://www.bigdatainrealworld.com/how-to-use-snowsql-client-to-work-with-snowflake/)
@@ -328,7 +329,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [How to rename an S3 bucket?](https://www.bigdatainrealworld.com/how-to-rename-an-s3-bucket/)
 - [How to view a message in Kafka?](https://www.bigdatainrealworld.com/how-to-view-a-message-in-kafka/)
 - [What is the difference between map and mapValues functions in Spark?](https://www.bigdatainrealworld.com/what-is-the-difference-between-map-and-mapvalues-functions-in-spark/)
-- [What is an alias and how to create an alias in Elasticsearch?](https://www.bigdatainrealworld.com/what-is-an-alias-and-how-to-create-an-alias-in-elasticsearch/)
 <!-- HADOOPINREALWORLD-POST-LIST:END -->
 
 ### *Kognitio posts*
