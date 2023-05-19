@@ -298,6 +298,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Linux Command](https://medium.com/@mmodi2561/linux-command-c14dea24658b?source=rss------hadoop-5)
 - [How does  manage  ’  ?](https://medium.com/@alycentra/how-does-manage-1f2182b7fbf7?source=rss------hadoop-5)
 - [The Future of Data Processing: Exploring the Power and Potential of Hadoop Big Data](https://medium.com/@ron_36041/the-future-of-data-processing-exploring-the-power-and-potential-of-hadoop-big-data-f9f20c9f645b?source=rss------hadoop-5)
 - [Hive Configuration](https://medium.com/@mmodi2561/hive-configuration-871783de1870?source=rss------hadoop-5)
@@ -307,7 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Java ve veri analizi: Apache Spark ve Hadoop kullanımı](https://muhammedtalhacevik.medium.com/java-ve-veri-analizi-apache-spark-ve-hadoop-kullan%C4%B1m%C4%B1-e48373d0eee6?source=rss------hadoop-5)
 - [Big Data on Kubernetes: Streamline Your Big Data Workflows with Ease &lpar;Hadoop&rpar;](https://medium.com/@lfoster49203/big-data-on-kubernetes-streamline-your-big-data-workflows-with-ease-hadoop-8934a33ee2c5?source=rss------hadoop-5)
 - [Getting Started with Hadoop on Vagrant &lpar;written in 2017&rpar;](https://medium.com/@jaryya/getting-started-with-hadoop-on-vagrant-originally-written-in-2017-762acf454b58?source=rss------hadoop-5)
-- [Apache Hive 4.0.0-alpha-2: что нового?](https://medium.com/@bigdataschool/apache-hive-4-0-0-alpha-2-%D1%87%D1%82%D0%BE-%D0%BD%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE-f982ec4f0a71?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
