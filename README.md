@@ -298,6 +298,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [How to Optimize HDFS Performance for Large-Scale Data Processing](https://imsampro.medium.com/how-to-optimize-hdfs-performance-for-large-scale-data-processing-ff0d93be0b82?source=rss------hadoop-5)
 - [Linux Command](https://medium.com/@mmodi2561/linux-command-c14dea24658b?source=rss------hadoop-5)
 - [How does  manage  ’  ?](https://medium.com/@alycentra/how-does-manage-1f2182b7fbf7?source=rss------hadoop-5)
 - [The Future of Data Processing: Exploring the Power and Potential of Hadoop Big Data](https://medium.com/@ron_36041/the-future-of-data-processing-exploring-the-power-and-potential-of-hadoop-big-data-f9f20c9f645b?source=rss------hadoop-5)
@@ -307,7 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Чтение и запись файлов в Google Cloud Storage с Apache Spark](https://medium.com/@bigdataschool/%D1%87%D1%82%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B8-%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C-%D1%84%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2-%D0%B2-google-cloud-storage-%D1%81-apache-spark-3bf11c1dabc1?source=rss------hadoop-5)
 - [Java ve veri analizi: Apache Spark ve Hadoop kullanımı](https://muhammedtalhacevik.medium.com/java-ve-veri-analizi-apache-spark-ve-hadoop-kullan%C4%B1m%C4%B1-e48373d0eee6?source=rss------hadoop-5)
 - [Big Data on Kubernetes: Streamline Your Big Data Workflows with Ease &lpar;Hadoop&rpar;](https://medium.com/@lfoster49203/big-data-on-kubernetes-streamline-your-big-data-workflows-with-ease-hadoop-8934a33ee2c5?source=rss------hadoop-5)
-- [Getting Started with Hadoop on Vagrant &lpar;written in 2017&rpar;](https://medium.com/@jaryya/getting-started-with-hadoop-on-vagrant-originally-written-in-2017-762acf454b58?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
