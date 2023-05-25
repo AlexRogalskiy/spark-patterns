@@ -298,6 +298,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Зачем вам WebHCat — REST API к HCatalog в Apache Hive](https://medium.com/@bigdataschool/%D0%B7%D0%B0%D1%87%D0%B5%D0%BC-%D0%B2%D0%B0%D0%BC-webhcat-rest-api-%D0%BA-hcatalog-%D0%B2-apache-hive-8d87fac56762?source=rss------hadoop-5)
 - [Hadoop Nedir?](https://medium.com/bentego-teknoloji/hadoop-nedir-62bf20ac40d7?source=rss------hadoop-5)
 - [Introduction to Apache Spark: A Comprehensive Guide for Beginners](https://medium.datadriveninvestor.com/introduction-to-apache-spark-a-comprehensive-guide-for-beginners-7cf9bc8e3caf?source=rss------hadoop-5)
 - [How to Optimize HDFS Performance for Large-Scale Data Processing](https://imsampro.medium.com/how-to-optimize-hdfs-performance-for-large-scale-data-processing-ff0d93be0b82?source=rss------hadoop-5)
@@ -307,7 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Hive Configuration](https://medium.com/@mmodi2561/hive-configuration-871783de1870?source=rss------hadoop-5)
 - [The Buzz About Hive: A Beginner’s Guide to Big Data Querying](https://medium.com/@sukaneshsk/the-buzz-about-hive-a-beginners-guide-to-big-data-querying-bd34588d15b2?source=rss------hadoop-5)
 - [Sqoop Configuration with MySql Connector](https://medium.com/@mmodi2561/sqoop-configuration-with-mysql-connector-74b344603912?source=rss------hadoop-5)
-- [Чтение и запись файлов в Google Cloud Storage с Apache Spark](https://medium.com/@bigdataschool/%D1%87%D1%82%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B8-%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C-%D1%84%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2-%D0%B2-google-cloud-storage-%D1%81-apache-spark-3bf11c1dabc1?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
