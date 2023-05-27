@@ -298,6 +298,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Автомасштабирование и развертывание Apache Flink в GCP](https://medium.com/@bigdataschool/%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%81%D1%88%D1%82%D0%B0%D0%B1%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B8-%D1%80%D0%B0%D0%B7%D0%B2%D0%B5%D1%80%D1%82%D1%8B%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-apache-flink-%D0%B2-gcp-2334018c31a8?source=rss------hadoop-5)
+- [Hadoop Big Data Analytics Solution Market, Market Size, Share, Trend, Forecast, Competitive…](https://medium.com/@hendrywatson75/hadoop-big-data-analytics-solution-market-market-size-share-trend-forecast-competitive-e7f318675af5?source=rss------hadoop-5)
 - [Зачем вам WebHCat — REST API к HCatalog в Apache Hive](https://medium.com/@bigdataschool/%D0%B7%D0%B0%D1%87%D0%B5%D0%BC-%D0%B2%D0%B0%D0%BC-webhcat-rest-api-%D0%BA-hcatalog-%D0%B2-apache-hive-8d87fac56762?source=rss------hadoop-5)
 - [Hadoop Nedir?](https://medium.com/bentego-teknoloji/hadoop-nedir-62bf20ac40d7?source=rss------hadoop-5)
 - [Introduction to Apache Spark: A Comprehensive Guide for Beginners](https://medium.datadriveninvestor.com/introduction-to-apache-spark-a-comprehensive-guide-for-beginners-7cf9bc8e3caf?source=rss------hadoop-5)
@@ -306,8 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [How does  manage  ’  ?](https://medium.com/@alycentra/how-does-manage-1f2182b7fbf7?source=rss------hadoop-5)
 - [The Future of Data Processing: Exploring the Power and Potential of Hadoop Big Data](https://medium.com/@ron_36041/the-future-of-data-processing-exploring-the-power-and-potential-of-hadoop-big-data-f9f20c9f645b?source=rss------hadoop-5)
 - [Hive Configuration](https://medium.com/@mmodi2561/hive-configuration-871783de1870?source=rss------hadoop-5)
-- [The Buzz About Hive: A Beginner’s Guide to Big Data Querying](https://medium.com/@sukaneshsk/the-buzz-about-hive-a-beginners-guide-to-big-data-querying-bd34588d15b2?source=rss------hadoop-5)
-- [Sqoop Configuration with MySql Connector](https://medium.com/@mmodi2561/sqoop-configuration-with-mysql-connector-74b344603912?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
