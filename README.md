@@ -298,6 +298,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Hadoop | Basics and a word-count example](https://medium.com/@pete.shen40/hadoop-basics-and-a-word-count-example-b0f7c75609fe?source=rss------hadoop-5)
+- [Avro vs Parquet](https://parksehun.medium.com/avro-vs-parquet-4514e925fe91?source=rss------hadoop-5)
 - [Автомасштабирование и развертывание Apache Flink в GCP](https://medium.com/@bigdataschool/%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%81%D1%88%D1%82%D0%B0%D0%B1%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B8-%D1%80%D0%B0%D0%B7%D0%B2%D0%B5%D1%80%D1%82%D1%8B%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-apache-flink-%D0%B2-gcp-2334018c31a8?source=rss------hadoop-5)
 - [Hadoop Big Data Analytics Solution Market, Market Size, Share, Trend, Forecast, Competitive…](https://medium.com/@hendrywatson75/hadoop-big-data-analytics-solution-market-market-size-share-trend-forecast-competitive-e7f318675af5?source=rss------hadoop-5)
 - [Зачем вам WebHCat — REST API к HCatalog в Apache Hive](https://medium.com/@bigdataschool/%D0%B7%D0%B0%D1%87%D0%B5%D0%BC-%D0%B2%D0%B0%D0%BC-webhcat-rest-api-%D0%BA-hcatalog-%D0%B2-apache-hive-8d87fac56762?source=rss------hadoop-5)
@@ -306,8 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [How to Optimize HDFS Performance for Large-Scale Data Processing](https://imsampro.medium.com/how-to-optimize-hdfs-performance-for-large-scale-data-processing-ff0d93be0b82?source=rss------hadoop-5)
 - [Linux Command](https://medium.com/@mmodi2561/linux-command-c14dea24658b?source=rss------hadoop-5)
 - [How does  manage  ’  ?](https://medium.com/@alycentra/how-does-manage-1f2182b7fbf7?source=rss------hadoop-5)
-- [The Future of Data Processing: Exploring the Power and Potential of Hadoop Big Data](https://medium.com/@ron_36041/the-future-of-data-processing-exploring-the-power-and-potential-of-hadoop-big-data-f9f20c9f645b?source=rss------hadoop-5)
-- [Hive Configuration](https://medium.com/@mmodi2561/hive-configuration-871783de1870?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
