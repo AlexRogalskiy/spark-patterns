@@ -319,6 +319,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop in real world posts*
 
 <!-- HADOOPINREALWORLD-POST-LIST:START -->
+- [How to list topics without accessing Zookeeper in Kafka?](https://www.bigdatainrealworld.com/how-to-list-topics-without-accessing-zookeeper-in-kafka/)
 - [How to add total count of DataFrame to an already grouped DataFrame?](https://www.bigdatainrealworld.com/how-to-add-total-count-of-dataframe-to-an-already-grouped-dataframe/)
 - [How to query data from Snowflake in Spark?](https://www.bigdatainrealworld.com/how-to-query-data-from-snowflake-in-spark/)
 - [What is the difference between sync and cp operations in S3?](https://www.bigdatainrealworld.com/what-is-the-difference-between-sync-and-cp-operations-in-s3/)
@@ -328,7 +329,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [How to transpose a DataFrame from columns to rows in Spark?](https://www.bigdatainrealworld.com/how-to-transpose-a-dataframe-from-columns-to-rows-in-spark/)
 - [How to properly remove or decommission a node from an Elasticsearch cluster?](https://www.bigdatainrealworld.com/how-to-properly-remove-or-decommission-a-node-from-an-elasticsearch-cluster/)
 - [How to rename an S3 bucket?](https://www.bigdatainrealworld.com/how-to-rename-an-s3-bucket/)
-- [How to view a message in Kafka?](https://www.bigdatainrealworld.com/how-to-view-a-message-in-kafka/)
 <!-- HADOOPINREALWORLD-POST-LIST:END -->
 
 ### *Kognitio posts*
