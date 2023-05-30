@@ -298,6 +298,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Big Data 101: Understanding its Use Cases, Tools, and Challenges](https://medium.com/@digitalskillsninja/big-data-101-understanding-its-use-cases-tools-and-challenges-1e21f4df5353?source=rss------hadoop-5)
 - [Hadoop | Basics and a word-count example](https://medium.com/@pete.shen40/hadoop-basics-and-a-word-count-example-b0f7c75609fe?source=rss------hadoop-5)
 - [Avro vs Parquet](https://parksehun.medium.com/avro-vs-parquet-4514e925fe91?source=rss------hadoop-5)
 - [Автомасштабирование и развертывание Apache Flink в GCP](https://medium.com/@bigdataschool/%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%81%D1%88%D1%82%D0%B0%D0%B1%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B8-%D1%80%D0%B0%D0%B7%D0%B2%D0%B5%D1%80%D1%82%D1%8B%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-apache-flink-%D0%B2-gcp-2334018c31a8?source=rss------hadoop-5)
@@ -307,7 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Introduction to Apache Spark: A Comprehensive Guide for Beginners](https://medium.datadriveninvestor.com/introduction-to-apache-spark-a-comprehensive-guide-for-beginners-7cf9bc8e3caf?source=rss------hadoop-5)
 - [How to Optimize HDFS Performance for Large-Scale Data Processing](https://imsampro.medium.com/how-to-optimize-hdfs-performance-for-large-scale-data-processing-ff0d93be0b82?source=rss------hadoop-5)
 - [Linux Command](https://medium.com/@mmodi2561/linux-command-c14dea24658b?source=rss------hadoop-5)
-- [How does  manage  ’  ?](https://medium.com/@alycentra/how-does-manage-1f2182b7fbf7?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
