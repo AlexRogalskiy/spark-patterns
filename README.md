@@ -298,6 +298,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Hadoop I: Get in touch with Docker](https://medium.com/@jose.rolando.m/hadoop-get-in-touch-with-docker-c55da692f06?source=rss------hadoop-5)
+- [Migrate Local Hive metastore from one EMR cluster to another](https://medium.com/@aditya0123ag/migrate-local-hive-metastore-from-one-emr-cluster-to-another-4d8fb8363ba7?source=rss------hadoop-5)
 - [Big Data 101: Understanding its Use Cases, Tools, and Challenges](https://medium.com/@digitalskillsninja/big-data-101-understanding-its-use-cases-tools-and-challenges-1e21f4df5353?source=rss------hadoop-5)
 - [Hadoop | Basics and a word-count example](https://medium.com/@pete.shen40/hadoop-basics-and-a-word-count-example-b0f7c75609fe?source=rss------hadoop-5)
 - [Avro vs Parquet](https://parksehun.medium.com/avro-vs-parquet-4514e925fe91?source=rss------hadoop-5)
@@ -306,8 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Зачем вам WebHCat — REST API к HCatalog в Apache Hive](https://medium.com/@bigdataschool/%D0%B7%D0%B0%D1%87%D0%B5%D0%BC-%D0%B2%D0%B0%D0%BC-webhcat-rest-api-%D0%BA-hcatalog-%D0%B2-apache-hive-8d87fac56762?source=rss------hadoop-5)
 - [Hadoop Nedir?](https://medium.com/bentego-teknoloji/hadoop-nedir-62bf20ac40d7?source=rss------hadoop-5)
 - [Introduction to Apache Spark: A Comprehensive Guide for Beginners](https://medium.datadriveninvestor.com/introduction-to-apache-spark-a-comprehensive-guide-for-beginners-7cf9bc8e3caf?source=rss------hadoop-5)
-- [How to Optimize HDFS Performance for Large-Scale Data Processing](https://imsampro.medium.com/how-to-optimize-hdfs-performance-for-large-scale-data-processing-ff0d93be0b82?source=rss------hadoop-5)
-- [Linux Command](https://medium.com/@mmodi2561/linux-command-c14dea24658b?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
