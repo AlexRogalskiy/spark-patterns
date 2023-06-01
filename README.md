@@ -298,6 +298,9 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [How to Install Hadoop 3.3.4 on macOS](https://medium.com/@anirudhtulasi.x/how-to-install-hadoop-3-3-4-on-macos-bfe342f8e4dc?source=rss------hadoop-5)
+- [How to Set Up Password-less SSH for Localhost on MacOS](https://medium.com/@anirudhtulasi.x/how-to-set-up-password-less-ssh-for-localhost-on-macos-e54fff167169?source=rss------hadoop-5)
+- [Bigdata Hadoop Training in Hyderabad](https://medium.com/@meetingday.150/bigdata-hadoop-training-in-hyderabad-5f42d17ff9f5?source=rss------hadoop-5)
 - [Hadoop I: Get in touch with Docker](https://medium.com/@jose.rolando.m/hadoop-get-in-touch-with-docker-c55da692f06?source=rss------hadoop-5)
 - [Migrate Local Hive metastore from one EMR cluster to another](https://medium.com/@aditya0123ag/migrate-local-hive-metastore-from-one-emr-cluster-to-another-4d8fb8363ba7?source=rss------hadoop-5)
 - [Big Data 101: Understanding its Use Cases, Tools, and Challenges](https://medium.com/@digitalskillsninja/big-data-101-understanding-its-use-cases-tools-and-challenges-1e21f4df5353?source=rss------hadoop-5)
@@ -305,9 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Avro vs Parquet](https://parksehun.medium.com/avro-vs-parquet-4514e925fe91?source=rss------hadoop-5)
 - [Автомасштабирование и развертывание Apache Flink в GCP](https://medium.com/@bigdataschool/%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%81%D1%88%D1%82%D0%B0%D0%B1%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B8-%D1%80%D0%B0%D0%B7%D0%B2%D0%B5%D1%80%D1%82%D1%8B%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-apache-flink-%D0%B2-gcp-2334018c31a8?source=rss------hadoop-5)
 - [Hadoop Big Data Analytics Solution Market, Market Size, Share, Trend, Forecast, Competitive…](https://medium.com/@hendrywatson75/hadoop-big-data-analytics-solution-market-market-size-share-trend-forecast-competitive-e7f318675af5?source=rss------hadoop-5)
-- [Зачем вам WebHCat — REST API к HCatalog в Apache Hive](https://medium.com/@bigdataschool/%D0%B7%D0%B0%D1%87%D0%B5%D0%BC-%D0%B2%D0%B0%D0%BC-webhcat-rest-api-%D0%BA-hcatalog-%D0%B2-apache-hive-8d87fac56762?source=rss------hadoop-5)
-- [Hadoop Nedir?](https://medium.com/bentego-teknoloji/hadoop-nedir-62bf20ac40d7?source=rss------hadoop-5)
-- [Introduction to Apache Spark: A Comprehensive Guide for Beginners](https://medium.datadriveninvestor.com/introduction-to-apache-spark-a-comprehensive-guide-for-beginners-7cf9bc8e3caf?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
