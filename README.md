@@ -307,7 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Hadoop | Basics and a word-count example](https://medium.com/@pete.shen40/hadoop-basics-and-a-word-count-example-b0f7c75609fe?source=rss------hadoop-5)
 - [Avro vs Parquet](https://parksehun.medium.com/avro-vs-parquet-4514e925fe91?source=rss------hadoop-5)
 - [Автомасштабирование и развертывание Apache Flink в GCP](https://medium.com/@bigdataschool/%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%81%D1%88%D1%82%D0%B0%D0%B1%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B8-%D1%80%D0%B0%D0%B7%D0%B2%D0%B5%D1%80%D1%82%D1%8B%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-apache-flink-%D0%B2-gcp-2334018c31a8?source=rss------hadoop-5)
-- [Hadoop Big Data Analytics Solution Market, Market Size, Share, Trend, Forecast, Competitive…](https://medium.com/@hendrywatson75/hadoop-big-data-analytics-solution-market-market-size-share-trend-forecast-competitive-e7f318675af5?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
