@@ -274,7 +274,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [What do you do if you find something you didn&#39;t deliver?](https://www.reddit.com/r/spark/comments/13zp9yd/what_do_you_do_if_you_find_something_you_didnt/)
 - [Delivery](https://www.reddit.com/r/spark/comments/13ify18/delivery/)
 - [A crossword for data engineers](https://www.reddit.com/r/spark/comments/13hmfso/a_crossword_for_data_engineers/)
 - [Spark sql query trigger error because of date time format](https://www.reddit.com/r/spark/comments/12wmt22/spark_sql_query_trigger_error_because_of_date/)
@@ -284,6 +283,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Creating Bug-Free Software -- Tools like Rust and SPARK make creation of reliable software easier.](https://www.reddit.com/r/spark/comments/10f5202/creating_bugfree_software_tools_like_rust_and/)
 - [NGRAM with TFIDF](https://www.reddit.com/r/spark/comments/107cy21/ngram_with_tfidf/)
 - [How do I add an ID column that grows monotonically, also when data is already in the database?](https://www.reddit.com/r/spark/comments/znattz/how_do_i_add_an_id_column_that_grows/)
+- [Collecting a column in a specific order that sticks](https://www.reddit.com/r/spark/comments/zhw5ox/collecting_a_column_in_a_specific_order_that/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld Spark posts*
