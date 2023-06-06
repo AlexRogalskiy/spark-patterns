@@ -318,6 +318,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop in real world posts*
 
 <!-- HADOOPINREALWORLD-POST-LIST:START -->
+- [How to kill multiple YARN applications at once?](https://www.bigdatainrealworld.com/how-to-kill-multiple-yarn-applications-at-once/)
 - [How to list topics without accessing Zookeeper in Kafka?](https://www.bigdatainrealworld.com/how-to-list-topics-without-accessing-zookeeper-in-kafka/)
 - [How to add total count of DataFrame to an already grouped DataFrame?](https://www.bigdatainrealworld.com/how-to-add-total-count-of-dataframe-to-an-already-grouped-dataframe/)
 - [How to query data from Snowflake in Spark?](https://www.bigdatainrealworld.com/how-to-query-data-from-snowflake-in-spark/)
@@ -327,7 +328,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Getting started with Snowflake in less than 10 minutes](https://www.bigdatainrealworld.com/getting-started-with-snowflake-in-less-than-10-minutes/)
 - [How to transpose a DataFrame from columns to rows in Spark?](https://www.bigdatainrealworld.com/how-to-transpose-a-dataframe-from-columns-to-rows-in-spark/)
 - [How to properly remove or decommission a node from an Elasticsearch cluster?](https://www.bigdatainrealworld.com/how-to-properly-remove-or-decommission-a-node-from-an-elasticsearch-cluster/)
-- [How to rename an S3 bucket?](https://www.bigdatainrealworld.com/how-to-rename-an-s3-bucket/)
 <!-- HADOOPINREALWORLD-POST-LIST:END -->
 
 ### *Kognitio posts*
