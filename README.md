@@ -298,15 +298,15 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Cloudera Manager](https://medium.com/@pichakul03/cloudera-manager-6b336243e96d?source=rss------hadoop-5)
+- [Kafka Connect ile HDFS’e Veri Gönderme İşlemi](https://emreevcimen.medium.com/kafka-connect-ile-hdfse-veri-g%C3%B6nderme-i%CC%87%C5%9Flemi-c12b3c7d4789?source=rss------hadoop-5)
+- [Apéndices Técnicos de Big Data](https://medium.com/xnewdata/ap%C3%A9ndices-t%C3%A9cnicos-de-big-data-402acdd6f1cc?source=rss------hadoop-5)
+- [Apéndice 1 — Ecosistema Hadoop](https://medium.com/xnewdata/ap%C3%A9ndice-1-ecosistema-hadoop-d5a29ecf2e3d?source=rss------hadoop-5)
+- [Apéndice 2 — Introducción a MapReduce](https://medium.com/xnewdata/ap%C3%A9ndice-2-introducci%C3%B3n-a-mapreduce-9dfcd732494?source=rss------hadoop-5)
 - [How to Install Hadoop 3.3.4 on macOS](https://medium.com/@anirudhtulasi.x/how-to-install-hadoop-3-3-4-on-macos-bfe342f8e4dc?source=rss------hadoop-5)
 - [How to Set Up Password-less SSH for Localhost on MacOS](https://medium.com/@anirudhtulasi.x/how-to-set-up-password-less-ssh-for-localhost-on-macos-e54fff167169?source=rss------hadoop-5)
 - [Bigdata Hadoop Training in Hyderabad](https://medium.com/@meetingday.150/bigdata-hadoop-training-in-hyderabad-5f42d17ff9f5?source=rss------hadoop-5)
 - [Hadoop I: Get in touch with Docker](https://medium.com/@jose.rolando.m/hadoop-get-in-touch-with-docker-c55da692f06?source=rss------hadoop-5)
-- [Migrate Local Hive metastore from one EMR cluster to another](https://medium.com/@aditya0123ag/migrate-local-hive-metastore-from-one-emr-cluster-to-another-4d8fb8363ba7?source=rss------hadoop-5)
-- [Big Data 101: Understanding its Use Cases, Tools, and Challenges](https://medium.com/@digitalskillsninja/big-data-101-understanding-its-use-cases-tools-and-challenges-1e21f4df5353?source=rss------hadoop-5)
-- [Hadoop | Basics and a word-count example](https://medium.com/@pete.shen40/hadoop-basics-and-a-word-count-example-b0f7c75609fe?source=rss------hadoop-5)
-- [Avro vs Parquet](https://parksehun.medium.com/avro-vs-parquet-4514e925fe91?source=rss------hadoop-5)
-- [Автомасштабирование и развертывание Apache Flink в GCP](https://medium.com/@bigdataschool/%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%81%D1%88%D1%82%D0%B0%D0%B1%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B8-%D1%80%D0%B0%D0%B7%D0%B2%D0%B5%D1%80%D1%82%D1%8B%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-apache-flink-%D0%B2-gcp-2334018c31a8?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
