@@ -298,7 +298,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
-- [Running Hadoop through Cygwin Windows and Copy/Browse files in HDFS](https://itnext.io/running-hadoop-through-cygwin-windows-and-copy-browse-files-in-hdfs-d56f08dcf7e3?source=rss------hadoop-5)
+- [How to fix Hadoop Name and Data Node not found problems](https://medium.com/@i211678/how-to-fix-hadoop-name-and-data-node-not-found-problems-68703bb99371?source=rss------hadoop-5)
+- [Running Hadoop through Cygwin on Windows and Copy/Browse files in HDFS](https://itnext.io/running-hadoop-through-cygwin-windows-and-copy-browse-files-in-hdfs-d56f08dcf7e3?source=rss------hadoop-5)
 - [Apache spark, using apache hadoop hdfs to access mariadb from data node](https://medium.com/@hungcheungchan/apache-spark-using-apache-hadoop-hdfs-to-access-mariadb-from-data-node-503022c29f25?source=rss------hadoop-5)
 - [Cloudera Manager](https://medium.com/@pichakul03/cloudera-manager-6b336243e96d?source=rss------hadoop-5)
 - [Kafka Connect ile HDFS’e Veri Gönderme İşlemi](https://medium.com/bentego-teknoloji/kafka-connect-ile-hdfse-veri-g%C3%B6nderme-i%CC%87%C5%9Flemi-c12b3c7d4789?source=rss------hadoop-5)
@@ -306,7 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Apéndice 1 — Ecosistema Hadoop](https://medium.com/xnewdata/ap%C3%A9ndice-1-ecosistema-hadoop-d5a29ecf2e3d?source=rss------hadoop-5)
 - [Apéndice 2 — Introducción a MapReduce](https://medium.com/xnewdata/ap%C3%A9ndice-2-introducci%C3%B3n-a-mapreduce-9dfcd732494?source=rss------hadoop-5)
 - [How to Install Hadoop 3.3.4 on macOS](https://medium.com/@anirudhtulasi.x/how-to-install-hadoop-3-3-4-on-macos-bfe342f8e4dc?source=rss------hadoop-5)
-- [How to Set Up Password-less SSH for Localhost on MacOS](https://medium.com/@anirudhtulasi.x/how-to-set-up-password-less-ssh-for-localhost-on-macos-e54fff167169?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
