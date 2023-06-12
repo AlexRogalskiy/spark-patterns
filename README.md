@@ -298,6 +298,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Big Data y la Suite Apache: La sinfonía perfecta para impulsar tus proyectos de MLOps](https://medium.com/@aazg24/big-data-y-la-suite-apache-la-sinfon%C3%ADa-perfecta-para-impulsar-tus-proyectos-de-mlops-cda4f0670e3e?source=rss------hadoop-5)
+- [Of MapReduce and Men](https://medium.com/neucom/of-mapreduce-and-men-3642965e553b?source=rss------hadoop-5)
 - [Por Dentro do Apache Hadoop](https://medium.com/@ingoreichertjr/por-dentro-do-apache-hadoop-ce9f7f7bb6eb?source=rss------hadoop-5)
 - [Hadoop: Single Node Installation on Ubuntu](https://medium.com/@sattar.husnain123/hadoop-single-node-installation-on-ubuntu-d73da510b57e?source=rss------hadoop-5)
 - [Hadoop and Spark](https://medium.com/@PranabNandy/hadoop-and-spark-ef61afae0529?source=rss------hadoop-5)
@@ -306,8 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Apache spark, using apache hadoop hdfs to access mariadb from data node](https://medium.com/@hungcheungchan/apache-spark-using-apache-hadoop-hdfs-to-access-mariadb-from-data-node-503022c29f25?source=rss------hadoop-5)
 - [Cloudera Manager](https://medium.com/@pichakul03/cloudera-manager-6b336243e96d?source=rss------hadoop-5)
 - [Kafka Connect ile HDFS’e Veri Gönderme İşlemi](https://medium.com/bentego-teknoloji/kafka-connect-ile-hdfse-veri-g%C3%B6nderme-i%CC%87%C5%9Flemi-c12b3c7d4789?source=rss------hadoop-5)
-- [Apéndices Técnicos de Big Data](https://medium.com/xnewdata/ap%C3%A9ndices-t%C3%A9cnicos-de-big-data-402acdd6f1cc?source=rss------hadoop-5)
-- [Apéndice 1 — Ecosistema Hadoop](https://medium.com/xnewdata/ap%C3%A9ndice-1-ecosistema-hadoop-d5a29ecf2e3d?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
