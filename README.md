@@ -298,6 +298,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Apache Hadoop over or still have a future?](https://medium.com/@datacraftlabs/apache-hadoop-over-or-still-have-a-future-38e66ea424cd?source=rss------hadoop-5)
 - [Cluster Spark &lpar;yarn Hadoop&rpar; with Docker for test jobs locally](https://medium.com/@nilo.zone/cluster-spark-yarn-hadoop-with-docker-for-test-jobs-locally-588a6c744a24?source=rss------hadoop-5)
 - [Big Data y la Suite Apache: La sinfonía perfecta para impulsar tus proyectos de MLOps](https://medium.com/@aazg24/big-data-y-la-suite-apache-la-sinfon%C3%ADa-perfecta-para-impulsar-tus-proyectos-de-mlops-cda4f0670e3e?source=rss------hadoop-5)
 - [Of MapReduce and Men](https://medium.com/neucom/of-mapreduce-and-men-3642965e553b?source=rss------hadoop-5)
@@ -307,7 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [How to fix Hadoop Name and Data Node not found problems](https://medium.com/@i211678/how-to-fix-hadoop-name-and-data-node-not-found-problems-68703bb99371?source=rss------hadoop-5)
 - [Running Hadoop through Cygwin on Windows and Copy/Browse files in HDFS](https://itnext.io/running-hadoop-through-cygwin-windows-and-copy-browse-files-in-hdfs-d56f08dcf7e3?source=rss------hadoop-5)
 - [Apache spark, using apache hadoop hdfs to access mariadb from data node](https://medium.com/@hungcheungchan/apache-spark-using-apache-hadoop-hdfs-to-access-mariadb-from-data-node-503022c29f25?source=rss------hadoop-5)
-- [Cloudera Manager](https://medium.com/@pichakul03/cloudera-manager-6b336243e96d?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
