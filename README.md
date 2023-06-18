@@ -275,7 +275,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 
 <!-- REDDIT-POST-LIST:START -->
 - [The output of PYF.to_utc_timestamp for same value has changed and now shows 5 minutes less](https://www.reddit.com/r/spark/comments/14atlra/the_output_of_pyfto_utc_timestamp_for_same_value/)
-- [Tip on ebt order](https://www.reddit.com/r/spark/comments/149glzy/tip_on_ebt_order/)
 - [Delivery](https://www.reddit.com/r/spark/comments/13ify18/delivery/)
 - [A crossword for data engineers](https://www.reddit.com/r/spark/comments/13hmfso/a_crossword_for_data_engineers/)
 - [Spark sql query trigger error because of date time format](https://www.reddit.com/r/spark/comments/12wmt22/spark_sql_query_trigger_error_because_of_date/)
@@ -284,6 +283,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Scala DataFrame UDF Iterator](https://www.reddit.com/r/spark/comments/10jqysm/scala_dataframe_udf_iterator/)
 - [Creating Bug-Free Software -- Tools like Rust and SPARK make creation of reliable software easier.](https://www.reddit.com/r/spark/comments/10f5202/creating_bugfree_software_tools_like_rust_and/)
 - [NGRAM with TFIDF](https://www.reddit.com/r/spark/comments/107cy21/ngram_with_tfidf/)
+- [How do I add an ID column that grows monotonically, also when data is already in the database?](https://www.reddit.com/r/spark/comments/znattz/how_do_i_add_an_id_column_that_grows/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld Spark posts*
