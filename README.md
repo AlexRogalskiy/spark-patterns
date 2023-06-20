@@ -298,16 +298,16 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Hadoop III: Hive](https://medium.com/@jose.rolando.m/hadoop-iii-hive-6062ad6846e6?source=rss------hadoop-5)
+- [The Evolution of Big Data: From SQL Databases to Interactive Analytics](https://medium.com/@ngpiesco/the-evolution-of-big-data-from-sql-databases-to-interactive-analytics-bafdb3a9c481?source=rss------hadoop-5)
+- [Understanding Block Size in HDFS: Implications and Solutions for Improved Performance](https://medium.com/@deepeshtripathi/understanding-block-size-in-hdfs-implications-and-solutions-for-improved-performance-dcb863a309aa?source=rss------hadoop-5)
+- [Spark: Outshining Hadoop in Big Data Processing](https://medium.com/@shubhamvats30/spark-outshining-hadoop-in-big-data-processing-a57a88db1c7c?source=rss------hadoop-5)
 - [Apache Hadoop over or still have a future?](https://medium.com/@datacraftlabs/apache-hadoop-over-or-still-have-a-future-38e66ea424cd?source=rss------hadoop-5)
 - [Cluster Spark &lpar;yarn Hadoop&rpar; with Docker for test jobs locally](https://medium.com/@nilo.zone/cluster-spark-yarn-hadoop-with-docker-for-test-jobs-locally-588a6c744a24?source=rss------hadoop-5)
 - [Big Data y la Suite Apache: La sinfonía perfecta para impulsar tus proyectos de MLOps](https://medium.com/@aazg24/big-data-y-la-suite-apache-la-sinfon%C3%ADa-perfecta-para-impulsar-tus-proyectos-de-mlops-cda4f0670e3e?source=rss------hadoop-5)
 - [Of MapReduce and Men](https://medium.com/neucom/of-mapreduce-and-men-3642965e553b?source=rss------hadoop-5)
 - [Por Dentro do Apache Hadoop](https://medium.com/@ingoreichertjr/por-dentro-do-apache-hadoop-ce9f7f7bb6eb?source=rss------hadoop-5)
 - [Hadoop: Single Node Installation on Ubuntu](https://medium.com/@sattar.husnain123/hadoop-single-node-installation-on-ubuntu-d73da510b57e?source=rss------hadoop-5)
-- [Hadoop and Spark](https://medium.com/@PranabNandy/hadoop-and-spark-ef61afae0529?source=rss------hadoop-5)
-- [How to fix Hadoop Name and Data Node not found problems](https://medium.com/@i211678/how-to-fix-hadoop-name-and-data-node-not-found-problems-68703bb99371?source=rss------hadoop-5)
-- [Running Hadoop through Cygwin on Windows and Copy/Browse files in HDFS](https://itnext.io/running-hadoop-through-cygwin-windows-and-copy-browse-files-in-hdfs-d56f08dcf7e3?source=rss------hadoop-5)
-- [Apache spark, using apache hadoop hdfs to access mariadb from data node](https://medium.com/@hungcheungchan/apache-spark-using-apache-hadoop-hdfs-to-access-mariadb-from-data-node-503022c29f25?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
