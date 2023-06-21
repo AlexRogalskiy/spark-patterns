@@ -298,8 +298,9 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Hadoop Setting with Docker](https://medium.com/@tmdghk502/hadoop-setting-with-docker-db686e8ef6c?source=rss------hadoop-5)
 - [Hadoop III: Hive](https://medium.com/@jose.rolando.m/hadoop-iii-hive-6062ad6846e6?source=rss------hadoop-5)
-- [The Evolution of Big Data: From SQL Databases to Interactive Analytics](https://medium.com/@ngpiesco/the-evolution-of-big-data-from-sql-databases-to-interactive-analytics-bafdb3a9c481?source=rss------hadoop-5)
+- [The Evolution of Big Data: From SQL Databases to Interactive Analytics](https://medium.com/data-engineer-things/the-evolution-of-big-data-from-sql-databases-to-interactive-analytics-bafdb3a9c481?source=rss------hadoop-5)
 - [Understanding Block Size in HDFS: Implications and Solutions for Improved Performance](https://medium.com/@deepeshtripathi/understanding-block-size-in-hdfs-implications-and-solutions-for-improved-performance-dcb863a309aa?source=rss------hadoop-5)
 - [Spark: Outshining Hadoop in Big Data Processing](https://medium.com/@shubhamvats30/spark-outshining-hadoop-in-big-data-processing-a57a88db1c7c?source=rss------hadoop-5)
 - [Apache Hadoop over or still have a future?](https://medium.com/@datacraftlabs/apache-hadoop-over-or-still-have-a-future-38e66ea424cd?source=rss------hadoop-5)
@@ -307,7 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Big Data y la Suite Apache: La sinfonía perfecta para impulsar tus proyectos de MLOps](https://medium.com/@aazg24/big-data-y-la-suite-apache-la-sinfon%C3%ADa-perfecta-para-impulsar-tus-proyectos-de-mlops-cda4f0670e3e?source=rss------hadoop-5)
 - [Of MapReduce and Men](https://medium.com/neucom/of-mapreduce-and-men-3642965e553b?source=rss------hadoop-5)
 - [Por Dentro do Apache Hadoop](https://medium.com/@ingoreichertjr/por-dentro-do-apache-hadoop-ce9f7f7bb6eb?source=rss------hadoop-5)
-- [Hadoop: Single Node Installation on Ubuntu](https://medium.com/@sattar.husnain123/hadoop-single-node-installation-on-ubuntu-d73da510b57e?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
