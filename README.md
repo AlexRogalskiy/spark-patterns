@@ -298,6 +298,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Broadcast variables in spark work like they sound](https://medium.com/@ARishi/broadcast-variables-in-spark-work-like-they-sound-c08097b80ac4?source=rss------hadoop-5)
+- [Step by Step Guide for Hadoop 3 Installation for Windows Machine on Huawei Cloud](https://medium.com/huawei-developers/step-by-step-guide-for-hadoop-3-installation-for-windows-machine-on-huawei-cloud-816030b5fdb1?source=rss------hadoop-5)
 - [Hadoop Setting with Docker](https://medium.com/@tmdghk502/hadoop-setting-with-docker-db686e8ef6c?source=rss------hadoop-5)
 - [Hadoop III: Hive](https://medium.com/@jose.rolando.m/hadoop-iii-hive-6062ad6846e6?source=rss------hadoop-5)
 - [The Evolution of Big Data: From SQL Databases to Interactive Analytics](https://medium.com/data-engineer-things/the-evolution-of-big-data-from-sql-databases-to-interactive-analytics-bafdb3a9c481?source=rss------hadoop-5)
@@ -306,8 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Apache Hadoop over or still have a future?](https://medium.com/@datacraftlabs/apache-hadoop-over-or-still-have-a-future-38e66ea424cd?source=rss------hadoop-5)
 - [Cluster Spark &lpar;yarn Hadoop&rpar; with Docker for test jobs locally](https://medium.com/@nilo.zone/cluster-spark-yarn-hadoop-with-docker-for-test-jobs-locally-588a6c744a24?source=rss------hadoop-5)
 - [Big Data y la Suite Apache: La sinfonía perfecta para impulsar tus proyectos de MLOps](https://medium.com/@aazg24/big-data-y-la-suite-apache-la-sinfon%C3%ADa-perfecta-para-impulsar-tus-proyectos-de-mlops-cda4f0670e3e?source=rss------hadoop-5)
-- [Of MapReduce and Men](https://medium.com/neucom/of-mapreduce-and-men-3642965e553b?source=rss------hadoop-5)
-- [Por Dentro do Apache Hadoop](https://medium.com/@ingoreichertjr/por-dentro-do-apache-hadoop-ce9f7f7bb6eb?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
