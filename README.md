@@ -298,6 +298,9 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Read parquet file names along with data.](https://medium.com/bitdatatechie/read-parquet-file-names-along-with-data-7ce3879968fe?source=rss------hadoop-5)
+- [Tutorial para criação de um cluster Hadoop](https://medium.com/@vicjrgon/tutorial-para-cria%C3%A7%C3%A3o-de-um-cluster-hadoop-9efd4f04ce22?source=rss------hadoop-5)
+- [Apache Hadoop Framework](https://medium.com/@codetrumarketing/apache-hadoop-framework-f47308c7b269?source=rss------hadoop-5)
 - [Broadcast variables in spark work like they sound](https://medium.com/@ARishi/broadcast-variables-in-spark-work-like-they-sound-c08097b80ac4?source=rss------hadoop-5)
 - [Step by Step Guide for Hadoop 3 Installation for Windows Machine on Huawei Cloud](https://medium.com/huawei-developers/step-by-step-guide-for-hadoop-3-installation-for-windows-machine-on-huawei-cloud-816030b5fdb1?source=rss------hadoop-5)
 - [Hadoop Setting with Docker](https://medium.com/@tmdghk502/hadoop-setting-with-docker-db686e8ef6c?source=rss------hadoop-5)
@@ -305,9 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [The Evolution of Big Data: From SQL Databases to Interactive Analytics](https://medium.com/data-engineer-things/the-evolution-of-big-data-from-sql-databases-to-interactive-analytics-bafdb3a9c481?source=rss------hadoop-5)
 - [Understanding Block Size in HDFS: Implications and Solutions for Improved Performance](https://medium.com/@deepeshtripathi/understanding-block-size-in-hdfs-implications-and-solutions-for-improved-performance-dcb863a309aa?source=rss------hadoop-5)
 - [Spark: Outshining Hadoop in Big Data Processing](https://medium.com/@shubhamvats30/spark-outshining-hadoop-in-big-data-processing-a57a88db1c7c?source=rss------hadoop-5)
-- [Apache Hadoop over or still have a future?](https://medium.com/@datacraftlabs/apache-hadoop-over-or-still-have-a-future-38e66ea424cd?source=rss------hadoop-5)
-- [Cluster Spark &lpar;yarn Hadoop&rpar; with Docker for test jobs locally](https://medium.com/@nilo.zone/cluster-spark-yarn-hadoop-with-docker-for-test-jobs-locally-588a6c744a24?source=rss------hadoop-5)
-- [Big Data y la Suite Apache: La sinfonía perfecta para impulsar tus proyectos de MLOps](https://medium.com/@aazg24/big-data-y-la-suite-apache-la-sinfon%C3%ADa-perfecta-para-impulsar-tus-proyectos-de-mlops-cda4f0670e3e?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
