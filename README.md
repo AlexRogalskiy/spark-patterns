@@ -298,6 +298,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Whoop, Whoop Hadoop &amp; The Metaverse](https://medium.com/@mmatsuno2022/whoop-whoop-hadoop-the-metaverse-22f37e35b72d?source=rss------hadoop-5)
 - [Read parquet file names along with data.](https://medium.com/bitdatatechie/read-parquet-file-names-along-with-data-7ce3879968fe?source=rss------hadoop-5)
 - [Tutorial para criação de um cluster Hadoop](https://medium.com/@vicjrgon/tutorial-para-cria%C3%A7%C3%A3o-de-um-cluster-hadoop-9efd4f04ce22?source=rss------hadoop-5)
 - [Apache Hadoop Framework](https://medium.com/@codetrumarketing/apache-hadoop-framework-f47308c7b269?source=rss------hadoop-5)
@@ -307,7 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Hadoop III: Hive](https://medium.com/@jose.rolando.m/hadoop-iii-hive-6062ad6846e6?source=rss------hadoop-5)
 - [The Evolution of Big Data: From SQL Databases to Interactive Analytics](https://medium.com/data-engineer-things/the-evolution-of-big-data-from-sql-databases-to-interactive-analytics-bafdb3a9c481?source=rss------hadoop-5)
 - [Understanding Block Size in HDFS: Implications and Solutions for Improved Performance](https://medium.com/@deepeshtripathi/understanding-block-size-in-hdfs-implications-and-solutions-for-improved-performance-dcb863a309aa?source=rss------hadoop-5)
-- [Spark: Outshining Hadoop in Big Data Processing](https://medium.com/@shubhamvats30/spark-outshining-hadoop-in-big-data-processing-a57a88db1c7c?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
