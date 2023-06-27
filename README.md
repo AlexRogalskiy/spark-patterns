@@ -319,6 +319,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop in real world posts*
 
 <!-- HADOOPINREALWORLD-POST-LIST:START -->
+- [How to delete an index in Elasticsearch?](https://www.bigdatainrealworld.com/how-to-delete-an-index-in-elasticsearch/)
 - [How to recursively delete files, folders or bucket from S3?](https://www.bigdatainrealworld.com/how-to-recursively-delete-files-folders-or-bucket-from-s3/)
 - [How to create and use UDF in Spark?](https://www.bigdatainrealworld.com/how-to-create-and-use-udf-in-spark/)
 - [How to kill multiple YARN applications at once?](https://www.bigdatainrealworld.com/how-to-kill-multiple-yarn-applications-at-once/)
@@ -328,7 +329,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [What is the difference between sync and cp operations in S3?](https://www.bigdatainrealworld.com/what-is-the-difference-between-sync-and-cp-operations-in-s3/)
 - [How to fix Kafka Broker may not be available on 127.0.0.1 error?](https://www.bigdatainrealworld.com/how-to-fix-kafka-broker-may-not-be-available-on-127-0-0-1-error/)
 - [How to use SnowSQL client to work with Snowflake?](https://www.bigdatainrealworld.com/how-to-use-snowsql-client-to-work-with-snowflake/)
-- [Getting started with Snowflake in less than 10 minutes](https://www.bigdatainrealworld.com/getting-started-with-snowflake-in-less-than-10-minutes/)
 <!-- HADOOPINREALWORLD-POST-LIST:END -->
 
 ### *Kognitio posts*
