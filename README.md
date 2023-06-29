@@ -298,6 +298,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Hadoop学习笔记-1](https://neo-pxl.medium.com/hadoop%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-1-5a48771ffbf2?source=rss------hadoop-5)
 - [Big Data Platforms](https://medium.com/@mouerfelli/big-data-platforms-ba85b65ca49?source=rss------hadoop-5)
 - [Hadoop 3.3.5 installation in WSL 1 [Ubuntu 22.04.2 LTS] on Windows 10](https://medium.com/@shahbazhassan42000/hadoop-3-3-5-installation-in-wsl-1-ubuntu-22-04-2-lts-on-windows-10-65b84bf0df23?source=rss------hadoop-5)
 - [Whoop, Whoop Hadoop &amp; The Metaverse](https://medium.com/@mmatsuno2022/whoop-whoop-hadoop-the-metaverse-22f37e35b72d?source=rss------hadoop-5)
@@ -307,7 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Broadcast variables in spark work like they sound](https://medium.com/@ARishi/broadcast-variables-in-spark-work-like-they-sound-c08097b80ac4?source=rss------hadoop-5)
 - [Step by Step Guide for Hadoop 3 Installation for Windows Machine on Huawei Cloud](https://medium.com/huawei-developers/step-by-step-guide-for-hadoop-3-installation-for-windows-machine-on-huawei-cloud-816030b5fdb1?source=rss------hadoop-5)
 - [Hadoop Setting with Docker](https://medium.com/@tmdghk502/hadoop-setting-with-docker-db686e8ef6c?source=rss------hadoop-5)
-- [Hadoop III: Hive](https://medium.com/@jose.rolando.m/hadoop-iii-hive-6062ad6846e6?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
