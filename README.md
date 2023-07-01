@@ -298,6 +298,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [The need for data modeling in Big Data environments](https://medium.com/@roopa.kushtagi/the-need-for-data-modeling-in-big-data-environments-f97f7e07773f?source=rss------hadoop-5)
 - [How to install and setup Apache Hadoop, Hive &amp; Nifi on macOS with apple silicon M1/M2:](https://medium.com/@Baci-Ak/how-to-install-and-setup-apache-hadoop-hive-nifi-on-macos-with-apple-silicon-m1-m2-995798e8ba23?source=rss------hadoop-5)
 - [Data Engineering Fundamentals &lpar;How to process big data&rpar; — Part 3](https://medium.com/@limhongyi1991/data-engineering-fundamentals-how-to-process-big-data-part-3-7fed3568620e?source=rss------hadoop-5)
 - [Hadoop学习笔记-1](https://neo-pxl.medium.com/hadoop%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-1-5a48771ffbf2?source=rss------hadoop-5)
@@ -307,7 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Read parquet file names along with data.](https://medium.com/bitdatatechie/read-parquet-file-names-along-with-data-7ce3879968fe?source=rss------hadoop-5)
 - [Tutorial para criação de um cluster Hadoop](https://medium.com/@vicjrgon/tutorial-para-cria%C3%A7%C3%A3o-de-um-cluster-hadoop-9efd4f04ce22?source=rss------hadoop-5)
 - [Apache Hadoop Framework](https://medium.com/@codetrumarketing/apache-hadoop-framework-f47308c7b269?source=rss------hadoop-5)
-- [Broadcast variables in spark work like they sound](https://medium.com/@ARishi/broadcast-variables-in-spark-work-like-they-sound-c08097b80ac4?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
