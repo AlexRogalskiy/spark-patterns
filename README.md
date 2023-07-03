@@ -298,6 +298,9 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Data Engineering Fundamentals &lpar;Process of Big Data Application&rpar;](https://medium.com/@limhongyi1991/data-engineering-fundamentals-process-of-big-data-application-314e604c316b?source=rss------hadoop-5)
+- [Engenharia de Dados na AWS: Conceitos e Evolução — pt 1](https://tiagotxm.medium.com/engenharia-de-dados-na-aws-conceitos-e-evolu%C3%A7%C3%A3o-pt-1-a7a60574d4cd?source=rss------hadoop-5)
+- [Let’s Dive into the World of Big Data and Hadoop: A Case Study on Facebook’s Data Revolution](https://medium.com/@sumitdhattarwal4444/lets-dive-into-the-world-of-big-data-and-hadoop-a-case-study-on-facebook-s-data-revolution-bd4e6d37a340?source=rss------hadoop-5)
 - [The need for data modeling in Big Data environments](https://medium.com/@roopa.kushtagi/the-need-for-data-modeling-in-big-data-environments-f97f7e07773f?source=rss------hadoop-5)
 - [How to install and setup Apache Hadoop, Hive &amp; Nifi on macOS with apple silicon M1/M2:](https://medium.com/@Baci-Ak/how-to-install-and-setup-apache-hadoop-hive-nifi-on-macos-with-apple-silicon-m1-m2-995798e8ba23?source=rss------hadoop-5)
 - [Data Engineering Fundamentals &lpar;How to process big data&rpar; — Part 3](https://medium.com/@limhongyi1991/data-engineering-fundamentals-how-to-process-big-data-part-3-7fed3568620e?source=rss------hadoop-5)
@@ -305,9 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Big Data Platforms](https://medium.com/@mouerfelli/big-data-platforms-ba85b65ca49?source=rss------hadoop-5)
 - [Hadoop 3.3.5 installation in WSL 1 [Ubuntu 22.04.2 LTS] on Windows 10](https://medium.com/@shahbazhassan42000/hadoop-3-3-5-installation-in-wsl-1-ubuntu-22-04-2-lts-on-windows-10-65b84bf0df23?source=rss------hadoop-5)
 - [Whoop, Whoop Hadoop &amp; The Metaverse](https://medium.com/@mmatsuno2022/whoop-whoop-hadoop-the-metaverse-22f37e35b72d?source=rss------hadoop-5)
-- [Read parquet file names along with data.](https://medium.com/bitdatatechie/read-parquet-file-names-along-with-data-7ce3879968fe?source=rss------hadoop-5)
-- [Tutorial para criação de um cluster Hadoop](https://medium.com/@vicjrgon/tutorial-para-cria%C3%A7%C3%A3o-de-um-cluster-hadoop-9efd4f04ce22?source=rss------hadoop-5)
-- [Apache Hadoop Framework](https://medium.com/@codetrumarketing/apache-hadoop-framework-f47308c7b269?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
