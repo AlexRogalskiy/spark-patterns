@@ -319,6 +319,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop in real world posts*
 
 <!-- HADOOPINREALWORLD-POST-LIST:START -->
+- [How to recursively upload a folder to S3 using AWS CLI?](https://www.bigdatainrealworld.com/how-to-recursively-upload-a-folder-to-s3-using-aws-cli/)
 - [How to delete an index in Elasticsearch?](https://www.bigdatainrealworld.com/how-to-delete-an-index-in-elasticsearch/)
 - [How to recursively delete files, folders or bucket from S3?](https://www.bigdatainrealworld.com/how-to-recursively-delete-files-folders-or-bucket-from-s3/)
 - [How to create and use UDF in Spark?](https://www.bigdatainrealworld.com/how-to-create-and-use-udf-in-spark/)
@@ -328,7 +329,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [How to query data from Snowflake in Spark?](https://www.bigdatainrealworld.com/how-to-query-data-from-snowflake-in-spark/)
 - [What is the difference between sync and cp operations in S3?](https://www.bigdatainrealworld.com/what-is-the-difference-between-sync-and-cp-operations-in-s3/)
 - [How to fix Kafka Broker may not be available on 127.0.0.1 error?](https://www.bigdatainrealworld.com/how-to-fix-kafka-broker-may-not-be-available-on-127-0-0-1-error/)
-- [How to use SnowSQL client to work with Snowflake?](https://www.bigdatainrealworld.com/how-to-use-snowsql-client-to-work-with-snowflake/)
 <!-- HADOOPINREALWORLD-POST-LIST:END -->
 
 ### *Kognitio posts*
