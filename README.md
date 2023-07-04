@@ -298,6 +298,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Using Kafka Connect for regular loading of partitioned data into Hadoop](https://medium.com/@annick2908.au/using-kafka-connect-for-regular-loading-of-partitioned-data-into-hadoop-2f03c530713d?source=rss------hadoop-5)
 - [Data Engineering Fundamentals &lpar;Process of Big Data Application&rpar;](https://medium.com/@limhongyi1991/data-engineering-fundamentals-process-of-big-data-application-314e604c316b?source=rss------hadoop-5)
 - [Engenharia de Dados na AWS: Conceitos e Evolução — pt 1](https://tiagotxm.medium.com/engenharia-de-dados-na-aws-conceitos-e-evolu%C3%A7%C3%A3o-pt-1-a7a60574d4cd?source=rss------hadoop-5)
 - [Let’s Dive into the World of Big Data and Hadoop: A Case Study on Facebook’s Data Revolution](https://medium.com/@sumitdhattarwal4444/lets-dive-into-the-world-of-big-data-and-hadoop-a-case-study-on-facebook-s-data-revolution-bd4e6d37a340?source=rss------hadoop-5)
@@ -307,7 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Hadoop学习笔记-1](https://neo-pxl.medium.com/hadoop%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-1-5a48771ffbf2?source=rss------hadoop-5)
 - [Big Data Platforms](https://medium.com/@mouerfelli/big-data-platforms-ba85b65ca49?source=rss------hadoop-5)
 - [Hadoop 3.3.5 installation in WSL 1 [Ubuntu 22.04.2 LTS] on Windows 10](https://medium.com/@shahbazhassan42000/hadoop-3-3-5-installation-in-wsl-1-ubuntu-22-04-2-lts-on-windows-10-65b84bf0df23?source=rss------hadoop-5)
-- [Whoop, Whoop Hadoop &amp; The Metaverse](https://medium.com/@mmatsuno2022/whoop-whoop-hadoop-the-metaverse-22f37e35b72d?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
