@@ -298,6 +298,9 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [The 3-Level Approach: Hadoop and Its Ecosystem](https://lasha-dolenjashvili.medium.com/the-3-level-approach-hadoop-and-its-ecosystem-775319c6676c?source=rss------hadoop-5)
+- [Hadoop Demystified: Step-by-Step Guide to Setting Up HDFS](https://medium.com/@zuhashaik12/hadoop-demystified-step-by-step-guide-to-setting-up-hdfs-7177847d41a2?source=rss------hadoop-5)
+- [Профессиональная сертификация по продуктам Big Data в 2023 году](https://medium.com/@bigdataschool/%D0%BF%D1%80%D0%BE%D1%84%D0%B5%D1%81%D1%81%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F-%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F-%D0%BF%D0%BE-%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D0%B0%D0%BC-big-data-%D0%B2-2023-%D0%B3%D0%BE%D0%B4%D1%83-3301da164d1a?source=rss------hadoop-5)
 - [Tableau connecting to HDFS data sets](https://medium.com/@roopa.kushtagi/tableau-connecting-to-hdfs-data-sets-94196f17c3ed?source=rss------hadoop-5)
 - [Quick start with HDFS CLI](https://medium.com/@er.janik26/quick-start-with-hdfs-cli-45da2e474d61?source=rss------hadoop-5)
 - [Importing RDBMS data into HDFS/Hive with Apache Sqoop &lpar;Quick Start Guide&rpar;](https://medium.com/@hazarozyagci/importing-rdbms-data-into-hdfs-hive-with-apache-sqoop-quick-start-guide-1712a2e7ef73?source=rss------hadoop-5)
@@ -305,9 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Data Engineering Fundamentals &lpar;Process of Big Data Application&rpar;](https://medium.com/@limhongyi1991/data-engineering-fundamentals-process-of-big-data-application-314e604c316b?source=rss------hadoop-5)
 - [Engenharia de Dados na AWS: Conceitos e Evolução — pt 1](https://tiagotxm.medium.com/engenharia-de-dados-na-aws-conceitos-e-evolu%C3%A7%C3%A3o-pt-1-a7a60574d4cd?source=rss------hadoop-5)
 - [Let’s Dive into the World of Big Data and Hadoop: A Case Study on Facebook’s Data Revolution](https://medium.com/@sumitdhattarwal4444/lets-dive-into-the-world-of-big-data-and-hadoop-a-case-study-on-facebook-s-data-revolution-bd4e6d37a340?source=rss------hadoop-5)
-- [The need for data modeling in Big Data environments](https://medium.com/@roopa.kushtagi/the-need-for-data-modeling-in-big-data-environments-f97f7e07773f?source=rss------hadoop-5)
-- [How to install and setup Apache Hadoop, Hive &amp; Nifi on macOS with apple silicon M1/M2:](https://medium.com/@Baci-Ak/how-to-install-and-setup-apache-hadoop-hive-nifi-on-macos-with-apple-silicon-m1-m2-995798e8ba23?source=rss------hadoop-5)
-- [Data Engineering Fundamentals &lpar;How to process big data&rpar; — Part 3](https://medium.com/@limhongyi1991/data-engineering-fundamentals-how-to-process-big-data-part-3-7fed3568620e?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
