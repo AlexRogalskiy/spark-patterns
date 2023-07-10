@@ -298,6 +298,9 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Demystifying Lambda Architecture for Data Engineering](https://medium.com/@amlaninfinity/demystifying-lambda-architecture-for-data-engineering-2ef3814512c?source=rss------hadoop-5)
+- [Apache Günlükleri: Hive](https://medium.com/@arslanenes515/apache-g%C3%BCnl%C3%BCkleri-hive-1bce6acafbc3?source=rss------hadoop-5)
+- [Simplifying Big Data Analytics with Hive: A Coding Example](https://medium.com/@shubhampareek1211/simplifying-big-data-analytics-with-hive-a-coding-example-7ee1a3217012?source=rss------hadoop-5)
 - [Rotate Auto TLS certificates with the customer-signed certificates](https://blog.clairvoyantsoft.com/rotate-auto-tls-certificates-with-the-customer-signed-certificates-ac0b4cd48b67?source=rss------hadoop-5)
 - [The 3-Level Approach: Hadoop and Its Ecosystem](https://lasha-dolenjashvili.medium.com/the-3-level-approach-hadoop-and-its-ecosystem-775319c6676c?source=rss------hadoop-5)
 - [Hadoop Demystified: Step-by-Step Guide to Setting Up HDFS](https://medium.com/@zuhashaik12/hadoop-demystified-step-by-step-guide-to-setting-up-hdfs-7177847d41a2?source=rss------hadoop-5)
@@ -305,9 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Tableau connecting to HDFS data sets](https://medium.com/@roopa.kushtagi/tableau-connecting-to-hdfs-data-sets-94196f17c3ed?source=rss------hadoop-5)
 - [Quick start with HDFS CLI](https://medium.com/@er.janik26/quick-start-with-hdfs-cli-45da2e474d61?source=rss------hadoop-5)
 - [Importing RDBMS data into HDFS/Hive with Apache Sqoop &lpar;Quick Start Guide&rpar;](https://medium.com/@hazarozyagci/importing-rdbms-data-into-hdfs-hive-with-apache-sqoop-quick-start-guide-1712a2e7ef73?source=rss------hadoop-5)
-- [Using Kafka Connect for regular loading of partitioned data into Hadoop](https://medium.com/@annick2908.au/using-kafka-connect-for-regular-loading-of-partitioned-data-into-hadoop-2f03c530713d?source=rss------hadoop-5)
-- [Data Engineering Fundamentals &lpar;Process of Big Data Application&rpar;](https://medium.com/@limhongyi1991/data-engineering-fundamentals-process-of-big-data-application-314e604c316b?source=rss------hadoop-5)
-- [Engenharia de Dados na AWS: Conceitos e Evolução — pt 1](https://tiagotxm.medium.com/engenharia-de-dados-na-aws-conceitos-e-evolu%C3%A7%C3%A3o-pt-1-a7a60574d4cd?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
