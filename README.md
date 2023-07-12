@@ -298,6 +298,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Best Monitoring Tools for Hadoop](https://medium.com/@MetricFire/best-monitoring-tools-for-hadoop-b6df08454be5?source=rss------hadoop-5)
+- [Setting proper fused Apache Hadoop on ubuntu](https://medium.com/@hungcheungchan/setting-proper-fused-apache-hadoop-on-ubuntu-e3e25935f118?source=rss------hadoop-5)
 - [Demystifying Lambda Architecture for Data Engineering](https://medium.com/@amlaninfinity/demystifying-lambda-architecture-for-data-engineering-2ef3814512c?source=rss------hadoop-5)
 - [Apache Günlükleri: Hive](https://medium.com/@arslanenes515/apache-g%C3%BCnl%C3%BCkleri-hive-1bce6acafbc3?source=rss------hadoop-5)
 - [Simplifying Big Data Analytics with Hive: A Coding Example](https://medium.com/@shubhampareek1211/simplifying-big-data-analytics-with-hive-a-coding-example-7ee1a3217012?source=rss------hadoop-5)
@@ -306,8 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Hadoop Demystified: Step-by-Step Guide to Setting Up HDFS](https://medium.com/@zuhashaik12/hadoop-demystified-step-by-step-guide-to-setting-up-hdfs-7177847d41a2?source=rss------hadoop-5)
 - [Профессиональная сертификация по продуктам Big Data в 2023 году](https://medium.com/@bigdataschool/%D0%BF%D1%80%D0%BE%D1%84%D0%B5%D1%81%D1%81%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F-%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F-%D0%BF%D0%BE-%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D0%B0%D0%BC-big-data-%D0%B2-2023-%D0%B3%D0%BE%D0%B4%D1%83-3301da164d1a?source=rss------hadoop-5)
 - [Tableau connecting to HDFS data sets](https://medium.com/@roopa.kushtagi/tableau-connecting-to-hdfs-data-sets-94196f17c3ed?source=rss------hadoop-5)
-- [Quick start with HDFS CLI](https://medium.com/@er.janik26/quick-start-with-hdfs-cli-45da2e474d61?source=rss------hadoop-5)
-- [Importing RDBMS data into HDFS/Hive with Apache Sqoop &lpar;Quick Start Guide&rpar;](https://medium.com/@hazarozyagci/importing-rdbms-data-into-hdfs-hive-with-apache-sqoop-quick-start-guide-1712a2e7ef73?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
