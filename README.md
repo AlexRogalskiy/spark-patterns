@@ -298,6 +298,9 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [The Plausible Approach to Data Replication in Hadoop HDFS](https://medium.com/@vabhinav991222/the-plausible-approach-to-data-replication-in-hadoop-hdfs-9a2657c8efd7?source=rss------hadoop-5)
+- [Unveiling the Optimal Data Transfer Approach in Hadoop Clusters: Leveraging TCPDump for Evidence](https://medium.com/@vabhinav991222/unveiling-the-optimal-data-transfer-approach-in-hadoop-clusters-leveraging-tcpdump-for-evidence-53e4f1ae055a?source=rss------hadoop-5)
+- [How The New York Times Transformed Data Management](https://medium.com/@vabhinav991222/how-the-new-york-times-transformed-data-management-17764cd51bdf?source=rss------hadoop-5)
 - [Best Monitoring Tools for Hadoop](https://medium.com/@MetricFire/best-monitoring-tools-for-hadoop-b6df08454be5?source=rss------hadoop-5)
 - [Setting proper fused Apache Hadoop on ubuntu](https://medium.com/@hungcheungchan/setting-proper-fused-apache-hadoop-on-ubuntu-e3e25935f118?source=rss------hadoop-5)
 - [Demystifying Lambda Architecture for Data Engineering](https://medium.com/@amlaninfinity/demystifying-lambda-architecture-for-data-engineering-2ef3814512c?source=rss------hadoop-5)
@@ -305,9 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Simplifying Big Data Analytics with Hive: A Coding Example](https://medium.com/@shubhampareek1211/simplifying-big-data-analytics-with-hive-a-coding-example-7ee1a3217012?source=rss------hadoop-5)
 - [Rotate Auto TLS certificates with the customer-signed certificates](https://blog.clairvoyantsoft.com/rotate-auto-tls-certificates-with-the-customer-signed-certificates-ac0b4cd48b67?source=rss------hadoop-5)
 - [The 3-Level Approach: Hadoop and Its Ecosystem](https://lasha-dolenjashvili.medium.com/the-3-level-approach-hadoop-and-its-ecosystem-775319c6676c?source=rss------hadoop-5)
-- [Hadoop Demystified: Step-by-Step Guide to Setting Up HDFS](https://medium.com/@zuhashaik12/hadoop-demystified-step-by-step-guide-to-setting-up-hdfs-7177847d41a2?source=rss------hadoop-5)
-- [Профессиональная сертификация по продуктам Big Data в 2023 году](https://medium.com/@bigdataschool/%D0%BF%D1%80%D0%BE%D1%84%D0%B5%D1%81%D1%81%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F-%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F-%D0%BF%D0%BE-%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D0%B0%D0%BC-big-data-%D0%B2-2023-%D0%B3%D0%BE%D0%B4%D1%83-3301da164d1a?source=rss------hadoop-5)
-- [Tableau connecting to HDFS data sets](https://medium.com/@roopa.kushtagi/tableau-connecting-to-hdfs-data-sets-94196f17c3ed?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
