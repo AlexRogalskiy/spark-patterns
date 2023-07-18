@@ -319,6 +319,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop in real world posts*
 
 <!-- HADOOPINREALWORLD-POST-LIST:START -->
+- [Stream Processing vs. Message Processing: What’s the Difference?](https://www.bigdatainrealworld.com/stream-processing-vs-message-processing-whats-the-difference/)
 - [How to fix unassigned shards issue in Elasticsearch?](https://www.bigdatainrealworld.com/how-to-fix-unassigned-shards-issue-in-elasticsearch/)
 - [How to recursively upload a folder to S3 using AWS CLI?](https://www.bigdatainrealworld.com/how-to-recursively-upload-a-folder-to-s3-using-aws-cli/)
 - [How to delete an index in Elasticsearch?](https://www.bigdatainrealworld.com/how-to-delete-an-index-in-elasticsearch/)
@@ -328,7 +329,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [How to list topics without accessing Zookeeper in Kafka?](https://www.bigdatainrealworld.com/how-to-list-topics-without-accessing-zookeeper-in-kafka/)
 - [How to add total count of DataFrame to an already grouped DataFrame?](https://www.bigdatainrealworld.com/how-to-add-total-count-of-dataframe-to-an-already-grouped-dataframe/)
 - [How to query data from Snowflake in Spark?](https://www.bigdatainrealworld.com/how-to-query-data-from-snowflake-in-spark/)
-- [What is the difference between sync and cp operations in S3?](https://www.bigdatainrealworld.com/what-is-the-difference-between-sync-and-cp-operations-in-s3/)
 <!-- HADOOPINREALWORLD-POST-LIST:END -->
 
 ### *Kognitio posts*
