@@ -298,6 +298,9 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Big Data Hadoop Certification Training Course](https://medium.com/@madhusudhan.h2kinfosys/big-data-hadoop-certification-training-course-266854ac968e?source=rss------hadoop-5)
+- [Revolutionizing Big Data Processing](https://medium.com/@maanassingal_16802/revolutionizing-big-data-processing-8c5502b47ac7?source=rss------hadoop-5)
+- [Enhancing Impala Stability and Performance: Effective Measures for Optimal Results](https://medium.com/@gaurayush6/enhancing-impala-stability-and-performance-effective-measures-for-optimal-results-42c1c6b5fe38?source=rss------hadoop-5)
 - [The Plausible Approach to Data Replication in Hadoop HDFS](https://medium.com/@vabhinav991222/the-plausible-approach-to-data-replication-in-hadoop-hdfs-9a2657c8efd7?source=rss------hadoop-5)
 - [Unveiling the Optimal Data Transfer Approach in Hadoop Clusters: Leveraging TCPDump for Evidence](https://medium.com/@vabhinav991222/unveiling-the-optimal-data-transfer-approach-in-hadoop-clusters-leveraging-tcpdump-for-evidence-53e4f1ae055a?source=rss------hadoop-5)
 - [How The New York Times Transformed Data Management](https://medium.com/@vabhinav991222/how-the-new-york-times-transformed-data-management-17764cd51bdf?source=rss------hadoop-5)
@@ -305,9 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Setting proper fused Apache Hadoop on ubuntu](https://medium.com/@hungcheungchan/setting-proper-fused-apache-hadoop-on-ubuntu-e3e25935f118?source=rss------hadoop-5)
 - [Demystifying Lambda Architecture for Data Engineering](https://medium.com/@amlaninfinity/demystifying-lambda-architecture-for-data-engineering-2ef3814512c?source=rss------hadoop-5)
 - [Apache Günlükleri: Hive](https://medium.com/@arslanenes515/apache-g%C3%BCnl%C3%BCkleri-hive-1bce6acafbc3?source=rss------hadoop-5)
-- [Simplifying Big Data Analytics with Hive: A Coding Example](https://medium.com/@shubhampareek1211/simplifying-big-data-analytics-with-hive-a-coding-example-7ee1a3217012?source=rss------hadoop-5)
-- [Rotate Auto TLS certificates with the customer-signed certificates](https://blog.clairvoyantsoft.com/rotate-auto-tls-certificates-with-the-customer-signed-certificates-ac0b4cd48b67?source=rss------hadoop-5)
-- [The 3-Level Approach: Hadoop and Its Ecosystem](https://lasha-dolenjashvili.medium.com/the-3-level-approach-hadoop-and-its-ecosystem-775319c6676c?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
