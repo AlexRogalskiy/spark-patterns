@@ -298,16 +298,16 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Hadoop is an Apache open source framework that allows distributed process of large set across…](https://medium.com/@farheenk/hadoop-is-an-apache-open-source-framework-that-allows-distributed-process-of-large-set-across-3c034b8544b7?source=rss------hadoop-5)
+- [Big Data Hadoop Certification](https://medium.com/@madhusudhan.h2kinfosys/big-data-hadoop-certification-b8758dac83fe?source=rss------hadoop-5)
+- [“Hadoop Ecosystem Explained: A Tour of Essential Tools and Technologies”](https://medium.com/@sahilgulghane22/hadoop-ecosystem-explained-a-tour-of-essential-tools-and-technologies-e860cb2bd64d?source=rss------hadoop-5)
+- [Spark vs. Hadoop: Unraveling the Powerhouses of Big Data Processing](https://medium.com/@kashyap.818.hk/spark-vs-hadoop-unraveling-the-powerhouses-of-big-data-processing-a0d947770795?source=rss------hadoop-5)
 - [Apache Hive 4.x With Apache Iceberg&lpar;Part-I&rpar;](https://medium.com/@ayushtkn/apache-hive-4-x-with-apache-iceberg-part-i-355e7a380725?source=rss------hadoop-5)
 - [Big Data Hadoop Online Course](https://medium.com/@madhusudhan.h2kinfosys/big-data-hadoop-online-course-76b3360f8686?source=rss------hadoop-5)
-- [Single User Jupyter Notebooks at Google Cloud](https://medium.com/@oscarpulido55/single-user-jupyter-notebooks-at-google-cloud-a78670536b12?source=rss------hadoop-5)
+- [Single User Jupyter Notebooks at Google Cloud](https://medium.com/google-cloud/single-user-jupyter-notebooks-at-google-cloud-a78670536b12?source=rss------hadoop-5)
 - [Demystifying Hadoop Architecture: Unraveling the Building Blocks of Big Data Processing &lpar;PART-1&rpar;](https://medium.com/@ommore524/demystifying-hadoop-architecture-unraveling-the-building-blocks-of-big-data-processing-part-1-c205e288b8c6?source=rss------hadoop-5)
 - [Big Data Hadoop Certification Training Course](https://medium.com/@madhusudhan.h2kinfosys/big-data-hadoop-certification-training-course-266854ac968e?source=rss------hadoop-5)
 - [Revolutionizing Big Data Processing](https://medium.com/@maanassingal_16802/revolutionizing-big-data-processing-8c5502b47ac7?source=rss------hadoop-5)
-- [Enhancing Impala Stability and Performance: Effective Measures for Optimal Results](https://medium.com/@gaurayush6/enhancing-impala-stability-and-performance-effective-measures-for-optimal-results-42c1c6b5fe38?source=rss------hadoop-5)
-- [The Plausible Approach to Data Replication in Hadoop HDFS](https://medium.com/@vabhinav991222/the-plausible-approach-to-data-replication-in-hadoop-hdfs-9a2657c8efd7?source=rss------hadoop-5)
-- [Unveiling the Optimal Data Transfer Approach in Hadoop Clusters: Leveraging TCPDump for Evidence](https://medium.com/@vabhinav991222/unveiling-the-optimal-data-transfer-approach-in-hadoop-clusters-leveraging-tcpdump-for-evidence-53e4f1ae055a?source=rss------hadoop-5)
-- [How The New York Times Transformed Data Management](https://medium.com/@vabhinav991222/how-the-new-york-times-transformed-data-management-17764cd51bdf?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
