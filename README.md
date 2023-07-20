@@ -274,6 +274,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What&#39;s your take on &#39;earn by time&#39;? Earn by time vs. Earn by order](https://www.reddit.com/r/spark/comments/1541ccw/whats_your_take_on_earn_by_time_earn_by_time_vs/)
 - [Write Spark Dataframe to DynamoDB using Python](https://www.reddit.com/r/spark/comments/14yrwln/write_spark_dataframe_to_dynamodb_using_python/)
 - [The output of PYF.to_utc_timestamp for same value has changed and now shows 5 minutes less](https://www.reddit.com/r/spark/comments/14atlra/the_output_of_pyfto_utc_timestamp_for_same_value/)
 - [Delivery](https://www.reddit.com/r/spark/comments/13ify18/delivery/)
@@ -283,7 +284,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [How does Ada compare to Rust?](https://www.reddit.com/r/spark/comments/11b0unr/how_does_ada_compare_to_rust/)
 - [Scala DataFrame UDF Iterator](https://www.reddit.com/r/spark/comments/10jqysm/scala_dataframe_udf_iterator/)
 - [Creating Bug-Free Software -- Tools like Rust and SPARK make creation of reliable software easier.](https://www.reddit.com/r/spark/comments/10f5202/creating_bugfree_software_tools_like_rust_and/)
-- [NGRAM with TFIDF](https://www.reddit.com/r/spark/comments/107cy21/ngram_with_tfidf/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld Spark posts*
