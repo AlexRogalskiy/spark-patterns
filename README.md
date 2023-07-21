@@ -298,16 +298,16 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Hadoop with Python: PySpark](https://medium.com/@avitabsarmah/hadoop-with-python-pyspark-bf2c85026a4e?source=rss------hadoop-5)
+- [Hadoop Single Node Setup- Hadoop Installation | Data Engi](https://arslanali4343.medium.com/hadoop-single-node-setup-hadoop-installation-data-engi-d7b8725e90c9?source=rss------hadoop-5)
+- [Big Data Hadoop Online Course](https://medium.com/@madhusudhan.h2kinfosys/big-data-hadoop-online-course-85781cace733?source=rss------hadoop-5)
+- [Introducing English as the New Programming Language for Apache Spark](https://medium.com/@Divithraju/introducing-english-as-the-new-programming-language-for-apache-spark-29db88d77f88?source=rss------hadoop-5)
 - [Hadoop is an Apache open source framework that allows distributed process of large set across…](https://medium.com/@farheenk/hadoop-is-an-apache-open-source-framework-that-allows-distributed-process-of-large-set-across-3c034b8544b7?source=rss------hadoop-5)
 - [Big Data Hadoop Certification](https://medium.com/@madhusudhan.h2kinfosys/big-data-hadoop-certification-b8758dac83fe?source=rss------hadoop-5)
 - [“Hadoop Ecosystem Explained: A Tour of Essential Tools and Technologies”](https://medium.com/@sahilgulghane22/hadoop-ecosystem-explained-a-tour-of-essential-tools-and-technologies-e860cb2bd64d?source=rss------hadoop-5)
 - [Spark vs. Hadoop: Unraveling the Powerhouses of Big Data Processing](https://medium.com/@kashyap.818.hk/spark-vs-hadoop-unraveling-the-powerhouses-of-big-data-processing-a0d947770795?source=rss------hadoop-5)
 - [Apache Hive 4.x With Apache Iceberg&lpar;Part-I&rpar;](https://medium.com/@ayushtkn/apache-hive-4-x-with-apache-iceberg-part-i-355e7a380725?source=rss------hadoop-5)
 - [Big Data Hadoop Online Course](https://medium.com/@madhusudhan.h2kinfosys/big-data-hadoop-online-course-76b3360f8686?source=rss------hadoop-5)
-- [Single User Jupyter Notebooks at Google Cloud](https://medium.com/google-cloud/single-user-jupyter-notebooks-at-google-cloud-a78670536b12?source=rss------hadoop-5)
-- [Demystifying Hadoop Architecture: Unraveling the Building Blocks of Big Data Processing &lpar;PART-1&rpar;](https://medium.com/@ommore524/demystifying-hadoop-architecture-unraveling-the-building-blocks-of-big-data-processing-part-1-c205e288b8c6?source=rss------hadoop-5)
-- [Big Data Hadoop Certification Training Course](https://medium.com/@madhusudhan.h2kinfosys/big-data-hadoop-certification-training-course-266854ac968e?source=rss------hadoop-5)
-- [Revolutionizing Big Data Processing](https://medium.com/@maanassingal_16802/revolutionizing-big-data-processing-8c5502b47ac7?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
