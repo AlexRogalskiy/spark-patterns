@@ -298,16 +298,16 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Contagem de Ngram utilizando Python e Hadoop no Colab](https://medium.com/@luizfcp/contagem-de-ngram-utilizando-python-e-hadoop-no-colab-c78c14b2cbac?source=rss------hadoop-5)
+- [Big Data Hadoop Training Online](https://medium.com/@madhusudhan.h2kinfosys/big-data-hadoop-training-online-a26b2fc24b8b?source=rss------hadoop-5)
+- [Analyzing Big Data with Hadoop](https://medium.com/@jeff.turner0590/analyzing-big-data-with-hadoop-3c2efd58d796?source=rss------hadoop-5)
+- [Leveraging Big Data and Hadoop: Transforming Companies through Data-driven Insights](https://medium.com/@pateriyadeepali1008/leveraging-big-data-and-hadoop-transforming-companies-through-data-driven-insights-a847f965a422?source=rss------hadoop-5)
 - [Hadoop with Python: PySpark](https://medium.com/@avitabsarmah/hadoop-with-python-pyspark-bf2c85026a4e?source=rss------hadoop-5)
 - [Hadoop Single Node Setup- Hadoop Installation | Data Engi](https://arslanali4343.medium.com/hadoop-single-node-setup-hadoop-installation-data-engi-d7b8725e90c9?source=rss------hadoop-5)
 - [Big Data Hadoop Online Course](https://medium.com/@madhusudhan.h2kinfosys/big-data-hadoop-online-course-85781cace733?source=rss------hadoop-5)
 - [Introducing English as the New Programming Language for Apache Spark](https://medium.com/@Divithraju/introducing-english-as-the-new-programming-language-for-apache-spark-29db88d77f88?source=rss------hadoop-5)
 - [Hadoop is an Apache open source framework that allows distributed process of large set across…](https://medium.com/@farheenk/hadoop-is-an-apache-open-source-framework-that-allows-distributed-process-of-large-set-across-3c034b8544b7?source=rss------hadoop-5)
 - [Big Data Hadoop Certification](https://medium.com/@madhusudhan.h2kinfosys/big-data-hadoop-certification-b8758dac83fe?source=rss------hadoop-5)
-- [“Hadoop Ecosystem Explained: A Tour of Essential Tools and Technologies”](https://medium.com/@sahilgulghane22/hadoop-ecosystem-explained-a-tour-of-essential-tools-and-technologies-e860cb2bd64d?source=rss------hadoop-5)
-- [Spark vs. Hadoop: Unraveling the Powerhouses of Big Data Processing](https://medium.com/@kashyap.818.hk/spark-vs-hadoop-unraveling-the-powerhouses-of-big-data-processing-a0d947770795?source=rss------hadoop-5)
-- [Apache Hive 4.x With Apache Iceberg&lpar;Part-I&rpar;](https://medium.com/@ayushtkn/apache-hive-4-x-with-apache-iceberg-part-i-355e7a380725?source=rss------hadoop-5)
-- [Big Data Hadoop Online Course](https://medium.com/@madhusudhan.h2kinfosys/big-data-hadoop-online-course-76b3360f8686?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
