@@ -274,6 +274,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Check spark application status from web ui](https://www.reddit.com/r/spark/comments/1569tgd/check_spark_application_status_from_web_ui/)
 - [What&#39;s your take on &#39;earn by time&#39;? Earn by time vs. Earn by order](https://www.reddit.com/r/spark/comments/1541ccw/whats_your_take_on_earn_by_time_earn_by_time_vs/)
 - [Write Spark Dataframe to DynamoDB using Python](https://www.reddit.com/r/spark/comments/14yrwln/write_spark_dataframe_to_dynamodb_using_python/)
 - [The output of PYF.to_utc_timestamp for same value has changed and now shows 5 minutes less](https://www.reddit.com/r/spark/comments/14atlra/the_output_of_pyfto_utc_timestamp_for_same_value/)
@@ -283,7 +284,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Get Started with Open Source Formal Verification &lpar;2023 talk&rpar;](https://www.reddit.com/r/spark/comments/12o8ftc/get_started_with_open_source_formal_verification/)
 - [How does Ada compare to Rust?](https://www.reddit.com/r/spark/comments/11b0unr/how_does_ada_compare_to_rust/)
 - [Scala DataFrame UDF Iterator](https://www.reddit.com/r/spark/comments/10jqysm/scala_dataframe_udf_iterator/)
-- [Creating Bug-Free Software -- Tools like Rust and SPARK make creation of reliable software easier.](https://www.reddit.com/r/spark/comments/10f5202/creating_bugfree_software_tools_like_rust_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld Spark posts*
