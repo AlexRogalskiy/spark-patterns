@@ -298,6 +298,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Introduction to Big Data with Spark and Hadoop](https://medium.com/@sagar.bhandge0310/introduction-to-big-data-with-spark-and-hadoop-34aa5d62af72?source=rss------hadoop-5)
 - [Contagem de Ngram utilizando Python e Hadoop no Colab](https://medium.com/@luizfcp/contagem-de-ngram-utilizando-python-e-hadoop-no-colab-c78c14b2cbac?source=rss------hadoop-5)
 - [Big Data Hadoop Training Online](https://medium.com/@madhusudhan.h2kinfosys/big-data-hadoop-training-online-a26b2fc24b8b?source=rss------hadoop-5)
 - [Analyzing Big Data with Hadoop](https://medium.com/@jeff.turner0590/analyzing-big-data-with-hadoop-3c2efd58d796?source=rss------hadoop-5)
@@ -307,7 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Big Data Hadoop Online Course](https://medium.com/@madhusudhan.h2kinfosys/big-data-hadoop-online-course-85781cace733?source=rss------hadoop-5)
 - [Introducing English as the New Programming Language for Apache Spark](https://medium.com/@Divithraju/introducing-english-as-the-new-programming-language-for-apache-spark-29db88d77f88?source=rss------hadoop-5)
 - [Hadoop is an Apache open source framework that allows distributed process of large set across…](https://medium.com/@farheenk/hadoop-is-an-apache-open-source-framework-that-allows-distributed-process-of-large-set-across-3c034b8544b7?source=rss------hadoop-5)
-- [Big Data Hadoop Certification](https://medium.com/@madhusudhan.h2kinfosys/big-data-hadoop-certification-b8758dac83fe?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
