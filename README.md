@@ -298,6 +298,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Big Data Hadoop Course Fees](https://medium.com/@madhusudhan.h2kinfosys/big-data-hadoop-course-fees-9cf21fe12066?source=rss------hadoop-5)
 - [Upgrading Cloudera Manager CDP 7.4.4 To 7.7.1](https://blog.clairvoyantsoft.com/upgrading-cloudera-manager-cdp-7-4-4-to-7-7-1-ff2112a01ade?source=rss------hadoop-5)
 - [Big Data Hadoop Course Syllabus](https://medium.com/@madhusudhan.h2kinfosys/big-data-hadoop-course-syllabus-856d006a08cc?source=rss------hadoop-5)
 - [Why I chose Data Engineering?](https://medium.com/@shenoy.shashwath/why-i-chose-data-engineering-f802b4973fb3?source=rss------hadoop-5)
@@ -307,7 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Big Data Hadoop Training Online](https://medium.com/@madhusudhan.h2kinfosys/big-data-hadoop-training-online-a26b2fc24b8b?source=rss------hadoop-5)
 - [Analyzing Big Data with Hadoop](https://medium.com/@jeff.turner0590/analyzing-big-data-with-hadoop-3c2efd58d796?source=rss------hadoop-5)
 - [Leveraging Big Data and Hadoop: Transforming Companies through Data-driven Insights](https://medium.com/@pateriyadeepali1008/leveraging-big-data-and-hadoop-transforming-companies-through-data-driven-insights-a847f965a422?source=rss------hadoop-5)
-- [Hadoop with Python: PySpark](https://medium.com/@avitabsarmah/hadoop-with-python-pyspark-bf2c85026a4e?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
