@@ -298,6 +298,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Python Menu-based program, and its integration with multiple technologies](https://medium.com/@pradnyakokil24/python-menu-based-program-and-its-integration-with-multiple-technologies-96bdbd2ce17a?source=rss------hadoop-5)
+- [Unleashing the Power of Cloud: Introducing the Cloud Resource Management Tool](https://medium.com/@paruthiasmi063/unleashing-the-power-of-cloud-introducing-the-cloud-resource-management-tool-4dfed39edf93?source=rss------hadoop-5)
 - [Big Data Hadoop Course Fees](https://medium.com/@madhusudhan.h2kinfosys/big-data-hadoop-course-fees-9cf21fe12066?source=rss------hadoop-5)
 - [Upgrading Cloudera Manager CDP 7.4.4 To 7.7.1](https://blog.clairvoyantsoft.com/upgrading-cloudera-manager-cdp-7-4-4-to-7-7-1-ff2112a01ade?source=rss------hadoop-5)
 - [Big Data Hadoop Course Syllabus](https://medium.com/@madhusudhan.h2kinfosys/big-data-hadoop-course-syllabus-856d006a08cc?source=rss------hadoop-5)
@@ -306,8 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Introduction to Big Data with Spark and Hadoop](https://medium.com/@sagar.bhandge0310/introduction-to-big-data-with-spark-and-hadoop-34aa5d62af72?source=rss------hadoop-5)
 - [Contagem de Ngram utilizando Python e Hadoop no Colab](https://medium.com/@luizfcp/contagem-de-ngram-utilizando-python-e-hadoop-no-colab-c78c14b2cbac?source=rss------hadoop-5)
 - [Big Data Hadoop Training Online](https://medium.com/@madhusudhan.h2kinfosys/big-data-hadoop-training-online-a26b2fc24b8b?source=rss------hadoop-5)
-- [Analyzing Big Data with Hadoop](https://medium.com/@jeff.turner0590/analyzing-big-data-with-hadoop-3c2efd58d796?source=rss------hadoop-5)
-- [Leveraging Big Data and Hadoop: Transforming Companies through Data-driven Insights](https://medium.com/@pateriyadeepali1008/leveraging-big-data-and-hadoop-transforming-companies-through-data-driven-insights-a847f965a422?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
