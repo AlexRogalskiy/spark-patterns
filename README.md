@@ -298,6 +298,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Apache Hive sandbox in GCP](https://thetechjoint.com/apache-hive-sandbox-in-gcp-ae875dd0f13c?source=rss------hadoop-5)
+- [Run a Spark Job on Google Cloud Platform using Dataproc on GCE](https://medium.com/@prayag-sangode/run-a-spark-job-on-google-cloud-platform-using-dataproc-on-gce-ac2da95ae827?source=rss------hadoop-5)
 - [Python Menu-based program, and its integration with multiple technologies](https://medium.com/@pradnyakokil24/python-menu-based-program-and-its-integration-with-multiple-technologies-96bdbd2ce17a?source=rss------hadoop-5)
 - [Unleashing the Power of Cloud: Introducing the Cloud Resource Management Tool](https://medium.com/@paruthiasmi063/unleashing-the-power-of-cloud-introducing-the-cloud-resource-management-tool-4dfed39edf93?source=rss------hadoop-5)
 - [Big Data Hadoop Course Fees](https://medium.com/@madhusudhan.h2kinfosys/big-data-hadoop-course-fees-9cf21fe12066?source=rss------hadoop-5)
@@ -306,8 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Why I chose Data Engineering?](https://medium.com/@shenoy.shashwath/why-i-chose-data-engineering-f802b4973fb3?source=rss------hadoop-5)
 - [Apache Hadoop &lpar;HDFS&rpar;](https://medium.com/@elmbarkinidhal/apache-hadoop-hdfs-e43463e381a0?source=rss------hadoop-5)
 - [Introduction to Big Data with Spark and Hadoop](https://medium.com/@sagar.bhandge0310/introduction-to-big-data-with-spark-and-hadoop-34aa5d62af72?source=rss------hadoop-5)
-- [Contagem de Ngram utilizando Python e Hadoop no Colab](https://medium.com/@luizfcp/contagem-de-ngram-utilizando-python-e-hadoop-no-colab-c78c14b2cbac?source=rss------hadoop-5)
-- [Big Data Hadoop Training Online](https://medium.com/@madhusudhan.h2kinfosys/big-data-hadoop-training-online-a26b2fc24b8b?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
