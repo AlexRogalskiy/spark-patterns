@@ -298,6 +298,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Amenaza y Seguridad en Hadoop](https://medium.com/@alexander777cooper/amenaza-y-seguridad-en-hadoop-ff9ddd6a037?source=rss------hadoop-5)
+- [Big Data com Hadoop: Processamento de Dados em Grande Escala](https://medium.com/@josafamarengo/big-data-com-hadoop-processamento-de-dados-em-grande-escala-2ac6c61e8194?source=rss------hadoop-5)
 - [Scaling](https://naveenpn.medium.com/scaling-1aca5c1839fe?source=rss------hadoop-5)
 - [Apache Hive sandbox in GCP](https://thetechjoint.com/apache-hive-sandbox-in-gcp-ae875dd0f13c?source=rss------hadoop-5)
 - [Run a Spark Job on Google Cloud Platform using Dataproc on GCE](https://medium.com/@prayag-sangode/run-a-spark-job-on-google-cloud-platform-using-dataproc-on-gce-ac2da95ae827?source=rss------hadoop-5)
@@ -306,8 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Big Data Hadoop Course Fees](https://medium.com/@madhusudhan.h2kinfosys/big-data-hadoop-course-fees-9cf21fe12066?source=rss------hadoop-5)
 - [Upgrading Cloudera Manager CDP 7.4.4 To 7.7.1](https://blog.clairvoyantsoft.com/upgrading-cloudera-manager-cdp-7-4-4-to-7-7-1-ff2112a01ade?source=rss------hadoop-5)
 - [Big Data Hadoop Course Syllabus](https://medium.com/@madhusudhan.h2kinfosys/big-data-hadoop-course-syllabus-856d006a08cc?source=rss------hadoop-5)
-- [Why I chose Data Engineering?](https://medium.com/@shenoy.shashwath/why-i-chose-data-engineering-f802b4973fb3?source=rss------hadoop-5)
-- [Apache Hadoop &lpar;HDFS&rpar;](https://medium.com/@elmbarkinidhal/apache-hadoop-hdfs-e43463e381a0?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
