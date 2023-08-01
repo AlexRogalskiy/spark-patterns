@@ -319,6 +319,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop in real world posts*
 
 <!-- HADOOPINREALWORLD-POST-LIST:START -->
+- [What is the difference between spark.sql.shuffle.partitions and spark.default.parallelism in Spark?](https://www.bigdatainrealworld.com/what-is-the-difference-between-spark-sql-shuffle-partitions-and-spark-default-parallelism-in-spark/)
 - [What is the difference between client and cluster deploy modes in Spark?](https://www.bigdatainrealworld.com/what-is-the-difference-between-client-and-cluster-deploy-modes-in-spark/)
 - [Stream Processing vs. Message Processing: What’s the Difference?](https://www.bigdatainrealworld.com/stream-processing-vs-message-processing-whats-the-difference/)
 - [How to fix unassigned shards issue in Elasticsearch?](https://www.bigdatainrealworld.com/how-to-fix-unassigned-shards-issue-in-elasticsearch/)
@@ -328,7 +329,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [How to create and use UDF in Spark?](https://www.bigdatainrealworld.com/how-to-create-and-use-udf-in-spark/)
 - [How to kill multiple YARN applications at once?](https://www.bigdatainrealworld.com/how-to-kill-multiple-yarn-applications-at-once/)
 - [How to list topics without accessing Zookeeper in Kafka?](https://www.bigdatainrealworld.com/how-to-list-topics-without-accessing-zookeeper-in-kafka/)
-- [How to add total count of DataFrame to an already grouped DataFrame?](https://www.bigdatainrealworld.com/how-to-add-total-count-of-dataframe-to-an-already-grouped-dataframe/)
 <!-- HADOOPINREALWORLD-POST-LIST:END -->
 
 ### *Kognitio posts*
