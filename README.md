@@ -298,6 +298,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [The Role of Hadoop in Big Data Architecture](https://naveenpn.medium.com/the-role-of-hadoop-in-big-data-architecture-bab97317555b?source=rss------hadoop-5)
 - [Reduce the final app size that depends on hadoop-aws](https://medium.com/@spintdev/reduce-the-final-app-size-that-depends-on-hadoop-aws-860c1d5c5664?source=rss------hadoop-5)
 - [Amenaza y Seguridad en Hadoop](https://medium.com/@alexander777cooper/amenaza-y-seguridad-en-hadoop-ff9ddd6a037?source=rss------hadoop-5)
 - [Big Data com Hadoop: Processamento de Dados em Grande Escala](https://medium.com/@josafamarengo/big-data-com-hadoop-processamento-de-dados-em-grande-escala-2ac6c61e8194?source=rss------hadoop-5)
@@ -307,7 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Python Menu-based program, and its integration with multiple technologies](https://medium.com/@pradnyakokil24/python-menu-based-program-and-its-integration-with-multiple-technologies-96bdbd2ce17a?source=rss------hadoop-5)
 - [Unleashing the Power of Cloud: Introducing the Cloud Resource Management Tool](https://medium.com/@paruthiasmi063/unleashing-the-power-of-cloud-introducing-the-cloud-resource-management-tool-4dfed39edf93?source=rss------hadoop-5)
 - [Big Data Hadoop Course Fees](https://medium.com/@madhusudhan.h2kinfosys/big-data-hadoop-course-fees-9cf21fe12066?source=rss------hadoop-5)
-- [Upgrading Cloudera Manager CDP 7.4.4 To 7.7.1](https://blog.clairvoyantsoft.com/upgrading-cloudera-manager-cdp-7-4-4-to-7-7-1-ff2112a01ade?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
