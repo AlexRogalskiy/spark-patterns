@@ -282,8 +282,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [A crossword for data engineers](https://www.reddit.com/r/spark/comments/13hmfso/a_crossword_for_data_engineers/)
 - [Spark sql query trigger error because of date time format](https://www.reddit.com/r/spark/comments/12wmt22/spark_sql_query_trigger_error_because_of_date/)
 - [Get Started with Open Source Formal Verification &lpar;2023 talk&rpar;](https://www.reddit.com/r/spark/comments/12o8ftc/get_started_with_open_source_formal_verification/)
-- [How does Ada compare to Rust?](https://www.reddit.com/r/spark/comments/11b0unr/how_does_ada_compare_to_rust/)
 - [Scala DataFrame UDF Iterator](https://www.reddit.com/r/spark/comments/10jqysm/scala_dataframe_udf_iterator/)
+- [Creating Bug-Free Software -- Tools like Rust and SPARK make creation of reliable software easier.](https://www.reddit.com/r/spark/comments/10f5202/creating_bugfree_software_tools_like_rust_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld Spark posts*
