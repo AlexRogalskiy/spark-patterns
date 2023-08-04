@@ -298,6 +298,9 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Spark Series #1 : Why Spark?](https://medium.com/@aruna.das29/spark-series-1-why-spark-c9eeefd02cf9?source=rss------hadoop-5)
+- [Creating a Menu based program in Python: Integrating the different Technologies](https://irishabharya.medium.com/creating-a-menu-based-program-in-python-integrating-the-different-technologies-3ac70778de98?source=rss------hadoop-5)
+- [Mastering MapReduce: Unleashing the Power of Parallel Processing!](https://akhilreddykasu.medium.com/mapreduce-8b969629d27a?source=rss------hadoop-5)
 - [Hadoop High Availability &lpar;HA&rpar;](https://naveenpn.medium.com/hadoop-high-availability-ha-79497b97400c?source=rss------hadoop-5)
 - [The Role of Hadoop in Big Data Architecture](https://naveenpn.medium.com/the-role-of-hadoop-in-big-data-architecture-bab97317555b?source=rss------hadoop-5)
 - [Reduce the final app size that depends on hadoop-aws](https://medium.com/@spintdev/reduce-the-final-app-size-that-depends-on-hadoop-aws-860c1d5c5664?source=rss------hadoop-5)
@@ -305,9 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Big Data com Hadoop: Processamento de Dados em Grande Escala](https://medium.com/@josafamarengo/big-data-com-hadoop-processamento-de-dados-em-grande-escala-2ac6c61e8194?source=rss------hadoop-5)
 - [Scaling](https://naveenpn.medium.com/scaling-1aca5c1839fe?source=rss------hadoop-5)
 - [Apache Hive sandbox in GCP](https://thetechjoint.com/apache-hive-sandbox-in-gcp-ae875dd0f13c?source=rss------hadoop-5)
-- [Run a Spark Job on Google Cloud Platform using Dataproc on GCE](https://medium.com/@prayag-sangode/run-a-spark-job-on-google-cloud-platform-using-dataproc-on-gce-ac2da95ae827?source=rss------hadoop-5)
-- [Python Menu-based program, and its integration with multiple technologies](https://medium.com/@pradnyakokil24/python-menu-based-program-and-its-integration-with-multiple-technologies-96bdbd2ce17a?source=rss------hadoop-5)
-- [Unleashing the Power of Cloud: Introducing the Cloud Resource Management Tool](https://medium.com/@paruthiasmi063/unleashing-the-power-of-cloud-introducing-the-cloud-resource-management-tool-4dfed39edf93?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
