@@ -298,6 +298,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Hive Configuration Quick Reference](https://tsaiprabhanj.medium.com/hive-configuration-quick-reference-49b95565eb5a?source=rss------hadoop-5)
 - [Büyük Veri &lpar;Big Data&rpar; ve Teknolojileri](https://medium.com/@yarat.serhat/b%C3%BCy%C3%BCk-veri-big-data-ve-teknolojileri-e356680e9766?source=rss------hadoop-5)
 - [Hive Partitions](https://tsaiprabhanj.medium.com/hive-partitions-e0fdc194bc85?source=rss------hadoop-5)
 - [Spark Series #1 : Why Spark?](https://medium.com/@aruna.das29/spark-series-1-why-spark-c9eeefd02cf9?source=rss------hadoop-5)
@@ -307,7 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [The Role of Hadoop in Big Data Architecture](https://naveenpn.medium.com/the-role-of-hadoop-in-big-data-architecture-bab97317555b?source=rss------hadoop-5)
 - [Reduce the final app size that depends on hadoop-aws](https://medium.com/@spintdev/reduce-the-final-app-size-that-depends-on-hadoop-aws-860c1d5c5664?source=rss------hadoop-5)
 - [Amenaza y Seguridad en Hadoop](https://medium.com/@alexander777cooper/amenaza-y-seguridad-en-hadoop-ff9ddd6a037?source=rss------hadoop-5)
-- [Big Data com Hadoop: Processamento de Dados em Grande Escala](https://medium.com/@josafamarengo/big-data-com-hadoop-processamento-de-dados-em-grande-escala-2ac6c61e8194?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
