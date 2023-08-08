@@ -298,16 +298,16 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Proyecto Big Data Developer](https://medium.com/@allanmoraviquez/proyecto-big-data-developer-753e50730d6?source=rss------hadoop-5)
+- [MapReduce Magic: Empowering Efficient Data Processing through Parallelism](https://medium.com/@roopa.kushtagi/mapreduce-magic-empowering-efficient-data-processing-through-parallelism-622f0bea5d86?source=rss------hadoop-5)
+- [Spark DAG Visualization](https://medium.com/@manushree.g18/spark-dag-visualization-8ee64f5a84e5?source=rss------hadoop-5)
+- [Benefits of using Big Data for businesses](https://medium.com/@madhusudhan.h2kinfosys/benefits-of-using-big-data-for-businesses-3ad102a1fb5c?source=rss------hadoop-5)
+- [DataLake vs DataWarehouse](https://medium.com/@manushree.g18/datalake-vs-datawarehouse-65d10b976a64?source=rss------hadoop-5)
+- [Hadoop file formats](https://medium.com/@manushree.g18/hadoop-file-formats-c080e76cfc58?source=rss------hadoop-5)
+- [Spark Interview Questions And Answers -2022](https://medium.com/@manushree.g18/spark-interview-questions-and-answers-2022-25f8cdc3a5f0?source=rss------hadoop-5)
 - [Hive Configuration Quick Reference](https://tsaiprabhanj.medium.com/hive-configuration-quick-reference-49b95565eb5a?source=rss------hadoop-5)
 - [Büyük Veri &lpar;Big Data&rpar; ve Teknolojileri](https://medium.com/@yarat.serhat/b%C3%BCy%C3%BCk-veri-big-data-ve-teknolojileri-e356680e9766?source=rss------hadoop-5)
 - [Hive Partitions](https://tsaiprabhanj.medium.com/hive-partitions-e0fdc194bc85?source=rss------hadoop-5)
-- [Spark Series #1 : Why Spark?](https://medium.com/@aruna.das29/spark-series-1-why-spark-c9eeefd02cf9?source=rss------hadoop-5)
-- [Creating a Menu based program in Python: Integrating the different Technologies](https://irishabharya.medium.com/creating-a-menu-based-program-in-python-integrating-the-different-technologies-3ac70778de98?source=rss------hadoop-5)
-- [Mastering MapReduce: Unleashing the Power of Parallel Processing!](https://akhilreddykasu.medium.com/mapreduce-8b969629d27a?source=rss------hadoop-5)
-- [Hadoop High Availability &lpar;HA&rpar;](https://naveenpn.medium.com/hadoop-high-availability-ha-79497b97400c?source=rss------hadoop-5)
-- [The Role of Hadoop in Big Data Architecture](https://naveenpn.medium.com/the-role-of-hadoop-in-big-data-architecture-bab97317555b?source=rss------hadoop-5)
-- [Reduce the final app size that depends on hadoop-aws](https://medium.com/@spintdev/reduce-the-final-app-size-that-depends-on-hadoop-aws-860c1d5c5664?source=rss------hadoop-5)
-- [Amenaza y Seguridad en Hadoop](https://medium.com/@alexander777cooper/amenaza-y-seguridad-en-hadoop-ff9ddd6a037?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
