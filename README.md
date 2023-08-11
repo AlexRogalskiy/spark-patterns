@@ -298,6 +298,9 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [How to install Hadoop on MacBook M1 or M2 without Homebrew or Virtual Machine](https://pub.towardsai.net/how-to-install-hadoop-on-macbook-m1-or-m2-without-homebrew-or-virtual-machine-ac7c3c5a6ac9?source=rss------hadoop-5)
+- [Revolutionizing Document Clustering through Map Reduce-enabled Fuzzy C-Means Algorithm &lpar;Part 2/3&rpar;](https://medium.com/@shrenikjadhav0/revolutionizing-document-clustering-through-map-reduce-enabled-fuzzy-c-means-algorithm-part-2-3-2726b46fff60?source=rss------hadoop-5)
+- [Revolutionizing Document Clustering through Map Reduce-enabled Fuzzy C-Means Algorithm &lpar;Part 1/3&rpar;](https://medium.com/@shrenikjadhav0/revolutionizing-document-clustering-through-map-reduce-enabled-fuzzy-c-means-algorithm-part-1-3-9a34ed010a1b?source=rss------hadoop-5)
 - [Spark Optimization: Improving the Performance of Apache Spark](https://medium.datadriveninvestor.com/spark-optimization-improving-the-performance-of-apache-spark-96fc3c892944?source=rss------hadoop-5)
 - [Migrating Hadoop to the Cloud: 2x Storage Capacity &amp; Fewer Ops Costs](https://juicefs.medium.com/migrating-hadoop-to-the-cloud-2x-storage-capacity-fewer-ops-costs-1c5a222087d7?source=rss------hadoop-5)
 - [Proyecto Big Data Developer](https://medium.com/@allanmoraviquez/proyecto-big-data-developer-753e50730d6?source=rss------hadoop-5)
@@ -305,9 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Spark DAG Visualization](https://medium.com/@manushree.g18/spark-dag-visualization-8ee64f5a84e5?source=rss------hadoop-5)
 - [Benefits of using Big Data for businesses](https://medium.com/@madhusudhan.h2kinfosys/benefits-of-using-big-data-for-businesses-3ad102a1fb5c?source=rss------hadoop-5)
 - [DataLake vs DataWarehouse](https://medium.com/@manushree.g18/datalake-vs-datawarehouse-65d10b976a64?source=rss------hadoop-5)
-- [Hadoop file formats](https://medium.com/@manushree.g18/hadoop-file-formats-c080e76cfc58?source=rss------hadoop-5)
-- [Spark Interview Questions And Answers -2022](https://medium.com/@manushree.g18/spark-interview-questions-and-answers-2022-25f8cdc3a5f0?source=rss------hadoop-5)
-- [Hive Configuration Quick Reference](https://tsaiprabhanj.medium.com/hive-configuration-quick-reference-49b95565eb5a?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
