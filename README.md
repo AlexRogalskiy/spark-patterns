@@ -298,6 +298,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Revolutionizing Document Clustering through Map Reduce-enabled Fuzzy C-Means Algorithm &lpar;Part 3/3&rpar;](https://medium.com/@shrenikjadhav0/revolutionizing-document-clustering-through-map-reduce-enabled-fuzzy-c-means-algorithm-part-3-3-34d412c2c1ff?source=rss------hadoop-5)
 - [How to install Hadoop on MacBook M1 or M2 without Homebrew or Virtual Machine](https://pub.towardsai.net/how-to-install-hadoop-on-macbook-m1-or-m2-without-homebrew-or-virtual-machine-ac7c3c5a6ac9?source=rss------hadoop-5)
 - [Revolutionizing Document Clustering through Map Reduce-enabled Fuzzy C-Means Algorithm &lpar;Part 2/3&rpar;](https://medium.com/@shrenikjadhav0/revolutionizing-document-clustering-through-map-reduce-enabled-fuzzy-c-means-algorithm-part-2-3-2726b46fff60?source=rss------hadoop-5)
 - [Revolutionizing Document Clustering through Map Reduce-enabled Fuzzy C-Means Algorithm &lpar;Part 1/3&rpar;](https://medium.com/@shrenikjadhav0/revolutionizing-document-clustering-through-map-reduce-enabled-fuzzy-c-means-algorithm-part-1-3-9a34ed010a1b?source=rss------hadoop-5)
@@ -307,7 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [MapReduce Magic: Empowering Efficient Data Processing through Parallelism](https://medium.com/@roopa.kushtagi/mapreduce-magic-empowering-efficient-data-processing-through-parallelism-622f0bea5d86?source=rss------hadoop-5)
 - [Spark DAG Visualization](https://medium.com/@manushree.g18/spark-dag-visualization-8ee64f5a84e5?source=rss------hadoop-5)
 - [Benefits of using Big Data for businesses](https://medium.com/@madhusudhan.h2kinfosys/benefits-of-using-big-data-for-businesses-3ad102a1fb5c?source=rss------hadoop-5)
-- [DataLake vs DataWarehouse](https://medium.com/@manushree.g18/datalake-vs-datawarehouse-65d10b976a64?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
