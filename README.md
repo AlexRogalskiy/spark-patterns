@@ -319,6 +319,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop in real world posts*
 
 <!-- HADOOPINREALWORLD-POST-LIST:START -->
+- [Improving Performance with Adaptive Query Execution in Apache Spark 3.0](https://www.bigdatainrealworld.com/improving-performance-with-adaptive-query-execution-in-apache-spark-3-0/)
 - [Exploring the Power of Apache Spark 3.0: Adaptive Query Execution and More](https://www.bigdatainrealworld.com/exploring-the-power-of-apache-spark-3-0-adaptive-query-execution-and-more/)
 - [What is the difference between spark.sql.shuffle.partitions and spark.default.parallelism in Spark?](https://www.bigdatainrealworld.com/what-is-the-difference-between-spark-sql-shuffle-partitions-and-spark-default-parallelism-in-spark/)
 - [What is the difference between client and cluster deploy modes in Spark?](https://www.bigdatainrealworld.com/what-is-the-difference-between-client-and-cluster-deploy-modes-in-spark/)
@@ -328,7 +329,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [How to delete an index in Elasticsearch?](https://www.bigdatainrealworld.com/how-to-delete-an-index-in-elasticsearch/)
 - [How to recursively delete files, folders or bucket from S3?](https://www.bigdatainrealworld.com/how-to-recursively-delete-files-folders-or-bucket-from-s3/)
 - [How to create and use UDF in Spark?](https://www.bigdatainrealworld.com/how-to-create-and-use-udf-in-spark/)
-- [How to kill multiple YARN applications at once?](https://www.bigdatainrealworld.com/how-to-kill-multiple-yarn-applications-at-once/)
 <!-- HADOOPINREALWORLD-POST-LIST:END -->
 
 ### *Kognitio posts*
