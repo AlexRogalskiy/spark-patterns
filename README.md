@@ -298,6 +298,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Understanding Driver Pools in Dataproc](https://medium.com/google-cloud/understanding-driver-pools-in-dataproc-28aba21c5d7b?source=rss------hadoop-5)
 - [Big Data Hadoop Online Training and Certification Course](https://medium.com/@madhusudhan.h2kinfosys/big-data-hadoop-online-training-and-certification-course-70f0ce745e0e?source=rss------hadoop-5)
 - [Cómputo Distribuido: Usos y Aplicaciones](https://medium.com/@aldanaciani/c%C3%B3mputo-distribuido-usos-y-aplicaciones-285915f744bc?source=rss------hadoop-5)
 - [Spark vs Hadoop — El Big Data y su gran dilema](https://medium.com/@victor.pacheco.dso/spark-vs-hadoop-el-big-data-y-su-gran-dilema-26925815d77a?source=rss------hadoop-5)
@@ -307,7 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Revolutionizing Document Clustering through Map Reduce-enabled Fuzzy C-Means Algorithm &lpar;Part 1/3&rpar;](https://medium.com/@shrenikjadhav0/revolutionizing-document-clustering-through-map-reduce-enabled-fuzzy-c-means-algorithm-part-1-3-9a34ed010a1b?source=rss------hadoop-5)
 - [Spark Optimization: Improving the Performance of Apache Spark](https://medium.datadriveninvestor.com/spark-optimization-improving-the-performance-of-apache-spark-96fc3c892944?source=rss------hadoop-5)
 - [Migrating Hadoop to the Cloud: 2x Storage Capacity &amp; Fewer Ops Costs](https://juicefs.medium.com/migrating-hadoop-to-the-cloud-2x-storage-capacity-fewer-ops-costs-1c5a222087d7?source=rss------hadoop-5)
-- [Proyecto Big Data Developer](https://medium.com/@allanmoraviquez/proyecto-big-data-developer-753e50730d6?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
