@@ -298,6 +298,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Hadoop MapReduce Architecture](https://medium.com/@traininghub.io/hadoop-mapreduce-architecture-7e167e264595?source=rss------hadoop-5)
+- [Big Data Hadoop Certification Training Course | Big Data Training](https://medium.com/@madhusudhan.h2kinfosys/title-big-data-hadoop-certification-training-course-big-data-training-53695c5458d7?source=rss------hadoop-5)
 - [Hive CBO](https://tsaiprabhanj.medium.com/hive-cbo-a3cdb16e5ec7?source=rss------hadoop-5)
 - [Top rating Big Data and Hadoop Online Training GA USA | H2k infosys](https://medium.com/@madhusudhan.h2kinfosys/top-rating-big-data-and-hadoop-online-training-ga-usa-h2k-infosys-c4bc64979040?source=rss------hadoop-5)
 - [Getting Started With Hadoop: Must-Have Tools For Crunching Big Data](https://medium.com/@analyticsemergingindia/getting-started-with-hadoop-must-have-tools-for-crunching-big-data-9b6bf605e881?source=rss------hadoop-5)
@@ -306,8 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Cómputo Distribuido: Usos y Aplicaciones](https://medium.com/@aldanaciani/c%C3%B3mputo-distribuido-usos-y-aplicaciones-285915f744bc?source=rss------hadoop-5)
 - [Spark vs Hadoop — El Big Data y su gran dilema](https://medium.com/@victor.pacheco.dso/spark-vs-hadoop-el-big-data-y-su-gran-dilema-26925815d77a?source=rss------hadoop-5)
 - [Revolutionizing Document Clustering through Map Reduce-enabled Fuzzy C-Means Algorithm &lpar;Part 3/3&rpar;](https://medium.com/@shrenikjadhav0/revolutionizing-document-clustering-through-map-reduce-enabled-fuzzy-c-means-algorithm-part-3-3-34d412c2c1ff?source=rss------hadoop-5)
-- [How to install Hadoop on MacBook M1 or M2 without Homebrew or Virtual Machine](https://pub.towardsai.net/how-to-install-hadoop-on-macbook-m1-or-m2-without-homebrew-or-virtual-machine-ac7c3c5a6ac9?source=rss------hadoop-5)
-- [Revolutionizing Document Clustering through Map Reduce-enabled Fuzzy C-Means Algorithm &lpar;Part 2/3&rpar;](https://medium.com/@shrenikjadhav0/revolutionizing-document-clustering-through-map-reduce-enabled-fuzzy-c-means-algorithm-part-2-3-2726b46fff60?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
