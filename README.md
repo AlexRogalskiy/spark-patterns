@@ -298,6 +298,9 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Distributed File System v/s Object-Based Storage](https://medium.com/@aatmajjanardanan/distributed-file-system-v-s-object-based-storage-40cb8c51328c?source=rss------hadoop-5)
+- [Online Big Data Hadoop Certification at H2K Infosys](https://medium.com/@madhusudhan.h2kinfosys/online-big-data-hadoop-certification-at-h2k-infosys-7df274fb51be?source=rss------hadoop-5)
+- [Big Data Analytics — NCRB -Missing Children Recovery](https://medium.com/@nikitajain.jain1111/big-data-analytics-ncrb-missing-children-recovery-379fb9e10149?source=rss------hadoop-5)
 - [Hadoop MapReduce Architecture](https://medium.com/@traininghub.io/hadoop-mapreduce-architecture-7e167e264595?source=rss------hadoop-5)
 - [Big Data Hadoop Certification Training Course | Big Data Training](https://medium.com/@madhusudhan.h2kinfosys/title-big-data-hadoop-certification-training-course-big-data-training-53695c5458d7?source=rss------hadoop-5)
 - [Hive CBO](https://tsaiprabhanj.medium.com/hive-cbo-a3cdb16e5ec7?source=rss------hadoop-5)
@@ -305,9 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Getting Started With Hadoop: Must-Have Tools For Crunching Big Data](https://medium.com/@analyticsemergingindia/getting-started-with-hadoop-must-have-tools-for-crunching-big-data-9b6bf605e881?source=rss------hadoop-5)
 - [Understanding Driver Pools in Dataproc](https://medium.com/google-cloud/understanding-driver-pools-in-dataproc-28aba21c5d7b?source=rss------hadoop-5)
 - [Big Data Hadoop Online Training and Certification Course](https://medium.com/@madhusudhan.h2kinfosys/big-data-hadoop-online-training-and-certification-course-70f0ce745e0e?source=rss------hadoop-5)
-- [Cómputo Distribuido: Usos y Aplicaciones](https://medium.com/@aldanaciani/c%C3%B3mputo-distribuido-usos-y-aplicaciones-285915f744bc?source=rss------hadoop-5)
-- [Spark vs Hadoop — El Big Data y su gran dilema](https://medium.com/@victor.pacheco.dso/spark-vs-hadoop-el-big-data-y-su-gran-dilema-26925815d77a?source=rss------hadoop-5)
-- [Revolutionizing Document Clustering through Map Reduce-enabled Fuzzy C-Means Algorithm &lpar;Part 3/3&rpar;](https://medium.com/@shrenikjadhav0/revolutionizing-document-clustering-through-map-reduce-enabled-fuzzy-c-means-algorithm-part-3-3-34d412c2c1ff?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
