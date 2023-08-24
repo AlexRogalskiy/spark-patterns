@@ -298,6 +298,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Unleash the Power of Big Data with Hadoop Certification at H2K Infosys in Georgia, USA](https://medium.com/@madhusudhan.h2kinfosys/unleash-the-power-of-big-data-with-hadoop-certification-at-h2k-infosys-in-georgia-usa-8e9bfe9d6200?source=rss------hadoop-5)
 - [Distributed File System v/s Object-Based Storage](https://medium.com/@aatmajjanardanan/distributed-file-system-v-s-object-based-storage-40cb8c51328c?source=rss------hadoop-5)
 - [Online Big Data Hadoop Certification at H2K Infosys](https://medium.com/@madhusudhan.h2kinfosys/online-big-data-hadoop-certification-at-h2k-infosys-7df274fb51be?source=rss------hadoop-5)
 - [Big Data Analytics — NCRB -Missing Children Recovery](https://medium.com/@nikitajain.jain1111/big-data-analytics-ncrb-missing-children-recovery-379fb9e10149?source=rss------hadoop-5)
@@ -307,7 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Top rating Big Data and Hadoop Online Training GA USA | H2k infosys](https://medium.com/@madhusudhan.h2kinfosys/top-rating-big-data-and-hadoop-online-training-ga-usa-h2k-infosys-c4bc64979040?source=rss------hadoop-5)
 - [Getting Started With Hadoop: Must-Have Tools For Crunching Big Data](https://medium.com/@analyticsemergingindia/getting-started-with-hadoop-must-have-tools-for-crunching-big-data-9b6bf605e881?source=rss------hadoop-5)
 - [Understanding Driver Pools in Dataproc](https://medium.com/google-cloud/understanding-driver-pools-in-dataproc-28aba21c5d7b?source=rss------hadoop-5)
-- [Big Data Hadoop Online Training and Certification Course](https://medium.com/@madhusudhan.h2kinfosys/big-data-hadoop-online-training-and-certification-course-70f0ce745e0e?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
