@@ -298,6 +298,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Hive Intro](https://gsanjeewa1111.medium.com/hive-intro-d44a7dece9fc?source=rss------hadoop-5)
+- [Why is Big Data important? | Online course certification | 100% job oriented Online Training](https://medium.com/@madhusudhan.h2kinfosys/why-is-big-data-important-online-course-certification-100-job-oriented-online-training-8722b12f46b?source=rss------hadoop-5)
 - [Unleash the Power of Big Data with Hadoop Certification at H2K Infosys in Georgia, USA](https://medium.com/@madhusudhan.h2kinfosys/unleash-the-power-of-big-data-with-hadoop-certification-at-h2k-infosys-in-georgia-usa-8e9bfe9d6200?source=rss------hadoop-5)
 - [Distributed File System v/s Object-Based Storage](https://medium.com/@aatmajjanardanan/distributed-file-system-v-s-object-based-storage-40cb8c51328c?source=rss------hadoop-5)
 - [Online Big Data Hadoop Certification at H2K Infosys](https://medium.com/@madhusudhan.h2kinfosys/online-big-data-hadoop-certification-at-h2k-infosys-7df274fb51be?source=rss------hadoop-5)
@@ -306,8 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Big Data Hadoop Certification Training Course | Big Data Training](https://medium.com/@madhusudhan.h2kinfosys/title-big-data-hadoop-certification-training-course-big-data-training-53695c5458d7?source=rss------hadoop-5)
 - [Hive CBO](https://tsaiprabhanj.medium.com/hive-cbo-a3cdb16e5ec7?source=rss------hadoop-5)
 - [Top rating Big Data and Hadoop Online Training GA USA | H2k infosys](https://medium.com/@madhusudhan.h2kinfosys/top-rating-big-data-and-hadoop-online-training-ga-usa-h2k-infosys-c4bc64979040?source=rss------hadoop-5)
-- [Getting Started With Hadoop: Must-Have Tools For Crunching Big Data](https://medium.com/@analyticsemergingindia/getting-started-with-hadoop-must-have-tools-for-crunching-big-data-9b6bf605e881?source=rss------hadoop-5)
-- [Understanding Driver Pools in Dataproc](https://medium.com/google-cloud/understanding-driver-pools-in-dataproc-28aba21c5d7b?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
