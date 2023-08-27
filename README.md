@@ -298,6 +298,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Bridging the Gap from Hadoop to SQL Server using Apache Spark](https://medium.com/@safwank89/bridging-the-gap-from-hadoop-to-sql-server-using-apache-spark-d3ddb90fee51?source=rss------hadoop-5)
 - [Hive Intro](https://gsanjeewa1111.medium.com/hive-intro-d44a7dece9fc?source=rss------hadoop-5)
 - [Why is Big Data important? | Online course certification | 100% job oriented Online Training](https://medium.com/@madhusudhan.h2kinfosys/why-is-big-data-important-online-course-certification-100-job-oriented-online-training-8722b12f46b?source=rss------hadoop-5)
 - [Unleash the Power of Big Data with Hadoop Certification at H2K Infosys in Georgia, USA](https://medium.com/@madhusudhan.h2kinfosys/unleash-the-power-of-big-data-with-hadoop-certification-at-h2k-infosys-in-georgia-usa-8e9bfe9d6200?source=rss------hadoop-5)
@@ -307,7 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Hadoop MapReduce Architecture](https://medium.com/@traininghub.io/hadoop-mapreduce-architecture-7e167e264595?source=rss------hadoop-5)
 - [Big Data Hadoop Certification Training Course | Big Data Training](https://medium.com/@madhusudhan.h2kinfosys/title-big-data-hadoop-certification-training-course-big-data-training-53695c5458d7?source=rss------hadoop-5)
 - [Hive CBO](https://tsaiprabhanj.medium.com/hive-cbo-a3cdb16e5ec7?source=rss------hadoop-5)
-- [Top rating Big Data and Hadoop Online Training GA USA | H2k infosys](https://medium.com/@madhusudhan.h2kinfosys/top-rating-big-data-and-hadoop-online-training-ga-usa-h2k-infosys-c4bc64979040?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
