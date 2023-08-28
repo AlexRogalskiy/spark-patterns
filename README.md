@@ -298,6 +298,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Introduction to Hadoop and Hadoop Ecosystem](https://medium.com/@shalinisingh1130/introduction-to-hadoop-and-hadoop-ecosystem-30de83a851ac?source=rss------hadoop-5)
+- [Top Big Data certifications in 2023](https://medium.com/@madhusudhan.h2kinfosys/top-big-data-certifications-in-2023-18d5179bc540?source=rss------hadoop-5)
 - [Bridging the Gap from Hadoop to SQL Server using Apache Spark](https://medium.com/@safwank89/bridging-the-gap-from-hadoop-to-sql-server-using-apache-spark-d3ddb90fee51?source=rss------hadoop-5)
 - [Hive Intro](https://gsanjeewa1111.medium.com/hive-intro-d44a7dece9fc?source=rss------hadoop-5)
 - [Why is Big Data important? | Online course certification | 100% job oriented Online Training](https://medium.com/@madhusudhan.h2kinfosys/why-is-big-data-important-online-course-certification-100-job-oriented-online-training-8722b12f46b?source=rss------hadoop-5)
@@ -305,9 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Distributed File System v/s Object-Based Storage](https://medium.com/@aatmajjanardanan/distributed-file-system-v-s-object-based-storage-40cb8c51328c?source=rss------hadoop-5)
 - [Online Big Data Hadoop Certification at H2K Infosys](https://medium.com/@madhusudhan.h2kinfosys/online-big-data-hadoop-certification-at-h2k-infosys-7df274fb51be?source=rss------hadoop-5)
 - [Big Data Analytics — NCRB -Missing Children Recovery](https://medium.com/@nikitajain.jain1111/big-data-analytics-ncrb-missing-children-recovery-379fb9e10149?source=rss------hadoop-5)
-- [Hadoop MapReduce Architecture](https://medium.com/@traininghub.io/hadoop-mapreduce-architecture-7e167e264595?source=rss------hadoop-5)
-- [Big Data Hadoop Certification Training Course | Big Data Training](https://medium.com/@madhusudhan.h2kinfosys/title-big-data-hadoop-certification-training-course-big-data-training-53695c5458d7?source=rss------hadoop-5)
-- [Hive CBO](https://tsaiprabhanj.medium.com/hive-cbo-a3cdb16e5ec7?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
