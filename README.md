@@ -298,7 +298,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
-- [Spark’s Superior Parallel Processing: Outpacing Hadoop](https://blog.devgenius.io/sparks-superior-parallel-processing-outpacing-hadoop-681755e294f2?source=rss------hadoop-5)
+- [Top 7 Benefits of Big Data | How does big data benefit students and job seekers](https://medium.com/@madhusudhan.h2kinfosys/top-7-benefits-of-big-data-how-does-big-data-benefit-students-and-job-seekers-5e815f69abb3?source=rss------hadoop-5)
+- [Spark’s Efficient Parallel Processing: Beating Hadoop](https://blog.devgenius.io/sparks-superior-parallel-processing-outpacing-hadoop-681755e294f2?source=rss------hadoop-5)
 - [Spark Vs Hadoop: Not a Replacement, but an Enhancement](https://medium.com/@rakeshsinghania02/spark-vs-hadoop-not-a-replacement-but-an-enhancement-b3a43a963ff0?source=rss------hadoop-5)
 - [Big Data vs. Data Science | Which technology is going to boom in Next five years?](https://medium.com/@madhusudhan.h2kinfosys/big-data-vs-data-science-which-technology-is-going-to-boom-in-next-five-years-8223ce8043a6?source=rss------hadoop-5)
 - [Безопасность данных в Apache HBase](https://medium.com/@bigdataschool/%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-%D0%B2-apache-hbase-ea328cc57862?source=rss------hadoop-5)
@@ -306,7 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Top Big Data certifications in 2023](https://medium.com/@madhusudhan.h2kinfosys/top-big-data-certifications-in-2023-18d5179bc540?source=rss------hadoop-5)
 - [Bridging the Gap from Hadoop to SQL Server using Apache Spark](https://medium.com/@safwank89/bridging-the-gap-from-hadoop-to-sql-server-using-apache-spark-d3ddb90fee51?source=rss------hadoop-5)
 - [Hive Intro](https://gsanjeewa1111.medium.com/hive-intro-d44a7dece9fc?source=rss------hadoop-5)
-- [Why is Big Data important? | Online course certification | 100% job oriented Online Training](https://medium.com/@madhusudhan.h2kinfosys/why-is-big-data-important-online-course-certification-100-job-oriented-online-training-8722b12f46b?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
