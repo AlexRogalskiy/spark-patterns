@@ -298,6 +298,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Best Big Data Courses | Big Data and Hadoop Online Training](https://medium.com/@madhusudhan.h2kinfosys/best-big-data-courses-big-data-and-hadoop-online-training-cbf6012a8592?source=rss------hadoop-5)
 - [How to Use Cloudera Manager REST API for Impala Query Monitoring](https://blog.clairvoyantsoft.com/how-to-use-cloudera-manager-rest-api-for-impala-query-monitoring-b1339ade71f?source=rss------hadoop-5)
 - [Advanced Big Data Analytics Certification Course Online](https://medium.com/@madhusudhan.h2kinfosys/advanced-big-data-analytics-certification-course-online-835ae648645d?source=rss------hadoop-5)
 - [Hadoop vs Traditional Databases: A Side by Side Comparison](https://medium.com/@lalitha.cs.16_5385/hadoop-vs-traditional-databases-a-side-by-side-comparison-5e73c1a5498f?source=rss------hadoop-5)
