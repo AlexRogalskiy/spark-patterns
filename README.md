@@ -274,6 +274,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Network communication protocol Spark uses?](https://www.reddit.com/r/spark/comments/167f86x/network_communication_protocol_spark_uses/)
 - [Need help on understanding](https://www.reddit.com/r/spark/comments/166i9bq/need_help_on_understanding/)
 - [Help with Building a CI-CD with Apache Spark and ArgoCD](https://www.reddit.com/r/spark/comments/15w8vy7/help_with_building_a_cicd_with_apache_spark_and/)
 - [Check spark application status from web ui](https://www.reddit.com/r/spark/comments/1569tgd/check_spark_application_status_from_web_ui/)
@@ -283,7 +284,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Delivery](https://www.reddit.com/r/spark/comments/13ify18/delivery/)
 - [A crossword for data engineers](https://www.reddit.com/r/spark/comments/13hmfso/a_crossword_for_data_engineers/)
 - [Spark sql query trigger error because of date time format](https://www.reddit.com/r/spark/comments/12wmt22/spark_sql_query_trigger_error_because_of_date/)
-- [Get Started with Open Source Formal Verification &lpar;2023 talk&rpar;](https://www.reddit.com/r/spark/comments/12o8ftc/get_started_with_open_source_formal_verification/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld Spark posts*
