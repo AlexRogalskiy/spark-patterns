@@ -298,16 +298,14 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Herramientas Big Data](https://medium.com/@nancy.duran08/herramientas-del-big-data-3f4291848682?source=rss------hadoop-5)
+- [A Beginner’s Guide to Big Data and Hadoop Distributed File System &lpar;HDFS&rpar;](https://medium.com/@roshmitadey/a-beginners-guide-to-big-data-and-hadoop-distributed-file-system-hdfs-b5c324d3c722?source=rss------hadoop-5)
 - [Introducción a Apache Hadoop y Spark en Big Data](https://medium.com/@danielruiz4444/introducci%C3%B3n-a-apache-y-hadoop-en-big-data-2dcfd2dbf1c7?source=rss------hadoop-5)
 - [Best Big Data Courses | Big Data and Hadoop Online Training](https://medium.com/@madhusudhan.h2kinfosys/best-big-data-courses-big-data-and-hadoop-online-training-cbf6012a8592?source=rss------hadoop-5)
 - [How to Use Cloudera Manager REST API for Impala Query Monitoring](https://blog.clairvoyantsoft.com/how-to-use-cloudera-manager-rest-api-for-impala-query-monitoring-b1339ade71f?source=rss------hadoop-5)
 - [Advanced Big Data Analytics Certification Course Online](https://medium.com/@madhusudhan.h2kinfosys/advanced-big-data-analytics-certification-course-online-835ae648645d?source=rss------hadoop-5)
 - [Hadoop vs Traditional Databases: A Side by Side Comparison](https://medium.com/@lalitha.cs.16_5385/hadoop-vs-traditional-databases-a-side-by-side-comparison-5e73c1a5498f?source=rss------hadoop-5)
 - [Top 7 Benefits of Big Data | How does big data benefit students and job seekers](https://medium.com/@madhusudhan.h2kinfosys/top-7-benefits-of-big-data-how-does-big-data-benefit-students-and-job-seekers-5e815f69abb3?source=rss------hadoop-5)
-- [Spark’s Efficient Parallel Processing: Beating Hadoop](https://blog.devgenius.io/sparks-superior-parallel-processing-outpacing-hadoop-681755e294f2?source=rss------hadoop-5)
-- [Spark Vs Hadoop: Not a Replacement, but an Enhancement](https://medium.com/@rakeshsinghania02/spark-vs-hadoop-not-a-replacement-but-an-enhancement-b3a43a963ff0?source=rss------hadoop-5)
-- [Big Data vs. Data Science | Which technology is going to boom in Next five years?](https://medium.com/@madhusudhan.h2kinfosys/big-data-vs-data-science-which-technology-is-going-to-boom-in-next-five-years-8223ce8043a6?source=rss------hadoop-5)
-- [Безопасность данных в Apache HBase](https://medium.com/@bigdataschool/%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-%D0%B2-apache-hbase-ea328cc57862?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
