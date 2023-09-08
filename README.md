@@ -298,6 +298,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Tech Harmony: Crafting a Python-Powered Multiverse of Automation](https://medium.com/@rashmi160403/tech-harmony-crafting-a-python-powered-multiverse-of-automation-8ddbde8cc0b3?source=rss------hadoop-5)
 - [Best Big Data Hadoop Course | Big Data and Hadoop Online Training](https://medium.com/@madhusudhan.h2kinfosys/best-big-data-hadoop-course-big-data-and-hadoop-online-training-80fabf7f1809?source=rss------hadoop-5)
 - [Best Hadoop Courses | Big Data and Hadoop Online Training](https://medium.com/@madhusudhan.h2kinfosys/best-hadoop-courses-big-data-and-hadoop-online-training-f1b184729124?source=rss------hadoop-5)
 - [Effortlessly analyze Big Data with the power of AWS Cloud](https://medium.com/@lalitha.cs.16_5385/effortlessly-analyze-big-data-with-the-power-of-aws-cloud-739c468ee5c0?source=rss------hadoop-5)
@@ -305,7 +306,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Herramientas Big Data](https://medium.com/@nancy.duran08/herramientas-del-big-data-3f4291848682?source=rss------hadoop-5)
 - [A Beginner’s Guide to Big Data and Hadoop Distributed File System &lpar;HDFS&rpar;](https://medium.com/@roshmitadey/a-beginners-guide-to-big-data-and-hadoop-distributed-file-system-hdfs-b5c324d3c722?source=rss------hadoop-5)
 - [Introducción a Apache Hadoop y Spark en Big Data](https://medium.com/@danielruiz4444/introducci%C3%B3n-a-apache-y-hadoop-en-big-data-2dcfd2dbf1c7?source=rss------hadoop-5)
-- [Best Big Data Courses | Big Data and Hadoop Online Training](https://medium.com/@madhusudhan.h2kinfosys/best-big-data-courses-big-data-and-hadoop-online-training-cbf6012a8592?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
