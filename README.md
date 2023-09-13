@@ -298,16 +298,16 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Installer Hadoop sur MacBook puce silicone &lpar;M1 ou M2&rpar;](https://dimitriaigle.medium.com/installer-hadoop-sur-macbook-puce-silicone-m1-ou-m2-ec006e779e3f?source=rss------hadoop-5)
+- [5 Ways Hadoop Can Ease Your Big Data Woes | Blog | Sprinterra](https://medium.com/@sprinterra.seo/5-ways-hadoop-can-ease-your-big-data-woes-blog-sprinterra-578ae1355d2a?source=rss------hadoop-5)
+- [Hadoop Ekosistemi-HDFS](https://medium.com/@adem.ok624/hadoop-ekosistemi-hdfs-bc85a06416d3?source=rss------hadoop-5)
+- [Herding the Elephants](https://medium.com/expedia-group-tech/herding-the-elephants-3501cb64eb3?source=rss------hadoop-5)
+- [Big Data and Hadoop Course | Big Data and Hadoop Online Training](https://medium.com/@madhusudhan.h2kinfosys/big-data-and-hadoop-course-big-data-and-hadoop-online-training-f37720b0202f?source=rss------hadoop-5)
+- [Hadoop Architecture](https://medium.com/@mr_manish_batra/hadoop-architecture-a387011f91d2?source=rss------hadoop-5)
 - [Hive Query Internal working](https://tsaiprabhanj.medium.com/hive-query-internal-working-90a01a0ad85b?source=rss------hadoop-5)
 - [Storage handlers in Hive](https://tsaiprabhanj.medium.com/storage-handlers-in-hive-84ba393ebe0e?source=rss------hadoop-5)
 - [Ensuring High Availability in HDFS: The Crucial Role of JournalNode in Hadoop](https://medium.com/@lalitha.cs.16_5385/ensuring-high-availability-in-hdfs-the-crucial-role-of-journalnode-in-hadoop-964261b5f4bb?source=rss------hadoop-5)
 - [Introduction to BigData](https://blog.devgenius.io/introduction-to-bigdata-dfa296fd0f11?source=rss------hadoop-5)
-- [Introduction to Big Data and Hadoop](https://subashpalvel.medium.com/introduction-to-big-data-and-hadoop-3bc11579611d?source=rss------hadoop-5)
-- [Installation of Hadoop on Ubuntu 2023](https://medium.com/@sanjayshankar1428/in-the-world-of-big-data-managing-and-processing-vast-amounts-of-information-efficiently-is-2ffdc0204357?source=rss------hadoop-5)
-- [BigData Hadoop Courses | BigData Hadoop Online Training](https://medium.com/@madhusudhan.h2kinfosys/bigdata-hadoop-courses-bigdata-hadoop-online-training-e364e11478ab?source=rss------hadoop-5)
-- [From Open-Source Beginnings to Enterprise Solutions: Which Hadoop Distribution Reigns Supreme for…](https://medium.com/@Eugene.Kharitonov/from-open-source-beginnings-to-enterprise-solutions-which-hadoop-distribution-reigns-supreme-for-5caa23fcd7d?source=rss------hadoop-5)
-- [Tech Harmony: Crafting a Python-Powered Multiverse of Automation](https://medium.com/@rashmi160403/tech-harmony-crafting-a-python-powered-multiverse-of-automation-8ddbde8cc0b3?source=rss------hadoop-5)
-- [Best Big Data Hadoop Course | Big Data and Hadoop Online Training](https://medium.com/@madhusudhan.h2kinfosys/best-big-data-hadoop-course-big-data-and-hadoop-online-training-80fabf7f1809?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
