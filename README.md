@@ -298,6 +298,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Hadoop vs. Spark: Unraveling the Big Data Showdown](https://medium.com/@arvind.kale2018/hadoop-vs-spark-unraveling-the-big-data-showdown-fbad6eb4bf44?source=rss------hadoop-5)
+- [Unlocking the Power of Data: An Introduction to Hadoop](https://blog.stackademic.com/unlocking-the-power-of-data-an-introduction-to-hadoop-27cddc0d4f4a?source=rss------hadoop-5)
 - [Installer Hadoop sur MacBook puce silicone &lpar;M1 ou M2&rpar;](https://dimitriaigle.medium.com/installer-hadoop-sur-macbook-puce-silicone-m1-ou-m2-ec006e779e3f?source=rss------hadoop-5)
 - [5 Ways Hadoop Can Ease Your Big Data Woes | Blog | Sprinterra](https://medium.com/@sprinterra.seo/5-ways-hadoop-can-ease-your-big-data-woes-blog-sprinterra-578ae1355d2a?source=rss------hadoop-5)
 - [Hadoop Ekosistemi-HDFS](https://medium.com/@adem.ok624/hadoop-ekosistemi-hdfs-bc85a06416d3?source=rss------hadoop-5)
@@ -306,8 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Hadoop Architecture](https://medium.com/@mr_manish_batra/hadoop-architecture-a387011f91d2?source=rss------hadoop-5)
 - [Hive Query Internal working](https://tsaiprabhanj.medium.com/hive-query-internal-working-90a01a0ad85b?source=rss------hadoop-5)
 - [Storage handlers in Hive](https://tsaiprabhanj.medium.com/storage-handlers-in-hive-84ba393ebe0e?source=rss------hadoop-5)
-- [Ensuring High Availability in HDFS: The Crucial Role of JournalNode in Hadoop](https://medium.com/@lalitha.cs.16_5385/ensuring-high-availability-in-hdfs-the-crucial-role-of-journalnode-in-hadoop-964261b5f4bb?source=rss------hadoop-5)
-- [Introduction to BigData](https://blog.devgenius.io/introduction-to-bigdata-dfa296fd0f11?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
