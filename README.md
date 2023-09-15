@@ -298,16 +298,16 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [RDD Immutable](https://medium.com/@aatmajjanardanan/rdd-immutable-2b786f7fd9c3?source=rss------hadoop-5)
+- [How Big Data and Data Warehousing Revolutionize Analytics](https://medium.com/@arushinigam03/how-big-data-and-data-warehousing-revolutionize-analytics-af6bbe0cbc57?source=rss------hadoop-5)
+- [Big Data Hadoop Online Course | Hadoop Big Data Course](https://medium.com/@madhusudhan.h2kinfosys/big-data-hadoop-online-course-hadoop-big-data-course-31ba43fe1696?source=rss------hadoop-5)
+- [Major Difference Between Spark and Hadoop](https://medium.com/@arpitpadwekar/major-difference-between-spark-and-hadoop-dfe75f664b70?source=rss------hadoop-5)
 - [Hadoop vs. Spark: Unraveling the Big Data Showdown](https://medium.com/@arvind.kale2018/hadoop-vs-spark-unraveling-the-big-data-showdown-fbad6eb4bf44?source=rss------hadoop-5)
-- [Unlocking the Power of Data: An Introduction to Hadoop](https://blog.stackademic.com/unlocking-the-power-of-data-an-introduction-to-hadoop-27cddc0d4f4a?source=rss------hadoop-5)
+- [Unlocking the Power of Data: An Introduction to Hadoop](https://medium.com/@bragadeeshs/unlocking-the-power-of-data-an-introduction-to-hadoop-27cddc0d4f4a?source=rss------hadoop-5)
 - [Installer Hadoop sur MacBook puce silicone &lpar;M1 ou M2&rpar;](https://dimitriaigle.medium.com/installer-hadoop-sur-macbook-puce-silicone-m1-ou-m2-ec006e779e3f?source=rss------hadoop-5)
 - [5 Ways Hadoop Can Ease Your Big Data Woes | Blog | Sprinterra](https://medium.com/@sprinterra.seo/5-ways-hadoop-can-ease-your-big-data-woes-blog-sprinterra-578ae1355d2a?source=rss------hadoop-5)
 - [Hadoop Ekosistemi-HDFS](https://medium.com/@adem.ok624/hadoop-ekosistemi-hdfs-bc85a06416d3?source=rss------hadoop-5)
 - [Herding the Elephants](https://medium.com/expedia-group-tech/herding-the-elephants-3501cb64eb3?source=rss------hadoop-5)
-- [Big Data and Hadoop Course | Big Data and Hadoop Online Training](https://medium.com/@madhusudhan.h2kinfosys/big-data-and-hadoop-course-big-data-and-hadoop-online-training-f37720b0202f?source=rss------hadoop-5)
-- [Hadoop Architecture](https://medium.com/@mr_manish_batra/hadoop-architecture-a387011f91d2?source=rss------hadoop-5)
-- [Hive Query Internal working](https://tsaiprabhanj.medium.com/hive-query-internal-working-90a01a0ad85b?source=rss------hadoop-5)
-- [Storage handlers in Hive](https://tsaiprabhanj.medium.com/storage-handlers-in-hive-84ba393ebe0e?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
