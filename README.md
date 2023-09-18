@@ -298,6 +298,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [The Heart of Big Data: Hadoop Distributed File System &lpar;HDFS&rpar;](https://medium.com/@roshmitadey/the-heart-of-big-data-hadoop-distributed-file-system-hdfs-b4b0e1de9ea7?source=rss------hadoop-5)
 - [50%+ Cut in Both Storage &amp; Compute Costs: Designing NetEase Games’ Cloud Big Data Platform](https://juicefs.medium.com/50-cut-in-both-storage-compute-costs-designing-netease-games-cloud-big-data-platform-a03e76d78f08?source=rss------hadoop-5)
 - [RDD Immutable](https://medium.com/@aatmajjanardanan/rdd-immutable-2b786f7fd9c3?source=rss------hadoop-5)
 - [How Big Data and Data Warehousing Revolutionize Analytics](https://medium.com/@arushinigam03/how-big-data-and-data-warehousing-revolutionize-analytics-af6bbe0cbc57?source=rss------hadoop-5)
@@ -307,7 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Unlocking the Power of Data: An Introduction to Hadoop](https://medium.com/@bragadeeshs/unlocking-the-power-of-data-an-introduction-to-hadoop-27cddc0d4f4a?source=rss------hadoop-5)
 - [Installer Hadoop sur MacBook puce silicone &lpar;M1 ou M2&rpar;](https://dimitriaigle.medium.com/installer-hadoop-sur-macbook-puce-silicone-m1-ou-m2-ec006e779e3f?source=rss------hadoop-5)
 - [5 Ways Hadoop Can Ease Your Big Data Woes | Blog | Sprinterra](https://medium.com/@sprinterra.seo/5-ways-hadoop-can-ease-your-big-data-woes-blog-sprinterra-578ae1355d2a?source=rss------hadoop-5)
-- [Hadoop Ekosistemi-HDFS](https://medium.com/@adem.ok624/hadoop-ekosistemi-hdfs-bc85a06416d3?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
