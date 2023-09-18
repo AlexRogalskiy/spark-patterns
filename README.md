@@ -274,6 +274,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Hiring cloud and full-stack devs $140k+/year](https://www.reddit.com/r/spark/comments/16kq2n9/hiring_cloud_and_fullstack_devs_140kyear/)
 - [Network communication protocol Spark uses?](https://www.reddit.com/r/spark/comments/167f86x/network_communication_protocol_spark_uses/)
 - [Need help on understanding](https://www.reddit.com/r/spark/comments/166i9bq/need_help_on_understanding/)
 - [Help with Building a CI-CD with Apache Spark and ArgoCD](https://www.reddit.com/r/spark/comments/15w8vy7/help_with_building_a_cicd_with_apache_spark_and/)
@@ -283,7 +284,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [The output of PYF.to_utc_timestamp for same value has changed and now shows 5 minutes less](https://www.reddit.com/r/spark/comments/14atlra/the_output_of_pyfto_utc_timestamp_for_same_value/)
 - [Delivery](https://www.reddit.com/r/spark/comments/13ify18/delivery/)
 - [A crossword for data engineers](https://www.reddit.com/r/spark/comments/13hmfso/a_crossword_for_data_engineers/)
-- [Spark sql query trigger error because of date time format](https://www.reddit.com/r/spark/comments/12wmt22/spark_sql_query_trigger_error_because_of_date/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld Spark posts*
