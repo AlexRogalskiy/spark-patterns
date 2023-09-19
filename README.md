@@ -319,6 +319,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop in real world posts*
 
 <!-- HADOOPINREALWORLD-POST-LIST:START -->
+- [What is the default number of cores and amount of memory allocated to an application in Spark?](https://www.bigdatainrealworld.com/what-is-the-default-number-of-cores-and-amount-of-memory-allocated-to-an-application-in-spark/)
 - [How to find the number of objects in an S3 bucket?](https://www.bigdatainrealworld.com/how-to-find-the-number-of-objects-in-an-s3-bucket/)
 - [Improving Performance with Adaptive Query Execution in Apache Spark 3.0](https://www.bigdatainrealworld.com/improving-performance-with-adaptive-query-execution-in-apache-spark-3-0/)
 - [Exploring the Power of Apache Spark 3.0: Adaptive Query Execution and More](https://www.bigdatainrealworld.com/exploring-the-power-of-apache-spark-3-0-adaptive-query-execution-and-more/)
@@ -328,7 +329,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [How to fix unassigned shards issue in Elasticsearch?](https://www.bigdatainrealworld.com/how-to-fix-unassigned-shards-issue-in-elasticsearch/)
 - [How to recursively upload a folder to S3 using AWS CLI?](https://www.bigdatainrealworld.com/how-to-recursively-upload-a-folder-to-s3-using-aws-cli/)
 - [How to delete an index in Elasticsearch?](https://www.bigdatainrealworld.com/how-to-delete-an-index-in-elasticsearch/)
-- [How to recursively delete files, folders or bucket from S3?](https://www.bigdatainrealworld.com/how-to-recursively-delete-files-folders-or-bucket-from-s3/)
 <!-- HADOOPINREALWORLD-POST-LIST:END -->
 
 ### *Kognitio posts*
