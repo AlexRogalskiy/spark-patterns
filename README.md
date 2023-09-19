@@ -274,6 +274,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to unsubscribe from mailing list newsletter ?](https://www.reddit.com/r/spark/comments/16lt3js/how_to_unsubscribe_from_mailing_list_newsletter/)
 - [Hiring cloud and full-stack devs $140k+/year](https://www.reddit.com/r/spark/comments/16kq2n9/hiring_cloud_and_fullstack_devs_140kyear/)
 - [Network communication protocol Spark uses?](https://www.reddit.com/r/spark/comments/167f86x/network_communication_protocol_spark_uses/)
 - [Need help on understanding](https://www.reddit.com/r/spark/comments/166i9bq/need_help_on_understanding/)
@@ -283,7 +284,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Write Spark Dataframe to DynamoDB using Python](https://www.reddit.com/r/spark/comments/14yrwln/write_spark_dataframe_to_dynamodb_using_python/)
 - [The output of PYF.to_utc_timestamp for same value has changed and now shows 5 minutes less](https://www.reddit.com/r/spark/comments/14atlra/the_output_of_pyfto_utc_timestamp_for_same_value/)
 - [Delivery](https://www.reddit.com/r/spark/comments/13ify18/delivery/)
-- [A crossword for data engineers](https://www.reddit.com/r/spark/comments/13hmfso/a_crossword_for_data_engineers/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld Spark posts*
