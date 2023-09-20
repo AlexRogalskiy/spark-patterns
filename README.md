@@ -313,6 +313,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld Hadoop posts*
 
 <!-- INFOWORLD-HADOOP-POST-LIST:START -->
+- [A deep dive into caching in Presto](https://www.infoworld.com/article/3706950/a-deep-dive-into-caching-in-presto.html#tk.rss_hadoop)
 - [What is Apache Spark? The big data platform that crushed Hadoop](https://www.infoworld.com/article/3236869/what-is-apache-spark-the-big-data-platform-that-crushed-hadoop.html#tk.rss_hadoop)
 <!-- INFOWORLD-HADOOP-POST-LIST:END -->
 
