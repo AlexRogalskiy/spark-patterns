@@ -298,6 +298,9 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Installing Hadoop on MacOS &lpar;M1/M2&rpar; : 2023](https://medium.com/@MinatoNamikaze02/installing-hadoop-on-macos-m1-m2-2023-d963abeab38e?source=rss------hadoop-5)
+- [Apache Hadoop &lpar;HDFS -YARN- MapReduce&rpar; and Apache Hive Echosystem](https://medium.com/@mucagriaktas/apache-hadoop-hdfs-yarn-mapreduce-and-apache-hive-echosystem-64260f58309f?source=rss------hadoop-5)
+- [Apache Hive-4.x with Iceberg Branches &amp; Tags](https://medium.com/@ayushtkn/apache-hive-4-x-with-iceberg-branches-tags-3d52293ac0bf?source=rss------hadoop-5)
 - [The Heart of Big Data: Hadoop Distributed File System &lpar;HDFS&rpar;](https://medium.com/@roshmitadey/the-heart-of-big-data-hadoop-distributed-file-system-hdfs-b4b0e1de9ea7?source=rss------hadoop-5)
 - [50%+ Cut in Both Storage &amp; Compute Costs: Designing NetEase Games’ Cloud Big Data Platform](https://juicefs.medium.com/50-cut-in-both-storage-compute-costs-designing-netease-games-cloud-big-data-platform-a03e76d78f08?source=rss------hadoop-5)
 - [RDD Immutable](https://medium.com/@aatmajjanardanan/rdd-immutable-2b786f7fd9c3?source=rss------hadoop-5)
@@ -305,9 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Big Data Hadoop Online Course | Hadoop Big Data Course](https://medium.com/@madhusudhan.h2kinfosys/big-data-hadoop-online-course-hadoop-big-data-course-31ba43fe1696?source=rss------hadoop-5)
 - [Major Difference Between Spark and Hadoop](https://medium.com/@arpitpadwekar/major-difference-between-spark-and-hadoop-dfe75f664b70?source=rss------hadoop-5)
 - [Hadoop vs. Spark: Unraveling the Big Data Showdown](https://medium.com/@arvind.kale2018/hadoop-vs-spark-unraveling-the-big-data-showdown-fbad6eb4bf44?source=rss------hadoop-5)
-- [Unlocking the Power of Data: An Introduction to Hadoop](https://medium.com/@bragadeeshs/unlocking-the-power-of-data-an-introduction-to-hadoop-27cddc0d4f4a?source=rss------hadoop-5)
-- [Installer Hadoop sur MacBook puce silicone &lpar;M1 ou M2&rpar;](https://dimitriaigle.medium.com/installer-hadoop-sur-macbook-puce-silicone-m1-ou-m2-ec006e779e3f?source=rss------hadoop-5)
-- [5 Ways Hadoop Can Ease Your Big Data Woes | Blog | Sprinterra](https://medium.com/@sprinterra.seo/5-ways-hadoop-can-ease-your-big-data-woes-blog-sprinterra-578ae1355d2a?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
