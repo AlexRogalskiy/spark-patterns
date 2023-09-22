@@ -298,6 +298,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Apache Spark vs. Hadoop: Is Spark Set to Replace Hadoop?](https://medium.com/@mounika.polabathina/apache-spark-vs-hadoop-is-spark-set-to-replace-hadoop-95627bf218ad?source=rss------hadoop-5)
+- [Big Data Hadoop Training | H2KInfosys](https://medium.com/@madhusudhan.h2kinfosys/big-data-hadoop-training-h2kinfosys-4059ab481b8?source=rss------hadoop-5)
 - [Big Data Hadoop Online Course](https://medium.com/@madhusudhan.h2kinfosys/big-data-hadoop-online-course-3a096a88ff3a?source=rss------hadoop-5)
 - [Empowering Minds for the Data Revolution: Free Big Data Hadoop Online Course with Certification](https://medium.com/@BigDataCertificateCourseOnline/empowering-minds-for-the-data-revolution-free-big-data-hadoop-online-course-with-certification-24b85630885d?source=rss------hadoop-5)
 - [Navigating the Data Ocean: What Is Big Data Certification?](https://medium.com/@BigDataCertificateCourseOnline/navigating-the-data-ocean-what-is-big-data-certification-357d5aaeac8d?source=rss------hadoop-5)
@@ -306,8 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Apache Hadoop &lpar;HDFS -YARN- MapReduce&rpar; and Apache Hive Echosystem](https://medium.com/@mucagriaktas/apache-hadoop-hdfs-yarn-mapreduce-and-apache-hive-echosystem-64260f58309f?source=rss------hadoop-5)
 - [Apache Hive-4.x with Iceberg Branches &amp; Tags](https://medium.com/@ayushtkn/apache-hive-4-x-with-iceberg-branches-tags-3d52293ac0bf?source=rss------hadoop-5)
 - [The Heart of Big Data: Hadoop Distributed File System &lpar;HDFS&rpar;](https://medium.com/@roshmitadey/the-heart-of-big-data-hadoop-distributed-file-system-hdfs-b4b0e1de9ea7?source=rss------hadoop-5)
-- [50%+ Cut in Both Storage &amp; Compute Costs: Designing NetEase Games’ Cloud Big Data Platform](https://juicefs.medium.com/50-cut-in-both-storage-compute-costs-designing-netease-games-cloud-big-data-platform-a03e76d78f08?source=rss------hadoop-5)
-- [RDD Immutable](https://medium.com/@aatmajjanardanan/rdd-immutable-2b786f7fd9c3?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
