@@ -298,6 +298,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Apache Hive — Teorik-3](https://medium.com/@adem.ok624/apache-hive-teorik-3-cde8f0589d36?source=rss------hadoop-5)
+- [BigData Hadoop Online Training | H2KInfosys](https://medium.com/@madhusudhan.h2kinfosys/bigdata-hadoop-online-training-h2kinfosys-aa713654779d?source=rss------hadoop-5)
 - [Apache Spark vs. Hadoop: Is Spark Set to Replace Hadoop?](https://medium.com/@mounika.polabathina/apache-spark-vs-hadoop-is-spark-set-to-replace-hadoop-95627bf218ad?source=rss------hadoop-5)
 - [Big Data Hadoop Training | H2KInfosys](https://medium.com/@madhusudhan.h2kinfosys/big-data-hadoop-training-h2kinfosys-4059ab481b8?source=rss------hadoop-5)
 - [Big Data Hadoop Online Course](https://medium.com/@madhusudhan.h2kinfosys/big-data-hadoop-online-course-3a096a88ff3a?source=rss------hadoop-5)
@@ -306,8 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Harnessing the Power of Data: Exploring Big Data Courses](https://medium.com/@BigDataCertificateCourseOnline/harnessing-the-power-of-data-exploring-big-data-courses-ef16351b9041?source=rss------hadoop-5)
 - [Installing Hadoop on MacOS &lpar;M1/M2&rpar; : 2023](https://medium.com/@MinatoNamikaze02/installing-hadoop-on-macos-m1-m2-2023-d963abeab38e?source=rss------hadoop-5)
 - [Apache Hadoop &lpar;HDFS -YARN- MapReduce&rpar; and Apache Hive Echosystem](https://medium.com/@mucagriaktas/apache-hadoop-hdfs-yarn-mapreduce-and-apache-hive-echosystem-64260f58309f?source=rss------hadoop-5)
-- [Apache Hive-4.x with Iceberg Branches &amp; Tags](https://medium.com/@ayushtkn/apache-hive-4-x-with-iceberg-branches-tags-3d52293ac0bf?source=rss------hadoop-5)
-- [The Heart of Big Data: Hadoop Distributed File System &lpar;HDFS&rpar;](https://medium.com/@roshmitadey/the-heart-of-big-data-hadoop-distributed-file-system-hdfs-b4b0e1de9ea7?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
