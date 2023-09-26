@@ -298,6 +298,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Apache Sqoop Tutorial](https://medium.com/@traininghub.io/apache-sqoop-tutorial-88070641a083?source=rss------hadoop-5)
+- [Hadoop Big Data Online training 100% job Oriented at H2KInfosys](https://medium.com/@madhusudhan.h2kinfosys/hadoop-big-data-online-training-100-job-oriented-at-h2kinfosys-48cb255bd1b2?source=rss------hadoop-5)
 - [Apache Hive — Teorik-3](https://medium.com/@adem.ok624/apache-hive-teorik-3-cde8f0589d36?source=rss------hadoop-5)
 - [BigData Hadoop Online Training | H2KInfosys](https://medium.com/@madhusudhan.h2kinfosys/bigdata-hadoop-online-training-h2kinfosys-aa713654779d?source=rss------hadoop-5)
 - [Apache Spark vs. Hadoop: Is Spark Set to Replace Hadoop?](https://medium.com/@mounika.polabathina/apache-spark-vs-hadoop-is-spark-set-to-replace-hadoop-95627bf218ad?source=rss------hadoop-5)
@@ -306,8 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Empowering Minds for the Data Revolution: Free Big Data Hadoop Online Course with Certification](https://medium.com/@BigDataCertificateCourseOnline/empowering-minds-for-the-data-revolution-free-big-data-hadoop-online-course-with-certification-24b85630885d?source=rss------hadoop-5)
 - [Navigating the Data Ocean: What Is Big Data Certification?](https://medium.com/@BigDataCertificateCourseOnline/navigating-the-data-ocean-what-is-big-data-certification-357d5aaeac8d?source=rss------hadoop-5)
 - [Harnessing the Power of Data: Exploring Big Data Courses](https://medium.com/@BigDataCertificateCourseOnline/harnessing-the-power-of-data-exploring-big-data-courses-ef16351b9041?source=rss------hadoop-5)
-- [Installing Hadoop on MacOS &lpar;M1/M2&rpar; : 2023](https://medium.com/@MinatoNamikaze02/installing-hadoop-on-macos-m1-m2-2023-d963abeab38e?source=rss------hadoop-5)
-- [Apache Hadoop &lpar;HDFS -YARN- MapReduce&rpar; and Apache Hive Echosystem](https://medium.com/@mucagriaktas/apache-hadoop-hdfs-yarn-mapreduce-and-apache-hive-echosystem-64260f58309f?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
