@@ -298,16 +298,15 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Installing Hadoop on Windows 10](https://medium.com/@santhoshmirle88/installing-hadoop-single-node-cluster-on-windows-10-7525dce2d74e?source=rss------hadoop-5)
+- [HDFS NEDİR ?](https://melihaycicek.medium.com/hdfs-nedi%CC%87r-a58f8c2ac712?source=rss------hadoop-5)
+- [Big Data with Hadoop Course free with Certification at H2KInfosys](https://medium.com/@madhusudhan.h2kinfosys/big-data-with-hadoop-course-free-with-certification-at-h2kinfosys-c3dc48dcc511?source=rss------hadoop-5)
 - [Apache Sqoop Tutorial](https://medium.com/@traininghub.io/apache-sqoop-tutorial-88070641a083?source=rss------hadoop-5)
 - [Hadoop Big Data Online training 100% job Oriented at H2KInfosys](https://medium.com/@madhusudhan.h2kinfosys/hadoop-big-data-online-training-100-job-oriented-at-h2kinfosys-48cb255bd1b2?source=rss------hadoop-5)
 - [Apache Hive — Teorik-3](https://medium.com/@adem.ok624/apache-hive-teorik-3-cde8f0589d36?source=rss------hadoop-5)
 - [BigData Hadoop Online Training | H2KInfosys](https://medium.com/@madhusudhan.h2kinfosys/bigdata-hadoop-online-training-h2kinfosys-aa713654779d?source=rss------hadoop-5)
 - [Apache Spark vs. Hadoop: Is Spark Set to Replace Hadoop?](https://medium.com/@mounika.polabathina/apache-spark-vs-hadoop-is-spark-set-to-replace-hadoop-95627bf218ad?source=rss------hadoop-5)
 - [Big Data Hadoop Training | H2KInfosys](https://medium.com/@madhusudhan.h2kinfosys/big-data-hadoop-training-h2kinfosys-4059ab481b8?source=rss------hadoop-5)
-- [Big Data Hadoop Online Course](https://medium.com/@madhusudhan.h2kinfosys/big-data-hadoop-online-course-3a096a88ff3a?source=rss------hadoop-5)
-- [Empowering Minds for the Data Revolution: Free Big Data Hadoop Online Course with Certification](https://medium.com/@BigDataCertificateCourseOnline/empowering-minds-for-the-data-revolution-free-big-data-hadoop-online-course-with-certification-24b85630885d?source=rss------hadoop-5)
-- [Navigating the Data Ocean: What Is Big Data Certification?](https://medium.com/@BigDataCertificateCourseOnline/navigating-the-data-ocean-what-is-big-data-certification-357d5aaeac8d?source=rss------hadoop-5)
-- [Harnessing the Power of Data: Exploring Big Data Courses](https://medium.com/@BigDataCertificateCourseOnline/harnessing-the-power-of-data-exploring-big-data-courses-ef16351b9041?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
