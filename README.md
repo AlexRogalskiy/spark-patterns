@@ -298,6 +298,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [How to Design &amp; Maintain a High-Performing Data Pipeline](https://medium.com/agoda-engineering/how-to-design-maintain-a-high-performing-data-pipeline-63b1603b8e4a?source=rss------hadoop-5)
 - [Installing Hadoop on Windows 10](https://medium.com/@santhoshmirle88/installing-hadoop-single-node-cluster-on-windows-10-7525dce2d74e?source=rss------hadoop-5)
 - [HDFS NEDİR ?](https://melihaycicek.medium.com/hdfs-nedi%CC%87r-a58f8c2ac712?source=rss------hadoop-5)
 - [Big Data with Hadoop Course free with Certification at H2KInfosys](https://medium.com/@madhusudhan.h2kinfosys/big-data-with-hadoop-course-free-with-certification-at-h2kinfosys-c3dc48dcc511?source=rss------hadoop-5)
@@ -306,7 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Apache Hive — Teorik-3](https://medium.com/@adem.ok624/apache-hive-teorik-3-cde8f0589d36?source=rss------hadoop-5)
 - [BigData Hadoop Online Training | H2KInfosys](https://medium.com/@madhusudhan.h2kinfosys/bigdata-hadoop-online-training-h2kinfosys-aa713654779d?source=rss------hadoop-5)
 - [Apache Spark vs. Hadoop: Is Spark Set to Replace Hadoop?](https://medium.com/@mounika.polabathina/apache-spark-vs-hadoop-is-spark-set-to-replace-hadoop-95627bf218ad?source=rss------hadoop-5)
-- [Big Data Hadoop Training | H2KInfosys](https://medium.com/@madhusudhan.h2kinfosys/big-data-hadoop-training-h2kinfosys-4059ab481b8?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
