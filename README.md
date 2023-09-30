@@ -274,6 +274,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[PySpark] Convert epoch time in miliseconds to yyyy-MM-dd HH:mm:ss.SSS](https://www.reddit.com/r/spark/comments/16vman6/pyspark_convert_epoch_time_in_miliseconds_to/)
+- [Unix Time to yyyy-MM-dd HH:mm:ss.SSS](https://www.reddit.com/r/spark/comments/16v50ii/unix_time_to_yyyymmdd_hhmmsssss/)
 - [Tasks in Databricks&#39; Execution Plans?](https://www.reddit.com/r/spark/comments/16s9fck/tasks_in_databricks_execution_plans/)
 - [How to unsubscribe from mailing list newsletter ?](https://www.reddit.com/r/spark/comments/16lt3js/how_to_unsubscribe_from_mailing_list_newsletter/)
 - [Hiring cloud and full-stack devs $140k+/year](https://www.reddit.com/r/spark/comments/16kq2n9/hiring_cloud_and_fullstack_devs_140kyear/)
@@ -282,8 +284,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Help with Building a CI-CD with Apache Spark and ArgoCD](https://www.reddit.com/r/spark/comments/15w8vy7/help_with_building_a_cicd_with_apache_spark_and/)
 - [Check spark application status from web ui](https://www.reddit.com/r/spark/comments/1569tgd/check_spark_application_status_from_web_ui/)
 - [What&#39;s your take on &#39;earn by time&#39;? Earn by time vs. Earn by order](https://www.reddit.com/r/spark/comments/1541ccw/whats_your_take_on_earn_by_time_earn_by_time_vs/)
-- [Write Spark Dataframe to DynamoDB using Python](https://www.reddit.com/r/spark/comments/14yrwln/write_spark_dataframe_to_dynamodb_using_python/)
-- [The output of PYF.to_utc_timestamp for same value has changed and now shows 5 minutes less](https://www.reddit.com/r/spark/comments/14atlra/the_output_of_pyfto_utc_timestamp_for_same_value/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld Spark posts*
