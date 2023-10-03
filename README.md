@@ -320,6 +320,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop in real world posts*
 
 <!-- HADOOPINREALWORLD-POST-LIST:START -->
+- [How does a consumer know the offset to read after restart in Kafka?](https://www.bigdatainrealworld.com/how-does-a-consumer-know-the-offset-to-read-after-restart-in-kafka/)
 - [What is the default number of executors in Spark?](https://www.bigdatainrealworld.com/what-is-the-default-number-of-executors-in-spark/)
 - [What is the default number of cores and amount of memory allocated to an application in Spark?](https://www.bigdatainrealworld.com/what-is-the-default-number-of-cores-and-amount-of-memory-allocated-to-an-application-in-spark/)
 - [How to find the number of objects in an S3 bucket?](https://www.bigdatainrealworld.com/how-to-find-the-number-of-objects-in-an-s3-bucket/)
@@ -329,7 +330,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [What is the difference between client and cluster deploy modes in Spark?](https://www.bigdatainrealworld.com/what-is-the-difference-between-client-and-cluster-deploy-modes-in-spark/)
 - [Stream Processing vs. Message Processing: What’s the Difference?](https://www.bigdatainrealworld.com/stream-processing-vs-message-processing-whats-the-difference/)
 - [How to fix unassigned shards issue in Elasticsearch?](https://www.bigdatainrealworld.com/how-to-fix-unassigned-shards-issue-in-elasticsearch/)
-- [How to recursively upload a folder to S3 using AWS CLI?](https://www.bigdatainrealworld.com/how-to-recursively-upload-a-folder-to-s3-using-aws-cli/)
 <!-- HADOOPINREALWORLD-POST-LIST:END -->
 
 ### *Kognitio posts*
