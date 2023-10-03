@@ -298,6 +298,9 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Big Data with Hadoop | Big data hadoop administrator certification training](https://medium.com/@madhusudhan.h2kinfosys/big-data-with-hadoop-big-data-hadoop-administrator-certification-training-d5d991b798f2?source=rss------hadoop-5)
+- [Hive — Explain Command](https://tsaiprabhanj.medium.com/hive-explain-command-3f5810d7f6b4?source=rss------hadoop-5)
+- [Hive Acid Properties](https://tsaiprabhanj.medium.com/hive-acid-properties-4e7f0c2cf67b?source=rss------hadoop-5)
 - [Executors utilization between Map Reduce and Spark](https://tsaiprabhanj.medium.com/executors-utilization-between-map-reduce-and-spark-cf77db1dae3e?source=rss------hadoop-5)
 - [Essential Tips for Optimizing Apache Spark Queries — Part 2&lpar;Parquet Data Formats and Compression&rpar;…](https://medium.com/@tagnev.vengat/essential-tips-for-optimizing-apache-spark-queries-part-2-parquet-data-formats-and-compression-56dd1ad15e78?source=rss------hadoop-5)
 - [Get PDF Mastering Hadoop 3: Big data processing at scale to unlock unique business insights by…](https://medium.com/@t1x8q5lrmu/get-pdf-mastering-hadoop-3-big-data-processing-at-scale-to-unlock-unique-business-insights-by-731fc083a517?source=rss------hadoop-5)
@@ -305,9 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Seven Big Data Challenges and How to Solve Them](https://medium.com/@madhusudhan.h2kinfosys/seven-big-data-challenges-and-how-to-solve-them-af782eb3940f?source=rss------hadoop-5)
 - [HADOOP FOR SALES ANALYSIS AND BUDGET PLANNING](https://medium.com/@ayerumedv/hadoop-for-sales-analysis-and-budget-planning-3066f6903ee7?source=rss------hadoop-5)
 - [Big Data Hadoop Course Big Data Hadoop learning journey From Basics](https://medium.com/@madhusudhan.h2kinfosys/big-data-hadoop-course-big-data-hadoop-learning-journey-from-basics-10b754e2b051?source=rss------hadoop-5)
-- [How to Design &amp; Maintain a High-Performing Data Pipeline](https://medium.com/agoda-engineering/how-to-design-maintain-a-high-performing-data-pipeline-63b1603b8e4a?source=rss------hadoop-5)
-- [Installing Hadoop on Windows 10](https://medium.com/@santhoshmirle88/installing-hadoop-single-node-cluster-on-windows-10-7525dce2d74e?source=rss------hadoop-5)
-- [HDFS NEDİR ?](https://melihaycicek.medium.com/hdfs-nedi%CC%87r-a58f8c2ac712?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
