@@ -298,6 +298,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Top Rating Online Course on Big Data Hadoop | H2kinfosys](https://medium.com/@madhusudhan.h2kinfosys/top-rating-online-course-on-big-data-hadoop-h2kinfosys-11b48ede55fc?source=rss------hadoop-5)
+- [Open PDF Hadoop 2 Quick-Start Guide: Learn the Essentials of Big Data Computing in the Apache…](https://medium.com/@dorseybenjaminkonani/open-pdf-hadoop-2-quick-start-guide-learn-the-essentials-of-big-data-computing-in-the-apache-6659ecf0e769?source=rss------hadoop-5)
 - [Big Data with Hadoop | Big data hadoop administrator certification training](https://medium.com/@madhusudhan.h2kinfosys/big-data-with-hadoop-big-data-hadoop-administrator-certification-training-d5d991b798f2?source=rss------hadoop-5)
 - [Hive — Explain Command](https://tsaiprabhanj.medium.com/hive-explain-command-3f5810d7f6b4?source=rss------hadoop-5)
 - [Hive Acid Properties](https://tsaiprabhanj.medium.com/hive-acid-properties-4e7f0c2cf67b?source=rss------hadoop-5)
@@ -306,8 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Get PDF Mastering Hadoop 3: Big data processing at scale to unlock unique business insights by…](https://medium.com/@t1x8q5lrmu/get-pdf-mastering-hadoop-3-big-data-processing-at-scale-to-unlock-unique-business-insights-by-731fc083a517?source=rss------hadoop-5)
 - [Download pdf Hadoop BIG DATA Interview Questions You’ll Most Likely Be Asked &lpar;Job Interview…](https://medium.com/@j4y343g0r0/download-pdf-hadoop-big-data-interview-questions-youll-most-likely-be-asked-job-interview-b38332baa932?source=rss------hadoop-5)
 - [Seven Big Data Challenges and How to Solve Them](https://medium.com/@madhusudhan.h2kinfosys/seven-big-data-challenges-and-how-to-solve-them-af782eb3940f?source=rss------hadoop-5)
-- [HADOOP FOR SALES ANALYSIS AND BUDGET PLANNING](https://medium.com/@ayerumedv/hadoop-for-sales-analysis-and-budget-planning-3066f6903ee7?source=rss------hadoop-5)
-- [Big Data Hadoop Course Big Data Hadoop learning journey From Basics](https://medium.com/@madhusudhan.h2kinfosys/big-data-hadoop-course-big-data-hadoop-learning-journey-from-basics-10b754e2b051?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
