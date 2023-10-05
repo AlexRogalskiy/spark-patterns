@@ -298,6 +298,9 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [5 Ways Big Data is Transforming Industries and Decision-Making:](https://medium.com/@madhusudhan.h2kinfosys/5-ways-big-data-is-transforming-industries-and-decision-making-828092faf2f5?source=rss------hadoop-5)
+- [Big Data: Concepts, Technologies, and Workflow](https://medium.com/@bijayjenaofficial/big-data-concepts-technologies-and-workflow-786b03c6a678?source=rss------hadoop-5)
+- [Apache HBase vs Redis: сходства и различия, варианты использования](https://medium.com/@bigdataschool/apache-hbase-vs-redis-%D1%81%D1%85%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B0-%D0%B8-%D1%80%D0%B0%D0%B7%D0%BB%D0%B8%D1%87%D0%B8%D1%8F-%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-79bd30e8c5a4?source=rss------hadoop-5)
 - [Top Rating Online Course on Big Data Hadoop | H2kinfosys](https://medium.com/@madhusudhan.h2kinfosys/top-rating-online-course-on-big-data-hadoop-h2kinfosys-11b48ede55fc?source=rss------hadoop-5)
 - [Open PDF Hadoop 2 Quick-Start Guide: Learn the Essentials of Big Data Computing in the Apache…](https://medium.com/@dorseybenjaminkonani/open-pdf-hadoop-2-quick-start-guide-learn-the-essentials-of-big-data-computing-in-the-apache-6659ecf0e769?source=rss------hadoop-5)
 - [Big Data with Hadoop | Big data hadoop administrator certification training](https://medium.com/@madhusudhan.h2kinfosys/big-data-with-hadoop-big-data-hadoop-administrator-certification-training-d5d991b798f2?source=rss------hadoop-5)
@@ -305,9 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Hive Acid Properties](https://tsaiprabhanj.medium.com/hive-acid-properties-4e7f0c2cf67b?source=rss------hadoop-5)
 - [Executors utilization between Map Reduce and Spark](https://tsaiprabhanj.medium.com/executors-utilization-between-map-reduce-and-spark-cf77db1dae3e?source=rss------hadoop-5)
 - [Essential Tips for Optimizing Apache Spark Queries — Part 2&lpar;Parquet Data Formats and Compression&rpar;…](https://medium.com/@tagnev.vengat/essential-tips-for-optimizing-apache-spark-queries-part-2-parquet-data-formats-and-compression-56dd1ad15e78?source=rss------hadoop-5)
-- [Get PDF Mastering Hadoop 3: Big data processing at scale to unlock unique business insights by…](https://medium.com/@t1x8q5lrmu/get-pdf-mastering-hadoop-3-big-data-processing-at-scale-to-unlock-unique-business-insights-by-731fc083a517?source=rss------hadoop-5)
-- [Download pdf Hadoop BIG DATA Interview Questions You’ll Most Likely Be Asked &lpar;Job Interview…](https://medium.com/@j4y343g0r0/download-pdf-hadoop-big-data-interview-questions-youll-most-likely-be-asked-job-interview-b38332baa932?source=rss------hadoop-5)
-- [Seven Big Data Challenges and How to Solve Them](https://medium.com/@madhusudhan.h2kinfosys/seven-big-data-challenges-and-how-to-solve-them-af782eb3940f?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
