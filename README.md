@@ -298,6 +298,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Big Data Hadoop Training and Placement at H2KInfosys](https://medium.com/@madhusudhan.h2kinfosys/big-data-hadoop-training-and-placement-at-h2kinfosys-4e9a574252d9?source=rss------hadoop-5)
 - [5 Ways Big Data is Transforming Industries and Decision-Making:](https://medium.com/@madhusudhan.h2kinfosys/5-ways-big-data-is-transforming-industries-and-decision-making-828092faf2f5?source=rss------hadoop-5)
 - [Big Data: Concepts, Technologies, and Workflow](https://medium.com/@bijayjenaofficial/big-data-concepts-technologies-and-workflow-786b03c6a678?source=rss------hadoop-5)
 - [Apache HBase vs Redis: сходства и различия, варианты использования](https://medium.com/@bigdataschool/apache-hbase-vs-redis-%D1%81%D1%85%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B0-%D0%B8-%D1%80%D0%B0%D0%B7%D0%BB%D0%B8%D1%87%D0%B8%D1%8F-%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-79bd30e8c5a4?source=rss------hadoop-5)
@@ -307,7 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Hive — Explain Command](https://tsaiprabhanj.medium.com/hive-explain-command-3f5810d7f6b4?source=rss------hadoop-5)
 - [Hive Acid Properties](https://tsaiprabhanj.medium.com/hive-acid-properties-4e7f0c2cf67b?source=rss------hadoop-5)
 - [Executors utilization between Map Reduce and Spark](https://tsaiprabhanj.medium.com/executors-utilization-between-map-reduce-and-spark-cf77db1dae3e?source=rss------hadoop-5)
-- [Essential Tips for Optimizing Apache Spark Queries — Part 2&lpar;Parquet Data Formats and Compression&rpar;…](https://medium.com/@tagnev.vengat/essential-tips-for-optimizing-apache-spark-queries-part-2-parquet-data-formats-and-compression-56dd1ad15e78?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
