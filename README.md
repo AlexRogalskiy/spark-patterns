@@ -298,6 +298,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Bigdata, Hadoop &amp; Spark With Python, and Pyspark](https://medium.com/@rana.akansha321/bigdata-hadoop-spark-with-python-and-pyspark-ef008eb74b63?source=rss------hadoop-5)
 - [Big Data Hadoop Training and Placement at H2KInfosys](https://medium.com/@madhusudhan.h2kinfosys/big-data-hadoop-training-and-placement-at-h2kinfosys-4e9a574252d9?source=rss------hadoop-5)
 - [5 Ways Big Data is Transforming Industries and Decision-Making:](https://medium.com/@madhusudhan.h2kinfosys/5-ways-big-data-is-transforming-industries-and-decision-making-828092faf2f5?source=rss------hadoop-5)
 - [Big Data: Concepts, Technologies, and Workflow](https://medium.com/@bijayjenaofficial/big-data-concepts-technologies-and-workflow-786b03c6a678?source=rss------hadoop-5)
@@ -307,7 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Big Data with Hadoop | Big data hadoop administrator certification training](https://medium.com/@madhusudhan.h2kinfosys/big-data-with-hadoop-big-data-hadoop-administrator-certification-training-d5d991b798f2?source=rss------hadoop-5)
 - [Hive — Explain Command](https://tsaiprabhanj.medium.com/hive-explain-command-3f5810d7f6b4?source=rss------hadoop-5)
 - [Hive Acid Properties](https://tsaiprabhanj.medium.com/hive-acid-properties-4e7f0c2cf67b?source=rss------hadoop-5)
-- [Executors utilization between Map Reduce and Spark](https://tsaiprabhanj.medium.com/executors-utilization-between-map-reduce-and-spark-cf77db1dae3e?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
