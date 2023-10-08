@@ -298,6 +298,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Costs Cut &amp; Ops Efficiency Boosted: Switching to a Big Data Storage-Compute Decoupled Architecture](https://juicefs.medium.com/costs-cut-ops-efficiency-boosted-switching-to-a-big-data-storage-compute-decoupled-architecture-cb7282873f46?source=rss------hadoop-5)
 - [Bigdata, Hadoop &amp; Spark With Python, and Pyspark](https://medium.com/@rana.akansha321/bigdata-hadoop-spark-with-python-and-pyspark-ef008eb74b63?source=rss------hadoop-5)
 - [Big Data Hadoop Training and Placement at H2KInfosys](https://medium.com/@madhusudhan.h2kinfosys/big-data-hadoop-training-and-placement-at-h2kinfosys-4e9a574252d9?source=rss------hadoop-5)
 - [5 Ways Big Data is Transforming Industries and Decision-Making:](https://medium.com/@madhusudhan.h2kinfosys/5-ways-big-data-is-transforming-industries-and-decision-making-828092faf2f5?source=rss------hadoop-5)
@@ -307,7 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Open PDF Hadoop 2 Quick-Start Guide: Learn the Essentials of Big Data Computing in the Apache…](https://medium.com/@dorseybenjaminkonani/open-pdf-hadoop-2-quick-start-guide-learn-the-essentials-of-big-data-computing-in-the-apache-6659ecf0e769?source=rss------hadoop-5)
 - [Big Data with Hadoop | Big data hadoop administrator certification training](https://medium.com/@madhusudhan.h2kinfosys/big-data-with-hadoop-big-data-hadoop-administrator-certification-training-d5d991b798f2?source=rss------hadoop-5)
 - [Hive — Explain Command](https://tsaiprabhanj.medium.com/hive-explain-command-3f5810d7f6b4?source=rss------hadoop-5)
-- [Hive Acid Properties](https://tsaiprabhanj.medium.com/hive-acid-properties-4e7f0c2cf67b?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
