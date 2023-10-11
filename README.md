@@ -298,6 +298,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Data Science Project Tutorial: Sentiment Analysis with Hadoop and Python](https://medium.com/@dipomari/data-science-project-tutorial-sentiment-analysis-with-hadoop-and-python-b6caa0fb1693?source=rss------hadoop-5)
+- [Big Data Hadoop Online Course](https://medium.com/@madhusudhan.h2kinfosys/big-data-hadoop-online-course-c94b5b5d3c47?source=rss------hadoop-5)
 - [Hadoop Big Data Certification | Online Training Course](https://medium.com/@madhusudhan.h2kinfosys/hadoop-big-data-certification-online-training-course-280bc251b2c9?source=rss------hadoop-5)
 - [Apache Hive: Data warehousing in Hadoop under batching framework](https://fahadthedatascientist.medium.com/apache-hive-data-warehousing-in-hadoop-under-batching-framework-5b393cecce91?source=rss------hadoop-5)
 - [Hadoop: Architecture, Components, and Cloud Services](https://fahadthedatascientist.medium.com/hadoop-architecture-components-and-cloud-services-479648306590?source=rss------hadoop-5)
@@ -306,8 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Big Data Hadoop Training and Placement at H2KInfosys](https://medium.com/@madhusudhan.h2kinfosys/big-data-hadoop-training-and-placement-at-h2kinfosys-4e9a574252d9?source=rss------hadoop-5)
 - [5 Ways Big Data is Transforming Industries and Decision-Making:](https://medium.com/@madhusudhan.h2kinfosys/5-ways-big-data-is-transforming-industries-and-decision-making-828092faf2f5?source=rss------hadoop-5)
 - [Big Data: Concepts, Technologies, and Workflow](https://medium.com/@bijayjenaofficial/big-data-concepts-technologies-and-workflow-786b03c6a678?source=rss------hadoop-5)
-- [Apache HBase vs Redis: сходства и различия, варианты использования](https://medium.com/@bigdataschool/apache-hbase-vs-redis-%D1%81%D1%85%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B0-%D0%B8-%D1%80%D0%B0%D0%B7%D0%BB%D0%B8%D1%87%D0%B8%D1%8F-%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-79bd30e8c5a4?source=rss------hadoop-5)
-- [Top Rating Online Course on Big Data Hadoop | H2kinfosys](https://medium.com/@madhusudhan.h2kinfosys/top-rating-online-course-on-big-data-hadoop-h2kinfosys-11b48ede55fc?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
