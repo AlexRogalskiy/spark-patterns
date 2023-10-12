@@ -298,6 +298,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [The working of Internal and External tables in Hive](https://medium.com/@krishg2k4/the-working-of-internal-and-external-tables-in-hive-70e7b2c90c2?source=rss------hadoop-5)
 - [Data Science Project Tutorial: Sentiment Analysis with Hadoop and Python](https://medium.com/@dipomari/data-science-project-tutorial-sentiment-analysis-with-hadoop-and-python-b6caa0fb1693?source=rss------hadoop-5)
 - [Big Data Hadoop Online Course](https://medium.com/@madhusudhan.h2kinfosys/big-data-hadoop-online-course-c94b5b5d3c47?source=rss------hadoop-5)
 - [Hadoop Big Data Certification | Online Training Course](https://medium.com/@madhusudhan.h2kinfosys/hadoop-big-data-certification-online-training-course-280bc251b2c9?source=rss------hadoop-5)
@@ -307,7 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Bigdata, Hadoop &amp; Spark With Python, and Pyspark](https://medium.com/@rana.akansha321/bigdata-hadoop-spark-with-python-and-pyspark-ef008eb74b63?source=rss------hadoop-5)
 - [Big Data Hadoop Training and Placement at H2KInfosys](https://medium.com/@madhusudhan.h2kinfosys/big-data-hadoop-training-and-placement-at-h2kinfosys-4e9a574252d9?source=rss------hadoop-5)
 - [5 Ways Big Data is Transforming Industries and Decision-Making:](https://medium.com/@madhusudhan.h2kinfosys/5-ways-big-data-is-transforming-industries-and-decision-making-828092faf2f5?source=rss------hadoop-5)
-- [Big Data: Concepts, Technologies, and Workflow](https://medium.com/@bijayjenaofficial/big-data-concepts-technologies-and-workflow-786b03c6a678?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
