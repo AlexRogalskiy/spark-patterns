@@ -298,16 +298,16 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Hadoop](https://medium.com/@bysanitribhuvan/hadoop-10a2f1e9eb38?source=rss------hadoop-5)
+- [What is Hadoop and Why Is It Essential for Big Data Processing?](https://medium.com/@madhusudhan.h2kinfosys/what-is-hadoop-and-why-is-it-essential-for-big-data-processing-2d3870610251?source=rss------hadoop-5)
+- [The Power of HBase](https://patilharshal281999.medium.com/the-power-of-hbase-4fc60def255a?source=rss------hadoop-5)
+- [Download Apache Hadoop YARN: Moving beyond MapReduce and Batch Processing with Apache Hadoop 2…](https://medium.com/@kimdurnazmyahbll/download-apache-hadoop-yarn-moving-beyond-mapreduce-and-batch-processing-with-apache-hadoop-2-8809ebaaf924?source=rss------hadoop-5)
 - [The working of Internal and External tables in Hive](https://medium.com/@krishg2k4/the-working-of-internal-and-external-tables-in-hive-70e7b2c90c2?source=rss------hadoop-5)
 - [Data Science Project Tutorial: Sentiment Analysis with Hadoop and Python](https://medium.com/@dipomari/data-science-project-tutorial-sentiment-analysis-with-hadoop-and-python-b6caa0fb1693?source=rss------hadoop-5)
 - [Big Data Hadoop Online Course](https://medium.com/@madhusudhan.h2kinfosys/big-data-hadoop-online-course-c94b5b5d3c47?source=rss------hadoop-5)
 - [Hadoop Big Data Certification | Online Training Course](https://medium.com/@madhusudhan.h2kinfosys/hadoop-big-data-certification-online-training-course-280bc251b2c9?source=rss------hadoop-5)
 - [Apache Hive: Data warehousing in Hadoop under batching framework](https://fahadthedatascientist.medium.com/apache-hive-data-warehousing-in-hadoop-under-batching-framework-5b393cecce91?source=rss------hadoop-5)
 - [Hadoop: Architecture, Components, and Cloud Services](https://fahadthedatascientist.medium.com/hadoop-architecture-components-and-cloud-services-479648306590?source=rss------hadoop-5)
-- [Costs Cut &amp; Ops Efficiency Boosted: Switching to a Big Data Storage-Compute Decoupled Architecture](https://juicefs.medium.com/costs-cut-ops-efficiency-boosted-switching-to-a-big-data-storage-compute-decoupled-architecture-cb7282873f46?source=rss------hadoop-5)
-- [Bigdata, Hadoop &amp; Spark With Python, and Pyspark](https://medium.com/@rana.akansha321/bigdata-hadoop-spark-with-python-and-pyspark-ef008eb74b63?source=rss------hadoop-5)
-- [Big Data Hadoop Training and Placement at H2KInfosys](https://medium.com/@madhusudhan.h2kinfosys/big-data-hadoop-training-and-placement-at-h2kinfosys-4e9a574252d9?source=rss------hadoop-5)
-- [5 Ways Big Data is Transforming Industries and Decision-Making:](https://medium.com/@madhusudhan.h2kinfosys/5-ways-big-data-is-transforming-industries-and-decision-making-828092faf2f5?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
