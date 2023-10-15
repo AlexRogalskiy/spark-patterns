@@ -298,6 +298,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [OLAP-Oriented Databases for Big Data Environments](https://blog.tdg.international/olap-oriented-databases-for-big-data-environments-141edb34e55b?source=rss------hadoop-5)
+- [Unlocking the Power of Spark on Kubernetes with Apache YuniKorn](https://medium.com/engineering-cloudera/unlocking-the-power-of-spark-on-kubernetes-with-apache-yunikorn-7ffeea46cdd7?source=rss------hadoop-5)
 - [Hadoop Training in Hyderabad](https://medium.com/@dakkumallavinesh/hadoop-training-in-hyderabad-3afd0483a086?source=rss------hadoop-5)
 - [Hadoop and Big Data at H2K Infosys](https://medium.com/@madhusudhan.h2kinfosys/hadoop-and-big-data-at-h2k-infosys-c777d42cf8b0?source=rss------hadoop-5)
 - [Spark/Hadoop performance tuning. ElapsedTime Vs Vcoreseconds](https://bhanuandchandra.medium.com/spark-hadoop-performance-tuning-elapsedtime-vs-vcoreseconds-6be66608bafe?source=rss------hadoop-5)
@@ -306,8 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [The Power of HBase](https://patilharshal281999.medium.com/the-power-of-hbase-4fc60def255a?source=rss------hadoop-5)
 - [Download Apache Hadoop YARN: Moving beyond MapReduce and Batch Processing with Apache Hadoop 2…](https://medium.com/@kimdurnazmyahbll/download-apache-hadoop-yarn-moving-beyond-mapreduce-and-batch-processing-with-apache-hadoop-2-8809ebaaf924?source=rss------hadoop-5)
 - [The working of Internal and External tables in Hive](https://medium.com/@krishg2k4/the-working-of-internal-and-external-tables-in-hive-70e7b2c90c2?source=rss------hadoop-5)
-- [Data Science Project Tutorial: Sentiment Analysis with Hadoop and Python](https://medium.com/@dipomari/data-science-project-tutorial-sentiment-analysis-with-hadoop-and-python-b6caa0fb1693?source=rss------hadoop-5)
-- [Big Data Hadoop Online Course](https://medium.com/@madhusudhan.h2kinfosys/big-data-hadoop-online-course-c94b5b5d3c47?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
