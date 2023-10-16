@@ -298,6 +298,9 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [HDFS — File Deletion Internals](https://tsaiprabhanj.medium.com/hdfs-file-deletion-internals-902af3d08c7b?source=rss------hadoop-5)
+- [Hive — Handle 1000s of connections to hive metastore](https://tsaiprabhanj.medium.com/hive-handle-1000s-of-connections-to-hive-metastore-3030a287a10a?source=rss------hadoop-5)
+- [Spark Submit : Optimize Your Resources](https://medium.com/@mayuransivasothy/spark-submit-optimize-your-resources-1886865dde67?source=rss------hadoop-5)
 - [OLAP-Oriented Databases for Big Data Environments](https://blog.tdg.international/olap-oriented-databases-for-big-data-environments-141edb34e55b?source=rss------hadoop-5)
 - [Unlocking the Power of Spark on Kubernetes with Apache YuniKorn](https://medium.com/engineering-cloudera/unlocking-the-power-of-spark-on-kubernetes-with-apache-yunikorn-7ffeea46cdd7?source=rss------hadoop-5)
 - [Hadoop Training in Hyderabad](https://medium.com/@dakkumallavinesh/hadoop-training-in-hyderabad-3afd0483a086?source=rss------hadoop-5)
@@ -305,9 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Spark/Hadoop performance tuning. ElapsedTime Vs Vcoreseconds](https://bhanuandchandra.medium.com/spark-hadoop-performance-tuning-elapsedtime-vs-vcoreseconds-6be66608bafe?source=rss------hadoop-5)
 - [Hadoop](https://medium.com/@bysanitribhuvan/hadoop-10a2f1e9eb38?source=rss------hadoop-5)
 - [What is Hadoop and Why Is It Essential for Big Data Processing?](https://medium.com/@madhusudhan.h2kinfosys/what-is-hadoop-and-why-is-it-essential-for-big-data-processing-2d3870610251?source=rss------hadoop-5)
-- [The Power of HBase](https://patilharshal281999.medium.com/the-power-of-hbase-4fc60def255a?source=rss------hadoop-5)
-- [Download Apache Hadoop YARN: Moving beyond MapReduce and Batch Processing with Apache Hadoop 2…](https://medium.com/@kimdurnazmyahbll/download-apache-hadoop-yarn-moving-beyond-mapreduce-and-batch-processing-with-apache-hadoop-2-8809ebaaf924?source=rss------hadoop-5)
-- [The working of Internal and External tables in Hive](https://medium.com/@krishg2k4/the-working-of-internal-and-external-tables-in-hive-70e7b2c90c2?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
