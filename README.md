@@ -298,16 +298,16 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Hadoop’s HDFS: A Comprehensive Guide](https://medium.com/@sjasmeet135/hadoops-hdfs-a-comprehensive-guide-da6bafb76b73?source=rss------hadoop-5)
+- [Hadoop and Big Data Online Course](https://medium.com/@madhusudhan.h2kinfosys/hadoop-and-big-data-online-course-fe7812a0273c?source=rss------hadoop-5)
+- [Informatica Training in Hyderabad](https://medium.com/@mysession.221/informatica-training-in-hyderabad-aaaf1b68f61e?source=rss------hadoop-5)
+- [Apache Hadoop and Data Lakes](https://blog.tdg.international/apache-hadoop-and-data-lakes-586c22e8b001?source=rss------hadoop-5)
 - [Big Data and Data Science — Data Lake](https://blog.tdg.international/big-data-and-data-science-data-lake-00e6f32d782a?source=rss------hadoop-5)
 - [New Features in Apache Spark 3.5](https://medium.com/@sounder.rahul/new-features-in-apache-spark-3-5-c5c8c3f8f8c6?source=rss------hadoop-5)
 - [Big Data vs. Traditional Data Analysis: Key Differences](https://medium.com/@madhusudhan.h2kinfosys/big-data-vs-traditional-data-analysis-key-differences-90e89cb6e992?source=rss------hadoop-5)
 - [Open PDF Book Kindle Hadoop 2 Quick-Start Guide: Learn the Essentials of Big Data Computing in the…](https://medium.com/@willigenartemeleftheria/open-pdf-book-kindle-hadoop-2-quick-start-guide-learn-the-essentials-of-big-data-computing-in-the-ce7b19ce7c17?source=rss------hadoop-5)
 - [HDFS — File Deletion Internals](https://tsaiprabhanj.medium.com/hdfs-file-deletion-internals-902af3d08c7b?source=rss------hadoop-5)
 - [Hive — Handle 1000s of connections to hive metastore](https://tsaiprabhanj.medium.com/hive-handle-1000s-of-connections-to-hive-metastore-3030a287a10a?source=rss------hadoop-5)
-- [Spark Submit : Optimize Your Resources](https://medium.com/@mayuransivasothy/spark-submit-optimize-your-resources-1886865dde67?source=rss------hadoop-5)
-- [OLAP-Oriented Databases for Big Data Environments](https://blog.tdg.international/olap-oriented-databases-for-big-data-environments-141edb34e55b?source=rss------hadoop-5)
-- [Unlocking the Power of Spark on Kubernetes with Apache YuniKorn](https://medium.com/engineering-cloudera/unlocking-the-power-of-spark-on-kubernetes-with-apache-yunikorn-7ffeea46cdd7?source=rss------hadoop-5)
-- [Hadoop Training in Hyderabad](https://medium.com/@dakkumallavinesh/hadoop-training-in-hyderabad-3afd0483a086?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
