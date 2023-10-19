@@ -298,6 +298,9 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Resilience in Action: Managing Temporary and Permanent Failures in HDFS](https://medium.com/@sjasmeet135/resilience-in-action-managing-temporary-and-permanent-failures-in-hdfs-91c07d63aecb?source=rss------hadoop-5)
+- [Big Data Hadoop Developer Course at H2KInfosys](https://medium.com/@madhusudhan.h2kinfosys/big-data-hadoop-developer-course-at-h2kinfosys-e425cfc80615?source=rss------hadoop-5)
+- [Hadoop , Hive, Python and Azkaban Scheduler &lpar;Data Pipeline Automation Part 1&rpar;](https://tariqul-islam-rony.medium.com/hadoop-hive-python-and-azkaban-scheduler-data-pipeline-automation-part-1-11f97168115e?source=rss------hadoop-5)
 - [Hadoop’s HDFS: A Comprehensive Guide](https://medium.com/@sjasmeet135/hadoops-hdfs-a-comprehensive-guide-da6bafb76b73?source=rss------hadoop-5)
 - [Hadoop and Big Data Online Course](https://medium.com/@madhusudhan.h2kinfosys/hadoop-and-big-data-online-course-fe7812a0273c?source=rss------hadoop-5)
 - [Informatica Training in Hyderabad](https://medium.com/@mysession.221/informatica-training-in-hyderabad-aaaf1b68f61e?source=rss------hadoop-5)
@@ -305,9 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Big Data and Data Science — Data Lake](https://blog.tdg.international/big-data-and-data-science-data-lake-00e6f32d782a?source=rss------hadoop-5)
 - [New Features in Apache Spark 3.5](https://medium.com/@sounder.rahul/new-features-in-apache-spark-3-5-c5c8c3f8f8c6?source=rss------hadoop-5)
 - [Big Data vs. Traditional Data Analysis: Key Differences](https://medium.com/@madhusudhan.h2kinfosys/big-data-vs-traditional-data-analysis-key-differences-90e89cb6e992?source=rss------hadoop-5)
-- [Open PDF Book Kindle Hadoop 2 Quick-Start Guide: Learn the Essentials of Big Data Computing in the…](https://medium.com/@willigenartemeleftheria/open-pdf-book-kindle-hadoop-2-quick-start-guide-learn-the-essentials-of-big-data-computing-in-the-ce7b19ce7c17?source=rss------hadoop-5)
-- [HDFS — File Deletion Internals](https://tsaiprabhanj.medium.com/hdfs-file-deletion-internals-902af3d08c7b?source=rss------hadoop-5)
-- [Hive — Handle 1000s of connections to hive metastore](https://tsaiprabhanj.medium.com/hive-handle-1000s-of-connections-to-hive-metastore-3030a287a10a?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
