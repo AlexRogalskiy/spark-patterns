@@ -299,16 +299,15 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Big Data and Hadoop at H2K Infosys](https://medium.com/@leoanthony1090/big-data-and-hadoop-at-h2k-infosys-3c7c1c998638?source=rss------hadoop-5)
+- [Apache HBase vs Google BigTable: сходства и различия, варианты использования](https://medium.com/@bigdataschool/apache-hbase-vs-google-bigtable-%D1%81%D1%85%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B0-%D0%B8-%D1%80%D0%B0%D0%B7%D0%BB%D0%B8%D1%87%D0%B8%D1%8F-%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-9be3521d475e?source=rss------hadoop-5)
+- [Using Apache Hadoop for first time.](https://medium.com/@wilson4rodriguez/using-apache-hadoop-for-first-time-2a392d0534bb?source=rss------hadoop-5)
 - [Resilience in Action: Managing Temporary and Permanent Failures in HDFS](https://medium.com/@sjasmeet135/resilience-in-action-managing-temporary-and-permanent-failures-in-hdfs-91c07d63aecb?source=rss------hadoop-5)
 - [Big Data Hadoop Developer Course at H2KInfosys](https://medium.com/@madhusudhan.h2kinfosys/big-data-hadoop-developer-course-at-h2kinfosys-e425cfc80615?source=rss------hadoop-5)
 - [Hadoop , Hive, Python and Azkaban Scheduler &lpar;Data Pipeline Automation Part 1&rpar;](https://tariqul-islam-rony.medium.com/hadoop-hive-python-and-azkaban-scheduler-data-pipeline-automation-part-1-11f97168115e?source=rss------hadoop-5)
 - [Hadoop’s HDFS: A Comprehensive Guide](https://medium.com/@sjasmeet135/hadoops-hdfs-a-comprehensive-guide-da6bafb76b73?source=rss------hadoop-5)
 - [Hadoop and Big Data Online Course](https://medium.com/@madhusudhan.h2kinfosys/hadoop-and-big-data-online-course-fe7812a0273c?source=rss------hadoop-5)
 - [Informatica Training in Hyderabad](https://medium.com/@mysession.221/informatica-training-in-hyderabad-aaaf1b68f61e?source=rss------hadoop-5)
-- [Apache Hadoop and Data Lakes](https://blog.tdg.international/apache-hadoop-and-data-lakes-586c22e8b001?source=rss------hadoop-5)
-- [Big Data and Data Science — Data Lake](https://blog.tdg.international/big-data-and-data-science-data-lake-00e6f32d782a?source=rss------hadoop-5)
-- [New Features in Apache Spark 3.5](https://medium.com/@sounder.rahul/new-features-in-apache-spark-3-5-c5c8c3f8f8c6?source=rss------hadoop-5)
-- [Big Data vs. Traditional Data Analysis: Key Differences](https://medium.com/@madhusudhan.h2kinfosys/big-data-vs-traditional-data-analysis-key-differences-90e89cb6e992?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
