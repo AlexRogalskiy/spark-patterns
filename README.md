@@ -299,6 +299,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Mastering Sqoop in 2024: A Complete Guide for Data Engineers](https://blog.brilliantprogrammer.com/mastering-sqoop-in-2024-a-complete-guide-for-data-engineers-c7536f0c7369?source=rss------hadoop-5)
 - [Apache Spark with HDFS, HIVE and Hadoop &lpar;Code Practice Part 1&rpar;](https://tariqul-islam-rony.medium.com/apache-spark-with-hdfs-hive-and-hadoop-code-practice-part-1-7ad9b91b5afa?source=rss------hadoop-5)
 - [Analyzing data with UNIX and Hadoop](https://medium.com/@abdul.munafff/analyzing-data-with-unix-and-hadoop-d654f7faee22?source=rss------hadoop-5)
 - [Big Data and Hadoop at H2K Infosys](https://medium.com/@leoanthony1090/big-data-and-hadoop-at-h2k-infosys-3c7c1c998638?source=rss------hadoop-5)
@@ -307,7 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Resilience in Action: Managing Temporary and Permanent Failures in HDFS](https://medium.com/@sjasmeet135/resilience-in-action-managing-temporary-and-permanent-failures-in-hdfs-91c07d63aecb?source=rss------hadoop-5)
 - [Big Data Hadoop Developer Course at H2KInfosys](https://medium.com/@madhusudhan.h2kinfosys/big-data-hadoop-developer-course-at-h2kinfosys-e425cfc80615?source=rss------hadoop-5)
 - [Hadoop , Hive, Python and Azkaban Scheduler &lpar;Data Pipeline Automation Part 1&rpar;](https://tariqul-islam-rony.medium.com/hadoop-hive-python-and-azkaban-scheduler-data-pipeline-automation-part-1-11f97168115e?source=rss------hadoop-5)
-- [Hadoop’s HDFS: A Comprehensive Guide](https://medium.com/@sjasmeet135/hadoops-hdfs-a-comprehensive-guide-da6bafb76b73?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
