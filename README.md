@@ -299,15 +299,15 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Hadoop Architecture](https://brindapotluri.medium.com/hadoop-architecture-a2406b081cb6?source=rss------hadoop-5)
+- [Navigating Big Data: Unveiling the Potential of MapReduce in Hadoop](https://medium.com/@sjasmeet135/navigating-big-data-unveiling-the-potential-of-mapreduce-in-hadoop-606fb1250f39?source=rss------hadoop-5)
+- [Mastering Big Data with Hadoop Course at H2KInfosys](https://medium.com/@leoanthony1090/mastering-big-data-with-hadoop-course-at-h2kinfosys-fefd356cbcad?source=rss------hadoop-5)
+- [Difference between HDFS and Spark](https://medium.com/@sanjeevk20/difference-between-hdfs-and-spark-50548d2e7d06?source=rss------hadoop-5)
 - [Mastering Sqoop in 2024: A Complete Guide for Data Engineers](https://blog.brilliantprogrammer.com/mastering-sqoop-in-2024-a-complete-guide-for-data-engineers-c7536f0c7369?source=rss------hadoop-5)
 - [Apache Spark with HDFS, HIVE and Hadoop &lpar;Code Practice Part 1&rpar;](https://tariqul-islam-rony.medium.com/apache-spark-with-hdfs-hive-and-hadoop-code-practice-part-1-7ad9b91b5afa?source=rss------hadoop-5)
 - [Analyzing data with UNIX and Hadoop](https://medium.com/@abdul.munafff/analyzing-data-with-unix-and-hadoop-d654f7faee22?source=rss------hadoop-5)
 - [Big Data and Hadoop at H2K Infosys](https://medium.com/@leoanthony1090/big-data-and-hadoop-at-h2k-infosys-3c7c1c998638?source=rss------hadoop-5)
 - [Apache HBase vs Google BigTable: сходства и различия, варианты использования](https://medium.com/@bigdataschool/apache-hbase-vs-google-bigtable-%D1%81%D1%85%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B0-%D0%B8-%D1%80%D0%B0%D0%B7%D0%BB%D0%B8%D1%87%D0%B8%D1%8F-%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-9be3521d475e?source=rss------hadoop-5)
-- [Using Apache Hadoop for first time.](https://medium.com/@wilson4rodriguez/using-apache-hadoop-for-first-time-2a392d0534bb?source=rss------hadoop-5)
-- [Resilience in Action: Managing Temporary and Permanent Failures in HDFS](https://medium.com/@sjasmeet135/resilience-in-action-managing-temporary-and-permanent-failures-in-hdfs-91c07d63aecb?source=rss------hadoop-5)
-- [Big Data Hadoop Developer Course at H2KInfosys](https://medium.com/@madhusudhan.h2kinfosys/big-data-hadoop-developer-course-at-h2kinfosys-e425cfc80615?source=rss------hadoop-5)
-- [Hadoop , Hive, Python and Azkaban Scheduler &lpar;Data Pipeline Automation Part 1&rpar;](https://tariqul-islam-rony.medium.com/hadoop-hive-python-and-azkaban-scheduler-data-pipeline-automation-part-1-11f97168115e?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
