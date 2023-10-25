@@ -299,6 +299,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Big Data with Hadoop at H2KInfosys](https://medium.com/@leoanthony1090/big-data-with-hadoop-at-h2kinfosys-a8078b0832f4?source=rss------hadoop-5)
 - [Hadoop Architecture](https://brindapotluri.medium.com/hadoop-architecture-a2406b081cb6?source=rss------hadoop-5)
 - [Navigating Big Data: Unveiling the Potential of MapReduce in Hadoop](https://medium.com/@sjasmeet135/navigating-big-data-unveiling-the-potential-of-mapreduce-in-hadoop-606fb1250f39?source=rss------hadoop-5)
 - [Mastering Big Data with Hadoop Course at H2KInfosys](https://medium.com/@leoanthony1090/mastering-big-data-with-hadoop-course-at-h2kinfosys-fefd356cbcad?source=rss------hadoop-5)
