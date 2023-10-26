@@ -299,6 +299,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Why Big Data Skills Are a Must-Have in Today’s Tech Landscape](https://medium.com/@leoanthony1090/why-big-data-skills-are-a-must-have-in-todays-tech-landscape-12c0a2462946?source=rss------hadoop-5)
 - [Big Data with Hadoop at H2KInfosys](https://medium.com/@leoanthony1090/big-data-with-hadoop-at-h2kinfosys-a8078b0832f4?source=rss------hadoop-5)
 - [Hadoop Architecture](https://brindapotluri.medium.com/hadoop-architecture-a2406b081cb6?source=rss------hadoop-5)
 - [Navigating Big Data: Unveiling the Potential of MapReduce in Hadoop](https://medium.com/@sjasmeet135/navigating-big-data-unveiling-the-potential-of-mapreduce-in-hadoop-606fb1250f39?source=rss------hadoop-5)
@@ -308,7 +309,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Apache Spark with HDFS, HIVE and Hadoop &lpar;Code Practice Part 1&rpar;](https://tariqul-islam-rony.medium.com/apache-spark-with-hdfs-hive-and-hadoop-code-practice-part-1-7ad9b91b5afa?source=rss------hadoop-5)
 - [Analyzing data with UNIX and Hadoop](https://medium.com/@abdul.munafff/analyzing-data-with-unix-and-hadoop-d654f7faee22?source=rss------hadoop-5)
 - [Big Data and Hadoop at H2K Infosys](https://medium.com/@leoanthony1090/big-data-and-hadoop-at-h2k-infosys-3c7c1c998638?source=rss------hadoop-5)
-- [Apache HBase vs Google BigTable: сходства и различия, варианты использования](https://medium.com/@bigdataschool/apache-hbase-vs-google-bigtable-%D1%81%D1%85%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B0-%D0%B8-%D1%80%D0%B0%D0%B7%D0%BB%D0%B8%D1%87%D0%B8%D1%8F-%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-9be3521d475e?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
