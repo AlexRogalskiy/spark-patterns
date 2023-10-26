@@ -274,16 +274,16 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[PySpark] Convert epoch time in miliseconds to yyyy-MM-dd HH:mm:ss.SSS](https://www.reddit.com/r/spark/comments/16vman6/pyspark_convert_epoch_time_in_miliseconds_to/)
-- [Unix Time to yyyy-MM-dd HH:mm:ss.SSS](https://www.reddit.com/r/spark/comments/16v50ii/unix_time_to_yyyymmdd_hhmmsssss/)
-- [How to unsubscribe from mailing list newsletter ?](https://www.reddit.com/r/spark/comments/16lt3js/how_to_unsubscribe_from_mailing_list_newsletter/)
-- [Hiring cloud and full-stack devs $140k+/year](https://www.reddit.com/r/spark/comments/16kq2n9/hiring_cloud_and_fullstack_devs_140kyear/)
-- [Network communication protocol Spark uses?](https://www.reddit.com/r/spark/comments/167f86x/network_communication_protocol_spark_uses/)
-- [Need help on understanding](https://www.reddit.com/r/spark/comments/166i9bq/need_help_on_understanding/)
-- [Help with Building a CI-CD with Apache Spark and ArgoCD](https://www.reddit.com/r/spark/comments/15w8vy7/help_with_building_a_cicd_with_apache_spark_and/)
-- [Check spark application status from web ui](https://www.reddit.com/r/spark/comments/1569tgd/check_spark_application_status_from_web_ui/)
-- [What&#39;s your take on &#39;earn by time&#39;? Earn by time vs. Earn by order](https://www.reddit.com/r/spark/comments/1541ccw/whats_your_take_on_earn_by_time_earn_by_time_vs/)
-- [Write Spark Dataframe to DynamoDB using Python](https://www.reddit.com/r/spark/comments/14yrwln/write_spark_dataframe_to_dynamodb_using_python/)
+- [I&#39;ve removed any non-Ada / SPARK related threads](https://www.reddit.com/r/spark/comments/17fub8v/ive_removed_any_nonada_spark_related_threads/)
+- [Get Started with Open Source Formal Verification &lpar;2023 talk&rpar;](https://www.reddit.com/r/spark/comments/12o8ftc/get_started_with_open_source_formal_verification/)
+- [Creating Bug-Free Software -- Tools like Rust and SPARK make creation of reliable software easier.](https://www.reddit.com/r/spark/comments/10f5202/creating_bugfree_software_tools_like_rust_and/)
+- [How to apply different code to different blocks from XML files?](https://www.reddit.com/r/spark/comments/zf3rlt/how_to_apply_different_code_to_different_blocks/)
+- [SPARK as good as Rust for safer coding? AdaCore cites Nvidia case study.](https://www.reddit.com/r/spark/comments/yqhqte/spark_as_good_as_rust_for_safer_coding_adacore/)
+- [can someone tell me how to find the majority of elements in an array](https://www.reddit.com/r/spark/comments/y9blye/can_someone_tell_me_how_to_find_the_majority_of/)
+- [I can’t believe that I can prove that it can sort](https://www.reddit.com/r/spark/comments/vr9qfn/i_cant_believe_that_i_can_prove_that_it_can_sort/)
+- [SPARKNaCl: A Verified, Fast Re-implementation of TweetNaCl](https://www.reddit.com/r/spark/comments/srkif2/sparknacl_a_verified_fast_reimplementation_of/)
+- [JTEKT — Application of SPARK to Steering System Software](https://www.reddit.com/r/spark/comments/sa035u/jtekt_application_of_spark_to_steering_system/)
+- [New Competition: Ada/SPARK Crate Of The Year Award](https://www.reddit.com/r/spark/comments/o9hbo3/new_competition_adaspark_crate_of_the_year_award/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld Spark posts*
