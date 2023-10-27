@@ -299,6 +299,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Büyük Veri — Giriş](https://medium.com/@gokcegok_/b%C3%BCy%C3%BCk-veri-giri%C5%9F-e2349c1252ac?source=rss------hadoop-5)
 - [Why Big Data Skills Are a Must-Have in Today’s Tech Landscape](https://medium.com/@leoanthony1090/why-big-data-skills-are-a-must-have-in-todays-tech-landscape-12c0a2462946?source=rss------hadoop-5)
 - [Big Data with Hadoop at H2KInfosys](https://medium.com/@leoanthony1090/big-data-with-hadoop-at-h2kinfosys-a8078b0832f4?source=rss------hadoop-5)
 - [Hadoop Architecture](https://brindapotluri.medium.com/hadoop-architecture-a2406b081cb6?source=rss------hadoop-5)
@@ -308,7 +309,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Mastering Sqoop in 2024: A Complete Guide for Data Engineers](https://blog.brilliantprogrammer.com/mastering-sqoop-in-2024-a-complete-guide-for-data-engineers-c7536f0c7369?source=rss------hadoop-5)
 - [Apache Spark with HDFS, HIVE and Hadoop &lpar;Code Practice Part 1&rpar;](https://tariqul-islam-rony.medium.com/apache-spark-with-hdfs-hive-and-hadoop-code-practice-part-1-7ad9b91b5afa?source=rss------hadoop-5)
 - [Analyzing data with UNIX and Hadoop](https://medium.com/@abdul.munafff/analyzing-data-with-unix-and-hadoop-d654f7faee22?source=rss------hadoop-5)
-- [Big Data and Hadoop at H2K Infosys](https://medium.com/@leoanthony1090/big-data-and-hadoop-at-h2k-infosys-3c7c1c998638?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
