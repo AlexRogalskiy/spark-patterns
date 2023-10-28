@@ -299,6 +299,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Spark it up a notch II](https://jyotsnaparthasarathy.medium.com/spark-it-up-a-notch-ii-1520bb4a0a43?source=rss------hadoop-5)
+- [How do big data and AI work together?](https://medium.com/@leoanthony1090/how-do-big-data-and-ai-work-together-84f30cd6d62b?source=rss------hadoop-5)
 - [Büyük Veri — Giriş](https://medium.com/@gokcegok_/b%C3%BCy%C3%BCk-veri-giri%C5%9F-e2349c1252ac?source=rss------hadoop-5)
 - [Why Big Data Skills Are a Must-Have in Today’s Tech Landscape](https://medium.com/@leoanthony1090/why-big-data-skills-are-a-must-have-in-todays-tech-landscape-12c0a2462946?source=rss------hadoop-5)
 - [Big Data with Hadoop at H2KInfosys](https://medium.com/@leoanthony1090/big-data-with-hadoop-at-h2kinfosys-a8078b0832f4?source=rss------hadoop-5)
@@ -307,8 +309,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Mastering Big Data with Hadoop Course at H2KInfosys](https://medium.com/@leoanthony1090/mastering-big-data-with-hadoop-course-at-h2kinfosys-fefd356cbcad?source=rss------hadoop-5)
 - [Difference between HDFS and Spark](https://medium.com/@sanjeevk20/difference-between-hdfs-and-spark-50548d2e7d06?source=rss------hadoop-5)
 - [Mastering Sqoop in 2024: A Complete Guide for Data Engineers](https://blog.brilliantprogrammer.com/mastering-sqoop-in-2024-a-complete-guide-for-data-engineers-c7536f0c7369?source=rss------hadoop-5)
-- [Apache Spark with HDFS, HIVE and Hadoop &lpar;Code Practice Part 1&rpar;](https://tariqul-islam-rony.medium.com/apache-spark-with-hdfs-hive-and-hadoop-code-practice-part-1-7ad9b91b5afa?source=rss------hadoop-5)
-- [Analyzing data with UNIX and Hadoop](https://medium.com/@abdul.munafff/analyzing-data-with-unix-and-hadoop-d654f7faee22?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
