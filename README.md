@@ -299,6 +299,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Tips for Scalable Data Storage and Processing](https://medium.com/@leoanthony1090/tips-for-scalable-data-storage-and-processing-564b84e5a2b6?source=rss------hadoop-5)
+- [Deciphering HDFS: Delving into the Architecture and Core Components of Big Data’s Cornerstone](https://medium.com/red-buffer/deciphering-hdfs-delving-into-the-architecture-and-core-components-of-big-datas-cornerstone-f9c56427e007?source=rss------hadoop-5)
 - [Magic of Big Data](https://medium.com/@routhusiddhartha/magic-of-big-data-2a7333d96744?source=rss------hadoop-5)
 - [The Hadoop Revolution: Navigating the Big Data Wave](https://medium.com/@inshalkhan7/the-hadoop-revolution-navigating-the-big-data-wave-7cc1f2e9e5b3?source=rss------hadoop-5)
 - [Spark it up a notch II](https://jyotsnaparthasarathy.medium.com/spark-it-up-a-notch-ii-1520bb4a0a43?source=rss------hadoop-5)
@@ -307,8 +309,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Why Big Data Skills Are a Must-Have in Today’s Tech Landscape](https://medium.com/@leoanthony1090/why-big-data-skills-are-a-must-have-in-todays-tech-landscape-12c0a2462946?source=rss------hadoop-5)
 - [Big Data with Hadoop at H2KInfosys](https://medium.com/@leoanthony1090/big-data-with-hadoop-at-h2kinfosys-a8078b0832f4?source=rss------hadoop-5)
 - [Hadoop Architecture](https://brindapotluri.medium.com/hadoop-architecture-a2406b081cb6?source=rss------hadoop-5)
-- [Navigating Big Data: Unveiling the Potential of MapReduce in Hadoop](https://medium.com/@sjasmeet135/navigating-big-data-unveiling-the-potential-of-mapreduce-in-hadoop-606fb1250f39?source=rss------hadoop-5)
-- [Mastering Big Data with Hadoop Course at H2KInfosys](https://medium.com/@leoanthony1090/mastering-big-data-with-hadoop-course-at-h2kinfosys-fefd356cbcad?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
