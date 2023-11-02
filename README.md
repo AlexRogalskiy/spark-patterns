@@ -299,6 +299,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Linux and Hadoop commands for data engineers!](https://brindapotluri.medium.com/linux-and-hadoop-commands-for-data-engineers-6cba280c187b?source=rss------hadoop-5)
+- [Big Data Hadoop Online Training at H2KInfosys](https://medium.com/@leoanthony1090/big-data-hadoop-online-training-at-h2kinfosys-a1e3c1653146?source=rss------hadoop-5)
 - [A Step-by-Step Installation Guide for Hadoop &lpar;Ubuntu&rpar; 2023](https://medium.com/@muhdfarseen/a-step-by-step-installation-guide-for-hadoop-ubuntu-2023-fa0faa5a2e76?source=rss------hadoop-5)
 - [Big Data with Hadoop Course Certification at H2KInfosys](https://medium.com/@leoanthony1090/big-data-with-hadoop-course-certification-at-h2kinfosys-55335eea1d69?source=rss------hadoop-5)
 - [Tips for Scalable Data Storage and Processing](https://medium.com/@leoanthony1090/tips-for-scalable-data-storage-and-processing-564b84e5a2b6?source=rss------hadoop-5)
@@ -307,8 +309,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [The Hadoop Revolution: Navigating the Big Data Wave](https://medium.com/@inshalkhan7/the-hadoop-revolution-navigating-the-big-data-wave-7cc1f2e9e5b3?source=rss------hadoop-5)
 - [Spark it up a notch II](https://jyotsnaparthasarathy.medium.com/spark-it-up-a-notch-ii-1520bb4a0a43?source=rss------hadoop-5)
 - [How do big data and AI work together?](https://medium.com/@leoanthony1090/how-do-big-data-and-ai-work-together-84f30cd6d62b?source=rss------hadoop-5)
-- [Büyük Veri — Giriş](https://medium.com/@gokcegok_/b%C3%BCy%C3%BCk-veri-giri%C5%9F-e2349c1252ac?source=rss------hadoop-5)
-- [Why Big Data Skills Are a Must-Have in Today’s Tech Landscape](https://medium.com/@leoanthony1090/why-big-data-skills-are-a-must-have-in-todays-tech-landscape-12c0a2462946?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
