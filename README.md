@@ -299,6 +299,9 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Hadoop | Temel Bileşenler](https://medium.com/@gokcegok_/hadoop-temel-bile%C5%9Fenleri-e91e8321287a?source=rss------hadoop-5)
+- [Big Data Hadoop Online Certification at H2KInfosys](https://medium.com/@leoanthony1090/big-data-hadoop-online-certification-at-h2kinfosys-dc46da363c4a?source=rss------hadoop-5)
+- [Data Science Training Institute in Electronic City Bangalore — eMexo Technologies](https://medium.com/@emexotechnologies/data-science-training-institute-in-electronic-city-bangalore-emexo-technologies-9374ed942493?source=rss------hadoop-5)
 - [Linux and Hadoop commands for data engineers!](https://brindapotluri.medium.com/linux-and-hadoop-commands-for-data-engineers-6cba280c187b?source=rss------hadoop-5)
 - [Big Data Hadoop Online Training at H2KInfosys](https://medium.com/@leoanthony1090/big-data-hadoop-online-training-at-h2kinfosys-a1e3c1653146?source=rss------hadoop-5)
 - [A Step-by-Step Installation Guide for Hadoop &lpar;Ubuntu&rpar; 2023](https://medium.com/@muhdfarseen/a-step-by-step-installation-guide-for-hadoop-ubuntu-2023-fa0faa5a2e76?source=rss------hadoop-5)
@@ -306,9 +309,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Tips for Scalable Data Storage and Processing](https://medium.com/@leoanthony1090/tips-for-scalable-data-storage-and-processing-564b84e5a2b6?source=rss------hadoop-5)
 - [Deciphering HDFS: Delving into the Architecture and Core Components of Big Data’s Cornerstone](https://medium.com/red-buffer/deciphering-hdfs-delving-into-the-architecture-and-core-components-of-big-datas-cornerstone-f9c56427e007?source=rss------hadoop-5)
 - [Magic of Big Data](https://medium.com/@routhusiddhartha/magic-of-big-data-2a7333d96744?source=rss------hadoop-5)
-- [The Hadoop Revolution: Navigating the Big Data Wave](https://medium.com/@inshalkhan7/the-hadoop-revolution-navigating-the-big-data-wave-7cc1f2e9e5b3?source=rss------hadoop-5)
-- [Spark it up a notch II](https://jyotsnaparthasarathy.medium.com/spark-it-up-a-notch-ii-1520bb4a0a43?source=rss------hadoop-5)
-- [How do big data and AI work together?](https://medium.com/@leoanthony1090/how-do-big-data-and-ai-work-together-84f30cd6d62b?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
