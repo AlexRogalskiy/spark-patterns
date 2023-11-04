@@ -299,6 +299,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Installation of HADOOP in Ubuntu](https://medium.com/@raswanth.cb/installation-of-hadoop-in-ubuntu-03843a0d64f3?source=rss------hadoop-5)
 - [Hadoop | Temel Bileşenler](https://medium.com/@gokcegok_/hadoop-temel-bile%C5%9Fenleri-e91e8321287a?source=rss------hadoop-5)
 - [Big Data Hadoop Online Certification at H2KInfosys](https://medium.com/@leoanthony1090/big-data-hadoop-online-certification-at-h2kinfosys-dc46da363c4a?source=rss------hadoop-5)
 - [Data Science Training Institute in Electronic City Bangalore — eMexo Technologies](https://medium.com/@emexotechnologies/data-science-training-institute-in-electronic-city-bangalore-emexo-technologies-9374ed942493?source=rss------hadoop-5)
@@ -308,7 +309,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Big Data with Hadoop Course Certification at H2KInfosys](https://medium.com/@leoanthony1090/big-data-with-hadoop-course-certification-at-h2kinfosys-55335eea1d69?source=rss------hadoop-5)
 - [Tips for Scalable Data Storage and Processing](https://medium.com/@leoanthony1090/tips-for-scalable-data-storage-and-processing-564b84e5a2b6?source=rss------hadoop-5)
 - [Deciphering HDFS: Delving into the Architecture and Core Components of Big Data’s Cornerstone](https://medium.com/red-buffer/deciphering-hdfs-delving-into-the-architecture-and-core-components-of-big-datas-cornerstone-f9c56427e007?source=rss------hadoop-5)
-- [Magic of Big Data](https://medium.com/@routhusiddhartha/magic-of-big-data-2a7333d96744?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
