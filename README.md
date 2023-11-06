@@ -299,7 +299,9 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
-- [HADOOP HDFS Diagram](https://medium.com/@lbq999/hadoop-hdfs-diagram-0a57e1524042?source=rss------hadoop-5)
+- [Taller Conceptual Apache Spark](https://medium.com/@jairo.h.cubillos/taller-conceptual-apache-spark-c126d96a09b6?source=rss------hadoop-5)
+- [Hadoop Installation on Ubuntu](https://medium.com/@maesak.d/hadoop-installation-on-ubuntu-0b018779ff4a?source=rss------hadoop-5)
+- [Hadoop Security: Authentication and Encryption](https://medium.com/@lbq999/hadoop-hdfs-diagram-0a57e1524042?source=rss------hadoop-5)
 - [Hadoop for Data Scientists: Harnessing Big Data Analytics with Python and R](https://medium.com/@glotru/hadoop-for-data-scientists-harnessing-big-data-analytics-with-python-and-r-f28042f8dfea?source=rss------hadoop-5)
 - [Installation of HADOOP in Ubuntu](https://medium.com/@raswanth.cb/installation-of-hadoop-in-ubuntu-03843a0d64f3?source=rss------hadoop-5)
 - [Hadoop | Temel Bileşenler](https://medium.com/@gokcegok_/hadoop-temel-bile%C5%9Fenleri-e91e8321287a?source=rss------hadoop-5)
@@ -307,8 +309,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Data Science Training Institute in Electronic City Bangalore — eMexo Technologies](https://medium.com/@emexotechnologies/data-science-training-institute-in-electronic-city-bangalore-emexo-technologies-9374ed942493?source=rss------hadoop-5)
 - [Linux and Hadoop commands for data engineers!](https://brindapotluri.medium.com/linux-and-hadoop-commands-for-data-engineers-6cba280c187b?source=rss------hadoop-5)
 - [Big Data Hadoop Online Training at H2KInfosys](https://medium.com/@leoanthony1090/big-data-hadoop-online-training-at-h2kinfosys-a1e3c1653146?source=rss------hadoop-5)
-- [A Step-by-Step Installation Guide for Hadoop &lpar;Ubuntu&rpar; 2023](https://medium.com/@muhdfarseen/a-step-by-step-installation-guide-for-hadoop-ubuntu-2023-fa0faa5a2e76?source=rss------hadoop-5)
-- [Big Data with Hadoop Course Certification at H2KInfosys](https://medium.com/@leoanthony1090/big-data-with-hadoop-course-certification-at-h2kinfosys-55335eea1d69?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
