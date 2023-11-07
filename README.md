@@ -299,16 +299,16 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [More on MapReduce](https://brindapotluri.medium.com/more-on-mapreduce-8abe43498c18?source=rss------hadoop-5)
+- [Hadoop Installation on Linux Systems](https://medium.com/mlearning-ai/hadoop-installation-on-linux-systems-af50756a9da8?source=rss------hadoop-5)
+- [Big Data Hadoop Online Training](https://medium.com/@markanthony1080/big-data-hadoop-online-training-213a5752d37c?source=rss------hadoop-5)
+- [Hadoop Installation on Ubuntu](https://medium.com/@nehamathew/hadoop-installation-on-ubuntu-e46d640e343f?source=rss------hadoop-5)
+- [Demystifying Hadoop Installation: A Comprehensive Guide](https://medium.com/@divya.biji/how-to-set-up-hadoop-on-ubuntu-a-step-by-step-guide-4a14fdbb6cae?source=rss------hadoop-5)
+- [Setting Up Hadoop on Ubuntu: A Step-by-Step Guide](https://medium.com/@gokuljaga2000/setting-up-hadoop-on-ubuntu-a-step-by-step-guide-034baa9983cd?source=rss------hadoop-5)
+- [Hadoop , Hive, Shell Script&lpar;BASH&rpar;, Beeline and hiveserver2 &lpar;Data Pipeline Automation Part 2&rpar;](https://tariqul-islam-rony.medium.com/hadoop-hive-shell-script-bash-beeline-and-hiveserver2-data-pipeline-automation-part-2-44cbcc30d0d7?source=rss------hadoop-5)
 - [Taller Conceptual Apache Spark](https://medium.com/@jairo.h.cubillos/taller-conceptual-apache-spark-c126d96a09b6?source=rss------hadoop-5)
 - [Hadoop Installation on Ubuntu](https://medium.com/@maesak.d/hadoop-installation-on-ubuntu-0b018779ff4a?source=rss------hadoop-5)
 - [Hadoop Security: Authentication and Encryption](https://medium.com/@lbq999/hadoop-hdfs-diagram-0a57e1524042?source=rss------hadoop-5)
-- [Hadoop for Data Scientists: Harnessing Big Data Analytics with Python and R](https://medium.com/@glotru/hadoop-for-data-scientists-harnessing-big-data-analytics-with-python-and-r-f28042f8dfea?source=rss------hadoop-5)
-- [Installation of HADOOP in Ubuntu](https://medium.com/@raswanth.cb/installation-of-hadoop-in-ubuntu-03843a0d64f3?source=rss------hadoop-5)
-- [Hadoop | Temel Bileşenler](https://medium.com/@gokcegok_/hadoop-temel-bile%C5%9Fenleri-e91e8321287a?source=rss------hadoop-5)
-- [Big Data Hadoop Online Certification at H2KInfosys](https://medium.com/@leoanthony1090/big-data-hadoop-online-certification-at-h2kinfosys-dc46da363c4a?source=rss------hadoop-5)
-- [Data Science Training Institute in Electronic City Bangalore — eMexo Technologies](https://medium.com/@emexotechnologies/data-science-training-institute-in-electronic-city-bangalore-emexo-technologies-9374ed942493?source=rss------hadoop-5)
-- [Linux and Hadoop commands for data engineers!](https://brindapotluri.medium.com/linux-and-hadoop-commands-for-data-engineers-6cba280c187b?source=rss------hadoop-5)
-- [Big Data Hadoop Online Training at H2KInfosys](https://medium.com/@leoanthony1090/big-data-hadoop-online-training-at-h2kinfosys-a1e3c1653146?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
