@@ -299,6 +299,9 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [BigData and Hadoop Program with SoftApp Technologies](https://medium.com/@softapptechnologies5/bigdata-and-hadoop-program-with-softapp-technologies-9bf8fe7ba503?source=rss------hadoop-5)
+- [Installing Hadoop in UBUNTU](https://medium.com/@msabarish044/installing-hadoop-in-ubuntu-e03f1d099a1c?source=rss------hadoop-5)
+- [Apache Hadoop 3.3.6 Installation on Ubuntu 22.04](https://medium.com/@abhikdey06/apache-hadoop-3-3-6-installation-on-ubuntu-22-04-14516bceec85?source=rss------hadoop-5)
 - [More on MapReduce](https://brindapotluri.medium.com/more-on-mapreduce-8abe43498c18?source=rss------hadoop-5)
 - [Hadoop Installation on Linux Systems](https://medium.com/mlearning-ai/hadoop-installation-on-linux-systems-af50756a9da8?source=rss------hadoop-5)
 - [Big Data Hadoop Online Training](https://medium.com/@markanthony1080/big-data-hadoop-online-training-213a5752d37c?source=rss------hadoop-5)
@@ -306,9 +309,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Demystifying Hadoop Installation: A Comprehensive Guide](https://medium.com/@divya.biji/how-to-set-up-hadoop-on-ubuntu-a-step-by-step-guide-4a14fdbb6cae?source=rss------hadoop-5)
 - [Setting Up Hadoop on Ubuntu: A Step-by-Step Guide](https://medium.com/@gokuljaga2000/setting-up-hadoop-on-ubuntu-a-step-by-step-guide-034baa9983cd?source=rss------hadoop-5)
 - [Hadoop , Hive, Shell Script&lpar;BASH&rpar;, Beeline and hiveserver2 &lpar;Data Pipeline Automation Part 2&rpar;](https://tariqul-islam-rony.medium.com/hadoop-hive-shell-script-bash-beeline-and-hiveserver2-data-pipeline-automation-part-2-44cbcc30d0d7?source=rss------hadoop-5)
-- [Taller Conceptual Apache Spark](https://medium.com/@jairo.h.cubillos/taller-conceptual-apache-spark-c126d96a09b6?source=rss------hadoop-5)
-- [Hadoop Installation on Ubuntu](https://medium.com/@maesak.d/hadoop-installation-on-ubuntu-0b018779ff4a?source=rss------hadoop-5)
-- [Hadoop Security: Authentication and Encryption](https://medium.com/@lbq999/hadoop-hdfs-diagram-0a57e1524042?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
