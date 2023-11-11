@@ -299,6 +299,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Explorando el Mundo del Big Data:](https://medium.com/@rociobenitez2403/explorando-el-mundo-del-big-data-4f0b55e50bfc?source=rss------hadoop-5)
 - [Demystifying Big Data and Hadoop: Unraveling the Complexities](https://medium.com/@john.sp1978/demystifying-big-data-and-hadoop-unraveling-the-complexities-7f6c03c2606a?source=rss------hadoop-5)
 - [Spark — DStreams](https://tsaiprabhanj.medium.com/spark-dstreams-1ad3307c89f9?source=rss------hadoop-5)
 - [BigdataHadoop Certification and training with 100% Placement by SoftApp Technologies](https://medium.com/@softapptechnologies5/bigdatahadoop-certification-and-training-with-100-placement-by-softapp-technologies-a25b890c720c?source=rss------hadoop-5)
@@ -308,7 +309,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [BigData and Hadoop Program with SoftApp Technologies](https://medium.com/@softapptechnologies5/bigdata-and-hadoop-program-with-softapp-technologies-9bf8fe7ba503?source=rss------hadoop-5)
 - [Installing Hadoop in UBUNTU](https://medium.com/@msabarish044/installing-hadoop-in-ubuntu-e03f1d099a1c?source=rss------hadoop-5)
 - [Apache Hadoop 3.3.6 Installation on Ubuntu 22.04](https://medium.com/@abhikdey06/apache-hadoop-3-3-6-installation-on-ubuntu-22-04-14516bceec85?source=rss------hadoop-5)
-- [More on MapReduce](https://brindapotluri.medium.com/more-on-mapreduce-8abe43498c18?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
