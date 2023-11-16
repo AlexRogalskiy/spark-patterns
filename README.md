@@ -299,6 +299,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Apache Spark &lpar;PySpark&rpar; with JSON and Hadoop &lpar;Code Practice Part 2&rpar;](https://tariqul-islam-rony.medium.com/apache-spark-pyspark-with-json-and-hadoop-code-practice-part-2-e28a435258bc?source=rss------hadoop-5)
 - [YARN vs ZooKeeper in Big Data context: Learn the difference](https://fahadthedatascientist.medium.com/yarn-vs-zookeeper-in-big-data-context-learn-the-difference-72ce13c2316e?source=rss------hadoop-5)
 - [How to Install Apache HBase on Windows / Mac &lpar;M1/M2&rpar;](https://anishmahapatra.medium.com/how-to-install-apache-hbase-on-windows-mac-m1-m2-47466b889b6e?source=rss------hadoop-5)
 - [Demystifying Apache Spark : SparkSession vs SparkContext](https://fahadthedatascientist.medium.com/demystifying-apache-spark-sparksession-vs-sparkcontext-ab3c885e20b3?source=rss------hadoop-5)
@@ -308,7 +309,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Spark — DStreams](https://tsaiprabhanj.medium.com/spark-dstreams-1ad3307c89f9?source=rss------hadoop-5)
 - [BigdataHadoop Certification and training with 100% Placement by SoftApp Technologies](https://medium.com/@softapptechnologies5/bigdatahadoop-certification-and-training-with-100-placement-by-softapp-technologies-a25b890c720c?source=rss------hadoop-5)
 - [How to install Hadoop on Windows / Mac &lpar;M1/M2&rpar;](https://anishmahapatra.medium.com/how-to-set-up-hadoop-on-windows-mac-m1-m2-a5e5b15911a1?source=rss------hadoop-5)
-- [Как устроен HFile: тонкости хранения данных в Apache HBase](https://medium.com/@bigdataschool/%D0%BA%D0%B0%D0%BA-%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BD-hfile-%D1%82%D0%BE%D0%BD%D0%BA%D0%BE%D1%81%D1%82%D0%B8-%D1%85%D1%80%D0%B0%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-%D0%B2-apache-hbase-0bfd991b2f88?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
