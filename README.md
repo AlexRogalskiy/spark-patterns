@@ -299,6 +299,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Navigating Data Transformations in Google Cloud Platform: BigQuery, Dataflow, and DataProc Compared](https://medium.com/@narendrababuoggu393/navigating-data-transformations-in-google-cloud-platform-bigquery-dataflow-and-dataproc-compared-6f4da116afd9?source=rss------hadoop-5)
 - [Apache Spark &lpar;PySpark&rpar; with JSON and Hadoop &lpar;Code Practice Part 2&rpar;](https://tariqul-islam-rony.medium.com/apache-spark-pyspark-with-json-and-hadoop-code-practice-part-2-e28a435258bc?source=rss------hadoop-5)
 - [YARN vs ZooKeeper in Big Data context: Learn the difference](https://fahadthedatascientist.medium.com/yarn-vs-zookeeper-in-big-data-context-learn-the-difference-72ce13c2316e?source=rss------hadoop-5)
 - [How to Install Apache HBase on Windows / Mac &lpar;M1/M2&rpar;](https://anishmahapatra.medium.com/how-to-install-apache-hbase-on-windows-mac-m1-m2-47466b889b6e?source=rss------hadoop-5)
@@ -308,7 +309,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Demystifying Big Data and Hadoop: Unraveling the Complexities](https://medium.com/@john.sp1978/demystifying-big-data-and-hadoop-unraveling-the-complexities-7f6c03c2606a?source=rss------hadoop-5)
 - [Spark — DStreams](https://tsaiprabhanj.medium.com/spark-dstreams-1ad3307c89f9?source=rss------hadoop-5)
 - [BigdataHadoop Certification and training with 100% Placement by SoftApp Technologies](https://medium.com/@softapptechnologies5/bigdatahadoop-certification-and-training-with-100-placement-by-softapp-technologies-a25b890c720c?source=rss------hadoop-5)
-- [How to install Hadoop on Windows / Mac &lpar;M1/M2&rpar;](https://anishmahapatra.medium.com/how-to-set-up-hadoop-on-windows-mac-m1-m2-a5e5b15911a1?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
