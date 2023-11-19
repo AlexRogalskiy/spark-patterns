@@ -299,6 +299,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [BigData |Hadoop— 10 Common Mistakes in Sqoop](https://jayvardhan-reddy-v.medium.com/bigdata-hadoop-10-common-mistakes-in-sqoop-91d95a3c35e1?source=rss------hadoop-5)
 - [Navigating Data Transformations in Google Cloud Platform: BigQuery, Dataflow, and DataProc Compared](https://medium.com/@narendrababuoggu393/navigating-data-transformations-in-google-cloud-platform-bigquery-dataflow-and-dataproc-compared-6f4da116afd9?source=rss------hadoop-5)
 - [Apache Spark &lpar;PySpark&rpar; with JSON and Hadoop &lpar;Code Practice Part 2&rpar;](https://tariqul-islam-rony.medium.com/apache-spark-pyspark-with-json-and-hadoop-code-practice-part-2-e28a435258bc?source=rss------hadoop-5)
 - [YARN vs ZooKeeper in Big Data context: Learn the difference](https://fahadthedatascientist.medium.com/yarn-vs-zookeeper-in-big-data-context-learn-the-difference-72ce13c2316e?source=rss------hadoop-5)
@@ -308,7 +309,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Explorando el Mundo del Big Data:](https://medium.com/@rociobenitez2403/explorando-el-mundo-del-big-data-4f0b55e50bfc?source=rss------hadoop-5)
 - [Demystifying Big Data and Hadoop: Unraveling the Complexities](https://medium.com/@john.sp1978/demystifying-big-data-and-hadoop-unraveling-the-complexities-7f6c03c2606a?source=rss------hadoop-5)
 - [Spark — DStreams](https://tsaiprabhanj.medium.com/spark-dstreams-1ad3307c89f9?source=rss------hadoop-5)
-- [BigdataHadoop Certification and training with 100% Placement by SoftApp Technologies](https://medium.com/@softapptechnologies5/bigdatahadoop-certification-and-training-with-100-placement-by-softapp-technologies-a25b890c720c?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
