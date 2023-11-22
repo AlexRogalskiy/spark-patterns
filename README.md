@@ -299,6 +299,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [BigData Journey from Hadoop and MapReduce to AWS Elastic MapReduce](https://medium.com/@olga.woschitz/bigdata-journey-from-hadoop-and-mapreduce-to-aws-elastic-mapreduce-9dca8120b0f9?source=rss------hadoop-5)
 - [7 Big Data Challenges and How to Overcome Them](https://medium.com/@leoanthony1090/7-big-data-challenges-and-how-to-overcome-them-1bd0ed33c1a1?source=rss------hadoop-5)
 - [BigData |Hadoop— 10 Common Mistakes in Sqoop](https://jayvardhan-reddy-v.medium.com/bigdata-hadoop-10-common-mistakes-in-sqoop-91d95a3c35e1?source=rss------hadoop-5)
 - [Navigating Data Transformations in Google Cloud Platform: BigQuery, Dataflow, and DataProc Compared](https://medium.com/@narendrababuoggu393/navigating-data-transformations-in-google-cloud-platform-bigquery-dataflow-and-dataproc-compared-6f4da116afd9?source=rss------hadoop-5)
@@ -307,7 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [How to Install Apache HBase on Windows / Mac &lpar;M1/M2&rpar;](https://anishmahapatra.medium.com/how-to-install-apache-hbase-on-windows-mac-m1-m2-47466b889b6e?source=rss------hadoop-5)
 - [Demystifying Apache Spark : SparkSession vs SparkContext](https://fahadthedatascientist.medium.com/demystifying-apache-spark-sparksession-vs-sparkcontext-ab3c885e20b3?source=rss------hadoop-5)
 - [Sqoop / Flume Demo](https://anishmahapatra.medium.com/sqoop-flume-demo-179d734e097c?source=rss------hadoop-5)
-- [Explorando el Mundo del Big Data:](https://medium.com/@rociobenitez2403/explorando-el-mundo-del-big-data-4f0b55e50bfc?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
