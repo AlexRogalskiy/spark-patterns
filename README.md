@@ -299,6 +299,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Learning Hadoop with ML-100k — Part 1](https://medium.com/@VaishnaviNandakumar/learning-hadoop-with-ml-100k-part-1-30ff0a7c9490?source=rss------hadoop-5)
+- [How to Pretty print Apache-Pig outputs](https://medium.com/@MinatoNamikaze02/how-to-pretty-print-apache-pig-outputs-5c4d6c430e4c?source=rss------hadoop-5)
 - [BigData Journey from Hadoop and MapReduce to AWS Elastic MapReduce](https://medium.com/@olga.woschitz/bigdata-journey-from-hadoop-and-mapreduce-to-aws-elastic-mapreduce-9dca8120b0f9?source=rss------hadoop-5)
 - [7 Big Data Challenges and How to Overcome Them](https://medium.com/@leoanthony1090/7-big-data-challenges-and-how-to-overcome-them-1bd0ed33c1a1?source=rss------hadoop-5)
 - [BigData |Hadoop— 10 Common Mistakes in Sqoop](https://jayvardhan-reddy-v.medium.com/bigdata-hadoop-10-common-mistakes-in-sqoop-91d95a3c35e1?source=rss------hadoop-5)
@@ -306,8 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Apache Spark &lpar;PySpark&rpar; with JSON and Hadoop &lpar;Code Practice Part 2&rpar;](https://tariqul-islam-rony.medium.com/apache-spark-pyspark-with-json-and-hadoop-code-practice-part-2-e28a435258bc?source=rss------hadoop-5)
 - [YARN vs ZooKeeper in Big Data context: Learn the difference](https://fahadthedatascientist.medium.com/yarn-vs-zookeeper-in-big-data-context-learn-the-difference-72ce13c2316e?source=rss------hadoop-5)
 - [How to Install Apache HBase on Windows / Mac &lpar;M1/M2&rpar;](https://anishmahapatra.medium.com/how-to-install-apache-hbase-on-windows-mac-m1-m2-47466b889b6e?source=rss------hadoop-5)
-- [Demystifying Apache Spark : SparkSession vs SparkContext](https://fahadthedatascientist.medium.com/demystifying-apache-spark-sparksession-vs-sparkcontext-ab3c885e20b3?source=rss------hadoop-5)
-- [Sqoop / Flume Demo](https://anishmahapatra.medium.com/sqoop-flume-demo-179d734e097c?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
