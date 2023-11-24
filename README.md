@@ -299,6 +299,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Big Data Hadoop Online Training: Mastering Big Data Hadoop for Success](https://medium.com/@leoanthony1090/big-data-hadoop-online-training-mastering-big-data-hadoop-for-success-edf4b6559d23?source=rss------hadoop-5)
 - [Learning Hadoop with ML-100k — Part 1](https://medium.com/@VaishnaviNandakumar/learning-hadoop-with-ml-100k-part-1-30ff0a7c9490?source=rss------hadoop-5)
 - [How to Pretty print Apache-Pig outputs](https://medium.com/@MinatoNamikaze02/how-to-pretty-print-apache-pig-outputs-5c4d6c430e4c?source=rss------hadoop-5)
 - [BigData Journey from Hadoop and MapReduce to AWS Elastic MapReduce](https://medium.com/@olga.woschitz/bigdata-journey-from-hadoop-and-mapreduce-to-aws-elastic-mapreduce-9dca8120b0f9?source=rss------hadoop-5)
@@ -307,7 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Navigating Data Transformations in Google Cloud Platform: BigQuery, Dataflow, and DataProc Compared](https://medium.com/@narendrababuoggu393/navigating-data-transformations-in-google-cloud-platform-bigquery-dataflow-and-dataproc-compared-6f4da116afd9?source=rss------hadoop-5)
 - [Apache Spark &lpar;PySpark&rpar; with JSON and Hadoop &lpar;Code Practice Part 2&rpar;](https://tariqul-islam-rony.medium.com/apache-spark-pyspark-with-json-and-hadoop-code-practice-part-2-e28a435258bc?source=rss------hadoop-5)
 - [YARN vs ZooKeeper in Big Data context: Learn the difference](https://fahadthedatascientist.medium.com/yarn-vs-zookeeper-in-big-data-context-learn-the-difference-72ce13c2316e?source=rss------hadoop-5)
-- [How to Install Apache HBase on Windows / Mac &lpar;M1/M2&rpar;](https://anishmahapatra.medium.com/how-to-install-apache-hbase-on-windows-mac-m1-m2-47466b889b6e?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
