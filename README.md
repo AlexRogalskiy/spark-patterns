@@ -299,6 +299,9 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Creating a cluster on GCP](https://medium.com/@nsidana123/creating-a-cluster-on-gcp-364249355275?source=rss------hadoop-5)
+- [Navigating the Data Republic: Understanding Hadoop and Its Components wrt Governence Principles](https://medium.com/@RohitAjaygupta/navigating-the-data-republic-a-governments-guide-to-understanding-hadoop-and-its-components-c0823b350040?source=rss------hadoop-5)
+- [Amazon EMR: Exploring Data Processing and Storage Solutions](https://mraviteja9949.medium.com/amazon-emr-exploring-data-processing-and-storage-solutions-e99c7df37a88?source=rss------hadoop-5)
 - [5 Reasons to Learn Hadoop — A Guide for Beginners](https://medium.com/@ganesh.octovion/5-reasons-to-learn-hadoop-a-guide-for-beginners-3e1418e81eea?source=rss------hadoop-5)
 - [Exploring Trino’s Journey: A Comprehensive Historical Overview](https://medium.com/@duwalamit/exploring-trinos-journey-a-comprehensive-historical-overview-48016c83c1a6?source=rss------hadoop-5)
 - [Hadoop: What It Is And Why It Matters 2023](https://medium.com/@info.techsoulculture/hadoop-what-it-is-and-why-it-matters-2023-332a0afa36fd?source=rss------hadoop-5)
@@ -306,8 +309,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Big Data Hadoop Online Training: Mastering Big Data Hadoop for Success](https://medium.com/@leoanthony1090/big-data-hadoop-online-training-mastering-big-data-hadoop-for-success-edf4b6559d23?source=rss------hadoop-5)
 - [Learning Hadoop with ML-100k — Part 1](https://medium.com/@VaishnaviNandakumar/learning-hadoop-with-ml-100k-part-1-30ff0a7c9490?source=rss------hadoop-5)
 - [How to Pretty print Apache-Pig outputs](https://medium.com/@MinatoNamikaze02/how-to-pretty-print-apache-pig-outputs-5c4d6c430e4c?source=rss------hadoop-5)
-- [BigData Journey from Hadoop and MapReduce to AWS Elastic MapReduce](https://medium.com/@olga.woschitz/bigdata-journey-from-hadoop-and-mapreduce-to-aws-elastic-mapreduce-9dca8120b0f9?source=rss------hadoop-5)
-- [7 Big Data Challenges and How to Overcome Them](https://medium.com/@leoanthony1090/7-big-data-challenges-and-how-to-overcome-them-1bd0ed33c1a1?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
