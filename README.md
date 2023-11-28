@@ -299,6 +299,9 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Learning Hadoop with ML-100k — Part 3](https://medium.com/@VaishnaviNandakumar/learning-hadoop-with-ml-100k-part-3-03677f236e14?source=rss------hadoop-5)
+- [Big Data Technologies That Will Flourish in 2023](https://medium.com/@leoanthony1090/big-data-technologies-that-will-flourish-in-2023-9995ea256e7b?source=rss------hadoop-5)
+- [BI Certification and course training with 100% placement by SoftApp Technologies](https://medium.com/@softapptechnologies5/bi-certification-and-course-training-with-100-placement-by-softapp-technologies-49290f6189af?source=rss------hadoop-5)
 - [To select all elements greater than a given value in a DataFrame, you can use the filter or where…](https://medium.com/@developerindia7/to-select-all-elements-greater-than-a-given-value-in-a-dataframe-you-can-use-the-filter-or-where-13ac33991659?source=rss------hadoop-5)
 - [Learning Hadoop with ML-100k — Part 2](https://medium.com/@VaishnaviNandakumar/learning-hadoop-with-ml-100k-part-2-6c3c0e223fcd?source=rss------hadoop-5)
 - [The Evolution of Data Engineering: A Journey Through Time &lpar;Part 2&rpar;](https://medium.com/@udayaw/the-evolution-of-data-engineering-a-journey-through-time-part-2-755b9c079c8f?source=rss------hadoop-5)
@@ -306,9 +309,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Navigating the Data Republic: Understanding Hadoop and Its Components wrt Governence Principles](https://medium.com/@RohitAjaygupta/navigating-the-data-republic-a-governments-guide-to-understanding-hadoop-and-its-components-c0823b350040?source=rss------hadoop-5)
 - [Amazon EMR: Exploring Data Processing and Storage Solutions](https://mraviteja9949.medium.com/amazon-emr-exploring-data-processing-and-storage-solutions-e99c7df37a88?source=rss------hadoop-5)
 - [5 Reasons to Learn Hadoop — A Guide for Beginners](https://medium.com/@ganesh.octovion/5-reasons-to-learn-hadoop-a-guide-for-beginners-3e1418e81eea?source=rss------hadoop-5)
-- [Exploring Trino’s Journey: A Comprehensive Historical Overview](https://medium.com/@duwalamit/exploring-trinos-journey-a-comprehensive-historical-overview-48016c83c1a6?source=rss------hadoop-5)
-- [Hadoop: What It Is And Why It Matters 2023](https://medium.com/@info.techsoulculture/hadoop-what-it-is-and-why-it-matters-2023-332a0afa36fd?source=rss------hadoop-5)
-- [Navigating the Data Tsunami: Unleashing the Power of Big Data in the Tech Landscape](https://prasanakumarp.medium.com/navigating-the-data-tsunami-unleashing-the-power-of-big-data-in-the-tech-landscape-a4d166df4073?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
