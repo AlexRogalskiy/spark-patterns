@@ -299,6 +299,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Best Practices for Managing Big Data Projects](https://medium.com/@leoanthony1090/best-practices-for-managing-big-data-projects-dbab571ec06b?source=rss------hadoop-5)
+- [Day 31: Aws EMR](https://medium.com/@jeeva.b1997/day-31-aws-emr-edf82e9b294e?source=rss------hadoop-5)
 - [A guide to RAID multiple Local SSDs &amp; mount it to Dataproc](https://medium.com/google-cloud/a-guide-to-raid-multiple-local-ssds-mount-it-to-dataproc-7d4d510906d7?source=rss------hadoop-5)
 - [Data Engineering End-to-End Project — Part 1 — Spark, Kafka, Elasticsearch, Kibana, MinIO, Docker…](https://medium.com/@dogukannulu/data-engineering-end-to-end-project-part-1-spark-kafka-elasticsearch-kibana-minio-docker-bac7e0de5952?source=rss------hadoop-5)
 - [Spark Connect](https://medium.com/@mulan101/spark-connect-8d86c90404fd?source=rss------hadoop-5)
@@ -307,8 +309,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [BI Certification and course training with 100% placement by SoftApp Technologies](https://medium.com/@softapptechnologies5/bi-certification-and-course-training-with-100-placement-by-softapp-technologies-49290f6189af?source=rss------hadoop-5)
 - [To select all elements greater than a given value in a DataFrame, you can use the filter or where…](https://medium.com/@developerindia7/to-select-all-elements-greater-than-a-given-value-in-a-dataframe-you-can-use-the-filter-or-where-13ac33991659?source=rss------hadoop-5)
 - [Learning Hadoop with ML-100k — Part 2](https://medium.com/@VaishnaviNandakumar/learning-hadoop-with-ml-100k-part-2-6c3c0e223fcd?source=rss------hadoop-5)
-- [The Evolution of Data Engineering: A Journey Through Time &lpar;Part 2&rpar;](https://medium.com/@udayaw/the-evolution-of-data-engineering-a-journey-through-time-part-2-755b9c079c8f?source=rss------hadoop-5)
-- [Creating a cluster on GCP](https://medium.com/@nsidana123/creating-a-cluster-on-gcp-364249355275?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
