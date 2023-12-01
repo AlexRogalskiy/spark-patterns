@@ -274,6 +274,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[VIDEO] SPARK Pro For Embedded System Programming](https://www.reddit.com/r/spark/comments/187fi3z/video_spark_pro_for_embedded_system_programming/)
+- [[Webinar] SPARK Pro for Proven Memory Safety](https://www.reddit.com/r/spark/comments/187feli/webinar_spark_pro_for_proven_memory_safety/)
 - [Light Launcher Company, Latitude, Adopted Ada and SPARK](https://www.reddit.com/r/spark/comments/183fr3t/light_launcher_company_latitude_adopted_ada_and/)
 - [Origins of SPARK](https://www.reddit.com/r/spark/comments/17q6xcq/origins_of_spark/)
 - [I&#39;ve removed any non-Ada / SPARK related threads](https://www.reddit.com/r/spark/comments/17fub8v/ive_removed_any_nonada_spark_related_threads/)
@@ -282,8 +284,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [How to apply different code to different blocks from XML files?](https://www.reddit.com/r/spark/comments/zf3rlt/how_to_apply_different_code_to_different_blocks/)
 - [SPARK as good as Rust for safer coding? AdaCore cites Nvidia case study.](https://www.reddit.com/r/spark/comments/yqhqte/spark_as_good_as_rust_for_safer_coding_adacore/)
 - [can someone tell me how to find the majority of elements in an array](https://www.reddit.com/r/spark/comments/y9blye/can_someone_tell_me_how_to_find_the_majority_of/)
-- [I can’t believe that I can prove that it can sort](https://www.reddit.com/r/spark/comments/vr9qfn/i_cant_believe_that_i_can_prove_that_it_can_sort/)
-- [SPARKNaCl: A Verified, Fast Re-implementation of TweetNaCl](https://www.reddit.com/r/spark/comments/srkif2/sparknacl_a_verified_fast_reimplementation_of/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld Spark posts*
