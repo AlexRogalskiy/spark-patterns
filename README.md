@@ -299,16 +299,16 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [5. Learning Hadoop with ML-100k — Multiple Joins](https://medium.com/@VaishnaviNandakumar/5-learning-hadoop-with-ml-100k-multiple-joins-1d53c5038aa7?source=rss------hadoop-5)
+- [Learning Hadoop with ML-100k — Part 4](https://medium.com/@VaishnaviNandakumar/learning-hadoop-with-ml-100k-part-4-20624e3b6054?source=rss------hadoop-5)
+- [Hadoop vs Spark: Unraveling the Big Data Dilemma](https://medium.com/@srajsonu/hadoop-vs-spark-unraveling-the-big-data-dilemma-6184fb5f9a8b?source=rss------hadoop-5)
+- [Navigating the Migration from PySpark Hadoop Ecosystem to Google Cloud Platform &lpar;GCP&rpar;](https://medium.com/@think-data/navigating-the-migration-from-pyspark-hadoop-ecosystem-to-google-cloud-platform-gcp-9436313ea15c?source=rss------hadoop-5)
 - [What is Hadoop: Architecture, Modules, Advantages 2023](https://medium.com/@info.techsoulculture/what-is-hadoop-architecture-modules-advantages-2023-a8fb0e6ecb16?source=rss------hadoop-5)
 - [Taming Big Data: A Beginner’s Guide to Installing Apache Hadoop on Ubuntu](https://ernestodotnet.medium.com/taming-big-data-a-beginners-guide-to-installing-apache-hadoop-on-ubuntu-d50b23db6bdb?source=rss------hadoop-5)
 - [Best Practices for Managing Big Data Projects](https://medium.com/@leoanthony1090/best-practices-for-managing-big-data-projects-dbab571ec06b?source=rss------hadoop-5)
 - [Day 31: Aws EMR](https://medium.com/@jeeva.b1997/day-31-aws-emr-edf82e9b294e?source=rss------hadoop-5)
 - [A guide to RAID multiple Local SSDs &amp; mount it to Dataproc](https://medium.com/google-cloud/a-guide-to-raid-multiple-local-ssds-mount-it-to-dataproc-7d4d510906d7?source=rss------hadoop-5)
 - [Data Engineering End-to-End Project — Part 1 — Spark, Kafka, Elasticsearch, Kibana, MinIO, Docker…](https://medium.com/@dogukannulu/data-engineering-end-to-end-project-part-1-spark-kafka-elasticsearch-kibana-minio-docker-bac7e0de5952?source=rss------hadoop-5)
-- [Spark Connect](https://medium.com/@mulan101/spark-connect-8d86c90404fd?source=rss------hadoop-5)
-- [Learning Hadoop with ML-100k — Part 3](https://medium.com/@VaishnaviNandakumar/learning-hadoop-with-ml-100k-part-3-03677f236e14?source=rss------hadoop-5)
-- [Big Data Technologies That Will Flourish in 2023](https://medium.com/@leoanthony1090/big-data-technologies-that-will-flourish-in-2023-9995ea256e7b?source=rss------hadoop-5)
-- [BI Certification and course training with 100% placement by SoftApp Technologies](https://medium.com/@softapptechnologies5/bi-certification-and-course-training-with-100-placement-by-softapp-technologies-49290f6189af?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
