@@ -299,6 +299,9 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [GOOGLE FILE SYSTEM, APACHE HADOOP CASE STUDY](https://medium.com/@maryamyameen168/google-file-system-apache-hadoop-case-study-d0f0b36682df?source=rss------hadoop-5)
+- [Hadoop File System](https://medium.com/@parklaus1078/hadoop-file-system-60116e056657?source=rss------hadoop-5)
+- [Big Data Use Cases in the Industry](https://medium.com/@leoanthony1090/big-data-use-cases-in-the-industry-eab7a74f6d97?source=rss------hadoop-5)
 - [5. Learning Hadoop with ML-100k — Multiple Joins](https://medium.com/@VaishnaviNandakumar/5-learning-hadoop-with-ml-100k-multiple-joins-1d53c5038aa7?source=rss------hadoop-5)
 - [Learning Hadoop with ML-100k — Part 4](https://medium.com/@VaishnaviNandakumar/learning-hadoop-with-ml-100k-part-4-20624e3b6054?source=rss------hadoop-5)
 - [Hadoop vs Spark: Unraveling the Big Data Dilemma](https://medium.com/@srajsonu/hadoop-vs-spark-unraveling-the-big-data-dilemma-6184fb5f9a8b?source=rss------hadoop-5)
@@ -306,9 +309,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [What is Hadoop: Architecture, Modules, Advantages 2023](https://medium.com/@info.techsoulculture/what-is-hadoop-architecture-modules-advantages-2023-a8fb0e6ecb16?source=rss------hadoop-5)
 - [Taming Big Data: A Beginner’s Guide to Installing Apache Hadoop on Ubuntu](https://ernestodotnet.medium.com/taming-big-data-a-beginners-guide-to-installing-apache-hadoop-on-ubuntu-d50b23db6bdb?source=rss------hadoop-5)
 - [Best Practices for Managing Big Data Projects](https://medium.com/@leoanthony1090/best-practices-for-managing-big-data-projects-dbab571ec06b?source=rss------hadoop-5)
-- [Day 31: Aws EMR](https://medium.com/@jeeva.b1997/day-31-aws-emr-edf82e9b294e?source=rss------hadoop-5)
-- [A guide to RAID multiple Local SSDs &amp; mount it to Dataproc](https://medium.com/google-cloud/a-guide-to-raid-multiple-local-ssds-mount-it-to-dataproc-7d4d510906d7?source=rss------hadoop-5)
-- [Data Engineering End-to-End Project — Part 1 — Spark, Kafka, Elasticsearch, Kibana, MinIO, Docker…](https://medium.com/@dogukannulu/data-engineering-end-to-end-project-part-1-spark-kafka-elasticsearch-kibana-minio-docker-bac7e0de5952?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
