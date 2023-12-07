@@ -299,6 +299,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Cloud and Fog Computing: Trends, Tools, and Future Prospects](https://medium.com/@lbq999/cloud-and-fog-computing-trends-tools-and-future-prospects-b9848fbd4209?source=rss------hadoop-5)
 - [GOOGLE FILE SYSTEM, APACHE HADOOP CASE STUDY](https://medium.com/@maryamyameen168/google-file-system-apache-hadoop-case-study-d0f0b36682df?source=rss------hadoop-5)
 - [Hadoop File System](https://medium.com/@parklaus1078/hadoop-file-system-60116e056657?source=rss------hadoop-5)
 - [Big Data Use Cases in the Industry](https://medium.com/@leoanthony1090/big-data-use-cases-in-the-industry-eab7a74f6d97?source=rss------hadoop-5)
@@ -308,7 +309,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Navigating the Migration from PySpark Hadoop Ecosystem to Google Cloud Platform &lpar;GCP&rpar;](https://medium.com/@think-data/navigating-the-migration-from-pyspark-hadoop-ecosystem-to-google-cloud-platform-gcp-9436313ea15c?source=rss------hadoop-5)
 - [What is Hadoop: Architecture, Modules, Advantages 2023](https://medium.com/@info.techsoulculture/what-is-hadoop-architecture-modules-advantages-2023-a8fb0e6ecb16?source=rss------hadoop-5)
 - [Taming Big Data: A Beginner’s Guide to Installing Apache Hadoop on Ubuntu](https://ernestodotnet.medium.com/taming-big-data-a-beginners-guide-to-installing-apache-hadoop-on-ubuntu-d50b23db6bdb?source=rss------hadoop-5)
-- [Best Practices for Managing Big Data Projects](https://medium.com/@leoanthony1090/best-practices-for-managing-big-data-projects-dbab571ec06b?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
