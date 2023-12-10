@@ -299,16 +299,16 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
-- [Cloud and Fog Computing: Trends, Tools, and Future Prospects](https://medium.com/@lbq999/cloud-and-fog-computing-trends-tools-and-future-prospects-b9848fbd4209?source=rss------hadoop-5)
-- [GOOGLE FILE SYSTEM, APACHE HADOOP CASE STUDY](https://medium.com/@maryamyameen168/google-file-system-apache-hadoop-case-study-d0f0b36682df?source=rss------hadoop-5)
-- [Hadoop File System](https://medium.com/@parklaus1078/hadoop-file-system-60116e056657?source=rss------hadoop-5)
-- [Big Data Use Cases in the Industry](https://medium.com/@leoanthony1090/big-data-use-cases-in-the-industry-eab7a74f6d97?source=rss------hadoop-5)
-- [5. Learning Hadoop with ML-100k — Multiple Joins](https://medium.com/@VaishnaviNandakumar/5-learning-hadoop-with-ml-100k-multiple-joins-1d53c5038aa7?source=rss------hadoop-5)
-- [Learning Hadoop with ML-100k — Part 4](https://medium.com/@VaishnaviNandakumar/learning-hadoop-with-ml-100k-part-4-20624e3b6054?source=rss------hadoop-5)
-- [Hadoop vs Spark: Unraveling the Big Data Dilemma](https://medium.com/@srajsonu/hadoop-vs-spark-unraveling-the-big-data-dilemma-6184fb5f9a8b?source=rss------hadoop-5)
-- [Navigating the Migration from PySpark Hadoop Ecosystem to Google Cloud Platform &lpar;GCP&rpar;](https://medium.com/@think-data/navigating-the-migration-from-pyspark-hadoop-ecosystem-to-google-cloud-platform-gcp-9436313ea15c?source=rss------hadoop-5)
-- [What is Hadoop: Architecture, Modules, Advantages 2023](https://medium.com/@info.techsoulculture/what-is-hadoop-architecture-modules-advantages-2023-a8fb0e6ecb16?source=rss------hadoop-5)
-- [Taming Big Data: A Beginner’s Guide to Installing Apache Hadoop on Ubuntu](https://ernestodotnet.medium.com/taming-big-data-a-beginners-guide-to-installing-apache-hadoop-on-ubuntu-d50b23db6bdb?source=rss------hadoop-5)
+- [In a Hadoop cluster find how to contribute limited/specific amount of storage as slave to the…](https://kaushikdenge255.medium.com/in-a-hadoop-cluster-find-how-to-contribute-limited-specific-amount-of-storage-as-slave-to-the-46f8372b763d?source=rss------hadoop-5)
+- [Mastering the Data Universe: How Tech Giants Juggle Terabytes with Style!](https://kaushikdenge255.medium.com/mastering-the-data-universe-how-tech-giants-juggle-terabytes-with-style-98c3fec8bc75?source=rss------hadoop-5)
+- [Hadoop’s Parallelism Magic: Tackling Velocity Woes with Data Splitting](https://medium.com/@mrunalgugemuge9850/hadoops-parallelism-magic-tackling-velocity-woes-with-data-splitting-3693c35c4bac?source=rss------hadoop-5)
+- [Optimizing Hadoop Clusters: Allocating Limited Storage as a Slave Node](https://medium.com/@mrunalgugemuge9850/optimizing-hadoop-clusters-allocating-limited-storage-as-a-slave-node-540fffd089d4?source=rss------hadoop-5)
+- [Unveiling the Powerhouse: How Tech Giants Harness Big Data with Hadoop](https://medium.com/@mrunalgugemuge9850/unveiling-the-powerhouse-how-tech-giants-harness-big-data-with-hadoop-dbda12563d1b?source=rss------hadoop-5)
+- [Introduction to Apache Hadoop for Big Data](https://medium.com/@ashwin_reddy_/introduction-to-apache-hadoop-for-big-data-30c85460580f?source=rss------hadoop-5)
+- [6 Essential Skills for a Big Data Career](https://medium.com/@leoanthony1090/6-essential-skills-for-a-big-data-career-34ea4c2c16fb?source=rss------hadoop-5)
+- [Beyond MapReduce: Navigating Hadoop with Hive](https://medium.com/@VaishnaviNandakumar/beyond-mapreduce-navigating-hadoop-with-hive-79c5f1dc2215?source=rss------hadoop-5)
+- [Deploying a Hadoop Cluster with Docker and Kubernetes: A Modern Approach](https://medium.com/@big_data_landscape/deploying-a-hadoop-cluster-with-docker-and-kubernetes-a-modern-approach-3d0803ba80d6?source=rss------hadoop-5)
+- [Step-by-Step Guide to Deploying an On-Premises Hadoop Cluster in Your Local Data Center](https://medium.com/@big_data_landscape/step-by-step-guide-to-deploying-an-on-premises-hadoop-cluster-in-your-local-data-center-c53116ce1fe4?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
