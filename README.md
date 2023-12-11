@@ -299,16 +299,16 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
-- [In a Hadoop cluster find how to contribute limited/specific amount of storage as slave to the…](https://kaushikdenge255.medium.com/in-a-hadoop-cluster-find-how-to-contribute-limited-specific-amount-of-storage-as-slave-to-the-46f8372b763d?source=rss------hadoop-5)
-- [Mastering the Data Universe: How Tech Giants Juggle Terabytes with Style!](https://kaushikdenge255.medium.com/mastering-the-data-universe-how-tech-giants-juggle-terabytes-with-style-98c3fec8bc75?source=rss------hadoop-5)
-- [Hadoop’s Parallelism Magic: Tackling Velocity Woes with Data Splitting](https://medium.com/@mrunalgugemuge9850/hadoops-parallelism-magic-tackling-velocity-woes-with-data-splitting-3693c35c4bac?source=rss------hadoop-5)
-- [Optimizing Hadoop Clusters: Allocating Limited Storage as a Slave Node](https://medium.com/@mrunalgugemuge9850/optimizing-hadoop-clusters-allocating-limited-storage-as-a-slave-node-540fffd089d4?source=rss------hadoop-5)
-- [Unveiling the Powerhouse: How Tech Giants Harness Big Data with Hadoop](https://medium.com/@mrunalgugemuge9850/unveiling-the-powerhouse-how-tech-giants-harness-big-data-with-hadoop-dbda12563d1b?source=rss------hadoop-5)
-- [Introduction to Apache Hadoop for Big Data](https://medium.com/@ashwin_reddy_/introduction-to-apache-hadoop-for-big-data-30c85460580f?source=rss------hadoop-5)
-- [6 Essential Skills for a Big Data Career](https://medium.com/@leoanthony1090/6-essential-skills-for-a-big-data-career-34ea4c2c16fb?source=rss------hadoop-5)
-- [Beyond MapReduce: Navigating Hadoop with Hive](https://medium.com/@VaishnaviNandakumar/beyond-mapreduce-navigating-hadoop-with-hive-79c5f1dc2215?source=rss------hadoop-5)
-- [Deploying a Hadoop Cluster with Docker and Kubernetes: A Modern Approach](https://medium.com/@big_data_landscape/deploying-a-hadoop-cluster-with-docker-and-kubernetes-a-modern-approach-3d0803ba80d6?source=rss------hadoop-5)
-- [Step-by-Step Guide to Deploying an On-Premises Hadoop Cluster in Your Local Data Center](https://medium.com/@big_data_landscape/step-by-step-guide-to-deploying-an-on-premises-hadoop-cluster-in-your-local-data-center-c53116ce1fe4?source=rss------hadoop-5)
+- [Uninstall Hadoop from Mac M1/M2](https://medium.com/@nithinshastry/uninstall-hadoop-from-mac-m1-m2-27e17dc2e933?source=rss------hadoop-5)
+- [Decoding Hadoop’s Data Upload: Unraveling Parallelism to Tackle Velocity Challenges](https://medium.com/@gautam-sagar-mallela/decoding-hadoops-data-upload-unraveling-parallelism-to-tackle-velocity-challenges-d7d9eff9f6b7?source=rss------hadoop-5)
+- [Unveiling the Data Wizardry: How Tech Giants Store, Manage, and Manipulate Terabytes of Data with…](https://medium.com/@gautam-sagar-mallela/unveiling-the-data-wizardry-how-tech-giants-store-manage-and-manipulate-terabytes-of-data-with-54b3678d1dca?source=rss------hadoop-5)
+- [Decoding Hadoop’s Parallelism: Unraveling the Velocity Challenge with TCPDump Insights](https://medium.com/@arpit23sh/decoding-hadoops-parallelism-unraveling-the-velocity-challenge-with-tcpdump-insights-94a96f731360?source=rss------hadoop-5)
+- [Optimizing Storage Contribution in Your Hadoop Cluster: A Guide to Allocating Limited Space as a…](https://medium.com/@arpit23sh/optimizing-storage-contribution-in-your-hadoop-cluster-a-guide-to-allocating-limited-space-as-a-36ea4ff7183a?source=rss------hadoop-5)
+- [Decoding the Data Dynamo: How Tech Giants Manage Terabytes with Speed and Efficiency](https://medium.com/@arpit23sh/decoding-the-data-dynamo-how-tech-giants-manage-terabytes-with-speed-and-efficiency-66a6f8b727d7?source=rss------hadoop-5)
+- [Installing Latest Hadoop Distribution Hadoop 3.3.6](https://medium.com/@nsidana123/what-is-apache-hadoop-a4d182b1fbd3?source=rss------hadoop-5)
+- [Unveiling Hadoop’s Power: Parallelism and the Velocity Solution](https://medium.com/@suryadhanush1235/unveiling-hadoops-power-parallelism-and-the-velocity-solution-f336ee75a594?source=rss------hadoop-5)
+- [Optimizing Storage Allocation in a Hadoop Cluster Using Linux Partitions](https://medium.com/@suryadhanush1235/optimizing-storage-allocation-in-a-hadoop-cluster-using-linux-partitions-c792fef9a288?source=rss------hadoop-5)
+- [Decoding Data Titans: How Tech Giants Harness Big Data and Hadoop for Efficiency](https://medium.com/@suryadhanush1235/decoding-data-titans-how-tech-giants-harness-big-data-and-hadoop-for-efficiency-d8f99e6513a8?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
