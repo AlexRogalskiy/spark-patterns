@@ -299,16 +299,16 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Hadoop with AI: How Big MNC’s are using Hadoop?](https://asofficial14786.medium.com/hadoop-with-ai-how-big-mncs-are-using-hadoop-7fea24d591ee?source=rss------hadoop-5)
+- [How to Effectively Manage and Analyze Massive Data Sets](https://medium.com/@leoanthony1090/how-to-effectively-manage-and-analyze-massive-data-sets-c2a41362d757?source=rss------hadoop-5)
+- [How can we contribute limited or specific amount of storage as slave&lpar;datanode&rpar; to the…](https://sonamsingh9286.medium.com/how-can-we-contribute-limited-or-specific-amount-of-storage-as-slave-datanode-to-the-18e3610273b2?source=rss------hadoop-5)
+- [How Hadoop achieves parallelisme , Let’s Prove !!](https://sonamsingh9286.medium.com/how-hadoop-achieves-parallelisme-lets-prove-51c2473741b3?source=rss------hadoop-5)
 - [Uninstall Hadoop from Mac M1/M2](https://medium.com/@nithinshastry/uninstall-hadoop-from-mac-m1-m2-27e17dc2e933?source=rss------hadoop-5)
 - [Decoding Hadoop’s Data Upload: Unraveling Parallelism to Tackle Velocity Challenges](https://medium.com/@gautam-sagar-mallela/decoding-hadoops-data-upload-unraveling-parallelism-to-tackle-velocity-challenges-d7d9eff9f6b7?source=rss------hadoop-5)
 - [Unveiling the Data Wizardry: How Tech Giants Store, Manage, and Manipulate Terabytes of Data with…](https://medium.com/@gautam-sagar-mallela/unveiling-the-data-wizardry-how-tech-giants-store-manage-and-manipulate-terabytes-of-data-with-54b3678d1dca?source=rss------hadoop-5)
 - [Decoding Hadoop’s Parallelism: Unraveling the Velocity Challenge with TCPDump Insights](https://medium.com/@arpit23sh/decoding-hadoops-parallelism-unraveling-the-velocity-challenge-with-tcpdump-insights-94a96f731360?source=rss------hadoop-5)
 - [Optimizing Storage Contribution in Your Hadoop Cluster: A Guide to Allocating Limited Space as a…](https://medium.com/@arpit23sh/optimizing-storage-contribution-in-your-hadoop-cluster-a-guide-to-allocating-limited-space-as-a-36ea4ff7183a?source=rss------hadoop-5)
 - [Decoding the Data Dynamo: How Tech Giants Manage Terabytes with Speed and Efficiency](https://medium.com/@arpit23sh/decoding-the-data-dynamo-how-tech-giants-manage-terabytes-with-speed-and-efficiency-66a6f8b727d7?source=rss------hadoop-5)
-- [Installing Latest Hadoop Distribution Hadoop 3.3.6](https://medium.com/@nsidana123/what-is-apache-hadoop-a4d182b1fbd3?source=rss------hadoop-5)
-- [Unveiling Hadoop’s Power: Parallelism and the Velocity Solution](https://medium.com/@suryadhanush1235/unveiling-hadoops-power-parallelism-and-the-velocity-solution-f336ee75a594?source=rss------hadoop-5)
-- [Optimizing Storage Allocation in a Hadoop Cluster Using Linux Partitions](https://medium.com/@suryadhanush1235/optimizing-storage-allocation-in-a-hadoop-cluster-using-linux-partitions-c792fef9a288?source=rss------hadoop-5)
-- [Decoding Data Titans: How Tech Giants Harness Big Data and Hadoop for Efficiency](https://medium.com/@suryadhanush1235/decoding-data-titans-how-tech-giants-harness-big-data-and-hadoop-for-efficiency-d8f99e6513a8?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
