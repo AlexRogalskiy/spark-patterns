@@ -299,16 +299,17 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
-- [Hadoop with AI: How Big MNC’s are using Hadoop?](https://asofficial14786.medium.com/hadoop-with-ai-how-big-mncs-are-using-hadoop-7fea24d591ee?source=rss------hadoop-5)
-- [How to Effectively Manage and Analyze Massive Data Sets](https://medium.com/@leoanthony1090/how-to-effectively-manage-and-analyze-massive-data-sets-c2a41362d757?source=rss------hadoop-5)
-- [How can we contribute limited or specific amount of storage as slave&lpar;datanode&rpar; to the…](https://sonamsingh9286.medium.com/how-can-we-contribute-limited-or-specific-amount-of-storage-as-slave-datanode-to-the-18e3610273b2?source=rss------hadoop-5)
-- [How Hadoop achieves parallelisme , Let’s Prove !!](https://sonamsingh9286.medium.com/how-hadoop-achieves-parallelisme-lets-prove-51c2473741b3?source=rss------hadoop-5)
-- [Uninstall Hadoop from Mac M1/M2](https://medium.com/@nithinshastry/uninstall-hadoop-from-mac-m1-m2-27e17dc2e933?source=rss------hadoop-5)
-- [Decoding Hadoop’s Data Upload: Unraveling Parallelism to Tackle Velocity Challenges](https://medium.com/@gautam-sagar-mallela/decoding-hadoops-data-upload-unraveling-parallelism-to-tackle-velocity-challenges-d7d9eff9f6b7?source=rss------hadoop-5)
-- [Unveiling the Data Wizardry: How Tech Giants Store, Manage, and Manipulate Terabytes of Data with…](https://medium.com/@gautam-sagar-mallela/unveiling-the-data-wizardry-how-tech-giants-store-manage-and-manipulate-terabytes-of-data-with-54b3678d1dca?source=rss------hadoop-5)
-- [Decoding Hadoop’s Parallelism: Unraveling the Velocity Challenge with TCPDump Insights](https://medium.com/@arpit23sh/decoding-hadoops-parallelism-unraveling-the-velocity-challenge-with-tcpdump-insights-94a96f731360?source=rss------hadoop-5)
-- [Optimizing Storage Contribution in Your Hadoop Cluster: A Guide to Allocating Limited Space as a…](https://medium.com/@arpit23sh/optimizing-storage-contribution-in-your-hadoop-cluster-a-guide-to-allocating-limited-space-as-a-36ea4ff7183a?source=rss------hadoop-5)
-- [Decoding the Data Dynamo: How Tech Giants Manage Terabytes with Speed and Efficiency](https://medium.com/@arpit23sh/decoding-the-data-dynamo-how-tech-giants-manage-terabytes-with-speed-and-efficiency-66a6f8b727d7?source=rss------hadoop-5)
+- [How big MNC’s like Google, Facebook, Instagram etc stores, manages and manipulate Thousands of…](https://medium.com/@anushkasnawale/how-big-mncs-like-google-facebook-instagram-etc-stores-manages-and-manipulate-thousands-of-c62c286932ce?source=rss------hadoop-5)
+- [Hadoop, concept of parallelism to upload the split data while fulfilling
+Velocity problem.](https://medium.com/@anushkasnawale/hadoop-concept-of-parallelism-to-upload-the-split-data-while-fulfilling-velocity-problem-ff5798fc8605?source=rss------hadoop-5)
+- [Hadoop, how to contribute limited/specific amount of storage as slave to the cluster?](https://medium.com/@anushkasnawale/hadoop-how-to-contribute-limited-specific-amount-of-storage-as-slave-to-the-cluster-6b634f1adb33?source=rss------hadoop-5)
+- [Unveiling Hadoop’s Parallelism Magic: A Deep Dive into Split Data Upload and Velocity Problem…](https://medium.com/@rashmi160403/unveiling-hadoops-parallelism-magic-a-deep-dive-into-split-data-upload-and-velocity-problem-062ddbc229ad?source=rss------hadoop-5)
+- [Title: Configuring Limited Storage for a Hadoop Cluster: A Comprehensive Guide](https://medium.com/@rashmi160403/title-configuring-limited-storage-for-a-hadoop-cluster-a-comprehensive-guide-e01d5a645bdf?source=rss------hadoop-5)
+- [Hadoop uses the concept of parallelism to upload the split data while fulfilling Velocity problem.](https://medium.com/@vamsinaik452/hadoop-uses-the-concept-of-parallelism-to-upload-the-split-data-while-fulfilling-velocity-problem-aac47a224ef9?source=rss------hadoop-5)
+- [In a Hadoop cluster, find how to contribute limited/specific amount of storage as slave to the…](https://medium.com/@vamsinaik452/in-a-hadoop-cluster-find-how-to-contribute-limited-specific-amount-of-storage-as-slave-to-the-2160d57a1df3?source=rss------hadoop-5)
+- [Task 1.20](https://medium.com/@vamsinaik452/task-1-20-574ebc03c9da?source=rss------hadoop-5)
+- [Harnessing Parallelism in Hadoop: Addressing the Velocity Problem](https://medium.com/@raghavshrm987/harnessing-parallelism-in-hadoop-addressing-the-velocity-problem-144fcb2655ef?source=rss------hadoop-5)
+- [Fine-Tuning Hadoop Storage: A Step-by-Step Guide to Allocating Limited Disk Space in Your Cluster](https://medium.com/@raghavshrm987/fine-tuning-hadoop-storage-a-step-by-step-guide-to-allocating-limited-disk-space-in-your-cluster-0a7828adcf34?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
