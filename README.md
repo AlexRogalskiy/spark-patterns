@@ -299,17 +299,17 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [A simple introduction to Hadoop Ecosystem](https://medium.com/@vinciabhinav7/a-simple-introduction-to-hadoop-ecosystem-f9b94afd1ce0?source=rss------hadoop-5)
+- [How big MNC’s like Google, Facebook, Instagram, etc.](https://sayantansamanta098.medium.com/how-big-mncs-like-google-facebook-instagram-etc-de7ec876e199?source=rss------hadoop-5)
+- [Velocity Problem —  Big Data Challenge!! Hadoop Comes To Rescue! Here’s How??](https://sayantansamanta098.medium.com/velocity-problem-big-data-challenge-hadoop-comes-to-rescue-heres-how-3a57d87dc26f?source=rss------hadoop-5)
+- [In a Hadoop Cluster,How to Contribute Limited/Specific Amount Of Storage As Slave To The Cluster](https://sayantansamanta098.medium.com/in-a-hadoop-cluster-how-to-contribute-limited-specific-amount-of-storage-as-slave-to-the-cluster-12e133912e93?source=rss------hadoop-5)
+- [Hadoop and Data Storage](https://medium.com/@hedriss10/hadoop-and-data-storage-51f9d4b5ee04?source=rss------hadoop-5)
 - [How big MNC’s like Google, Facebook, Instagram etc stores, manages and manipulate Thousands of…](https://medium.com/@anushkasnawale/how-big-mncs-like-google-facebook-instagram-etc-stores-manages-and-manipulate-thousands-of-c62c286932ce?source=rss------hadoop-5)
 - [Hadoop, concept of parallelism to upload the split data while fulfilling
 Velocity problem.](https://medium.com/@anushkasnawale/hadoop-concept-of-parallelism-to-upload-the-split-data-while-fulfilling-velocity-problem-ff5798fc8605?source=rss------hadoop-5)
 - [Hadoop, how to contribute limited/specific amount of storage as slave to the cluster?](https://medium.com/@anushkasnawale/hadoop-how-to-contribute-limited-specific-amount-of-storage-as-slave-to-the-cluster-6b634f1adb33?source=rss------hadoop-5)
 - [Unveiling Hadoop’s Parallelism Magic: A Deep Dive into Split Data Upload and Velocity Problem…](https://medium.com/@rashmi160403/unveiling-hadoops-parallelism-magic-a-deep-dive-into-split-data-upload-and-velocity-problem-062ddbc229ad?source=rss------hadoop-5)
 - [Title: Configuring Limited Storage for a Hadoop Cluster: A Comprehensive Guide](https://medium.com/@rashmi160403/title-configuring-limited-storage-for-a-hadoop-cluster-a-comprehensive-guide-e01d5a645bdf?source=rss------hadoop-5)
-- [Hadoop uses the concept of parallelism to upload the split data while fulfilling Velocity problem.](https://medium.com/@vamsinaik452/hadoop-uses-the-concept-of-parallelism-to-upload-the-split-data-while-fulfilling-velocity-problem-aac47a224ef9?source=rss------hadoop-5)
-- [In a Hadoop cluster, find how to contribute limited/specific amount of storage as slave to the…](https://medium.com/@vamsinaik452/in-a-hadoop-cluster-find-how-to-contribute-limited-specific-amount-of-storage-as-slave-to-the-2160d57a1df3?source=rss------hadoop-5)
-- [Task 1.20](https://medium.com/@vamsinaik452/task-1-20-574ebc03c9da?source=rss------hadoop-5)
-- [Harnessing Parallelism in Hadoop: Addressing the Velocity Problem](https://medium.com/@raghavshrm987/harnessing-parallelism-in-hadoop-addressing-the-velocity-problem-144fcb2655ef?source=rss------hadoop-5)
-- [Fine-Tuning Hadoop Storage: A Step-by-Step Guide to Allocating Limited Disk Space in Your Cluster](https://medium.com/@raghavshrm987/fine-tuning-hadoop-storage-a-step-by-step-guide-to-allocating-limited-disk-space-in-your-cluster-0a7828adcf34?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
