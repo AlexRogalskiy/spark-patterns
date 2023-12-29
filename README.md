@@ -299,6 +299,9 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Hadoop 3.3.6 on Ubuntu 2023 : Easy Installation Guide](https://medium.com/@riyajagrawal/hadoop-3-3-6-on-ubuntu-2023-easy-installation-guide-10deec1741fa?source=rss------hadoop-5)
+- [PySpark Facts](https://gsanjeewa1111.medium.com/pyspark-facts-b83366842ddf?source=rss------hadoop-5)
+- [Distributed Hadoop Cluster2&lpar;Multinode Kafka-KRaft&rpar; with all dependencies](https://medium.com/@furkancets/distributed-hadoop-cluster-2-multi-node-kafka-kraft-with-all-dependencies-6940199bb0ca?source=rss------hadoop-5)
 - [A simple introduction to Hadoop Ecosystem](https://medium.com/@vinciabhinav7/a-simple-introduction-to-hadoop-ecosystem-f9b94afd1ce0?source=rss------hadoop-5)
 - [How big MNC’s like Google, Facebook, Instagram, etc.](https://sayantansamanta098.medium.com/how-big-mncs-like-google-facebook-instagram-etc-de7ec876e199?source=rss------hadoop-5)
 - [Velocity Problem —  Big Data Challenge!! Hadoop Comes To Rescue! Here’s How??](https://sayantansamanta098.medium.com/velocity-problem-big-data-challenge-hadoop-comes-to-rescue-heres-how-3a57d87dc26f?source=rss------hadoop-5)
@@ -307,9 +310,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [How big MNC’s like Google, Facebook, Instagram etc stores, manages and manipulate Thousands of…](https://medium.com/@anushkasnawale/how-big-mncs-like-google-facebook-instagram-etc-stores-manages-and-manipulate-thousands-of-c62c286932ce?source=rss------hadoop-5)
 - [Hadoop, concept of parallelism to upload the split data while fulfilling
 Velocity problem.](https://medium.com/@anushkasnawale/hadoop-concept-of-parallelism-to-upload-the-split-data-while-fulfilling-velocity-problem-ff5798fc8605?source=rss------hadoop-5)
-- [Hadoop, how to contribute limited/specific amount of storage as slave to the cluster?](https://medium.com/@anushkasnawale/hadoop-how-to-contribute-limited-specific-amount-of-storage-as-slave-to-the-cluster-6b634f1adb33?source=rss------hadoop-5)
-- [Unveiling Hadoop’s Parallelism Magic: A Deep Dive into Split Data Upload and Velocity Problem…](https://medium.com/@rashmi160403/unveiling-hadoops-parallelism-magic-a-deep-dive-into-split-data-upload-and-velocity-problem-062ddbc229ad?source=rss------hadoop-5)
-- [Title: Configuring Limited Storage for a Hadoop Cluster: A Comprehensive Guide](https://medium.com/@rashmi160403/title-configuring-limited-storage-for-a-hadoop-cluster-a-comprehensive-guide-e01d5a645bdf?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
