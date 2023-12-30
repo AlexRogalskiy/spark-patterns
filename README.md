@@ -299,8 +299,9 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [localhost:50070 not working in hadoop](https://medium.com/@gicharuelvis/localhost-50070-not-working-in-hadoop-a4423d4af42a?source=rss------hadoop-5)
 - [Hadoop 3.3.6 on Ubuntu 2023 : Easy Installation Guide](https://medium.com/@riyajagrawal/hadoop-3-3-6-on-ubuntu-2023-easy-installation-guide-10deec1741fa?source=rss------hadoop-5)
-- [PySpark Facts](https://gsanjeewa1111.medium.com/pyspark-facts-b83366842ddf?source=rss------hadoop-5)
+- [PySpark Questions 1](https://gsanjeewa1111.medium.com/pyspark-facts-b83366842ddf?source=rss------hadoop-5)
 - [Distributed Hadoop Cluster2&lpar;Multinode Kafka-KRaft&rpar; with all dependencies](https://medium.com/@furkancets/distributed-hadoop-cluster-2-multi-node-kafka-kraft-with-all-dependencies-6940199bb0ca?source=rss------hadoop-5)
 - [A simple introduction to Hadoop Ecosystem](https://medium.com/@vinciabhinav7/a-simple-introduction-to-hadoop-ecosystem-f9b94afd1ce0?source=rss------hadoop-5)
 - [How big MNC’s like Google, Facebook, Instagram, etc.](https://sayantansamanta098.medium.com/how-big-mncs-like-google-facebook-instagram-etc-de7ec876e199?source=rss------hadoop-5)
@@ -308,8 +309,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [In a Hadoop Cluster,How to Contribute Limited/Specific Amount Of Storage As Slave To The Cluster](https://sayantansamanta098.medium.com/in-a-hadoop-cluster-how-to-contribute-limited-specific-amount-of-storage-as-slave-to-the-cluster-12e133912e93?source=rss------hadoop-5)
 - [Hadoop and Data Storage](https://medium.com/@hedriss10/hadoop-and-data-storage-51f9d4b5ee04?source=rss------hadoop-5)
 - [How big MNC’s like Google, Facebook, Instagram etc stores, manages and manipulate Thousands of…](https://medium.com/@anushkasnawale/how-big-mncs-like-google-facebook-instagram-etc-stores-manages-and-manipulate-thousands-of-c62c286932ce?source=rss------hadoop-5)
-- [Hadoop, concept of parallelism to upload the split data while fulfilling
-Velocity problem.](https://medium.com/@anushkasnawale/hadoop-concept-of-parallelism-to-upload-the-split-data-while-fulfilling-velocity-problem-ff5798fc8605?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
