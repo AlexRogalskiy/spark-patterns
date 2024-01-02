@@ -307,7 +307,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [How big MNC’s like Google, Facebook, Instagram, etc.](https://sayantansamanta098.medium.com/how-big-mncs-like-google-facebook-instagram-etc-de7ec876e199?source=rss------hadoop-5)
 - [Velocity Problem —  Big Data Challenge!! Hadoop Comes To Rescue! Here’s How??](https://sayantansamanta098.medium.com/velocity-problem-big-data-challenge-hadoop-comes-to-rescue-heres-how-3a57d87dc26f?source=rss------hadoop-5)
 - [In a Hadoop Cluster,How to Contribute Limited/Specific Amount Of Storage As Slave To The Cluster](https://sayantansamanta098.medium.com/in-a-hadoop-cluster-how-to-contribute-limited-specific-amount-of-storage-as-slave-to-the-cluster-12e133912e93?source=rss------hadoop-5)
-- [Hadoop and Data Storage](https://medium.com/@hedriss10/hadoop-and-data-storage-51f9d4b5ee04?source=rss------hadoop-5)
+- [Hadoop and Data Storage](https://hedriss10.medium.com/hadoop-and-data-storage-51f9d4b5ee04?source=rss------hadoop-5)
 - [How big MNC’s like Google, Facebook, Instagram etc stores, manages and manipulate Thousands of…](https://medium.com/@anushkasnawale/how-big-mncs-like-google-facebook-instagram-etc-stores-manages-and-manipulate-thousands-of-c62c286932ce?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
