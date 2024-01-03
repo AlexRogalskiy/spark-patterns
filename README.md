@@ -274,6 +274,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [On time arrival metric.](https://www.reddit.com/r/spark/comments/18x1bic/on_time_arrival_metric/)
 - [How to skip non existent S3 objects loading in AWS Glue?](https://www.reddit.com/r/spark/comments/18nt5dp/how_to_skip_non_existent_s3_objects_loading_in/)
 - [[VIDEO] SPARK Pro For Embedded System Programming](https://www.reddit.com/r/spark/comments/187fi3z/video_spark_pro_for_embedded_system_programming/)
 - [[Webinar] SPARK Pro for Proven Memory Safety](https://www.reddit.com/r/spark/comments/187feli/webinar_spark_pro_for_proven_memory_safety/)
@@ -283,7 +284,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Get Started with Open Source Formal Verification &lpar;2023 talk&rpar;](https://www.reddit.com/r/spark/comments/12o8ftc/get_started_with_open_source_formal_verification/)
 - [Creating Bug-Free Software -- Tools like Rust and SPARK make creation of reliable software easier.](https://www.reddit.com/r/spark/comments/10f5202/creating_bugfree_software_tools_like_rust_and/)
 - [How to apply different code to different blocks from XML files?](https://www.reddit.com/r/spark/comments/zf3rlt/how_to_apply_different_code_to_different_blocks/)
-- [SPARK as good as Rust for safer coding? AdaCore cites Nvidia case study.](https://www.reddit.com/r/spark/comments/yqhqte/spark_as_good_as_rust_for_safer_coding_adacore/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld Spark posts*
