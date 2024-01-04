@@ -299,6 +299,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Hadoop for Absolute Beginners: Breaking Down the Basics](https://medium.com/@leoanthony1090/hadoop-for-absolute-beginners-breaking-down-the-basics-3095eb23c1ff?source=rss------hadoop-5)
 - [Diving into Data Engineering: A Water Analogy](https://100rabhnigam.medium.com/diving-into-data-engineering-a-water-analogy-4a708e3e8f92?source=rss------hadoop-5)
 - [Big Data Marvel: Uncovering Trends and Predictions](https://medium.com/@suryaraja8903/big-data-marvel-uncovering-trends-and-predictions-80d1c00d0475?source=rss------hadoop-5)
 - [localhost:50070 not working in hadoop](https://medium.com/@gicharuelvis/localhost-50070-not-working-in-hadoop-a4423d4af42a?source=rss------hadoop-5)
@@ -308,7 +309,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [A simple introduction to Hadoop Ecosystem](https://medium.com/@vinciabhinav7/a-simple-introduction-to-hadoop-ecosystem-f9b94afd1ce0?source=rss------hadoop-5)
 - [How big MNC’s like Google, Facebook, Instagram, etc.](https://sayantansamanta098.medium.com/how-big-mncs-like-google-facebook-instagram-etc-de7ec876e199?source=rss------hadoop-5)
 - [Velocity Problem —  Big Data Challenge!! Hadoop Comes To Rescue! Here’s How??](https://sayantansamanta098.medium.com/velocity-problem-big-data-challenge-hadoop-comes-to-rescue-heres-how-3a57d87dc26f?source=rss------hadoop-5)
-- [In a Hadoop Cluster,How to Contribute Limited/Specific Amount Of Storage As Slave To The Cluster](https://sayantansamanta098.medium.com/in-a-hadoop-cluster-how-to-contribute-limited-specific-amount-of-storage-as-slave-to-the-cluster-12e133912e93?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
