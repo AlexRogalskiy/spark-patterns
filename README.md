@@ -299,6 +299,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Getting Started With Apache Lucene](https://medium.com/@nsidana123/getting-started-with-apache-lucene-35a57516a084?source=rss------hadoop-5)
 - [Hadoop for Absolute Beginners: Breaking Down the Basics](https://medium.com/@leoanthony1090/hadoop-for-absolute-beginners-breaking-down-the-basics-3095eb23c1ff?source=rss------hadoop-5)
 - [Diving into Data Engineering: A Water Analogy](https://100rabhnigam.medium.com/diving-into-data-engineering-a-water-analogy-4a708e3e8f92?source=rss------hadoop-5)
 - [Big Data Marvel: Uncovering Trends and Predictions](https://medium.com/@suryaraja8903/big-data-marvel-uncovering-trends-and-predictions-80d1c00d0475?source=rss------hadoop-5)
@@ -308,7 +309,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Distributed Hadoop Cluster2&lpar;Multinode Kafka-KRaft&rpar; with all dependencies](https://medium.com/@furkancets/distributed-hadoop-cluster-2-multi-node-kafka-kraft-with-all-dependencies-6940199bb0ca?source=rss------hadoop-5)
 - [A simple introduction to Hadoop Ecosystem](https://medium.com/@vinciabhinav7/a-simple-introduction-to-hadoop-ecosystem-f9b94afd1ce0?source=rss------hadoop-5)
 - [How big MNC’s like Google, Facebook, Instagram, etc.](https://sayantansamanta098.medium.com/how-big-mncs-like-google-facebook-instagram-etc-de7ec876e199?source=rss------hadoop-5)
-- [Velocity Problem —  Big Data Challenge!! Hadoop Comes To Rescue! Here’s How??](https://sayantansamanta098.medium.com/velocity-problem-big-data-challenge-hadoop-comes-to-rescue-heres-how-3a57d87dc26f?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
