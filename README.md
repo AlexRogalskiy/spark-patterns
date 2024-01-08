@@ -299,7 +299,9 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
-- [Getting Started With Apache Lucene](https://medium.com/@nsidana123/getting-started-with-apache-lucene-35a57516a084?source=rss------hadoop-5)
+- [Setup HADOOP — macOS M1-M2](https://medium.com/@toygun.ozyurek/setup-hadoop-macos-m1-m2-61de978eb0ac?source=rss------hadoop-5)
+- [Unveiling the Power of Hadoop: Navigating the Landscape and Overcoming Challenges -Week-1](https://mayursurani.medium.com/unveiling-the-power-of-hadoop-navigating-the-landscape-and-overcoming-challenges-week-1-efacfe028103?source=rss------hadoop-5)
+- [Getting Started With Apache Lucene](https://towardsdev.com/getting-started-with-apache-lucene-35a57516a084?source=rss------hadoop-5)
 - [Hadoop for Absolute Beginners: Breaking Down the Basics](https://medium.com/@leoanthony1090/hadoop-for-absolute-beginners-breaking-down-the-basics-3095eb23c1ff?source=rss------hadoop-5)
 - [Diving into Data Engineering: A Water Analogy](https://100rabhnigam.medium.com/diving-into-data-engineering-a-water-analogy-4a708e3e8f92?source=rss------hadoop-5)
 - [Big Data Marvel: Uncovering Trends and Predictions](https://medium.com/@suryaraja8903/big-data-marvel-uncovering-trends-and-predictions-80d1c00d0475?source=rss------hadoop-5)
@@ -307,8 +309,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Hadoop 3.3.6 on Ubuntu 2023 : Easy Installation Guide](https://medium.com/@riyajagrawal/hadoop-3-3-6-on-ubuntu-2023-easy-installation-guide-10deec1741fa?source=rss------hadoop-5)
 - [PySpark Questions 1](https://gsanjeewa1111.medium.com/pyspark-facts-b83366842ddf?source=rss------hadoop-5)
 - [Distributed Hadoop Cluster2&lpar;Multinode Kafka-KRaft&rpar; with all dependencies](https://medium.com/@furkancets/distributed-hadoop-cluster-2-multi-node-kafka-kraft-with-all-dependencies-6940199bb0ca?source=rss------hadoop-5)
-- [A simple introduction to Hadoop Ecosystem](https://medium.com/@vinciabhinav7/a-simple-introduction-to-hadoop-ecosystem-f9b94afd1ce0?source=rss------hadoop-5)
-- [How big MNC’s like Google, Facebook, Instagram, etc.](https://sayantansamanta098.medium.com/how-big-mncs-like-google-facebook-instagram-etc-de7ec876e199?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
