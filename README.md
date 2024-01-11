@@ -299,6 +299,9 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [MapReduce — An Introduction to Distributed Computing for Beginners](https://medium.com/@mmoshikoo/mapreduce-an-introduction-to-distributed-computing-for-beginners-1f718a7bf546?source=rss------hadoop-5)
+- [HDFS &lpar;Hadoop Distributed File System&rpar; Unbox](https://medium.com/@munnebsheikh10/hdfs-hadoop-distributed-file-system-unbox-e7f08c0b695b?source=rss------hadoop-5)
+- [Big Data Hadoop Online Training and Certification](https://medium.com/@leoanthony1090/big-data-hadoop-online-training-and-certification-82a29dd3bba9?source=rss------hadoop-5)
 - [Embracing NoSQL and Hadoop Ecosystem: A Deep Dive into Database and File Systems](https://zikazama.medium.com/embracing-nosql-and-hadoop-ecosystem-a-deep-dive-into-database-and-file-systems-7217cc8646f8?source=rss------hadoop-5)
 - [Navigating Hadoop’s Infrastructure: Cloud, Virtualization, and Implementation Insights](https://zikazama.medium.com/navigating-hadoops-infrastructure-cloud-virtualization-and-implementation-insights-ea27c1cba068?source=rss------hadoop-5)
 - [Unleashing Data Magic: The Power of Data Ingestion Layer](https://zikazama.medium.com/unleashing-data-magic-the-power-of-data-ingestion-layer-ac7e029e4010?source=rss------hadoop-5)
@@ -306,9 +309,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Big Data Hadoop Online Training and Placement Course](https://medium.com/@leoanthony1090/big-data-hadoop-online-training-and-placement-course-45aa392670a3?source=rss------hadoop-5)
 - [Setup HADOOP — macOS M1-M2](https://medium.com/@toygun.ozyurek/setup-hadoop-macos-m1-m2-61de978eb0ac?source=rss------hadoop-5)
 - [Unveiling the Power of Hadoop: Navigating the Landscape and Overcoming Challenges -Week-1](https://mayursurani.medium.com/unveiling-the-power-of-hadoop-navigating-the-landscape-and-overcoming-challenges-week-1-efacfe028103?source=rss------hadoop-5)
-- [Getting Started With Apache Lucene](https://towardsdev.com/getting-started-with-apache-lucene-35a57516a084?source=rss------hadoop-5)
-- [Hadoop for Absolute Beginners: Breaking Down the Basics](https://medium.com/@leoanthony1090/hadoop-for-absolute-beginners-breaking-down-the-basics-3095eb23c1ff?source=rss------hadoop-5)
-- [Diving into Data Engineering: A Water Analogy](https://100rabhnigam.medium.com/diving-into-data-engineering-a-water-analogy-4a708e3e8f92?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
