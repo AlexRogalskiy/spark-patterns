@@ -299,6 +299,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Hadoop et Map Reduce sur Ubuntu](https://medium.com/@ghouas.abdelhak/hadoop-et-map-reduce-sur-ubuntu-b34472956ef7?source=rss------hadoop-5)
 - [Running single node MapReduce using docker and Hadoop Cluster](https://medium.com/@genius_meringue_gnat_79/running-single-node-mapreduce-using-docker-and-hadoop-cluster-41f5ec5b7650?source=rss------hadoop-5)
 - [Difference between secondary namenode and standby namenode in HDFS?](https://medium.com/@aaryanohekar277/difference-between-secondary-namenode-and-standby-namenode-in-hdfs-93056795f6b2?source=rss------hadoop-5)
 - [Big Data Hadoop Online Training and Certification Course](https://medium.com/@leoanthony1090/big-data-hadoop-online-training-and-certification-course-54e941237b13?source=rss------hadoop-5)
@@ -308,7 +309,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Embracing NoSQL and Hadoop Ecosystem: A Deep Dive into Database and File Systems](https://zikazama.medium.com/embracing-nosql-and-hadoop-ecosystem-a-deep-dive-into-database-and-file-systems-7217cc8646f8?source=rss------hadoop-5)
 - [Navigating Hadoop’s Infrastructure: Cloud, Virtualization, and Implementation Insights](https://zikazama.medium.com/navigating-hadoops-infrastructure-cloud-virtualization-and-implementation-insights-ea27c1cba068?source=rss------hadoop-5)
 - [Unleashing Data Magic: The Power of Data Ingestion Layer](https://zikazama.medium.com/unleashing-data-magic-the-power-of-data-ingestion-layer-ac7e029e4010?source=rss------hadoop-5)
-- [Building a Robust Data Ecosystem: Exploring the Layers of a Distributed Hadoop System](https://zikazama.medium.com/building-a-robust-data-ecosystem-exploring-the-layers-of-a-distributed-hadoop-system-d75a4eca34e9?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
