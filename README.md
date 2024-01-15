@@ -299,16 +299,16 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Using NNA and Python to clean up HDFS](https://medium.com/@oleg_yamin/using-nna-and-python-to-clean-up-hdfs-3c26dc0cb94e?source=rss------hadoop-5)
+- [Framework in Data Analysis](https://medium.com/@jaycees10000/framework-in-data-analysis-a48f305ea057?source=rss------hadoop-5)
+- [Getting Started With Spark Streaming. Big Data Series 1: Part 2](https://medium.com/@nsidana123/getting-started-with-spark-streaming-big-data-series-1-part-2-b086e4de5f5b?source=rss------hadoop-5)
+- [Spark Question 11 : cache and checkpoint](https://gsanjeewa1111.medium.com/spark-question-11-cache-and-checkpoint-5b6622f45d26?source=rss------hadoop-5)
+- [Unveiling the powerhouse features of Apache Spark](https://medium.com/@PassionateDataEngineer/unveiling-the-powerhouse-features-of-apache-spark-626eaa07f23e?source=rss------hadoop-5)
+- [Essential Components of Hadoop: HDFS, MapReduce, and YARN](https://medium.com/@connect2rohit/essential-components-of-hadoop-hdfs-mapreduce-and-yarn-06f7916a168f?source=rss------hadoop-5)
 - [CRUD Operations in Elastic Search Using Kibana. Big Data Engineering Series 1: Part 3](https://medium.com/@nsidana123/crud-operations-in-elastic-search-using-kibana-big-data-engineering-series-1-part-3-1b6ca884e674?source=rss------hadoop-5)
 - [What-and-why-hadoop](https://premvishnoi.medium.com/what-and-why-hadoop-f00e10277715?source=rss------hadoop-5)
 - [Hadoop et Map Reduce sur Ubuntu](https://medium.com/@ghouas.abdelhak/hadoop-et-map-reduce-sur-ubuntu-b34472956ef7?source=rss------hadoop-5)
 - [Running single node MapReduce using docker and Hadoop Cluster](https://medium.com/@genius_meringue_gnat_79/running-single-node-mapreduce-using-docker-and-hadoop-cluster-41f5ec5b7650?source=rss------hadoop-5)
-- [Difference between secondary namenode and standby namenode in HDFS?](https://medium.com/@aaryanohekar277/difference-between-secondary-namenode-and-standby-namenode-in-hdfs-93056795f6b2?source=rss------hadoop-5)
-- [Big Data Hadoop Online Training and Certification Course](https://medium.com/@leoanthony1090/big-data-hadoop-online-training-and-certification-course-54e941237b13?source=rss------hadoop-5)
-- [MapReduce — An Introduction to Distributed Computing for Beginners](https://medium.com/@mmoshikoo/mapreduce-an-introduction-to-distributed-computing-for-beginners-1f718a7bf546?source=rss------hadoop-5)
-- [HDFS &lpar;Hadoop Distributed File System&rpar; Unbox](https://medium.com/@munnebsheikh10/hdfs-hadoop-distributed-file-system-unbox-e7f08c0b695b?source=rss------hadoop-5)
-- [Big Data Hadoop Online Training and Certification](https://medium.com/@leoanthony1090/big-data-hadoop-online-training-and-certification-82a29dd3bba9?source=rss------hadoop-5)
-- [Embracing NoSQL and Hadoop Ecosystem: A Deep Dive into Database and File Systems](https://zikazama.medium.com/embracing-nosql-and-hadoop-ecosystem-a-deep-dive-into-database-and-file-systems-7217cc8646f8?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
