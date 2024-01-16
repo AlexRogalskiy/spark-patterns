@@ -299,6 +299,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Decoding Hadoop Vs Spark: Understanding Variances](https://medium.com/@suhasmahajan85/decoding-hadoop-vs-spark-understanding-variances-0a7fe5310c6f?source=rss------hadoop-5)
+- [Spark vs. Hadoop, the Full Comparison](https://tarek-11.medium.com/spark-vs-hadoop-the-full-comparison-2e5632bbf47c?source=rss------hadoop-5)
 - [Using NNA and Python to clean up HDFS](https://medium.com/@oleg_yamin/using-nna-and-python-to-clean-up-hdfs-3c26dc0cb94e?source=rss------hadoop-5)
 - [Framework in Data Analysis](https://medium.com/@jaycees10000/framework-in-data-analysis-a48f305ea057?source=rss------hadoop-5)
 - [Getting Started With Spark Streaming. Big Data Series 1: Part 2](https://medium.com/@nsidana123/getting-started-with-spark-streaming-big-data-series-1-part-2-b086e4de5f5b?source=rss------hadoop-5)
@@ -307,8 +309,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Essential Components of Hadoop: HDFS, MapReduce, and YARN](https://medium.com/@connect2rohit/essential-components-of-hadoop-hdfs-mapreduce-and-yarn-06f7916a168f?source=rss------hadoop-5)
 - [CRUD Operations in Elastic Search Using Kibana. Big Data Engineering Series 1: Part 3](https://medium.com/@nsidana123/crud-operations-in-elastic-search-using-kibana-big-data-engineering-series-1-part-3-1b6ca884e674?source=rss------hadoop-5)
 - [What-and-why-hadoop](https://premvishnoi.medium.com/what-and-why-hadoop-f00e10277715?source=rss------hadoop-5)
-- [Hadoop et Map Reduce sur Ubuntu](https://medium.com/@ghouas.abdelhak/hadoop-et-map-reduce-sur-ubuntu-b34472956ef7?source=rss------hadoop-5)
-- [Running single node MapReduce using docker and Hadoop Cluster](https://medium.com/@genius_meringue_gnat_79/running-single-node-mapreduce-using-docker-and-hadoop-cluster-41f5ec5b7650?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
