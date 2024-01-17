@@ -299,6 +299,9 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [MongoDB vs Elastic Search!!](https://medium.com/@nsidana123/mongodb-vs-elastic-search-7f3e124aaa89?source=rss------hadoop-5)
+- [Open Source Big Data Processing Apache Frameworks](https://medium.com/@siladityaghosh/open-source-big-data-processing-apache-frameworks-001d7c893815?source=rss------hadoop-5)
+- [News Sentiment Analysis with ETL Pipeline using Kafka, Hadoop and Spark](https://medium.com/@girishcodealchemy/news-sentiment-analysis-with-etl-pipeline-using-kafka-hadoop-and-spark-7724dab820e6?source=rss------hadoop-5)
 - [Decoding Hadoop Vs Spark: Understanding Variances](https://medium.com/@suhasmahajan85/decoding-hadoop-vs-spark-understanding-variances-0a7fe5310c6f?source=rss------hadoop-5)
 - [Spark vs. Hadoop, the Full Comparison](https://tarek-11.medium.com/spark-vs-hadoop-the-full-comparison-2e5632bbf47c?source=rss------hadoop-5)
 - [Using NNA and Python to clean up HDFS](https://medium.com/@oleg_yamin/using-nna-and-python-to-clean-up-hdfs-3c26dc0cb94e?source=rss------hadoop-5)
@@ -306,9 +309,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Getting Started With Spark Streaming. Big Data Series 1: Part 2](https://medium.com/@nsidana123/getting-started-with-spark-streaming-big-data-series-1-part-2-b086e4de5f5b?source=rss------hadoop-5)
 - [Spark Question 11 : cache and checkpoint](https://gsanjeewa1111.medium.com/spark-question-11-cache-and-checkpoint-5b6622f45d26?source=rss------hadoop-5)
 - [Unveiling the powerhouse features of Apache Spark](https://medium.com/@PassionateDataEngineer/unveiling-the-powerhouse-features-of-apache-spark-626eaa07f23e?source=rss------hadoop-5)
-- [Essential Components of Hadoop: HDFS, MapReduce, and YARN](https://medium.com/@connect2rohit/essential-components-of-hadoop-hdfs-mapreduce-and-yarn-06f7916a168f?source=rss------hadoop-5)
-- [CRUD Operations in Elastic Search Using Kibana. Big Data Engineering Series 1: Part 3](https://medium.com/@nsidana123/crud-operations-in-elastic-search-using-kibana-big-data-engineering-series-1-part-3-1b6ca884e674?source=rss------hadoop-5)
-- [What-and-why-hadoop](https://premvishnoi.medium.com/what-and-why-hadoop-f00e10277715?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
