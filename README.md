@@ -299,6 +299,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Thoughts on Hadoop Small files issue](https://medium.com/@watermark1983/thoughts-on-hadoop-small-files-issue-599c53b6d299?source=rss------hadoop-5)
+- [Apache Hadoop: Components, Integration, and Cloud Deployment](https://medium.com/@siladityaghosh/apache-hadoop-components-integration-and-cloud-deployment-b500b0cc41bf?source=rss------hadoop-5)
 - [MongoDB vs Elastic Search!!](https://medium.com/@nsidana123/mongodb-vs-elastic-search-7f3e124aaa89?source=rss------hadoop-5)
 - [Open Source Big Data Processing Apache Frameworks](https://medium.com/@siladityaghosh/open-source-big-data-processing-apache-frameworks-001d7c893815?source=rss------hadoop-5)
 - [News Sentiment Analysis with ETL Pipeline using Kafka, Hadoop and Spark](https://medium.com/@girishcodealchemy/news-sentiment-analysis-with-etl-pipeline-using-kafka-hadoop-and-spark-7724dab820e6?source=rss------hadoop-5)
@@ -307,8 +309,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Using NNA and Python to clean up HDFS](https://medium.com/@oleg_yamin/using-nna-and-python-to-clean-up-hdfs-3c26dc0cb94e?source=rss------hadoop-5)
 - [Framework in Data Analysis](https://medium.com/@jaycees10000/framework-in-data-analysis-a48f305ea057?source=rss------hadoop-5)
 - [Getting Started With Spark Streaming. Big Data Series 1: Part 2](https://medium.com/@nsidana123/getting-started-with-spark-streaming-big-data-series-1-part-2-b086e4de5f5b?source=rss------hadoop-5)
-- [Spark Question 11 : cache and checkpoint](https://gsanjeewa1111.medium.com/spark-question-11-cache-and-checkpoint-5b6622f45d26?source=rss------hadoop-5)
-- [Unveiling the powerhouse features of Apache Spark](https://medium.com/@PassionateDataEngineer/unveiling-the-powerhouse-features-of-apache-spark-626eaa07f23e?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
