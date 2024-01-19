@@ -299,16 +299,15 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Unleash Your Potential: The Best Big Data Master Programs to Become the Ultimate Data Engineer in…](https://medium.com/@sumitvp2007/unleash-your-potential-the-best-big-data-master-programs-to-become-the-ultimate-data-engineer-in-0cce5fc548f0?source=rss------hadoop-5)
+- [Detailed guide to install Apache Hadoop on Linux&lpar;Ubuntu&rpar; for absolute beginners](https://medium.com/@aditya4567uk/detailed-guide-to-install-apache-hadoop-on-linux-ubuntu-for-absolute-beginners-4cf60bc4f667?source=rss------hadoop-5)
+- [The Evolution of Apache Hadoop: A Revolutionary Big Data Framework](https://sachin-s1dn.medium.com/the-evolution-of-apache-hadoop-a-revolutionary-big-data-framework-e3a1d6dbb37a?source=rss------hadoop-5)
 - [Thoughts on Hadoop Small files issue](https://medium.com/@watermark1983/thoughts-on-hadoop-small-files-issue-599c53b6d299?source=rss------hadoop-5)
 - [Apache Hadoop: Components, Integration, and Cloud Deployment](https://medium.com/@siladityaghosh/apache-hadoop-components-integration-and-cloud-deployment-b500b0cc41bf?source=rss------hadoop-5)
 - [MongoDB vs Elastic Search!!](https://medium.com/@nsidana123/mongodb-vs-elastic-search-7f3e124aaa89?source=rss------hadoop-5)
 - [Open Source Big Data Processing Apache Frameworks](https://medium.com/@siladityaghosh/open-source-big-data-processing-apache-frameworks-001d7c893815?source=rss------hadoop-5)
 - [News Sentiment Analysis with ETL Pipeline using Kafka, Hadoop and Spark](https://medium.com/@girishcodealchemy/news-sentiment-analysis-with-etl-pipeline-using-kafka-hadoop-and-spark-7724dab820e6?source=rss------hadoop-5)
 - [Decoding Hadoop Vs Spark: Understanding Variances](https://medium.com/@suhasmahajan85/decoding-hadoop-vs-spark-understanding-variances-0a7fe5310c6f?source=rss------hadoop-5)
-- [Spark vs. Hadoop, the Full Comparison](https://tarek-11.medium.com/spark-vs-hadoop-the-full-comparison-2e5632bbf47c?source=rss------hadoop-5)
-- [Using NNA and Python to clean up HDFS](https://medium.com/@oleg_yamin/using-nna-and-python-to-clean-up-hdfs-3c26dc0cb94e?source=rss------hadoop-5)
-- [Framework in Data Analysis](https://medium.com/@jaycees10000/framework-in-data-analysis-a48f305ea057?source=rss------hadoop-5)
-- [Getting Started With Spark Streaming. Big Data Series 1: Part 2](https://medium.com/@nsidana123/getting-started-with-spark-streaming-big-data-series-1-part-2-b086e4de5f5b?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
