@@ -274,9 +274,9 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Stuck at spark Scala upgrade](https://www.reddit.com/r/spark/comments/199t4bo/stuck_at_spark_scala_upgrade/)
+- [SPARK Pro for Proven Memory Safety Webinar - Jan 31st](https://www.reddit.com/r/spark/comments/198ts6k/spark_pro_for_proven_memory_safety_webinar_jan/)
 - [Rust and SPARK: Software Reliability for Everyone &lpar;2020&rpar;](https://www.reddit.com/r/spark/comments/18zxmw4/rust_and_spark_software_reliability_for_everyone/)
-- [On time arrival metric.](https://www.reddit.com/r/spark/comments/18x1bic/on_time_arrival_metric/)
-- [How to skip non existent S3 objects loading in AWS Glue?](https://www.reddit.com/r/spark/comments/18nt5dp/how_to_skip_non_existent_s3_objects_loading_in/)
 - [[VIDEO] SPARK Pro For Embedded System Programming](https://www.reddit.com/r/spark/comments/187fi3z/video_spark_pro_for_embedded_system_programming/)
 - [[Webinar] SPARK Pro for Proven Memory Safety](https://www.reddit.com/r/spark/comments/187feli/webinar_spark_pro_for_proven_memory_safety/)
 - [Light Launcher Company, Latitude, Adopted Ada and SPARK](https://www.reddit.com/r/spark/comments/183fr3t/light_launcher_company_latitude_adopted_ada_and/)
