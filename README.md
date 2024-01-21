@@ -299,15 +299,15 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Informatica Training in Hyderabad](https://medium.com/@mysession.221/informatica-training-in-hyderabad-13976460ba09?source=rss------hadoop-5)
 - [Streaming Data Realities: Using Kafka for Real-Time Data Processing](https://medium.com/@tommyadeliyi/streaming-data-realities-using-kafka-for-real-time-data-processing-83c8966f4e4e?source=rss------hadoop-5)
 - [Distributed Data Processing with Hadoop: Scalability and Efficiency in Big Data](https://medium.com/@tommyadeliyi/distributed-data-processing-with-hadoop-scalability-and-efficiency-in-big-data-fdf8e74bf03d?source=rss------hadoop-5)
-- [Big Data: Part 1 — Let’s Go With Intro](https://deekshasharma2022.medium.com/big-data-part-1-lets-go-with-intro-48bb920dfd88?source=rss------hadoop-5)
+- [Big Data: Part 1 — Let’s Go With Intro](https://blog.devgenius.io/big-data-part-1-lets-go-with-intro-48bb920dfd88?source=rss------hadoop-5)
 - [Unleash Your Potential: The Best Big Data Master Programs to Become the Ultimate Data Engineer in…](https://medium.com/@sumitvp2007/unleash-your-potential-the-best-big-data-master-programs-to-become-the-ultimate-data-engineer-in-0cce5fc548f0?source=rss------hadoop-5)
-- [Detailed guide to install Apache Hadoop on Linux&lpar;Ubuntu&rpar; for absolute beginners](https://medium.com/@aditya4567uk/detailed-guide-to-install-apache-hadoop-on-linux-ubuntu-for-absolute-beginners-4cf60bc4f667?source=rss------hadoop-5)
+- [Detailed guide to install Apache Hadoop on Linux&lpar;Ubuntu&rpar; for absolute beginners](https://blog.devgenius.io/detailed-guide-to-install-apache-hadoop-on-linux-ubuntu-for-absolute-beginners-4cf60bc4f667?source=rss------hadoop-5)
 - [The Evolution of Apache Hadoop: A Revolutionary Big Data Framework](https://sachin-s1dn.medium.com/the-evolution-of-apache-hadoop-a-revolutionary-big-data-framework-e3a1d6dbb37a?source=rss------hadoop-5)
 - [Thoughts on Hadoop Small files issue](https://medium.com/@watermark1983/thoughts-on-hadoop-small-files-issue-599c53b6d299?source=rss------hadoop-5)
 - [Apache Hadoop: Components, Integration, and Cloud Deployment](https://medium.com/@siladityaghosh/apache-hadoop-components-integration-and-cloud-deployment-b500b0cc41bf?source=rss------hadoop-5)
-- [MongoDB vs Elastic Search!!](https://medium.com/@nsidana123/mongodb-vs-elastic-search-7f3e124aaa89?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
