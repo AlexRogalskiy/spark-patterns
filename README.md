@@ -299,6 +299,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Hadoop Distributed File System &lpar;HDFS&rpar; vs Cloud Data Lake Storage? When to use what?](https://medium.com/@solondas96/hadoop-distributed-file-system-hdfs-vs-cloud-data-lake-storage-when-to-use-what-c9fd4d1dd072?source=rss------hadoop-5)
+- [Oozie vs Airflow? Apple to Orange comparison or both are the same?](https://medium.com/@sukumaar/oozie-vs-airflow-apple-to-orange-comparison-or-both-are-the-same-0dad0512ed00?source=rss------hadoop-5)
 - [Unleashing the Power of Machine Learning on Large Datasets](https://medium.com/@ashishbatra.ipec/unleashing-the-power-of-machine-learning-on-large-datasets-6e6e03e68882?source=rss------hadoop-5)
 - [Exploring the Core of Big Data: Hadoop’s Distributed File System &lpar;HDFS&rpar;](https://medium.com/@ilyurek/exploring-the-core-of-big-data-hadoops-distributed-file-system-hdfs-7d10a9068b02?source=rss------hadoop-5)
 - [YARN, Spark Cluster Tuning](https://medium.com/@surajnathani/yarn-spark-cluster-tuning-2c461247754b?source=rss------hadoop-5)
@@ -307,7 +309,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Distributed Data Processing with Hadoop: Scalability and Efficiency in Big Data](https://medium.com/@tommyadeliyi/distributed-data-processing-with-hadoop-scalability-and-efficiency-in-big-data-fdf8e74bf03d?source=rss------hadoop-5)
 - [Big Data: Part 1 — Let’s Go With Intro](https://blog.devgenius.io/big-data-part-1-lets-go-with-intro-48bb920dfd88?source=rss------hadoop-5)
 - [Unleash Your Potential: The Best Big Data Master Programs to Become the Ultimate Data Engineer in…](https://medium.com/@sumitvp2007/unleash-your-potential-the-best-big-data-master-programs-to-become-the-ultimate-data-engineer-in-0cce5fc548f0?source=rss------hadoop-5)
-- [Detailed guide to install Apache Hadoop on Linux&lpar;Ubuntu&rpar; for absolute beginners](https://blog.devgenius.io/detailed-guide-to-install-apache-hadoop-on-linux-ubuntu-for-absolute-beginners-4cf60bc4f667?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
