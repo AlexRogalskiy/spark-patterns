@@ -299,6 +299,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [How to install Hadoop Step by Step in a Linux Box&lpar;Mint&rpar;](https://medium.com/@mufasadev/how-to-install-hadoop-step-by-step-in-a-linux-box-mint-890354385bfc?source=rss------hadoop-5)
+- [Big Data Hadoop](https://medium.com/@mufasadev/big-data-hadoop-e64da66cb310?source=rss------hadoop-5)
 - [Hadoop Distributed File System &lpar;HDFS&rpar; vs Cloud Data Lake Storage? When to use what?](https://medium.com/@solondas96/hadoop-distributed-file-system-hdfs-vs-cloud-data-lake-storage-when-to-use-what-c9fd4d1dd072?source=rss------hadoop-5)
 - [Oozie vs Airflow? Apple to Orange comparison or both are the same?](https://medium.com/@sukumaar/oozie-vs-airflow-apple-to-orange-comparison-or-both-are-the-same-0dad0512ed00?source=rss------hadoop-5)
 - [Unleashing the Power of Machine Learning on Large Datasets](https://medium.com/@ashishbatra.ipec/unleashing-the-power-of-machine-learning-on-large-datasets-6e6e03e68882?source=rss------hadoop-5)
@@ -307,8 +309,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Informatica Training in Hyderabad](https://medium.com/@mysession.221/informatica-training-in-hyderabad-13976460ba09?source=rss------hadoop-5)
 - [Streaming Data Realities: Using Kafka for Real-Time Data Processing](https://medium.com/@tommyadeliyi/streaming-data-realities-using-kafka-for-real-time-data-processing-83c8966f4e4e?source=rss------hadoop-5)
 - [Distributed Data Processing with Hadoop: Scalability and Efficiency in Big Data](https://medium.com/@tommyadeliyi/distributed-data-processing-with-hadoop-scalability-and-efficiency-in-big-data-fdf8e74bf03d?source=rss------hadoop-5)
-- [Big Data: Part 1 — Let’s Go With Intro](https://blog.devgenius.io/big-data-part-1-lets-go-with-intro-48bb920dfd88?source=rss------hadoop-5)
-- [Unleash Your Potential: The Best Big Data Master Programs to Become the Ultimate Data Engineer in…](https://medium.com/@sumitvp2007/unleash-your-potential-the-best-big-data-master-programs-to-become-the-ultimate-data-engineer-in-0cce5fc548f0?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
