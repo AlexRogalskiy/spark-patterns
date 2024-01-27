@@ -299,6 +299,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [How to access JVM in Databricks using Spark for writing data with customized file name in object…](https://medium.com/@nivethanvenkat28/how-to-access-jvm-in-databricks-using-spark-for-writing-data-with-customized-file-name-in-object-2a2896c7dbae?source=rss------hadoop-5)
+- [Big Data: Part 2- Let’s differentiate Hadoop Version 1 and Version 2.](https://deekshasharma2022.medium.com/big-data-part-2-lets-differentiate-hadoop-version-1-and-version-2-cfeb747fb60f?source=rss------hadoop-5)
 - [How to install Hadoop Step by Step in a Linux Box&lpar;Mint&rpar;](https://medium.com/@mufasadev/how-to-install-hadoop-step-by-step-in-a-linux-box-mint-890354385bfc?source=rss------hadoop-5)
 - [Big Data Hadoop](https://medium.com/@mufasadev/big-data-hadoop-e64da66cb310?source=rss------hadoop-5)
 - [Hadoop Distributed File System &lpar;HDFS&rpar; vs Cloud Data Lake Storage? When to use what?](https://medium.com/@solondas96/hadoop-distributed-file-system-hdfs-vs-cloud-data-lake-storage-when-to-use-what-c9fd4d1dd072?source=rss------hadoop-5)
@@ -307,8 +309,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Exploring the Core of Big Data: Hadoop’s Distributed File System &lpar;HDFS&rpar;](https://medium.com/@ilyurek/exploring-the-core-of-big-data-hadoops-distributed-file-system-hdfs-7d10a9068b02?source=rss------hadoop-5)
 - [YARN, Spark Cluster Tuning](https://medium.com/@surajnathani/yarn-spark-cluster-tuning-2c461247754b?source=rss------hadoop-5)
 - [Informatica Training in Hyderabad](https://medium.com/@mysession.221/informatica-training-in-hyderabad-13976460ba09?source=rss------hadoop-5)
-- [Streaming Data Realities: Using Kafka for Real-Time Data Processing](https://medium.com/@tommyadeliyi/streaming-data-realities-using-kafka-for-real-time-data-processing-83c8966f4e4e?source=rss------hadoop-5)
-- [Distributed Data Processing with Hadoop: Scalability and Efficiency in Big Data](https://medium.com/@tommyadeliyi/distributed-data-processing-with-hadoop-scalability-and-efficiency-in-big-data-fdf8e74bf03d?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
