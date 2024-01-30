@@ -300,7 +300,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 
 <!-- HADOOP-POST-LIST:START -->
 - [How to access JVM in Databricks using Spark for writing data with customized file name in object…](https://medium.com/@nivethanvenkat28/how-to-access-jvm-in-databricks-using-spark-for-writing-data-with-customized-file-name-in-object-2a2896c7dbae?source=rss------hadoop-5)
-- [Big Data: Part 2- Let’s differentiate Hadoop Version 1 and Version 2.](https://deekshasharma2022.medium.com/big-data-part-2-lets-differentiate-hadoop-version-1-and-version-2-cfeb747fb60f?source=rss------hadoop-5)
+- [Big Data: Part 2- Let’s differentiate Hadoop Version 1 and Version 2.](https://towardsdev.com/big-data-part-2-lets-differentiate-hadoop-version-1-and-version-2-cfeb747fb60f?source=rss------hadoop-5)
 - [How to install Hadoop Step by Step in a Linux Box&lpar;Mint&rpar;](https://medium.com/@mufasadev/how-to-install-hadoop-step-by-step-in-a-linux-box-mint-890354385bfc?source=rss------hadoop-5)
 - [Big Data Hadoop](https://medium.com/@mufasadev/big-data-hadoop-e64da66cb310?source=rss------hadoop-5)
 - [Hadoop Distributed File System &lpar;HDFS&rpar; vs Cloud Data Lake Storage? When to use what?](https://medium.com/@solondas96/hadoop-distributed-file-system-hdfs-vs-cloud-data-lake-storage-when-to-use-what-c9fd4d1dd072?source=rss------hadoop-5)
