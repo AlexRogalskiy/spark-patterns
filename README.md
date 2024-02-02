@@ -299,6 +299,9 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Big Data Hadoop Certification Training Course](https://medium.com/@leoanthony1090/big-data-hadoop-certification-training-course-8cbb171bda6e?source=rss------hadoop-5)
+- [Word Count with MapReduce in Hadoop and Java](https://medium.com/@mufasadev/word-count-with-mapreduce-in-hadoop-and-java-210c38afba11?source=rss------hadoop-5)
+- [Hadoop and Virtual Box installation on Windows](https://medium.com/@dubileshubham/hadoop-and-virtual-box-installation-on-windows-c0d53df6bf86?source=rss------hadoop-5)
 - [How to access JVM in Databricks using Spark for writing data with customized file name in object…](https://medium.com/@nivethanvenkat28/how-to-access-jvm-in-databricks-using-spark-for-writing-data-with-customized-file-name-in-object-2a2896c7dbae?source=rss------hadoop-5)
 - [Big Data: Part 2- Let’s differentiate Hadoop Version 1 and Version 2.](https://towardsdev.com/big-data-part-2-lets-differentiate-hadoop-version-1-and-version-2-cfeb747fb60f?source=rss------hadoop-5)
 - [How to install Hadoop Step by Step in a Linux Box&lpar;Mint&rpar;](https://medium.com/@mufasadev/how-to-install-hadoop-step-by-step-in-a-linux-box-mint-890354385bfc?source=rss------hadoop-5)
@@ -306,9 +309,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Hadoop Distributed File System &lpar;HDFS&rpar; vs Cloud Data Lake Storage? When to use what?](https://towardsdev.com/hadoop-distributed-file-system-hdfs-vs-cloud-data-lake-storage-when-to-use-what-c9fd4d1dd072?source=rss------hadoop-5)
 - [Oozie vs Airflow? Apple to Orange comparison or both are the same?](https://medium.com/@sukumaar/oozie-vs-airflow-apple-to-orange-comparison-or-both-are-the-same-0dad0512ed00?source=rss------hadoop-5)
 - [Unleashing the Power of Machine Learning on Large Datasets](https://medium.com/@ashishbatra.ipec/unleashing-the-power-of-machine-learning-on-large-datasets-6e6e03e68882?source=rss------hadoop-5)
-- [Exploring the Core of Big Data: Hadoop’s Distributed File System &lpar;HDFS&rpar;](https://medium.com/@ilyurek/exploring-the-core-of-big-data-hadoops-distributed-file-system-hdfs-7d10a9068b02?source=rss------hadoop-5)
-- [YARN, Spark Cluster Tuning](https://medium.com/@surajnathani/yarn-spark-cluster-tuning-2c461247754b?source=rss------hadoop-5)
-- [Informatica Training in Hyderabad](https://medium.com/@mysession.221/informatica-training-in-hyderabad-13976460ba09?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
