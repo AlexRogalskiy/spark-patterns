@@ -299,6 +299,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Hadoop and Spark: Choosing the Ideal Big Data Frameworks](https://yash7.medium.com/hadoop-and-spark-choosing-the-ideal-big-data-frameworks-9f02637a1457?source=rss------hadoop-5)
 - [Big Data Hadoop Certification Training Course](https://medium.com/@leoanthony1090/big-data-hadoop-certification-training-course-8cbb171bda6e?source=rss------hadoop-5)
 - [Word Count with MapReduce in Hadoop and Java](https://medium.com/@mufasadev/word-count-with-mapreduce-in-hadoop-and-java-210c38afba11?source=rss------hadoop-5)
 - [Hadoop and Virtual Box installation on Windows](https://medium.com/@dubileshubham/hadoop-and-virtual-box-installation-on-windows-c0d53df6bf86?source=rss------hadoop-5)
@@ -308,7 +309,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Big Data Hadoop](https://medium.com/@mufasadev/big-data-hadoop-e64da66cb310?source=rss------hadoop-5)
 - [Hadoop Distributed File System &lpar;HDFS&rpar; vs Cloud Data Lake Storage? When to use what?](https://towardsdev.com/hadoop-distributed-file-system-hdfs-vs-cloud-data-lake-storage-when-to-use-what-c9fd4d1dd072?source=rss------hadoop-5)
 - [Oozie vs Airflow? Apple to Orange comparison or both are the same?](https://medium.com/@sukumaar/oozie-vs-airflow-apple-to-orange-comparison-or-both-are-the-same-0dad0512ed00?source=rss------hadoop-5)
-- [Unleashing the Power of Machine Learning on Large Datasets](https://medium.com/@ashishbatra.ipec/unleashing-the-power-of-machine-learning-on-large-datasets-6e6e03e68882?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
