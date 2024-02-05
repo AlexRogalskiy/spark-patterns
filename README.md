@@ -299,6 +299,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Understanding HDFS: A Deep Dive into Hadoop’s Distributed File System](https://medium.com/@kishorev1/understanding-hdfs-a-deep-dive-into-hadoops-distributed-file-system-7351d2135f2b?source=rss------hadoop-5)
 - [Hadoop and Spark: Choosing the Ideal Big Data Frameworks](https://yash7.medium.com/hadoop-and-spark-choosing-the-ideal-big-data-frameworks-9f02637a1457?source=rss------hadoop-5)
 - [Big Data Hadoop Certification Training Course](https://medium.com/@leoanthony1090/big-data-hadoop-certification-training-course-8cbb171bda6e?source=rss------hadoop-5)
 - [Word Count with MapReduce in Hadoop and Java](https://medium.com/@mufasadev/word-count-with-mapreduce-in-hadoop-and-java-210c38afba11?source=rss------hadoop-5)
@@ -308,7 +309,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [How to install Hadoop Step by Step in a Linux Box&lpar;Mint&rpar;](https://medium.com/@mufasadev/how-to-install-hadoop-step-by-step-in-a-linux-box-mint-890354385bfc?source=rss------hadoop-5)
 - [Big Data Hadoop](https://medium.com/@mufasadev/big-data-hadoop-e64da66cb310?source=rss------hadoop-5)
 - [Hadoop Distributed File System &lpar;HDFS&rpar; vs Cloud Data Lake Storage? When to use what?](https://towardsdev.com/hadoop-distributed-file-system-hdfs-vs-cloud-data-lake-storage-when-to-use-what-c9fd4d1dd072?source=rss------hadoop-5)
-- [Oozie vs Airflow? Apple to Orange comparison or both are the same?](https://medium.com/@sukumaar/oozie-vs-airflow-apple-to-orange-comparison-or-both-are-the-same-0dad0512ed00?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
