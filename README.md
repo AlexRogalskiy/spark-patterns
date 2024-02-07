@@ -299,6 +299,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Apache Hive for Hadoop](https://medium.com/@mufasadev/apache-hive-for-hadoop-b45e14164fae?source=rss------hadoop-5)
 - [How to install Hadoop in Windows 10 and 11](https://medium.com/@riturajrudra18/how-to-install-hadoop-in-windows-10-and-11-9a306814ccf0?source=rss------hadoop-5)
 - [Behind the Screens: Big Data Technologies at Google, Facebook, Microsoft, and Zoho](https://arunkumardave.medium.com/behind-the-screens-big-data-technologies-at-google-facebook-microsoft-and-zoho-4f53dc0bd6a4?source=rss------hadoop-5)
 - [Reusing Hadoop Sequential Files in Snowpark Java](https://medium.com/@orellabac/reusing-hadoop-sequential-files-in-snowpark-java-45e4d81da277?source=rss------hadoop-5)
@@ -308,7 +309,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Word Count with MapReduce in Hadoop and Java](https://medium.com/@mufasadev/word-count-with-mapreduce-in-hadoop-and-java-210c38afba11?source=rss------hadoop-5)
 - [Hadoop and Virtual Box installation on Windows](https://medium.com/@dubileshubham/hadoop-and-virtual-box-installation-on-windows-c0d53df6bf86?source=rss------hadoop-5)
 - [How to access JVM in Databricks using Spark for writing data with customized file name in object…](https://medium.com/@nivethanvenkat28/how-to-access-jvm-in-databricks-using-spark-for-writing-data-with-customized-file-name-in-object-2a2896c7dbae?source=rss------hadoop-5)
-- [Big Data: Part 2- Let’s differentiate Hadoop Version 1 and Version 2.](https://towardsdev.com/big-data-part-2-lets-differentiate-hadoop-version-1-and-version-2-cfeb747fb60f?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
