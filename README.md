@@ -299,6 +299,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Configuring and using Hadoop and Spark on Ubuntu 22.04 LTS &lpar;with Canada 2021 Census data&rpar;](https://medium.com/@jordanbell2357/configuring-and-using-hadoop-and-spark-on-ubuntu-22-04-lts-with-canada-2021-census-data-5147d60e9a60?source=rss------hadoop-5)
 - [[Hadoop Ecosystem] 在 Win 11 編譯 Spark 3.0.2](https://ticyyang.medium.com/hadoop-ecosystem-%E5%9C%A8-win-11-%E7%B7%A8%E8%AD%AF-spark-3-0-2-2000b22fba31?source=rss------hadoop-5)
 - [Apache Hive for Hadoop](https://medium.com/@mufasadev/apache-hive-for-hadoop-b45e14164fae?source=rss------hadoop-5)
 - [How to install Hadoop in Windows 10 and 11](https://medium.com/@riturajrudra18/how-to-install-hadoop-in-windows-10-and-11-9a306814ccf0?source=rss------hadoop-5)
@@ -308,7 +309,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Hadoop and Spark: Choosing the Ideal Big Data Frameworks](https://yash7.medium.com/hadoop-and-spark-choosing-the-ideal-big-data-frameworks-9f02637a1457?source=rss------hadoop-5)
 - [Big Data Hadoop Certification Training Course](https://medium.com/@leoanthony1090/big-data-hadoop-certification-training-course-8cbb171bda6e?source=rss------hadoop-5)
 - [Word Count with MapReduce in Hadoop and Java](https://medium.com/@mufasadev/word-count-with-mapreduce-in-hadoop-and-java-210c38afba11?source=rss------hadoop-5)
-- [Hadoop and Virtual Box installation on Windows](https://medium.com/@dubileshubham/hadoop-and-virtual-box-installation-on-windows-c0d53df6bf86?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
