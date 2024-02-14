@@ -299,6 +299,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [E132: Big Data Engineering, 1st Principle Data Culture, and Reimagined Metadata with Suresh…](https://data-notes.co/e132-big-data-engineering-1st-principle-data-culture-and-reimagined-metadata-with-suresh-1b85164d5e71?source=rss------hadoop-5)
+- [Big Data and Hadoop Online Training](https://medium.com/@mercury.h2k/big-data-and-hadoop-online-training-ea7eff008d32?source=rss------hadoop-5)
 - [Building Blocks of Airflows](https://premvishnoi.medium.com/building-blocks-of-airflows-239d8eb96fbe?source=rss------hadoop-5)
 - [Configuring and using Hadoop and Spark on Ubuntu 22.04 LTS &lpar;with Canada 2021 Census data&rpar;](https://medium.com/@jordanbell2357/configuring-and-using-hadoop-and-spark-on-ubuntu-22-04-lts-with-canada-2021-census-data-5147d60e9a60?source=rss------hadoop-5)
 - [[Hadoop Ecosystem] 在 Win 11 編譯 Spark 3.0.2](https://ticyyang.medium.com/hadoop-ecosystem-%E5%9C%A8-win-11-%E7%B7%A8%E8%AD%AF-spark-3-0-2-2000b22fba31?source=rss------hadoop-5)
@@ -307,8 +309,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Behind the Screens: Big Data Technologies at Google, Facebook, Microsoft, and Zoho](https://arunkumardave.medium.com/behind-the-screens-big-data-technologies-at-google-facebook-microsoft-and-zoho-4f53dc0bd6a4?source=rss------hadoop-5)
 - [Reusing Hadoop Sequential Files in Snowpark Java](https://medium.com/@orellabac/reusing-hadoop-sequential-files-in-snowpark-java-45e4d81da277?source=rss------hadoop-5)
 - [Understanding HDFS: A Deep Dive into Hadoop’s Distributed File System](https://medium.com/@kishorev1/understanding-hdfs-a-deep-dive-into-hadoops-distributed-file-system-7351d2135f2b?source=rss------hadoop-5)
-- [Hadoop and Spark: Choosing the Ideal Big Data Frameworks](https://yash7.medium.com/hadoop-and-spark-choosing-the-ideal-big-data-frameworks-9f02637a1457?source=rss------hadoop-5)
-- [Big Data Hadoop Certification Training Course](https://medium.com/@leoanthony1090/big-data-hadoop-certification-training-course-8cbb171bda6e?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
