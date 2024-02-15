@@ -299,16 +299,15 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [What is Hadoop? What makes it such a popular choice?](https://medium.com/@lynne.prattblog/what-is-hadoop-what-makes-it-such-a-popular-choice-8a45339129af?source=rss------hadoop-5)
+- [Big Data and Hadoop Training | Big Data Hadoop](https://medium.com/@mercury.h2k/big-data-and-hadoop-training-big-data-hadoop-89711ff498ff?source=rss------hadoop-5)
+- [Open Table Format: Foundation of Modern data systems](https://medium.com/@raghavmnnit/open-table-format-foundation-of-modern-data-systems-c4d68bbd58f9?source=rss------hadoop-5)
 - [E132: Big Data Engineering, 1st Principle Data Culture, and Reimagined Metadata with Suresh…](https://data-notes.co/e132-big-data-engineering-1st-principle-data-culture-and-reimagined-metadata-with-suresh-1b85164d5e71?source=rss------hadoop-5)
 - [Big Data and Hadoop Online Training](https://medium.com/@mercury.h2k/big-data-and-hadoop-online-training-ea7eff008d32?source=rss------hadoop-5)
 - [Building Blocks of Airflows](https://premvishnoi.medium.com/building-blocks-of-airflows-239d8eb96fbe?source=rss------hadoop-5)
-- [Configuring and using Hadoop and Spark on Ubuntu 22.04 LTS &lpar;with Canada 2021 Census data&rpar;](https://medium.com/@jordanbell2357/configuring-and-using-hadoop-and-spark-on-ubuntu-22-04-lts-with-canada-2021-census-data-5147d60e9a60?source=rss------hadoop-5)
 - [[Hadoop Ecosystem] 在 Win 11 編譯 Spark 3.0.2](https://ticyyang.medium.com/hadoop-ecosystem-%E5%9C%A8-win-11-%E7%B7%A8%E8%AD%AF-spark-3-0-2-2000b22fba31?source=rss------hadoop-5)
 - [Apache Hive for Hadoop](https://medium.com/@mufasadev/apache-hive-for-hadoop-b45e14164fae?source=rss------hadoop-5)
 - [How to install Hadoop in Windows 10 and 11](https://medium.com/@riturajrudra18/how-to-install-hadoop-in-windows-10-and-11-9a306814ccf0?source=rss------hadoop-5)
-- [Behind the Screens: Big Data Technologies at Google, Facebook, Microsoft, and Zoho](https://arunkumardave.medium.com/behind-the-screens-big-data-technologies-at-google-facebook-microsoft-and-zoho-4f53dc0bd6a4?source=rss------hadoop-5)
-- [Reusing Hadoop Sequential Files in Snowpark Java](https://medium.com/@orellabac/reusing-hadoop-sequential-files-in-snowpark-java-45e4d81da277?source=rss------hadoop-5)
-- [Understanding HDFS: A Deep Dive into Hadoop’s Distributed File System](https://medium.com/@kishorev1/understanding-hdfs-a-deep-dive-into-hadoops-distributed-file-system-7351d2135f2b?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
