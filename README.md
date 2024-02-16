@@ -299,15 +299,15 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Exploring the Differences: Big Data in Hadoop vs AWS](https://medium.com/@SaiDevaPro/exploring-the-differences-big-data-in-hadoop-vs-aws-bdf57f2225f3?source=rss------hadoop-5)
+- [How to install Hadoop with less steps in Windows 10](https://medium.com/@danielopiyo8/how-to-install-hadoop-with-less-steps-in-windows-10-adaf000150e8?source=rss------hadoop-5)
+- [Understanding Map Reduce Computing](https://rakeshsinghania02.medium.com/understanding-map-reduce-computing-a29d0e7765d8?source=rss------hadoop-5)
 - [What is Hadoop? What makes it such a popular choice?](https://medium.com/@lynne.prattblog/what-is-hadoop-what-makes-it-such-a-popular-choice-8a45339129af?source=rss------hadoop-5)
 - [Big Data and Hadoop Training | Big Data Hadoop](https://medium.com/@mercury.h2k/big-data-and-hadoop-training-big-data-hadoop-89711ff498ff?source=rss------hadoop-5)
 - [Open Table Format: Foundation of Modern data systems](https://medium.com/@raghavmnnit/open-table-format-foundation-of-modern-data-systems-c4d68bbd58f9?source=rss------hadoop-5)
 - [E132: Big Data Engineering, 1st Principle Data Culture, and Reimagined Metadata with Suresh…](https://data-notes.co/e132-big-data-engineering-1st-principle-data-culture-and-reimagined-metadata-with-suresh-1b85164d5e71?source=rss------hadoop-5)
 - [Big Data and Hadoop Online Training](https://medium.com/@mercury.h2k/big-data-and-hadoop-online-training-ea7eff008d32?source=rss------hadoop-5)
 - [Building Blocks of Airflows](https://premvishnoi.medium.com/building-blocks-of-airflows-239d8eb96fbe?source=rss------hadoop-5)
-- [[Hadoop Ecosystem] 在 Win 11 編譯 Spark 3.0.2](https://ticyyang.medium.com/hadoop-ecosystem-%E5%9C%A8-win-11-%E7%B7%A8%E8%AD%AF-spark-3-0-2-2000b22fba31?source=rss------hadoop-5)
-- [Apache Hive for Hadoop](https://medium.com/@mufasadev/apache-hive-for-hadoop-b45e14164fae?source=rss------hadoop-5)
-- [How to install Hadoop in Windows 10 and 11](https://medium.com/@riturajrudra18/how-to-install-hadoop-in-windows-10-and-11-9a306814ccf0?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
