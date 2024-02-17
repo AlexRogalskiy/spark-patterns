@@ -274,6 +274,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[FTSCS23] Does Rust SPARK Joy? Safe Bindings from Rust to SPARK, Applied to the BBQueue Li...](https://www.reddit.com/r/spark/comments/1asfuyw/ftscs23_does_rust_spark_joy_safe_bindings_from/)
+- [Memory Safety with Formal Proof Webinar](https://www.reddit.com/r/spark/comments/1asfrzv/memory_safety_with_formal_proof_webinar/)
 - [SPARK Pro for Proven Memory Safety Webinar - Jan 31st](https://www.reddit.com/r/spark/comments/198ts6k/spark_pro_for_proven_memory_safety_webinar_jan/)
 - [Rust and SPARK: Software Reliability for Everyone &lpar;2020&rpar;](https://www.reddit.com/r/spark/comments/18zxmw4/rust_and_spark_software_reliability_for_everyone/)
 - [[VIDEO] SPARK Pro For Embedded System Programming](https://www.reddit.com/r/spark/comments/187fi3z/video_spark_pro_for_embedded_system_programming/)
@@ -282,8 +284,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Origins of SPARK](https://www.reddit.com/r/spark/comments/17q6xcq/origins_of_spark/)
 - [I&#39;ve removed any non-Ada / SPARK related threads](https://www.reddit.com/r/spark/comments/17fub8v/ive_removed_any_nonada_spark_related_threads/)
 - [Get Started with Open Source Formal Verification &lpar;2023 talk&rpar;](https://www.reddit.com/r/spark/comments/12o8ftc/get_started_with_open_source_formal_verification/)
-- [Creating Bug-Free Software -- Tools like Rust and SPARK make creation of reliable software easier.](https://www.reddit.com/r/spark/comments/10f5202/creating_bugfree_software_tools_like_rust_and/)
-- [How to apply different code to different blocks from XML files?](https://www.reddit.com/r/spark/comments/zf3rlt/how_to_apply_different_code_to_different_blocks/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld Spark posts*
