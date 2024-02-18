@@ -299,6 +299,9 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Demystifying Data Engineering Tools to a fresher in field: Building an E-commerce Recommendation…](https://medium.com/@Data365/demystifying-data-engineering-tools-to-a-fresher-in-field-building-an-e-commerce-recommendation-aabfb68d3068?source=rss------hadoop-5)
+- [“Demystifying Hadoop MapReduce for the Everyday Person”](https://medium.com/@489sonali/demystifying-hadoop-mapreduce-for-the-everyday-person-36b1456c82ef?source=rss------hadoop-5)
+- [Running First MapReduce Code of Hadoop on Ubuntu](https://medium.com/@ajitkumar6609/running-first-mapreduce-code-of-hadoop-on-ubuntu-49f4ad474091?source=rss------hadoop-5)
 - [Exploring the Differences: Big Data in Hadoop vs AWS](https://medium.com/@SaiDevaPro/exploring-the-differences-big-data-in-hadoop-vs-aws-bdf57f2225f3?source=rss------hadoop-5)
 - [How to install Hadoop with less steps in Windows 10](https://medium.com/@danielopiyo8/how-to-install-hadoop-with-less-steps-in-windows-10-adaf000150e8?source=rss------hadoop-5)
 - [Understanding Map Reduce Computing](https://rakeshsinghania02.medium.com/understanding-map-reduce-computing-a29d0e7765d8?source=rss------hadoop-5)
@@ -306,8 +309,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Big Data and Hadoop Training | Big Data Hadoop](https://medium.com/@mercury.h2k/big-data-and-hadoop-training-big-data-hadoop-89711ff498ff?source=rss------hadoop-5)
 - [Open Table Format: Foundation of Modern data systems](https://medium.com/@raghavmnnit/open-table-format-foundation-of-modern-data-systems-c4d68bbd58f9?source=rss------hadoop-5)
 - [E132: Big Data Engineering, 1st Principle Data Culture, and Reimagined Metadata with Suresh…](https://data-notes.co/e132-big-data-engineering-1st-principle-data-culture-and-reimagined-metadata-with-suresh-1b85164d5e71?source=rss------hadoop-5)
-- [Big Data and Hadoop Online Training](https://medium.com/@mercury.h2k/big-data-and-hadoop-online-training-ea7eff008d32?source=rss------hadoop-5)
-- [Building Blocks of Airflows](https://premvishnoi.medium.com/building-blocks-of-airflows-239d8eb96fbe?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
