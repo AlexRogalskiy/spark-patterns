@@ -299,6 +299,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [How to create Hadoop multi node cluster](https://medium.com/@mahdibough6/how-to-create-hadoop-multi-node-cluster-1b6ac113572a?source=rss------hadoop-5)
 - [Hadoop and Spark on Ubuntu 22.04 LTS with Canada 2021 Census data](https://medium.com/@jordanbell2357/hadoop-and-spark-on-ubuntu-22-04-lts-with-canada-2021-census-data-f5c8a0df4613?source=rss------hadoop-5)
 - [Hadoop](https://medium.com/@pdinukanth/hadoop-c3b0f0170c7a?source=rss------hadoop-5)
 - [Big Data: Part-3 Intro to Hive](https://deekshasharma2022.medium.com/big-data-part-3-intro-to-hive-fcd34435983d?source=rss------hadoop-5)
@@ -307,7 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Running First MapReduce Code of Hadoop on Ubuntu](https://medium.com/@ajitkumar6609/running-first-mapreduce-code-of-hadoop-on-ubuntu-49f4ad474091?source=rss------hadoop-5)
 - [Exploring the Differences: Big Data in Hadoop vs AWS](https://medium.com/@SaiDevaPro/exploring-the-differences-big-data-in-hadoop-vs-aws-bdf57f2225f3?source=rss------hadoop-5)
 - [How to install Hadoop with less steps in Windows 10](https://medium.com/@danielopiyo8/how-to-install-hadoop-with-less-steps-in-windows-10-adaf000150e8?source=rss------hadoop-5)
-- [Understanding Map Reduce Computing](https://rakeshsinghania02.medium.com/understanding-map-reduce-computing-a29d0e7765d8?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
