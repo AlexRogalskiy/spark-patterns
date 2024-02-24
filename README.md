@@ -274,6 +274,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [CACM article about SPARK...](https://www.reddit.com/r/spark/comments/1aye8uc/cacm_article_about_spark/)
 - [Ada Lovelace | AI-Powered Real-Time Storytelling](https://www.reddit.com/r/spark/comments/1avat26/ada_lovelace_aipowered_realtime_storytelling/)
 - [[FTSCS23] Does Rust SPARK Joy? Safe Bindings from Rust to SPARK, Applied to the BBQueue Li...](https://www.reddit.com/r/spark/comments/1asfuyw/ftscs23_does_rust_spark_joy_safe_bindings_from/)
 - [Memory Safety with Formal Proof Webinar](https://www.reddit.com/r/spark/comments/1asfrzv/memory_safety_with_formal_proof_webinar/)
@@ -283,7 +284,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [[Webinar] SPARK Pro for Proven Memory Safety](https://www.reddit.com/r/spark/comments/187feli/webinar_spark_pro_for_proven_memory_safety/)
 - [Light Launcher Company, Latitude, Adopted Ada and SPARK](https://www.reddit.com/r/spark/comments/183fr3t/light_launcher_company_latitude_adopted_ada_and/)
 - [Origins of SPARK](https://www.reddit.com/r/spark/comments/17q6xcq/origins_of_spark/)
-- [I&#39;ve removed any non-Ada / SPARK related threads](https://www.reddit.com/r/spark/comments/17fub8v/ive_removed_any_nonada_spark_related_threads/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld Spark posts*
