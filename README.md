@@ -299,6 +299,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Hadoop Map Reduce program to find top ten trending hashtags on twitter](https://medium.com/@akbains36/hadoop-map-reduce-program-to-find-top-ten-trending-hashtags-on-twitter-517bf7b70e48?source=rss------hadoop-5)
 - [Funcionamiento del MapReduce en Big Data](https://medium.com/@sofiacestari/funcionamiento-del-mapreduce-en-big-data-a38fda5191df?source=rss------hadoop-5)
 - [Spark Tops MapReduce: Big Advantages You Can’t Miss!](https://medium.com/@nithin.b07/spark-tops-mapreduce-big-advantages-you-cant-miss-49e5d663ae48?source=rss------hadoop-5)
 - [ECOSISTEMA DE APACHE HADOOP — TECNOLOGÍAS Y HERRAMIENTAS](https://medium.com/@harold.arias2510/ecosistema-de-apache-hadoop-tecnolog%C3%ADas-y-herramientas-e06a4b06f57e?source=rss------hadoop-5)
@@ -306,7 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [รู้จักกับ Hadoop](https://medium.com/@preampreawping/%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%81%E0%B8%B1%E0%B8%9A-hadoop-ff8b0bd0f50c?source=rss------hadoop-5)
 - [Harnessing the Power of Big Data: A Look at Hadoop, HDFS, Hive, and Spark](https://medium.com/@amydata/harnessing-the-power-of-big-data-a-look-at-hadoop-hdfs-hive-and-spark-4dd22bc523b1?source=rss------hadoop-5)
 - [Hadoop and Spark on Ubuntu 22.04 LTS with Canada 2021 Census data](https://medium.com/@jordanbell2357/hadoop-and-spark-on-ubuntu-22-04-lts-with-canada-2021-census-data-f5c8a0df4613?source=rss------hadoop-5)
-- [Hadoop](https://medium.com/@pdinukanth/hadoop-c3b0f0170c7a?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
