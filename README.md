@@ -299,6 +299,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Why to Finally Say Goodbye to Hadoop and Hello to Kubernetes](https://medium.com/@hivemind_tech/why-to-finally-say-goodbye-to-hadoop-and-hello-to-kubernetes-9045a82c7c59?source=rss------hadoop-5)
 - [Hadoop Map Reduce program to find top ten trending hashtags on twitter](https://medium.com/@akbains36/hadoop-map-reduce-program-to-find-top-ten-trending-hashtags-on-twitter-517bf7b70e48?source=rss------hadoop-5)
 - [Funcionamiento del MapReduce en Big Data](https://medium.com/@sofiacestari/funcionamiento-del-mapreduce-en-big-data-a38fda5191df?source=rss------hadoop-5)
 - [Spark Tops MapReduce: Big Advantages You Can’t Miss!](https://medium.com/@nithin.b07/spark-tops-mapreduce-big-advantages-you-cant-miss-49e5d663ae48?source=rss------hadoop-5)
