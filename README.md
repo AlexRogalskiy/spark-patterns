@@ -299,6 +299,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Hadoop Market Brief Forecast and Analysis by Top Key Players to 2030](https://medium.com/@switibanerjee/hadoop-market-brief-forecast-and-analysis-by-top-key-players-to-2030-c340a081fd1c?source=rss------hadoop-5)
+- [HPC Blogs 06— Hadoop HDFS คืออะไร?](https://medium.com/@TxChar/hpc-blogs-06-hadoop-hdfs-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3-2a1e7cfe2a8f?source=rss------hadoop-5)
 - [Why to Finally Say Goodbye to Hadoop and Hello to Kubernetes](https://medium.com/@hivemind_tech/why-to-finally-say-goodbye-to-hadoop-and-hello-to-kubernetes-9045a82c7c59?source=rss------hadoop-5)
 - [Hadoop Map Reduce program to find top ten trending hashtags on twitter](https://medium.com/@akbains36/hadoop-map-reduce-program-to-find-top-ten-trending-hashtags-on-twitter-517bf7b70e48?source=rss------hadoop-5)
 - [Funcionamiento del MapReduce en Big Data](https://medium.com/@sofiacestari/funcionamiento-del-mapreduce-en-big-data-a38fda5191df?source=rss------hadoop-5)
@@ -307,7 +309,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Hadoop Dev Environment Made Easy: Simulating Multinode Clusters with Docker &lpar;Including Pig!&rpar;](https://medium.com/@mahdibough6/hadoop-dev-environment-made-easy-simulating-multinode-clusters-with-docker-including-pig-2f13e57c795f?source=rss------hadoop-5)
 - [รู้จักกับ Hadoop](https://medium.com/@preampreawping/%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%81%E0%B8%B1%E0%B8%9A-hadoop-ff8b0bd0f50c?source=rss------hadoop-5)
 - [Harnessing the Power of Big Data: A Look at Hadoop, HDFS, Hive, and Spark](https://medium.com/@amydata/harnessing-the-power-of-big-data-a-look-at-hadoop-hdfs-hive-and-spark-4dd22bc523b1?source=rss------hadoop-5)
-- [Hadoop and Spark on Ubuntu 22.04 LTS with Canada 2021 Census data](https://medium.com/@jordanbell2357/hadoop-and-spark-on-ubuntu-22-04-lts-with-canada-2021-census-data-f5c8a0df4613?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
