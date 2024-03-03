@@ -299,6 +299,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Hadoop vs. Spark: Explore the Key Differences Between These Apache Frameworks](https://blog.mirkopeters.com/hadoop-vs-spark-explore-the-key-differences-between-these-apache-frameworks-e178cfd87ce2?source=rss------hadoop-5)
+- [Demystifying Apache Hadoop: Understanding the Basics and Practical Uses](https://blog.mirkopeters.com/demystifying-apache-hadoop-understanding-the-basics-and-practical-uses-d27a4c90af7d?source=rss------hadoop-5)
 - [Hadoop Market Brief Forecast and Analysis by Top Key Players to 2030](https://medium.com/@switibanerjee/hadoop-market-brief-forecast-and-analysis-by-top-key-players-to-2030-c340a081fd1c?source=rss------hadoop-5)
 - [HPC Blogs 06— Hadoop HDFS คืออะไร?](https://medium.com/@TxChar/hpc-blogs-06-hadoop-hdfs-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3-2a1e7cfe2a8f?source=rss------hadoop-5)
 - [Why to Finally Say Goodbye to Hadoop and Hello to Kubernetes](https://medium.com/@hivemind_tech/why-to-finally-say-goodbye-to-hadoop-and-hello-to-kubernetes-9045a82c7c59?source=rss------hadoop-5)
@@ -307,8 +309,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Spark Tops MapReduce: Big Advantages You Can’t Miss!](https://medium.com/@nithin.b07/spark-tops-mapreduce-big-advantages-you-cant-miss-49e5d663ae48?source=rss------hadoop-5)
 - [ECOSISTEMA DE APACHE HADOOP — TECNOLOGÍAS Y HERRAMIENTAS](https://medium.com/@harold.arias2510/ecosistema-de-apache-hadoop-tecnolog%C3%ADas-y-herramientas-e06a4b06f57e?source=rss------hadoop-5)
 - [Hadoop Dev Environment Made Easy: Simulating Multinode Clusters with Docker &lpar;Including Pig!&rpar;](https://medium.com/@mahdibough6/hadoop-dev-environment-made-easy-simulating-multinode-clusters-with-docker-including-pig-2f13e57c795f?source=rss------hadoop-5)
-- [รู้จักกับ Hadoop](https://medium.com/@preampreawping/%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%81%E0%B8%B1%E0%B8%9A-hadoop-ff8b0bd0f50c?source=rss------hadoop-5)
-- [Harnessing the Power of Big Data: A Look at Hadoop, HDFS, Hive, and Spark](https://medium.com/@amydata/harnessing-the-power-of-big-data-a-look-at-hadoop-hdfs-hive-and-spark-4dd22bc523b1?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
