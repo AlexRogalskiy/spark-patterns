@@ -299,6 +299,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [The Death of Hadoop](https://medium.com/@haifengl/the-death-of-hadoop-625978aec6b0?source=rss------hadoop-5)
+- [Understanding and Avoiding Data Skew in Large-Scale Data Processing](https://medium.com/@kaurgurjot392/understanding-and-avoiding-data-skew-in-large-scale-data-processing-4d572e357e9b?source=rss------hadoop-5)
 - [Hadoop vs. Spark: Explore the Key Differences Between These Apache Frameworks](https://blog.mirkopeters.com/hadoop-vs-spark-explore-the-key-differences-between-these-apache-frameworks-e178cfd87ce2?source=rss------hadoop-5)
 - [Demystifying Apache Hadoop: Understanding the Basics and Practical Uses](https://blog.mirkopeters.com/demystifying-apache-hadoop-understanding-the-basics-and-practical-uses-d27a4c90af7d?source=rss------hadoop-5)
 - [Hadoop Market Brief Forecast and Analysis by Top Key Players to 2030](https://medium.com/@switibanerjee/hadoop-market-brief-forecast-and-analysis-by-top-key-players-to-2030-c340a081fd1c?source=rss------hadoop-5)
@@ -307,8 +309,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Hadoop Map Reduce program to find top ten trending hashtags on twitter](https://medium.com/@akbains36/hadoop-map-reduce-program-to-find-top-ten-trending-hashtags-on-twitter-517bf7b70e48?source=rss------hadoop-5)
 - [Funcionamiento del MapReduce en Big Data](https://medium.com/@sofiacestari/funcionamiento-del-mapreduce-en-big-data-a38fda5191df?source=rss------hadoop-5)
 - [Spark Tops MapReduce: Big Advantages You Can’t Miss!](https://medium.com/@nithin.b07/spark-tops-mapreduce-big-advantages-you-cant-miss-49e5d663ae48?source=rss------hadoop-5)
-- [ECOSISTEMA DE APACHE HADOOP — TECNOLOGÍAS Y HERRAMIENTAS](https://medium.com/@harold.arias2510/ecosistema-de-apache-hadoop-tecnolog%C3%ADas-y-herramientas-e06a4b06f57e?source=rss------hadoop-5)
-- [Hadoop Dev Environment Made Easy: Simulating Multinode Clusters with Docker &lpar;Including Pig!&rpar;](https://medium.com/@mahdibough6/hadoop-dev-environment-made-easy-simulating-multinode-clusters-with-docker-including-pig-2f13e57c795f?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
