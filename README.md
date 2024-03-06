@@ -299,6 +299,9 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Monitoring sensitive data using Anomaly Detection](https://medium.com/@naveenbalusu/monitoring-sensitive-data-using-anomaly-detection-e3cb7793ee78?source=rss------hadoop-5)
+- [Ingesting Data from Hadoop to Google Cloud Storage: A Step-by-Step Guide](https://solharsh.medium.com/ingesting-data-from-hadoop-to-google-cloud-storage-a-step-by-step-guide-b06197f2a36a?source=rss------hadoop-5)
+- [HPC Blogs 07 —Apache Spark Hadoop](https://medium.com/@TxChar/hpc-blogs-07-apache-spark-hadoop-b596c0f7290b?source=rss------hadoop-5)
 - [What Is Data Ingestion? Types, Benefits, Challenges &amp; Tools](https://medium.com/@byanalytixlabs/what-is-data-ingestion-types-benefits-challenges-tools-31ec8f095512?source=rss------hadoop-5)
 - [PySpark Setup](https://medium.com/@kaushikg2k2/pyspark-setup-b82c5a810dc4?source=rss------hadoop-5)
 - [The Death of Hadoop](https://medium.com/@haifengl/the-death-of-hadoop-625978aec6b0?source=rss------hadoop-5)
@@ -306,9 +309,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Hadoop vs. Spark: Explore the Key Differences Between These Apache Frameworks](https://blog.mirkopeters.com/hadoop-vs-spark-explore-the-key-differences-between-these-apache-frameworks-e178cfd87ce2?source=rss------hadoop-5)
 - [Demystifying Apache Hadoop: Understanding the Basics and Practical Uses](https://blog.mirkopeters.com/demystifying-apache-hadoop-understanding-the-basics-and-practical-uses-d27a4c90af7d?source=rss------hadoop-5)
 - [Hadoop Market Brief Forecast and Analysis by Top Key Players to 2030](https://medium.com/@switibanerjee/hadoop-market-brief-forecast-and-analysis-by-top-key-players-to-2030-c340a081fd1c?source=rss------hadoop-5)
-- [HPC Blogs 06— Hadoop HDFS คืออะไร?](https://medium.com/@TxChar/hpc-blogs-06-hadoop-hdfs-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3-2a1e7cfe2a8f?source=rss------hadoop-5)
-- [Why to Finally Say Goodbye to Hadoop and Hello to Kubernetes](https://medium.com/@hivemind_tech/why-to-finally-say-goodbye-to-hadoop-and-hello-to-kubernetes-9045a82c7c59?source=rss------hadoop-5)
-- [Hadoop Map Reduce program to find top ten trending hashtags on twitter](https://medium.com/@akbains36/hadoop-map-reduce-program-to-find-top-ten-trending-hashtags-on-twitter-517bf7b70e48?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
