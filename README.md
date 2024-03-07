@@ -299,6 +299,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Building an Efficient Solution: Counting Word Frequency with Map-Reduce Approach in Java](https://medium.com/@sjoanitana/building-an-efficient-solution-counting-word-frequency-with-map-reduce-approach-in-java-e12c5286c2cb?source=rss------hadoop-5)
+- [iQIYI’s Big Data Hybrid On-Premise and Cloud Deployment](https://medium.com/@zuston.ann/iqiyis-big-data-hybrid-on-premise-and-cloud-deployment-e41f7f0610fe?source=rss------hadoop-5)
 - [Monitoring sensitive data using Anomaly Detection](https://medium.com/@naveenbalusu/monitoring-sensitive-data-using-anomaly-detection-e3cb7793ee78?source=rss------hadoop-5)
 - [Ingesting Data from Hadoop to Google Cloud Storage: A Step-by-Step Guide](https://solharsh.medium.com/ingesting-data-from-hadoop-to-google-cloud-storage-a-step-by-step-guide-b06197f2a36a?source=rss------hadoop-5)
 - [HPC Blogs 07 —Apache Spark Hadoop](https://medium.com/@TxChar/hpc-blogs-07-apache-spark-hadoop-b596c0f7290b?source=rss------hadoop-5)
@@ -307,8 +309,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [The Death of Hadoop](https://medium.com/@haifengl/the-death-of-hadoop-625978aec6b0?source=rss------hadoop-5)
 - [Understanding and Avoiding Data Skew in Large-Scale Data Processing](https://medium.com/@kaurgurjot392/understanding-and-avoiding-data-skew-in-large-scale-data-processing-4d572e357e9b?source=rss------hadoop-5)
 - [Hadoop vs. Spark: Explore the Key Differences Between These Apache Frameworks](https://blog.mirkopeters.com/hadoop-vs-spark-explore-the-key-differences-between-these-apache-frameworks-e178cfd87ce2?source=rss------hadoop-5)
-- [Demystifying Apache Hadoop: Understanding the Basics and Practical Uses](https://blog.mirkopeters.com/demystifying-apache-hadoop-understanding-the-basics-and-practical-uses-d27a4c90af7d?source=rss------hadoop-5)
-- [Hadoop Market Brief Forecast and Analysis by Top Key Players to 2030](https://medium.com/@switibanerjee/hadoop-market-brief-forecast-and-analysis-by-top-key-players-to-2030-c340a081fd1c?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
