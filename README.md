@@ -299,6 +299,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [How to Install Apache Spark on Microsoft Windows 10](https://avishkarm.medium.com/how-to-install-apache-spark-on-microsoft-windows-10-fb9efd8d1270?source=rss------hadoop-5)
+- [HBASE INSTALLATION](https://kaivalya-vanguri.medium.com/hbase-installation-418e487d1a4d?source=rss------hadoop-5)
 - [Building an Efficient Solution: Counting Word Frequency with Map-Reduce Approach in Java](https://medium.com/@sjoanitana/building-an-efficient-solution-counting-word-frequency-with-map-reduce-approach-in-java-e12c5286c2cb?source=rss------hadoop-5)
 - [iQIYI’s Big Data Hybrid On-Premise and Cloud Deployment](https://medium.com/@zuston.ann/iqiyis-big-data-hybrid-on-premise-and-cloud-deployment-e41f7f0610fe?source=rss------hadoop-5)
 - [Monitoring sensitive data using Anomaly Detection](https://medium.com/@naveenbalusu/monitoring-sensitive-data-using-anomaly-detection-e3cb7793ee78?source=rss------hadoop-5)
@@ -307,8 +309,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [What Is Data Ingestion? Types, Benefits, Challenges &amp; Tools](https://medium.com/@byanalytixlabs/what-is-data-ingestion-types-benefits-challenges-tools-31ec8f095512?source=rss------hadoop-5)
 - [PySpark Setup](https://medium.com/@kaushikg2k2/pyspark-setup-b82c5a810dc4?source=rss------hadoop-5)
 - [The Death of Hadoop](https://medium.com/@haifengl/the-death-of-hadoop-625978aec6b0?source=rss------hadoop-5)
-- [Understanding and Avoiding Data Skew in Large-Scale Data Processing](https://medium.com/@kaurgurjot392/understanding-and-avoiding-data-skew-in-large-scale-data-processing-4d572e357e9b?source=rss------hadoop-5)
-- [Hadoop vs. Spark: Explore the Key Differences Between These Apache Frameworks](https://blog.mirkopeters.com/hadoop-vs-spark-explore-the-key-differences-between-these-apache-frameworks-e178cfd87ce2?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
