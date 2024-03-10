@@ -299,6 +299,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Big Data: Hadoop](https://ogre51.medium.com/big-data-hadoop-0baee8241354?source=rss------hadoop-5)
+- [常見大數據架構&lpar;1&rpar; - Hadoop 與 Hive](https://medium.com/@tses89214/%E5%B8%B8%E8%A6%8B%E5%A4%A7%E6%95%B8%E6%93%9A%E6%9E%B6%E6%A7%8B-1-hadoop-%E8%88%87-hive-acf2492b290f?source=rss------hadoop-5)
 - [Hadoop, MapReduce and Spark. All you need to know.](https://medium.com/@vfxbwrnnzb/hadoop-mapreduce-and-spark-all-you-need-to-know-3839e064922d?source=rss------hadoop-5)
 - [How to Install Apache Spark on Microsoft Windows 10](https://avishkarm.medium.com/how-to-install-apache-spark-on-microsoft-windows-10-fb9efd8d1270?source=rss------hadoop-5)
 - [HBASE INSTALLATION](https://kaivalya-vanguri.medium.com/hbase-installation-418e487d1a4d?source=rss------hadoop-5)
@@ -307,8 +309,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Monitoring sensitive data using Anomaly Detection](https://medium.com/@naveenbalusu/monitoring-sensitive-data-using-anomaly-detection-e3cb7793ee78?source=rss------hadoop-5)
 - [Ingesting Data from Hadoop to Google Cloud Storage: A Step-by-Step Guide](https://solharsh.medium.com/ingesting-data-from-hadoop-to-google-cloud-storage-a-step-by-step-guide-b06197f2a36a?source=rss------hadoop-5)
 - [HPC Blogs 07 —Apache Spark Hadoop](https://medium.com/@TxChar/hpc-blogs-07-apache-spark-hadoop-b596c0f7290b?source=rss------hadoop-5)
-- [What Is Data Ingestion? Types, Benefits, Challenges &amp; Tools](https://medium.com/@byanalytixlabs/what-is-data-ingestion-types-benefits-challenges-tools-31ec8f095512?source=rss------hadoop-5)
-- [PySpark Setup](https://medium.com/@kaushikg2k2/pyspark-setup-b82c5a810dc4?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
