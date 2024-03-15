@@ -299,16 +299,16 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [A short summary of MapReduce: background, process, example, and extension.](https://nickuntitled.medium.com/a-short-summary-of-mapreduce-background-process-example-and-extension-8bc4902205fd?source=rss------hadoop-5)
+- [Sqoop HCatalog vs Sqoop Hive](https://medium.com/@drishigupta/sqoop-hcatalog-vs-sqoop-hive-c36da5ddbe99?source=rss------hadoop-5)
+- [Understanding Distributed Computing](https://medium.com/@gehshar/understanding-distributed-computing-5438c59c14e7?source=rss------hadoop-5)
 - [Apache Spark vs Hadoop MapReduce: The Ultimate Showdown](https://blog.mirkopeters.com/apache-spark-vs-hadoop-mapreduce-the-ultimate-showdown-a815729329f5?source=rss------hadoop-5)
 - [Understanding the World of Big Data](https://medium.com/@shubhamborse85/understanding-the-world-of-big-data-304b6a67b7a6?source=rss------hadoop-5)
 - [Is your Hive not Behiving?](https://medium.com/long-sweet-valuable/is-your-hive-not-behiving-913a0a66bd1d?source=rss------hadoop-5)
 - [Hive you installed Hive?](https://medium.com/short-sweet-valuable/hive-you-installed-hive-5aab4cd92ce5?source=rss------hadoop-5)
 - [Building a Real-Time Data Backend for Navigation Systems with Hadoop and Kafka](https://towardsdev.com/building-a-real-time-data-backend-for-navigation-systems-with-hadoop-and-kafka-1e286e2c223e?source=rss------hadoop-5)
-- [ทำความรู้จักกับ Hadoop ฉบับเด็กยังเรียนไม่จบกัน](https://medium.com/@pathitta.suksomboon/%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%81%E0%B8%B1%E0%B8%9A-hadoop-%E0%B8%89%E0%B8%9A%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%81%E0%B8%A2%E0%B8%B1%E0%B8%87%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%88%E0%B8%9A%E0%B8%81%E0%B8%B1%E0%B8%99-c763267fc42b?source=rss------hadoop-5)
+- [ทำความรู้จักกับ Hadoop ฉบับนักศึกษา](https://medium.com/@pathitta.suksomboon/%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%81%E0%B8%B1%E0%B8%9A-hadoop-%E0%B8%89%E0%B8%9A%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%81%E0%B8%A2%E0%B8%B1%E0%B8%87%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%88%E0%B8%9A%E0%B8%81%E0%B8%B1%E0%B8%99-c763267fc42b?source=rss------hadoop-5)
 - [WINDOWS MAKINESI UZERINE HADOOP KURULUMU](https://melihaycicek.medium.com/windows-makinesi-uzerine-hadoop-kurulumu-d587d06040db?source=rss------hadoop-5)
-- [How does the Apache Hadoop YARN backend work when a job is submitted?](https://medium.com/@consultjaishu/how-does-the-apache-hadoop-yarn-backend-work-when-a-job-is-submitted-e9d1461c753c?source=rss------hadoop-5)
-- [Big Data: Hadoop](https://ogre51.medium.com/big-data-hadoop-0baee8241354?source=rss------hadoop-5)
-- [常見大數據架構&lpar;1&rpar; - Hadoop 與 Hive](https://medium.com/@tses89214/%E5%B8%B8%E8%A6%8B%E5%A4%A7%E6%95%B8%E6%93%9A%E6%9E%B6%E6%A7%8B-1-hadoop-%E8%88%87-hive-acf2492b290f?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
