@@ -299,8 +299,9 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Hadoop คืออะไร ใช้ทำอะไรบ้าง](https://medium.com/@6410110663/hadoop-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3-%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%97%E0%B8%B3%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%87-a80b1faf4b87?source=rss------hadoop-5)
 - [ติดตั้ง Spark บน Ubuntu &lpar; Raspi ผมไม่ไหวละ &rpar;](https://medium.com/@gagpoohpooh/%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87-spark-%E0%B8%9A%E0%B8%99-ubuntu-raspi-%E0%B8%9C%E0%B8%A1%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%84%E0%B8%AB%E0%B8%A7%E0%B8%A5%E0%B8%B0-651abddd9a2e?source=rss------hadoop-5)
-- [ติดตั้ง Hadoop ลงบน Raspberry Pi &lpar;ทำไปทำไม?&rpar;](https://medium.com/@gagpoohpooh/%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87-hadoop-%E0%B8%A5%E0%B8%87%E0%B8%9A%E0%B8%99-raspberry-pi-%E0%B8%97%E0%B8%B3%E0%B9%84%E0%B8%9B%E0%B8%97%E0%B8%B3%E0%B9%84%E0%B8%A1-bced08edbe8d?source=rss------hadoop-5)
+- [ติดตั้ง Hadoop ลงบน Raspberry Pi](https://medium.com/@gagpoohpooh/%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87-hadoop-%E0%B8%A5%E0%B8%87%E0%B8%9A%E0%B8%99-raspberry-pi-%E0%B8%97%E0%B8%B3%E0%B9%84%E0%B8%9B%E0%B8%97%E0%B8%B3%E0%B9%84%E0%B8%A1-bced08edbe8d?source=rss------hadoop-5)
 - [A short summary of MapReduce: background, process, example, and extension.](https://nickuntitled.medium.com/a-short-summary-of-mapreduce-background-process-example-and-extension-8bc4902205fd?source=rss------hadoop-5)
 - [Sqoop HCatalog vs Sqoop Hive](https://medium.com/@drishigupta/sqoop-hcatalog-vs-sqoop-hive-c36da5ddbe99?source=rss------hadoop-5)
 - [Understanding Distributed Computing](https://medium.com/@gehshar/understanding-distributed-computing-5438c59c14e7?source=rss------hadoop-5)
@@ -308,7 +309,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Understanding the World of Big Data](https://medium.com/@shubhamborse85/understanding-the-world-of-big-data-304b6a67b7a6?source=rss------hadoop-5)
 - [Is your Hive not Behiving?](https://medium.com/long-sweet-valuable/is-your-hive-not-behiving-913a0a66bd1d?source=rss------hadoop-5)
 - [Hive you installed Hive?](https://medium.com/short-sweet-valuable/hive-you-installed-hive-5aab4cd92ce5?source=rss------hadoop-5)
-- [Building a Real-Time Data Backend for Navigation Systems with Hadoop and Kafka](https://towardsdev.com/building-a-real-time-data-backend-for-navigation-systems-with-hadoop-and-kafka-1e286e2c223e?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
