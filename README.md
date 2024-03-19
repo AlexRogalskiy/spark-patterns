@@ -299,6 +299,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Hula hoop… did you install Hadoop?](https://medium.com/short-sweet-valuable/hula-hoop-did-you-install-hadoop-e127d8a27de3?source=rss------hadoop-5)
+- [Navigating the Seas of Big Data: Understanding the 5Vs and the Divide from Traditional Data](https://yadavmamta176.medium.com/navigating-the-seas-of-big-data-understanding-the-5vs-and-the-divide-from-traditional-data-572c098e9437?source=rss------hadoop-5)
 - [Hadoop MapReduce for word length histogram](https://medium.com/@algorhythm2411/hadoop-mapreduce-for-word-length-histogram-6eb5f7b78930?source=rss------hadoop-5)
 - [Hadoop คืออะไร ใช้ทำอะไรบ้าง](https://medium.com/@6410110663/hadoop-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3-%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%97%E0%B8%B3%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%87-a80b1faf4b87?source=rss------hadoop-5)
 - [ติดตั้ง Spark บน Ubuntu &lpar; Raspi ผมไม่ไหวละ &rpar;](https://medium.com/@gagpoohpooh/%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87-spark-%E0%B8%9A%E0%B8%99-ubuntu-raspi-%E0%B8%9C%E0%B8%A1%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%84%E0%B8%AB%E0%B8%A7%E0%B8%A5%E0%B8%B0-651abddd9a2e?source=rss------hadoop-5)
@@ -307,8 +309,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Sqoop HCatalog vs Sqoop Hive](https://medium.com/@drishigupta/sqoop-hcatalog-vs-sqoop-hive-c36da5ddbe99?source=rss------hadoop-5)
 - [Understanding Distributed Computing](https://medium.com/@gehshar/understanding-distributed-computing-5438c59c14e7?source=rss------hadoop-5)
 - [Apache Spark vs Hadoop MapReduce: The Ultimate Showdown](https://blog.mirkopeters.com/apache-spark-vs-hadoop-mapreduce-the-ultimate-showdown-a815729329f5?source=rss------hadoop-5)
-- [Understanding the World of Big Data](https://medium.com/@shubhamborse85/understanding-the-world-of-big-data-304b6a67b7a6?source=rss------hadoop-5)
-- [Is your Hive not Behiving?](https://medium.com/long-sweet-valuable/is-your-hive-not-behiving-913a0a66bd1d?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
