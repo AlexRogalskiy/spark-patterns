@@ -299,6 +299,9 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Introduction to big data processing](https://medium.com/@bezawitl/introduction-to-big-data-processing-01567c0faa3a?source=rss------hadoop-5)
+- [Apache Hadoop vs Apache Spark](https://medium.com/@turanburakk/apache-hadoop-vs-apache-spark-0647bcdc18f0?source=rss------hadoop-5)
+- [What is Big Data? Why is it so important?](https://medium.com/@hhuseyincosgun/what-is-big-data-why-is-it-so-important-49edd974a7b0?source=rss------hadoop-5)
 - [[Database] Hadoop installation and experiment with Homebrew](https://medium.com/@positive_brandy_tortoise_947/database-hadoop-installation-and-experiment-with-homebrew-037e26ddcf15?source=rss------hadoop-5)
 - [[Database] Hadoop installation &amp; settings&lpar;MacOS&rpar;](https://medium.com/@positive_brandy_tortoise_947/database-hadoop-installation-settings-macos-1c10df5dd4f7?source=rss------hadoop-5)
 - [Hadoop Execution Modes : A Deep Dive](https://medium.com/@algorhythm2411/hadoop-execution-modes-a-deep-dive-772728663a17?source=rss------hadoop-5)
@@ -306,9 +309,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Navigating the Seas of Big Data: Understanding the 5Vs and the Divide from Traditional Data](https://yadavmamta176.medium.com/navigating-the-seas-of-big-data-understanding-the-5vs-and-the-divide-from-traditional-data-572c098e9437?source=rss------hadoop-5)
 - [Hadoop MapReduce for word length histogram](https://blog.devgenius.io/hadoop-mapreduce-for-word-length-histogram-6eb5f7b78930?source=rss------hadoop-5)
 - [Hadoop คืออะไร ใช้ทำอะไรบ้าง](https://medium.com/@6410110663/hadoop-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3-%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%97%E0%B8%B3%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%87-a80b1faf4b87?source=rss------hadoop-5)
-- [ติดตั้ง Spark บน Ubuntu &lpar; Raspi ผมไม่ไหวละ &rpar;](https://medium.com/@gagpoohpooh/%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87-spark-%E0%B8%9A%E0%B8%99-ubuntu-raspi-%E0%B8%9C%E0%B8%A1%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%84%E0%B8%AB%E0%B8%A7%E0%B8%A5%E0%B8%B0-651abddd9a2e?source=rss------hadoop-5)
-- [ติดตั้ง Hadoop ลงบน Raspberry Pi](https://medium.com/@gagpoohpooh/%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87-hadoop-%E0%B8%A5%E0%B8%87%E0%B8%9A%E0%B8%99-raspberry-pi-%E0%B8%97%E0%B8%B3%E0%B9%84%E0%B8%9B%E0%B8%97%E0%B8%B3%E0%B9%84%E0%B8%A1-bced08edbe8d?source=rss------hadoop-5)
-- [A short summary of MapReduce: background, process, example, and extension.](https://nickuntitled.medium.com/a-short-summary-of-mapreduce-background-process-example-and-extension-8bc4902205fd?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
