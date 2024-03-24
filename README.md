@@ -299,6 +299,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [HDFS for beginners](https://medium.com/@iamsteffinissac/hdfs-for-beginners-6f08dc313a3d?source=rss------hadoop-5)
 - [Introduction to big data processing](https://medium.com/@bezawitl/introduction-to-big-data-processing-01567c0faa3a?source=rss------hadoop-5)
 - [Apache Hadoop vs Apache Spark](https://medium.com/@turanburakk/apache-hadoop-vs-apache-spark-0647bcdc18f0?source=rss------hadoop-5)
 - [What is Big Data? Why is it so important?](https://medium.com/@hhuseyincosgun/what-is-big-data-why-is-it-so-important-49edd974a7b0?source=rss------hadoop-5)
@@ -308,7 +309,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Hula hoop… did you install Hadoop?](https://medium.com/short-sweet-valuable/hula-hoop-did-you-install-hadoop-e127d8a27de3?source=rss------hadoop-5)
 - [Navigating the Seas of Big Data: Understanding the 5Vs and the Divide from Traditional Data](https://yadavmamta176.medium.com/navigating-the-seas-of-big-data-understanding-the-5vs-and-the-divide-from-traditional-data-572c098e9437?source=rss------hadoop-5)
 - [Hadoop MapReduce for word length histogram](https://blog.devgenius.io/hadoop-mapreduce-for-word-length-histogram-6eb5f7b78930?source=rss------hadoop-5)
-- [Hadoop คืออะไร ใช้ทำอะไรบ้าง](https://medium.com/@6410110663/hadoop-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3-%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%97%E0%B8%B3%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%87-a80b1faf4b87?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
