@@ -299,6 +299,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [5 reasons why is Spark better than Hadoop](https://medium.com/@algorhythm2411/5-reasons-why-is-spark-better-than-hadoop-dcd6d169eaa0?source=rss------hadoop-5)
 - [Guide to Installing and Configuring Hadoop 3.3.6 on macOS Using Homebrew](https://medium.com/@vikramus4/install-and-configure-hadoop-3-3-6-in-mac-os-dd4be4da8846?source=rss------hadoop-5)
 - [HDFS for beginners](https://medium.com/@iamsteffinissac/hdfs-for-beginners-6f08dc313a3d?source=rss------hadoop-5)
 - [Introduction to big data processing](https://medium.com/@bezawitl/introduction-to-big-data-processing-01567c0faa3a?source=rss------hadoop-5)
@@ -307,7 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [[Database] Hadoop installation and experiment with Homebrew](https://medium.com/@positive_brandy_tortoise_947/database-hadoop-installation-and-experiment-with-homebrew-037e26ddcf15?source=rss------hadoop-5)
 - [[Database] Hadoop installation &amp; settings&lpar;MacOS&rpar;](https://medium.com/@positive_brandy_tortoise_947/database-hadoop-installation-settings-macos-1c10df5dd4f7?source=rss------hadoop-5)
 - [Hadoop Execution Modes : A Deep Dive](https://medium.com/@algorhythm2411/hadoop-execution-modes-a-deep-dive-772728663a17?source=rss------hadoop-5)
-- [Hula hoop… did you install Hadoop?](https://medium.com/short-sweet-valuable/hula-hoop-did-you-install-hadoop-e127d8a27de3?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
