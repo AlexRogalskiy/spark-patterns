@@ -274,7 +274,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [DeltaLake OLTP with Trino. Bad idea?](https://www.reddit.com/r/spark/comments/1bf8u34/deltalake_oltp_with_trino_bad_idea/)
+- [What areas pay good?](https://www.reddit.com/r/spark/comments/1bojb8g/what_areas_pay_good/)
 - [Co-Developing Programs and Their Proof of Correctness &lpar;AdaCore blog&rpar;](https://www.reddit.com/r/spark/comments/1b4mled/codeveloping_programs_and_their_proof_of/)
 - [CACM article about SPARK...](https://www.reddit.com/r/spark/comments/1aye8uc/cacm_article_about_spark/)
 - [[FTSCS23] Does Rust SPARK Joy? Safe Bindings from Rust to SPARK, Applied to the BBQueue Li...](https://www.reddit.com/r/spark/comments/1asfuyw/ftscs23_does_rust_spark_joy_safe_bindings_from/)
