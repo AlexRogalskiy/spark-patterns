@@ -299,15 +299,15 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Exploring Big Data with Apache Spark: Introduction and Key Component](https://indraneeldb1993ds.medium.com/exploring-big-data-with-apache-spark-introduction-and-key-component-e6f220a783a6?source=rss------hadoop-5)
 - [Red Query Tool &lpar;redQT&rpar;](https://medium.com/redbus-in/red-query-tool-redqt-d3510cb625c1?source=rss------hadoop-5)
 - [Introduction to Hadoop](https://adzic-tanja.medium.com/introduction-to-hadoop-6a349e4d1f11?source=rss------hadoop-5)
 - [5 reasons why is Spark better than Hadoop](https://medium.com/@algorhythm2411/5-reasons-why-is-spark-better-than-hadoop-dcd6d169eaa0?source=rss------hadoop-5)
-- [Guide to Installing and Configuring Hadoop 3.3.6 on macOS Using Homebrew](https://medium.com/@vikramus4/install-and-configure-hadoop-3-3-6-in-mac-os-dd4be4da8846?source=rss------hadoop-5)
+- [Guide to Installing and Configuring Hadoop 3.3.6/3.4.0 on macOS Using Homebrew](https://medium.com/@vikramus4/install-and-configure-hadoop-3-3-6-in-mac-os-dd4be4da8846?source=rss------hadoop-5)
 - [HDFS for beginners](https://medium.com/@iamsteffinissac/hdfs-for-beginners-6f08dc313a3d?source=rss------hadoop-5)
 - [Introduction to big data processing](https://medium.com/@bezawitl/introduction-to-big-data-processing-01567c0faa3a?source=rss------hadoop-5)
 - [Apache Hadoop vs Apache Spark](https://medium.com/@turanburakk/apache-hadoop-vs-apache-spark-0647bcdc18f0?source=rss------hadoop-5)
 - [What is Big Data? Why is it so important?](https://medium.com/@hhuseyincosgun/what-is-big-data-why-is-it-so-important-49edd974a7b0?source=rss------hadoop-5)
-- [[Database] Hadoop installation and experiment with Homebrew](https://medium.com/@positive_brandy_tortoise_947/database-hadoop-installation-and-experiment-with-homebrew-037e26ddcf15?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
