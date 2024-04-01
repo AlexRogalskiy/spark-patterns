@@ -299,6 +299,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Hadoop : Map Reduce In Detail](https://medium.com/@abhisheksukhwal9/hadoop-map-reduce-in-detail-ac1c8429b03b?source=rss------hadoop-5)
+- [Streamlining Data Operations with Databricks Migration, Hadoop to Databricks Migration, Teradata…](https://medium.com/@datameticasolutionsprivateltd/streamlining-data-operations-with-databricks-migration-hadoop-to-databricks-migration-teradata-bda98ee9b3a5?source=rss------hadoop-5)
 - [Essential HDFS Shell Commands for Managing Hadoop Distributed File System](https://divithraju.medium.com/essential-hdfs-shell-commands-for-managing-hadoop-distributed-file-system-e071c344c2ed?source=rss------hadoop-5)
 - [Complete Guide: Setting Up Hadoop 3.3.6 on Ubuntu for Big Data Processing](https://divithraju.medium.com/complete-guide-setting-up-hadoop-3-3-6-on-ubuntu-for-big-data-processing-e09d306af857?source=rss------hadoop-5)
 - [Empowering Big Data Analytics](https://medium.com/@eyobed7b/empowering-big-data-analytics-15e36e55b7b1?source=rss------hadoop-5)
@@ -307,7 +309,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Introduction to Hadoop](https://adzic-tanja.medium.com/introduction-to-hadoop-6a349e4d1f11?source=rss------hadoop-5)
 - [5 reasons why is Spark better than Hadoop](https://medium.com/@algorhythm2411/5-reasons-why-is-spark-better-than-hadoop-dcd6d169eaa0?source=rss------hadoop-5)
 - [Guide to Installing and Configuring Hadoop 3.3.6/3.4.0 on macOS Using Homebrew](https://medium.com/@vikramus4/install-and-configure-hadoop-3-3-6-in-mac-os-dd4be4da8846?source=rss------hadoop-5)
-- [HDFS for beginners](https://medium.com/@iamsteffinissac/hdfs-for-beginners-6f08dc313a3d?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
