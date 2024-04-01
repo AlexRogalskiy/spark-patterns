@@ -274,6 +274,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Learning spark. Should I learn pyspark first or go straight to Java/Scala?](https://www.reddit.com/r/spark/comments/1bshdr5/learning_spark_should_i_learn_pyspark_first_or_go/)
 - [Co-Developing Programs and Their Proof of Correctness &lpar;AdaCore blog&rpar;](https://www.reddit.com/r/spark/comments/1b4mled/codeveloping_programs_and_their_proof_of/)
 - [CACM article about SPARK...](https://www.reddit.com/r/spark/comments/1aye8uc/cacm_article_about_spark/)
 - [[FTSCS23] Does Rust SPARK Joy? Safe Bindings from Rust to SPARK, Applied to the BBQueue Li...](https://www.reddit.com/r/spark/comments/1asfuyw/ftscs23_does_rust_spark_joy_safe_bindings_from/)
@@ -283,7 +284,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [[VIDEO] SPARK Pro For Embedded System Programming](https://www.reddit.com/r/spark/comments/187fi3z/video_spark_pro_for_embedded_system_programming/)
 - [[Webinar] SPARK Pro for Proven Memory Safety](https://www.reddit.com/r/spark/comments/187feli/webinar_spark_pro_for_proven_memory_safety/)
 - [Light Launcher Company, Latitude, Adopted Ada and SPARK](https://www.reddit.com/r/spark/comments/183fr3t/light_launcher_company_latitude_adopted_ada_and/)
-- [Origins of SPARK](https://www.reddit.com/r/spark/comments/17q6xcq/origins_of_spark/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld Spark posts*
