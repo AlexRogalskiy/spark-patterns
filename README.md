@@ -299,16 +299,16 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Understanding How Hadoop Utilizes Parallelism to Address the Velocity Problem.](https://medium.com/@pratikshinde2210/understanding-how-hadoop-utilizes-parallelism-to-address-the-velocity-problem-83c7a1809ed3?source=rss------hadoop-5)
+- [The Ultimate Decoder Ring for Big Data Tech: Your VIP Pass to the Hadoop Ecosystem &amp; Beyond!](https://blog.mirkopeters.com/the-ultimate-decoder-ring-for-big-data-tech-your-vip-pass-to-the-hadoop-ecosystem-beyond-58d678f8520b?source=rss------hadoop-5)
+- [“Hadoop Cluster: Step-by-Step Guide with Linux Partitions”](https://medium.com/@pratikshinde2210/hadoop-cluster-step-by-step-guide-with-linux-partitions-9237ab7f282e?source=rss------hadoop-5)
+- [HDFS: How namenode failure is handled?](https://medium.com/@nagendranathyr/hdfs-how-namenode-failure-is-handled-ffe889c2ea92?source=rss------hadoop-5)
 - [Play by Play: Hadoop.AI.ML.](https://medium.com/@avinash_vjti/play-by-play-hadoop-ai-ml-e01f273b9080?source=rss------hadoop-5)
 - [Hadoop : Map Reduce In Detail](https://medium.com/@abhisheksukhwal9/hadoop-map-reduce-in-detail-ac1c8429b03b?source=rss------hadoop-5)
 - [Streamlining Data Operations with Databricks Migration, Hadoop to Databricks Migration, Teradata…](https://medium.com/@datameticasolutionsprivateltd/streamlining-data-operations-with-databricks-migration-hadoop-to-databricks-migration-teradata-bda98ee9b3a5?source=rss------hadoop-5)
 - [Essential HDFS Shell Commands for Managing Hadoop Distributed File System](https://divithraju.medium.com/essential-hdfs-shell-commands-for-managing-hadoop-distributed-file-system-e071c344c2ed?source=rss------hadoop-5)
 - [Complete Guide: Setting Up Hadoop 3.3.6 on Ubuntu for Big Data Processing](https://divithraju.medium.com/complete-guide-setting-up-hadoop-3-3-6-on-ubuntu-for-big-data-processing-e09d306af857?source=rss------hadoop-5)
 - [Empowering Big Data Analytics](https://medium.com/@eyobed7b/empowering-big-data-analytics-15e36e55b7b1?source=rss------hadoop-5)
-- [Exploring Big Data with Apache Spark: Introduction and Key Component](https://medium.com/geekculture/exploring-big-data-with-apache-spark-introduction-and-key-component-e6f220a783a6?source=rss------hadoop-5)
-- [Red Query Tool &lpar;redQT&rpar;](https://medium.com/redbus-in/red-query-tool-redqt-d3510cb625c1?source=rss------hadoop-5)
-- [Introduction to Hadoop](https://adzic-tanja.medium.com/introduction-to-hadoop-6a349e4d1f11?source=rss------hadoop-5)
-- [5 reasons why is Spark better than Hadoop](https://medium.com/@algorhythm2411/5-reasons-why-is-spark-better-than-hadoop-dcd6d169eaa0?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
