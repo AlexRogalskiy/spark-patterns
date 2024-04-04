@@ -289,8 +289,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld Spark posts*
 
 <!-- INFOWORLD-SPARK-POST-LIST:START -->
-- [BI meets data science in Microsoft Fabric](https://www.infoworld.com/article/3708988/bi-meets-data-science-in-microsoft-fabric.html#tk.rss_apachespark)
 - [What is Apache Spark? The big data platform that crushed Hadoop](https://www.infoworld.com/article/3236869/what-is-apache-spark-the-big-data-platform-that-crushed-hadoop.html#tk.rss_apachespark)
+- [BI meets data science in Microsoft Fabric](https://www.infoworld.com/article/3708988/bi-meets-data-science-in-microsoft-fabric.html#tk.rss_apachespark)
 - [AWS Glue upgrades Spark engines, backs Ray framework](https://www.infoworld.com/article/3681339/aws-glue-upgrades-spark-engines-backs-ray-framework.html#tk.rss_apachespark)
 - [Databricks adds data governance, marketplace features](https://www.infoworld.com/article/3664939/databricks-adds-data-governance-marketplace-features.html#tk.rss_apachespark)
 - [Databricks open sources its Delta Lake data lakehouse](https://www.infoworld.com/article/3665117/databricks-open-sources-its-delta-lake-data-lake.html#tk.rss_apachespark)
