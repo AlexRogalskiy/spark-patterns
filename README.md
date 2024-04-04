@@ -299,6 +299,9 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [MapReduce Algorithm](https://avinashnavlani.medium.com/mapreduce-algorithm-9ddc9a5f0e3b?source=rss------hadoop-5)
+- [Hadoop Ecosystem](https://medium.com/@pollux.liu/hadoop-ecosystem-8658f69d0463?source=rss------hadoop-5)
+- [Deploying a Spark-based application as a Windows application](https://blog.det.life/deploying-a-spark-based-application-as-a-windows-application-4ddc88231784?source=rss------hadoop-5)
 - [Understanding How Hadoop Utilizes Parallelism to Address the Velocity Problem.](https://medium.com/@pratikshinde2210/understanding-how-hadoop-utilizes-parallelism-to-address-the-velocity-problem-83c7a1809ed3?source=rss------hadoop-5)
 - [The Ultimate Decoder Ring for Big Data Tech: Your VIP Pass to the Hadoop Ecosystem &amp; Beyond!](https://blog.mirkopeters.com/the-ultimate-decoder-ring-for-big-data-tech-your-vip-pass-to-the-hadoop-ecosystem-beyond-58d678f8520b?source=rss------hadoop-5)
 - [“Hadoop Cluster: Step-by-Step Guide with Linux Partitions”](https://medium.com/@pratikshinde2210/hadoop-cluster-step-by-step-guide-with-linux-partitions-9237ab7f282e?source=rss------hadoop-5)
@@ -306,9 +309,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Play by Play: Hadoop.AI.ML.](https://medium.com/@avinash_vjti/play-by-play-hadoop-ai-ml-e01f273b9080?source=rss------hadoop-5)
 - [Hadoop : Map Reduce In Detail](https://medium.com/@abhisheksukhwal9/hadoop-map-reduce-in-detail-ac1c8429b03b?source=rss------hadoop-5)
 - [Streamlining Data Operations with Databricks Migration, Hadoop to Databricks Migration, Teradata…](https://medium.com/@datameticasolutionsprivateltd/streamlining-data-operations-with-databricks-migration-hadoop-to-databricks-migration-teradata-bda98ee9b3a5?source=rss------hadoop-5)
-- [Essential HDFS Shell Commands for Managing Hadoop Distributed File System](https://divithraju.medium.com/essential-hdfs-shell-commands-for-managing-hadoop-distributed-file-system-e071c344c2ed?source=rss------hadoop-5)
-- [Complete Guide: Setting Up Hadoop 3.3.6 on Ubuntu for Big Data Processing](https://divithraju.medium.com/complete-guide-setting-up-hadoop-3-3-6-on-ubuntu-for-big-data-processing-e09d306af857?source=rss------hadoop-5)
-- [Empowering Big Data Analytics](https://medium.com/@eyobed7b/empowering-big-data-analytics-15e36e55b7b1?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
