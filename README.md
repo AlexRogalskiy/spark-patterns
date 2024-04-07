@@ -299,6 +299,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Hadoop Distributions](https://medium.com/@pollux.liu/hadoop-distributions-1b2db2e443d5?source=rss------hadoop-5)
 - [Troubleshooting Spark UDF Execution: Overcoming ModuleNotFoundError and Serialization Error while…](https://medium.com/@bnaikwad88/troubleshooting-spark-udf-execution-overcoming-modulenotfounderror-and-serialization-error-while-d647db331c27?source=rss------hadoop-5)
 - [Realistic Hortonworks Hadoop-PR000007 PDF Dumps 2024 — Prepare Exam Quickly](https://medium.com/@johnalex7454/realistic-hortonworks-hadoop-pr000007-pdf-dumps-2024-prepare-exam-quickly-af61386e7820?source=rss------hadoop-5)
 - [MapReduce Algorithm](https://avinashnavlani.medium.com/mapreduce-algorithm-9ddc9a5f0e3b?source=rss------hadoop-5)
@@ -308,7 +309,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [The Ultimate Decoder Ring for Big Data Tech: Your VIP Pass to the Hadoop Ecosystem &amp; Beyond!](https://blog.mirkopeters.com/the-ultimate-decoder-ring-for-big-data-tech-your-vip-pass-to-the-hadoop-ecosystem-beyond-58d678f8520b?source=rss------hadoop-5)
 - [“Hadoop Cluster: Step-by-Step Guide with Linux Partitions”](https://medium.com/@pratikshinde2210/hadoop-cluster-step-by-step-guide-with-linux-partitions-9237ab7f282e?source=rss------hadoop-5)
 - [HDFS: How namenode failure is handled?](https://medium.com/@nagendranathyr/hdfs-how-namenode-failure-is-handled-ffe889c2ea92?source=rss------hadoop-5)
-- [Play by Play: Hadoop.AI.ML.](https://medium.com/@avinash_vjti/play-by-play-hadoop-ai-ml-e01f273b9080?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
