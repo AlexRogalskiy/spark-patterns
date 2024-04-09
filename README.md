@@ -299,6 +299,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [No One Should Use Hadoop](https://johnvastola.medium.com/no-one-should-use-hadoop-baa29dbcb8c5?source=rss------hadoop-5)
+- [Spark vs Hadoop, una comparativa de las herramientas para el Big data](https://medium.com/@daniel.pacheco.dso/spark-vs-hadoop-una-comparativa-de-las-herramientas-para-el-big-data-24a91a05f18c?source=rss------hadoop-5)
 - [Install Fully Integrated Hadoop, Hive, and PySpark in Windows 10 locally](https://medium.com/@mickolesmana/install-fully-integrated-hadoop-hive-and-pyspark-in-windows-10-locally-ece6beac1cb1?source=rss------hadoop-5)
 - [Hadoop Distributions](https://medium.com/@pollux.liu/hadoop-distributions-1b2db2e443d5?source=rss------hadoop-5)
 - [Troubleshooting Spark UDF Execution: Overcoming ModuleNotFoundError and Serialization Error while…](https://medium.com/@bnaikwad88/troubleshooting-spark-udf-execution-overcoming-modulenotfounderror-and-serialization-error-while-d647db331c27?source=rss------hadoop-5)
@@ -307,8 +309,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Hadoop Ecosystem](https://medium.com/@pollux.liu/hadoop-ecosystem-8658f69d0463?source=rss------hadoop-5)
 - [Deploying a Spark-based application as a Windows application](https://blog.det.life/deploying-a-spark-based-application-as-a-windows-application-4ddc88231784?source=rss------hadoop-5)
 - [Understanding How Hadoop Utilizes Parallelism to Address the Velocity Problem.](https://medium.com/@pratikshinde2210/understanding-how-hadoop-utilizes-parallelism-to-address-the-velocity-problem-83c7a1809ed3?source=rss------hadoop-5)
-- [The Ultimate Decoder Ring for Big Data Tech: Your VIP Pass to the Hadoop Ecosystem &amp; Beyond!](https://blog.mirkopeters.com/the-ultimate-decoder-ring-for-big-data-tech-your-vip-pass-to-the-hadoop-ecosystem-beyond-58d678f8520b?source=rss------hadoop-5)
-- [“Hadoop Cluster: Step-by-Step Guide with Linux Partitions”](https://medium.com/@pratikshinde2210/hadoop-cluster-step-by-step-guide-with-linux-partitions-9237ab7f282e?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
