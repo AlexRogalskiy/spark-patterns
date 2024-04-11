@@ -299,6 +299,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Step By Step Guide on PySpark Setup &lpar;windows 11&rpar;](https://medium.com/@maheshdeshmukh22/step-by-step-guide-on-pyspark-setup-windows-11-b60167d7b961?source=rss------hadoop-5)
 - [Hadoop Installation on Windows/ Ubuntu WSL](https://medium.com/@timesofml/hadoop-installation-on-ubuntu-22-04-03-2ebc6525a8c9?source=rss------hadoop-5)
 - [No One Should Use Hadoop](https://johnvastola.medium.com/no-one-should-use-hadoop-baa29dbcb8c5?source=rss------hadoop-5)
 - [Spark vs Hadoop, una comparativa de las herramientas para el Big data](https://medium.com/@daniel.pacheco.dso/spark-vs-hadoop-una-comparativa-de-las-herramientas-para-el-big-data-24a91a05f18c?source=rss------hadoop-5)
@@ -308,7 +309,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Realistic Hortonworks Hadoop-PR000007 PDF Dumps 2024 — Prepare Exam Quickly](https://medium.com/@johnalex7454/realistic-hortonworks-hadoop-pr000007-pdf-dumps-2024-prepare-exam-quickly-af61386e7820?source=rss------hadoop-5)
 - [MapReduce Algorithm](https://avinashnavlani.medium.com/mapreduce-algorithm-9ddc9a5f0e3b?source=rss------hadoop-5)
 - [Hadoop Ecosystem](https://medium.com/@pollux.liu/hadoop-ecosystem-8658f69d0463?source=rss------hadoop-5)
-- [Deploying a Spark-based application as a Windows application](https://blog.det.life/deploying-a-spark-based-application-as-a-windows-application-4ddc88231784?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
