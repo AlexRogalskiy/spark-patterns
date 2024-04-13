@@ -299,6 +299,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [02. Hadoop in a nutshell](https://binayadas.medium.com/hadoop-51996d982c11?source=rss------hadoop-5)
 - [Unlocking the Power of External Tables in Hive: A Comprehensive Guide](https://medium.com/@essaifi.dgi/unlocking-the-power-of-external-tables-in-hive-a-comprehensive-guide-4869c47c694a?source=rss------hadoop-5)
 - [Step By Step Guide on PySpark Setup &lpar;windows 11&rpar;](https://medium.com/@maheshdeshmukh22/step-by-step-guide-on-pyspark-setup-windows-11-b60167d7b961?source=rss------hadoop-5)
 - [Hadoop Installation on Windows/ Ubuntu WSL](https://medium.com/@timesofml/hadoop-installation-on-ubuntu-22-04-03-2ebc6525a8c9?source=rss------hadoop-5)
@@ -308,7 +309,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Hadoop Distributions](https://medium.com/@pollux.liu/hadoop-distributions-1b2db2e443d5?source=rss------hadoop-5)
 - [Troubleshooting Spark UDF Execution: Overcoming ModuleNotFoundError and Serialization Error while…](https://medium.com/@bnaikwad88/troubleshooting-spark-udf-execution-overcoming-modulenotfounderror-and-serialization-error-while-d647db331c27?source=rss------hadoop-5)
 - [Realistic Hortonworks Hadoop-PR000007 PDF Dumps 2024 — Prepare Exam Quickly](https://medium.com/@johnalex7454/realistic-hortonworks-hadoop-pr000007-pdf-dumps-2024-prepare-exam-quickly-af61386e7820?source=rss------hadoop-5)
-- [MapReduce Algorithm](https://avinashnavlani.medium.com/mapreduce-algorithm-9ddc9a5f0e3b?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
