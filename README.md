@@ -299,16 +299,16 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [How Hive Transformed and “Inspired” The World of Data Engineering.](https://medium.com/@muhamedfahmy7474/how-hive-transformed-and-inspired-the-world-of-data-engineering-a094ec36966f?source=rss------hadoop-5)
+- [Spark vs Hadoop — Comparativa de herramientas](https://medium.com/@jtayupanta.dso/spark-vs-hadoop-comparativa-de-herramientas-894dd74d6c1a?source=rss------hadoop-5)
+- [AVRO File Format &lpar;Row-based format&rpar;](https://medium.com/@rakesh0651/avro-file-format-row-based-format-5e90f484cbeb?source=rss------hadoop-5)
+- [Estudiante: Rosa Maria Porras Rojas.](https://medium.com/@rosa.porras.dso/estudiante-rosa-maria-porras-rojas-374176fba205?source=rss------hadoop-5)
 - [Spark vs Hadoop — Comparativa de herramientas](https://medium.com/@salasbar97/spark-vs-hadoop-comparativa-de-herramientas-aa0923e13a49?source=rss------hadoop-5)
 - [Spark vs Hadoop — Comparativa de herramientas](https://medium.com/@pablo.marin.dso/spark-vs-hadoop-comparativa-de-herramientas-9ab6c02eba5e?source=rss------hadoop-5)
 - [Spark vs Hadoop Overview](https://medium.com/@marco.alfaro.dso/spark-vs-hadoop-overview-c2eb80ab5c0d?source=rss------hadoop-5)
 - [Spark y Hadoop soluciones para el manejo de datos](https://medium.com/@daniela.salas.dso/spark-y-hadoop-soluciones-para-el-manejo-de-datos-74979b728921?source=rss------hadoop-5)
 - [Word Count Program in DataFrame using PySpark](https://medium.com/@rakesh0651/word-count-program-in-dataframe-using-pyspark-51eea276d154?source=rss------hadoop-5)
 - [A Journey into Hadoop’s Realm](https://blog.devops.dev/a-journey-into-hadoops-realm-731ffaaa4a58?source=rss------hadoop-5)
-- [Step-by-Step Guide: Harnessing Hadoop MapReduce on Google Cloud Dataproc Clusters](https://medium.com/@anukritj/step-by-step-guide-harnessing-hadoop-mapreduce-on-google-cloud-dataproc-clusters-ef2917a52532?source=rss------hadoop-5)
-- [Step-by-Step Guide: Harnessing Hadoop MapReduce on Google Cloud Dataproc Clusters](https://medium.com/@anukriti.jaiswal01/step-by-step-guide-harnessing-hadoop-mapreduce-on-google-cloud-dataproc-clusters-c042d7f42e57?source=rss------hadoop-5)
-- [02. Hadoop in a nutshell](https://binayadas.medium.com/hadoop-51996d982c11?source=rss------hadoop-5)
-- [Unlocking the Power of External Tables in Hive: A Comprehensive Guide](https://medium.com/@essaifi.dgi/unlocking-the-power-of-external-tables-in-hive-a-comprehensive-guide-4869c47c694a?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
