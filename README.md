@@ -299,6 +299,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [The simplest introduction to Hadoop](https://gesppen.medium.com/the-simplest-introduction-to-hadoop-886fc7b944fb?source=rss------hadoop-5)
+- [When and Why to use Hadoop](https://medium.com/@ssarswat/when-and-why-to-use-hadoop-8eca98b79ae3?source=rss------hadoop-5)
 - [Top 10 Data Engineering Books](https://medium.com/@ashwin_reddy_/top-10-data-engineering-books-c36b34f1be68?source=rss------hadoop-5)
 - [Map Reduce explained with example | System Design](https://levelup.gitconnected.com/map-reduce-explained-with-example-system-design-af7b868187a5?source=rss------hadoop-5)
 - [Revolutionize Your Data Game with Apache CarbonData — Faster, Smarter, Better!](https://mirko-peters.medium.com/revolutionize-your-data-game-with-apache-carbondata-faster-smarter-better-8aef8741412e?source=rss------hadoop-5)
@@ -307,8 +309,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [AVRO File Format &lpar;Row-based format&rpar;](https://medium.com/@rakesh0651/avro-file-format-row-based-format-5e90f484cbeb?source=rss------hadoop-5)
 - [Estudiante: Rosa Maria Porras Rojas.](https://medium.com/@rosa.porras.dso/estudiante-rosa-maria-porras-rojas-374176fba205?source=rss------hadoop-5)
 - [Spark vs Hadoop — Comparativa de herramientas](https://medium.com/@salasbar97/spark-vs-hadoop-comparativa-de-herramientas-aa0923e13a49?source=rss------hadoop-5)
-- [Spark vs Hadoop — Comparativa de herramientas](https://medium.com/@pablo.marin.dso/spark-vs-hadoop-comparativa-de-herramientas-9ab6c02eba5e?source=rss------hadoop-5)
-- [Spark vs Hadoop Overview](https://medium.com/@marco.alfaro.dso/spark-vs-hadoop-overview-c2eb80ab5c0d?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
