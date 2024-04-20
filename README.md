@@ -299,6 +299,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Big Data technologies](https://medium.com/@gremwang/big-data-technologies-2ccdceec4bba?source=rss------hadoop-5)
 - [Harness the Colossal Power of Big Data with Apache Hadoop: The Ultimate Game-Changer](https://blog.mirkopeters.com/harness-the-colossal-power-of-big-data-with-apache-hadoop-the-ultimate-game-changer-6acdecb32107?source=rss------hadoop-5)
 - [The simplest introduction to Hadoop](https://gesppen.medium.com/the-simplest-introduction-to-hadoop-886fc7b944fb?source=rss------hadoop-5)
 - [When and Why to use Hadoop](https://medium.com/@ssarswat/when-and-why-to-use-hadoop-8eca98b79ae3?source=rss------hadoop-5)
@@ -308,7 +309,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [How Hive Transformed and “Inspired” The World of Data Engineering.](https://towardsdev.com/how-hive-transformed-and-inspired-the-world-of-data-engineering-a094ec36966f?source=rss------hadoop-5)
 - [Spark vs Hadoop — Comparativa de herramientas](https://medium.com/@jtayupanta.dso/spark-vs-hadoop-comparativa-de-herramientas-894dd74d6c1a?source=rss------hadoop-5)
 - [AVRO File Format &lpar;Row-based format&rpar;](https://medium.com/@rakesh0651/avro-file-format-row-based-format-5e90f484cbeb?source=rss------hadoop-5)
-- [Estudiante: Rosa Maria Porras Rojas.](https://medium.com/@rosa.porras.dso/estudiante-rosa-maria-porras-rojas-374176fba205?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
