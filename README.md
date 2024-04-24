@@ -299,6 +299,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Big Data Evolution](https://medium.com/@abhisheknakka15/big-data-evolution-bd391d853baa?source=rss------hadoop-5)
 - [Yet another guide to debug spark OOM errors](https://medium.com/@janniccutura/yet-another-guide-to-debug-spark-oom-errors-40eaacf402d7?source=rss------hadoop-5)
 - [How to fix Hive table partitioning](https://medium.com/@janniccutura/how-to-fix-hive-table-partitioning-a2b87b3875e9?source=rss------hadoop-5)
 - [Testing primary keys in Impala/Hive](https://medium.com/@janniccutura/testing-primary-keys-in-impala-hive-14bbcf9477bf?source=rss------hadoop-5)
@@ -308,7 +309,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [When and Why to use Hadoop](https://medium.com/@ssarswat/when-and-why-to-use-hadoop-8eca98b79ae3?source=rss------hadoop-5)
 - [Top 10 Data Engineering Books](https://medium.com/@ashwin_reddy_/top-10-data-engineering-books-c36b34f1be68?source=rss------hadoop-5)
 - [Map Reduce explained with example | System Design](https://levelup.gitconnected.com/map-reduce-explained-with-example-system-design-af7b868187a5?source=rss------hadoop-5)
-- [Revolutionize Your Data Game with Apache CarbonData — Faster, Smarter, Better!](https://mirko-peters.medium.com/revolutionize-your-data-game-with-apache-carbondata-faster-smarter-better-8aef8741412e?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
