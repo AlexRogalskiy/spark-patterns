@@ -299,6 +299,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [MapReduce White Paper — Part 3](https://medium.com/@SaumyaBhatt106/mapreduce-white-paper-part-3-aba513838d64?source=rss------hadoop-5)
+- [Big Data Evolution](https://medium.com/@abhisheknakka15/big-data-evolution-397118a09f92?source=rss------hadoop-5)
 - [Big Data Evolution](https://medium.com/@abhisheknakka15/big-data-evolution-bd391d853baa?source=rss------hadoop-5)
 - [Yet another guide to debug spark OOM errors](https://medium.com/@janniccutura/yet-another-guide-to-debug-spark-oom-errors-40eaacf402d7?source=rss------hadoop-5)
 - [How to fix Hive table partitioning](https://medium.com/@janniccutura/how-to-fix-hive-table-partitioning-a2b87b3875e9?source=rss------hadoop-5)
@@ -307,8 +309,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Harness the Colossal Power of Big Data with Apache Hadoop: The Ultimate Game-Changer](https://blog.mirkopeters.com/harness-the-colossal-power-of-big-data-with-apache-hadoop-the-ultimate-game-changer-6acdecb32107?source=rss------hadoop-5)
 - [The simplest introduction to Hadoop](https://gesppen.medium.com/the-simplest-introduction-to-hadoop-886fc7b944fb?source=rss------hadoop-5)
 - [When and Why to use Hadoop](https://medium.com/@ssarswat/when-and-why-to-use-hadoop-8eca98b79ae3?source=rss------hadoop-5)
-- [Top 10 Data Engineering Books](https://medium.com/@ashwin_reddy_/top-10-data-engineering-books-c36b34f1be68?source=rss------hadoop-5)
-- [Map Reduce explained with example | System Design](https://levelup.gitconnected.com/map-reduce-explained-with-example-system-design-af7b868187a5?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
