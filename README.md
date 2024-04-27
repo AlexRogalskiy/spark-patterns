@@ -299,6 +299,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [How we Integrate 1000++ Hive Tables into Data Warehouse Without ETL Seamlessly](https://medium.com/@bernard.adhitya/how-we-integrate-1000-hive-tables-into-data-warehouse-without-etl-seamlessly-38f053e1a00b?source=rss------hadoop-5)
+- [The Power of MapReduce and Hadoop Ecosystem](https://syoungk7.medium.com/the-power-of-mapreduce-and-hadoop-ecosystem-39069aceb603?source=rss------hadoop-5)
 - [MapReduce White Paper — Part 3](https://medium.com/@SaumyaBhatt106/mapreduce-white-paper-part-3-aba513838d64?source=rss------hadoop-5)
 - [Big Data Evolution](https://medium.com/@abhisheknakka15/big-data-evolution-397118a09f92?source=rss------hadoop-5)
 - [Big Data Evolution](https://medium.com/@abhisheknakka15/big-data-evolution-bd391d853baa?source=rss------hadoop-5)
@@ -307,8 +309,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Testing primary keys in Impala/Hive](https://medium.com/@janniccutura/testing-primary-keys-in-impala-hive-14bbcf9477bf?source=rss------hadoop-5)
 - [Big Data technologies](https://medium.com/@gremwang/big-data-technologies-2ccdceec4bba?source=rss------hadoop-5)
 - [Harness the Colossal Power of Big Data with Apache Hadoop: The Ultimate Game-Changer](https://blog.mirkopeters.com/harness-the-colossal-power-of-big-data-with-apache-hadoop-the-ultimate-game-changer-6acdecb32107?source=rss------hadoop-5)
-- [The simplest introduction to Hadoop](https://gesppen.medium.com/the-simplest-introduction-to-hadoop-886fc7b944fb?source=rss------hadoop-5)
-- [When and Why to use Hadoop](https://medium.com/@ssarswat/when-and-why-to-use-hadoop-8eca98b79ae3?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
