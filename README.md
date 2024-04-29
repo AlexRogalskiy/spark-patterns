@@ -299,6 +299,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Apache Hadoop Ecosystem — HDFS &lpar;Hadoop Distributed File System&rpar;](https://medium.com/@hhuseyincosgun/apache-hadoop-ecosystem-hdfs-hadoop-distributed-file-system-1ec86711b8af?source=rss------hadoop-5)
 - [Big Data: Uso de Hadoop, HDFS MySQL y Hive](https://medium.com/@jakogar77/big-data-uso-de-hadoop-hdfs-mysql-y-hive-2f14ec3991f9?source=rss------hadoop-5)
 - [How Hadoop makes Big Data easy](https://medium.com/@isanskari/how-hadoop-makes-big-data-easy-365012fff037?source=rss------hadoop-5)
 - [Apache Hadoop - Büyük Veri İşleme](https://medium.com/@myoztiryaki/apache-hadoop-b%C3%BCy%C3%BCk-veri-i%CC%87%C5%9Fleme-020c4a3f8576?source=rss------hadoop-5)
@@ -307,8 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [MapReduce White Paper — Part 3](https://medium.com/@SaumyaBhatt106/mapreduce-white-paper-part-3-aba513838d64?source=rss------hadoop-5)
 - [Big Data Evolution](https://medium.com/@abhisheknakka15/big-data-evolution-397118a09f92?source=rss------hadoop-5)
 - [Big Data Evolution](https://medium.com/@abhisheknakka15/big-data-evolution-bd391d853baa?source=rss------hadoop-5)
-- [Yet another guide to debug spark OOM errors](https://medium.com/@janniccutura/yet-another-guide-to-debug-spark-oom-errors-40eaacf402d7?source=rss------hadoop-5)
-- [How to fix Hive table partitioning](https://medium.com/@janniccutura/how-to-fix-hive-table-partitioning-a2b87b3875e9?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
