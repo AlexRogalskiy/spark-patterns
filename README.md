@@ -299,6 +299,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Will the Open Data Platform Initiative &lpar;OPEA&rpar; Go the Way of ODPI ?](https://digitizingpolaris.com/will-the-open-data-platform-initiative-opea-go-the-way-of-odpi-4b580eac0a38?source=rss------hadoop-5)
 - [Apache Hadoop Ecosystem — HDFS &lpar;Hadoop Distributed File System&rpar;](https://medium.com/@hhuseyincosgun/apache-hadoop-ecosystem-hdfs-hadoop-distributed-file-system-1ec86711b8af?source=rss------hadoop-5)
 - [Big Data: Uso de Hadoop, HDFS MySQL y Hive](https://medium.com/@jakogar77/big-data-uso-de-hadoop-hdfs-mysql-y-hive-2f14ec3991f9?source=rss------hadoop-5)
 - [How Hadoop makes Big Data easy](https://medium.com/@isanskari/how-hadoop-makes-big-data-easy-365012fff037?source=rss------hadoop-5)
@@ -307,7 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [The Power of MapReduce and Hadoop Ecosystem](https://syoungk7.medium.com/the-power-of-mapreduce-and-hadoop-ecosystem-39069aceb603?source=rss------hadoop-5)
 - [MapReduce White Paper — Part 3](https://medium.com/@SaumyaBhatt106/mapreduce-white-paper-part-3-aba513838d64?source=rss------hadoop-5)
 - [Big Data Evolution](https://medium.com/@abhisheknakka15/big-data-evolution-397118a09f92?source=rss------hadoop-5)
-- [Big Data Evolution](https://medium.com/@abhisheknakka15/big-data-evolution-bd391d853baa?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
