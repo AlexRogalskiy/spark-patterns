@@ -305,7 +305,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [How Hadoop makes Big Data easy](https://medium.com/@isanskari/how-hadoop-makes-big-data-easy-365012fff037?source=rss------hadoop-5)
 - [Apache Hadoop - Büyük Veri İşleme](https://medium.com/@myoztiryaki/apache-hadoop-b%C3%BCy%C3%BCk-veri-i%CC%87%C5%9Fleme-020c4a3f8576?source=rss------hadoop-5)
 - [How we Integrate 1000++ Hive Tables into Data Warehouse Without ETL Seamlessly](https://medium.com/@bernard.adhitya/how-we-integrate-1000-hive-tables-into-data-warehouse-without-etl-seamlessly-38f053e1a00b?source=rss------hadoop-5)
-- [The Power of MapReduce and Hadoop Ecosystem](https://syoungk7.medium.com/the-power-of-mapreduce-and-hadoop-ecosystem-39069aceb603?source=rss------hadoop-5)
+- [The Power of MapReduce and Hadoop Ecosystem](https://soyakim.medium.com/the-power-of-mapreduce-and-hadoop-ecosystem-39069aceb603?source=rss------hadoop-5)
 - [MapReduce White Paper — Part 3](https://medium.com/@SaumyaBhatt106/mapreduce-white-paper-part-3-aba513838d64?source=rss------hadoop-5)
 - [Big Data Evolution](https://medium.com/@abhisheknakka15/big-data-evolution-397118a09f92?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
