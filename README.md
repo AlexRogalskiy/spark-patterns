@@ -299,15 +299,15 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Essential HDFS Commands for Data Engineers](https://medium.com/@nikaljeajay36/essential-hdfs-commands-for-data-engineers-7e10ddf9da79?source=rss------hadoop-5)
+- [Using Hadoop distribution in DataProc &lpar;Google Cloud&rpar;, solving below task using MapReduce](https://medium.com/@nishichaudhary1998/using-hadoop-distribution-in-dataproc-google-cloud-solving-below-task-using-mapreduce-399e37b874a8?source=rss------hadoop-5)
 - [Will the Open Data Platform Initiative &lpar;OPEA&rpar; Go the Way of ODPI ?](https://digitizingpolaris.com/will-the-open-data-platform-initiative-opea-go-the-way-of-odpi-4b580eac0a38?source=rss------hadoop-5)
 - [Apache Hadoop Ecosystem — HDFS &lpar;Hadoop Distributed File System&rpar;](https://medium.com/@hhuseyincosgun/apache-hadoop-ecosystem-hdfs-hadoop-distributed-file-system-1ec86711b8af?source=rss------hadoop-5)
 - [Big Data: Uso de Hadoop, HDFS MySQL y Hive](https://medium.com/@jakogar77/big-data-uso-de-hadoop-hdfs-mysql-y-hive-2f14ec3991f9?source=rss------hadoop-5)
 - [How Hadoop makes Big Data easy](https://medium.com/@isanskari/how-hadoop-makes-big-data-easy-365012fff037?source=rss------hadoop-5)
 - [Apache Hadoop - Büyük Veri İşleme](https://medium.com/@myoztiryaki/apache-hadoop-b%C3%BCy%C3%BCk-veri-i%CC%87%C5%9Fleme-020c4a3f8576?source=rss------hadoop-5)
-- [How we Integrate 1000++ Hive Tables into Data Warehouse Without ETL Seamlessly](https://medium.com/@bernard.adhitya/how-we-integrate-1000-hive-tables-into-data-warehouse-without-etl-seamlessly-38f053e1a00b?source=rss------hadoop-5)
+- [How we Integrate 1000++ Hive Tables into Data Warehouse Without ETL Seamlessly](https://blog.det.life/how-we-integrate-1000-hive-tables-into-data-warehouse-without-etl-seamlessly-38f053e1a00b?source=rss------hadoop-5)
 - [The Power of MapReduce and Hadoop Ecosystem](https://soyakim.medium.com/the-power-of-mapreduce-and-hadoop-ecosystem-39069aceb603?source=rss------hadoop-5)
-- [MapReduce White Paper — Part 3](https://medium.com/@SaumyaBhatt106/mapreduce-white-paper-part-3-aba513838d64?source=rss------hadoop-5)
-- [Big Data Evolution](https://medium.com/@abhisheknakka15/big-data-evolution-397118a09f92?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
