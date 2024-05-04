@@ -299,6 +299,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Big Data Bonanza: Where Numbers Wear Capes and Bytes Tell Stories!](https://medium.com/@atharvtembhurnikar/big-data-bonanza-where-numbers-wear-capes-and-bytes-tell-stories-a211871dedc8?source=rss------hadoop-5)
 - [Essential HDFS Commands for Data Engineers](https://medium.com/@nikaljeajay36/essential-hdfs-commands-for-data-engineers-7e10ddf9da79?source=rss------hadoop-5)
 - [Using Hadoop distribution in DataProc &lpar;Google Cloud&rpar;, solving below task using MapReduce](https://medium.com/@nishichaudhary1998/using-hadoop-distribution-in-dataproc-google-cloud-solving-below-task-using-mapreduce-399e37b874a8?source=rss------hadoop-5)
 - [Will the Open Data Platform Initiative &lpar;OPEA&rpar; Go the Way of ODPI ?](https://digitizingpolaris.com/will-the-open-data-platform-initiative-opea-go-the-way-of-odpi-4b580eac0a38?source=rss------hadoop-5)
@@ -307,7 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [How Hadoop makes Big Data easy](https://medium.com/@isanskari/how-hadoop-makes-big-data-easy-365012fff037?source=rss------hadoop-5)
 - [Apache Hadoop - Büyük Veri İşleme](https://medium.com/@myoztiryaki/apache-hadoop-b%C3%BCy%C3%BCk-veri-i%CC%87%C5%9Fleme-020c4a3f8576?source=rss------hadoop-5)
 - [How we Integrate 1000++ Hive Tables into Data Warehouse Without ETL Seamlessly](https://blog.det.life/how-we-integrate-1000-hive-tables-into-data-warehouse-without-etl-seamlessly-38f053e1a00b?source=rss------hadoop-5)
-- [The Power of MapReduce and Hadoop Ecosystem](https://soyakim.medium.com/the-power-of-mapreduce-and-hadoop-ecosystem-39069aceb603?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
