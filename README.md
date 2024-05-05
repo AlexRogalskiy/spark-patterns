@@ -299,6 +299,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Big Data Analysis Technologies : 3: Hadoop Setup &amp; Practical](https://gsanjeewa1111.medium.com/big-data-analysis-technologies-3-hadoop-setup-practical-b98f60b094a8?source=rss------hadoop-5)
+- [Exploring the Giants: Hadoop File System vs. Google File System](https://medium.com/@ajayverma23/exploring-the-giants-hadoop-file-system-vs-google-file-system-9bea92187807?source=rss------hadoop-5)
 - [Big Data Bonanza: Where Numbers Wear Capes and Bytes Tell Stories!](https://medium.com/@atharvtembhurnikar/big-data-bonanza-where-numbers-wear-capes-and-bytes-tell-stories-a211871dedc8?source=rss------hadoop-5)
 - [Essential HDFS Commands for Data Engineers](https://medium.com/@nikaljeajay36/essential-hdfs-commands-for-data-engineers-7e10ddf9da79?source=rss------hadoop-5)
 - [Using Hadoop distribution in DataProc &lpar;Google Cloud&rpar;, solving below task using MapReduce](https://medium.com/@nishichaudhary1998/using-hadoop-distribution-in-dataproc-google-cloud-solving-below-task-using-mapreduce-399e37b874a8?source=rss------hadoop-5)
@@ -306,8 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Apache Hadoop Ecosystem — HDFS &lpar;Hadoop Distributed File System&rpar;](https://medium.com/@hhuseyincosgun/apache-hadoop-ecosystem-hdfs-hadoop-distributed-file-system-1ec86711b8af?source=rss------hadoop-5)
 - [Big Data: Uso de Hadoop, HDFS MySQL y Hive](https://medium.com/@jakogar77/big-data-uso-de-hadoop-hdfs-mysql-y-hive-2f14ec3991f9?source=rss------hadoop-5)
 - [How Hadoop makes Big Data easy](https://medium.com/@isanskari/how-hadoop-makes-big-data-easy-365012fff037?source=rss------hadoop-5)
-- [Apache Hadoop - Büyük Veri İşleme](https://medium.com/@myoztiryaki/apache-hadoop-b%C3%BCy%C3%BCk-veri-i%CC%87%C5%9Fleme-020c4a3f8576?source=rss------hadoop-5)
-- [How we Integrate 1000++ Hive Tables into Data Warehouse Without ETL Seamlessly](https://blog.det.life/how-we-integrate-1000-hive-tables-into-data-warehouse-without-etl-seamlessly-38f053e1a00b?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
