@@ -274,6 +274,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [GCC 14 release brings Ada/GNAT/SPARK improvements](https://www.reddit.com/r/spark/comments/1cm7o7t/gcc_14_release_brings_adagnatspark_improvements/)
 - [How to run Ada and SPARK code on NVIDIA GPUs and CUDA](https://www.reddit.com/r/spark/comments/1cj4jt7/how_to_run_ada_and_spark_code_on_nvidia_gpus_and/)
 - [Co-Developing Programs and Their Proof of Correctness &lpar;AdaCore blog&rpar;](https://www.reddit.com/r/spark/comments/1b4mled/codeveloping_programs_and_their_proof_of/)
 - [CACM article about SPARK...](https://www.reddit.com/r/spark/comments/1aye8uc/cacm_article_about_spark/)
@@ -283,7 +284,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Rust and SPARK: Software Reliability for Everyone &lpar;2020&rpar;](https://www.reddit.com/r/spark/comments/18zxmw4/rust_and_spark_software_reliability_for_everyone/)
 - [[VIDEO] SPARK Pro For Embedded System Programming](https://www.reddit.com/r/spark/comments/187fi3z/video_spark_pro_for_embedded_system_programming/)
 - [[Webinar] SPARK Pro for Proven Memory Safety](https://www.reddit.com/r/spark/comments/187feli/webinar_spark_pro_for_proven_memory_safety/)
-- [Light Launcher Company, Latitude, Adopted Ada and SPARK](https://www.reddit.com/r/spark/comments/183fr3t/light_launcher_company_latitude_adopted_ada_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld Spark posts*
