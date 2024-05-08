@@ -299,6 +299,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Hive Metastore in Spark](https://medium.com/@showrya.dindi/hive-metastore-in-spark-72124e7adbe8?source=rss------hadoop-5)
 - [From Data Warehouse to Data Lakehouse — Part 2](https://medium.com/@seckindinc/from-data-warehouse-to-data-lakehouse-part-2-be02dcae6563?source=rss------hadoop-5)
 - [HADOOP &amp; DOCKER](https://medium.com/@ayoubelmaalmi/hadoop-docker-ed127cf6bb6e?source=rss------hadoop-5)
 - [Using Pig Latin scrpit example for each the Following Eval Functions](https://medium.com/@samjebaraj.sj/using-pig-latin-scrpit-example-for-each-the-following-eval-functions-0a0cdb64a3d9?source=rss------hadoop-5)
@@ -307,7 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Exploring the Giants: Hadoop File System vs. Google File System](https://medium.com/@ajayverma23/exploring-the-giants-hadoop-file-system-vs-google-file-system-9bea92187807?source=rss------hadoop-5)
 - [Big Data Bonanza: Where Numbers Wear Capes and Bytes Tell Stories!](https://medium.com/@atharvtembhurnikar/big-data-bonanza-where-numbers-wear-capes-and-bytes-tell-stories-a211871dedc8?source=rss------hadoop-5)
 - [Essential HDFS Commands for Data Engineers](https://medium.com/@nikaljeajay36/essential-hdfs-commands-for-data-engineers-7e10ddf9da79?source=rss------hadoop-5)
-- [Using Hadoop distribution in DataProc &lpar;Google Cloud&rpar;, solving below task using MapReduce](https://medium.com/@nishichaudhary1998/using-hadoop-distribution-in-dataproc-google-cloud-solving-below-task-using-mapreduce-399e37b874a8?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
