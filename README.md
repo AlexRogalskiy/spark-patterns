@@ -299,6 +299,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Write a MapReduce program that counts the matches of a string &lpar;regex&rpar; in the input file “IIIT.txt”.](https://medium.com/@raunakkumar.india/write-a-mapreduce-program-that-counts-the-matches-of-a-string-regex-in-the-input-file-iiit-txt-e1916dedf8d1?source=rss------hadoop-5)
 - [Apache Hadoop and Apache Spark for Big Data Analysis](https://towardsdatascience.com/apache-hadoop-and-apache-spark-for-big-data-analysis-daaf659fd0ee?source=rss------hadoop-5)
 - [Hive Metastore in Spark](https://medium.com/@showrya.dindi/hive-metastore-in-spark-72124e7adbe8?source=rss------hadoop-5)
 - [From Data Warehouse to Data Lakehouse — Part 2](https://medium.com/@seckindinc/from-data-warehouse-to-data-lakehouse-part-2-be02dcae6563?source=rss------hadoop-5)
@@ -307,7 +308,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Managed tables and External tables are used in Hive data base.](https://medium.com/@samjebaraj.sj/how-the-managed-tables-and-external-tables-are-used-in-hive-data-base-2ce1458b9f27?source=rss------hadoop-5)
 - [Deploying a Big Data Ecosystem: Dockerized Hadoop, Spark, Hive, and Zeppelin](https://medium.com/@bayuadiwibowo/deploying-a-big-data-ecosystem-dockerized-hadoop-spark-hive-and-zeppelin-654014069c82?source=rss------hadoop-5)
 - [Exploring the Giants: Hadoop File System vs. Google File System](https://medium.com/@ajayverma23/exploring-the-giants-hadoop-file-system-vs-google-file-system-9bea92187807?source=rss------hadoop-5)
-- [Big Data Bonanza: Where Numbers Wear Capes and Bytes Tell Stories!](https://medium.com/@atharvtembhurnikar/big-data-bonanza-where-numbers-wear-capes-and-bytes-tell-stories-a211871dedc8?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
