@@ -299,6 +299,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [A Gentle Introduction to HDFS](https://medium.com/@ajaytherala.7/a-gentle-introduction-to-hdfs-44d331011fe1?source=rss------hadoop-5)
 - [Spark- Reading and Writing the Json file.](https://medium.com/@nikaljeajay36/spark-reading-and-writing-the-json-file-306752ef31e6?source=rss------hadoop-5)
 - [Write a MapReduce program that counts the matches of a string &lpar;regex&rpar; in the input file “IIIT.txt”.](https://medium.com/@raunakkumar.india/write-a-mapreduce-program-that-counts-the-matches-of-a-string-regex-in-the-input-file-iiit-txt-e1916dedf8d1?source=rss------hadoop-5)
 - [Apache Hadoop and Apache Spark for Big Data Analysis](https://towardsdatascience.com/apache-hadoop-and-apache-spark-for-big-data-analysis-daaf659fd0ee?source=rss------hadoop-5)
