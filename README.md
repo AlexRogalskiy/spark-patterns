@@ -299,6 +299,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Hive Interview Based Key Points](https://medium.com/@tanushakona/hive-interview-based-key-points-d2a13f78db4e?source=rss------hadoop-5)
+- [Data Science Essentials: Exploring Tools and Technologies for Success](https://medium.com/@diptidomadiya13/data-science-essentials-exploring-tools-and-technologies-for-success-6dfcf04476c0?source=rss------hadoop-5)
 - [Big Data](https://medium.com/@CristiAndre/big-data-8204f6acf734?source=rss------hadoop-5)
 - [Laboratorios prácticos BigData](https://medium.com/@CristiAndre/laboratorios-pr%C3%A1cticos-bigdata-9d0b2926c7f3?source=rss------hadoop-5)
 - [A Comprehensive Guide to Building DolphinScheduler 3.2.0 Production-Grade Cluster](https://medium.com/@ApacheDolphinScheduler/a-comprehensive-guide-to-building-dolphinscheduler-3-2-0-production-grade-cluster-19ac49717274?source=rss------hadoop-5)
@@ -307,8 +309,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Write a MapReduce program that counts the matches of a string &lpar;regex&rpar; in the input file “IIIT.txt”.](https://medium.com/@raunakkumar.india/write-a-mapreduce-program-that-counts-the-matches-of-a-string-regex-in-the-input-file-iiit-txt-e1916dedf8d1?source=rss------hadoop-5)
 - [Apache Hadoop and Apache Spark for Big Data Analysis](https://towardsdatascience.com/apache-hadoop-and-apache-spark-for-big-data-analysis-daaf659fd0ee?source=rss------hadoop-5)
 - [Hive Metastore in Spark](https://medium.com/@showrya.dindi/hive-metastore-in-spark-72124e7adbe8?source=rss------hadoop-5)
-- [From Data Warehouse to Data Lakehouse — Part 2](https://medium.com/@seckindinc/from-data-warehouse-to-data-lakehouse-part-2-be02dcae6563?source=rss------hadoop-5)
-- [HADOOP &amp; DOCKER](https://medium.com/@ayoubelmaalmi/hadoop-docker-ed127cf6bb6e?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
