@@ -299,16 +299,16 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Instalação e configuração do Pyspark no Windows para conexão no Azure Datalake](https://medium.com/@bruno.facco/instala%C3%A7%C3%A3o-e-configura%C3%A7%C3%A3o-do-pyspark-no-windows-para-conex%C3%A3o-no-azure-datalake-f166351da69e?source=rss------hadoop-5)
+- [Hadoop](https://towardsdev.com/hadoop-777942a11154?source=rss------hadoop-5)
+- [Unlocking the Potential of Data Engineering: Best Practices for Scalable and Efficient Data…](https://medium.com/@rahulholla1/unlocking-the-potential-of-data-engineering-best-practices-for-scalable-and-efficient-data-6cca9d84a097?source=rss------hadoop-5)
+- [Big Data ve Hadoop Ekosistemi](https://medium.com/@glshlc97/big-data-ve-hadoop-ekosistemi-f8dab450d7b0?source=rss------hadoop-5)
 - [Hive Interview Based Key Points](https://medium.com/@tanushakona/hive-interview-based-key-points-d2a13f78db4e?source=rss------hadoop-5)
 - [Data Science Essentials: Exploring Tools and Technologies for Success](https://medium.com/@diptidomadiya13/data-science-essentials-exploring-tools-and-technologies-for-success-6dfcf04476c0?source=rss------hadoop-5)
 - [Big Data](https://medium.com/@CristiAndre/big-data-8204f6acf734?source=rss------hadoop-5)
 - [Laboratorios prácticos BigData](https://medium.com/@CristiAndre/laboratorios-pr%C3%A1cticos-bigdata-9d0b2926c7f3?source=rss------hadoop-5)
 - [A Comprehensive Guide to Building DolphinScheduler 3.2.0 Production-Grade Cluster](https://medium.com/@ApacheDolphinScheduler/a-comprehensive-guide-to-building-dolphinscheduler-3-2-0-production-grade-cluster-19ac49717274?source=rss------hadoop-5)
 - [A Gentle Introduction to HDFS](https://medium.com/@ajaytherala.7/a-gentle-introduction-to-hdfs-44d331011fe1?source=rss------hadoop-5)
-- [Spark- Reading and Writing the Json file.](https://medium.com/@nikaljeajay36/spark-reading-and-writing-the-json-file-306752ef31e6?source=rss------hadoop-5)
-- [Write a MapReduce program that counts the matches of a string &lpar;regex&rpar; in the input file “IIIT.txt”.](https://medium.com/@raunakkumar.india/write-a-mapreduce-program-that-counts-the-matches-of-a-string-regex-in-the-input-file-iiit-txt-e1916dedf8d1?source=rss------hadoop-5)
-- [Apache Hadoop and Apache Spark for Big Data Analysis](https://towardsdatascience.com/apache-hadoop-and-apache-spark-for-big-data-analysis-daaf659fd0ee?source=rss------hadoop-5)
-- [Hive Metastore in Spark](https://medium.com/@showrya.dindi/hive-metastore-in-spark-72124e7adbe8?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
