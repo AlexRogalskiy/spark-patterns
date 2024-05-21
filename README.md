@@ -299,6 +299,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Hadoop](https://medium.com/@apdo60311/hadoop-5d67090fe534?source=rss------hadoop-5)
 - [Instalação e configuração do Pyspark no Windows para conexão no Azure Datalake](https://medium.com/@bruno.facco/instala%C3%A7%C3%A3o-e-configura%C3%A7%C3%A3o-do-pyspark-no-windows-para-conex%C3%A3o-no-azure-datalake-f166351da69e?source=rss------hadoop-5)
 - [Hadoop](https://towardsdev.com/hadoop-777942a11154?source=rss------hadoop-5)
 - [Unlocking the Potential of Data Engineering: Best Practices for Scalable and Efficient Data…](https://medium.com/@rahulholla1/unlocking-the-potential-of-data-engineering-best-practices-for-scalable-and-efficient-data-6cca9d84a097?source=rss------hadoop-5)
@@ -308,7 +309,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Big Data](https://medium.com/@CristiAndre/big-data-8204f6acf734?source=rss------hadoop-5)
 - [Laboratorios prácticos BigData](https://medium.com/@CristiAndre/laboratorios-pr%C3%A1cticos-bigdata-9d0b2926c7f3?source=rss------hadoop-5)
 - [A Comprehensive Guide to Building DolphinScheduler 3.2.0 Production-Grade Cluster](https://medium.com/@ApacheDolphinScheduler/a-comprehensive-guide-to-building-dolphinscheduler-3-2-0-production-grade-cluster-19ac49717274?source=rss------hadoop-5)
-- [A Gentle Introduction to HDFS](https://medium.com/@ajaytherala.7/a-gentle-introduction-to-hdfs-44d331011fe1?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
