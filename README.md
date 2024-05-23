@@ -299,16 +299,17 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Revamping the Spark ecosystem at Quora](https://medium.com/@akkidx/revamping-the-spark-ecosystem-at-quora-8ee0cb7c4463?source=rss------hadoop-5)
+- [Java’s Role in Big Data: Harnessing Power
+for Insights](https://medium.com/@k.shubh4m/javas-role-in-big-data-harnessing-power-for-insights-aca2424ca118?source=rss------hadoop-5)
+- [Моментальные снимки распределенной файловой системы Apache Hadoop: тонкости снапшотов HDFS](https://medium.com/@bigdataschool/%D0%BC%D0%BE%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D1%81%D0%BD%D0%B8%D0%BC%D0%BA%D0%B8-%D1%80%D0%B0%D1%81%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9-%D1%84%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%BE%D0%B9-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B-apache-hadoop-%D1%82%D0%BE%D0%BD%D0%BA%D0%BE%D1%81%D1%82%D0%B8-%D1%81%D0%BD%D0%B0%D0%BF%D1%88%D0%BE%D1%82%D0%BE%D0%B2-hdfs-2f3fa134f03a?source=rss------hadoop-5)
+- [Why HDFS Block Size is So Large Compared to Local File Systems](https://medium.com/@deepakda1972/why-hdfs-block-size-is-so-large-compared-to-local-file-systems-06ac51cd8bc1?source=rss------hadoop-5)
 - [Hadoop](https://medium.com/@apdo60311/hadoop-5d67090fe534?source=rss------hadoop-5)
 - [Instalação e configuração do Pyspark no Windows para conexão no Azure Datalake](https://medium.com/@bruno.facco/instala%C3%A7%C3%A3o-e-configura%C3%A7%C3%A3o-do-pyspark-no-windows-para-conex%C3%A3o-no-azure-datalake-f166351da69e?source=rss------hadoop-5)
 - [Hadoop](https://towardsdev.com/hadoop-777942a11154?source=rss------hadoop-5)
 - [Unlocking the Potential of Data Engineering: Best Practices for Scalable and Efficient Data…](https://medium.com/@rahulholla1/unlocking-the-potential-of-data-engineering-best-practices-for-scalable-and-efficient-data-6cca9d84a097?source=rss------hadoop-5)
 - [Big Data ve Hadoop Ekosistemi](https://medium.com/@glshlc97/big-data-ve-hadoop-ekosistemi-f8dab450d7b0?source=rss------hadoop-5)
 - [Hive Interview Based Key Points](https://medium.com/@tanushakona/hive-interview-based-key-points-d2a13f78db4e?source=rss------hadoop-5)
-- [Data Science Essentials: Exploring Tools and Technologies for Success](https://medium.com/@diptidomadiya13/data-science-essentials-exploring-tools-and-technologies-for-success-6dfcf04476c0?source=rss------hadoop-5)
-- [Big Data](https://medium.com/@CristiAndre/big-data-8204f6acf734?source=rss------hadoop-5)
-- [Laboratorios prácticos BigData](https://medium.com/@CristiAndre/laboratorios-pr%C3%A1cticos-bigdata-9d0b2926c7f3?source=rss------hadoop-5)
-- [A Comprehensive Guide to Building DolphinScheduler 3.2.0 Production-Grade Cluster](https://medium.com/@ApacheDolphinScheduler/a-comprehensive-guide-to-building-dolphinscheduler-3-2-0-production-grade-cluster-19ac49717274?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
