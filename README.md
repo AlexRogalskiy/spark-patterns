@@ -299,6 +299,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Understanding HDFS: A Deep Dive into Hadoop Distributed File System](https://medium.com/@kushalshr/understanding-hdfs-a-deep-dive-into-hadoop-distributed-file-system-4e9abb8040d3?source=rss------hadoop-5)
 - [Revamping the Spark ecosystem at Quora](https://medium.com/@akkidx/revamping-the-spark-ecosystem-at-quora-8ee0cb7c4463?source=rss------hadoop-5)
 - [Java’s Role in Big Data: Harnessing Power
 for Insights](https://medium.com/@k.shubh4m/javas-role-in-big-data-harnessing-power-for-insights-aca2424ca118?source=rss------hadoop-5)
@@ -309,7 +310,6 @@ for Insights](https://medium.com/@k.shubh4m/javas-role-in-big-data-harnessing-po
 - [Hadoop](https://towardsdev.com/hadoop-777942a11154?source=rss------hadoop-5)
 - [Unlocking the Potential of Data Engineering: Best Practices for Scalable and Efficient Data…](https://medium.com/@rahulholla1/unlocking-the-potential-of-data-engineering-best-practices-for-scalable-and-efficient-data-6cca9d84a097?source=rss------hadoop-5)
 - [Big Data ve Hadoop Ekosistemi](https://medium.com/@glshlc97/big-data-ve-hadoop-ekosistemi-f8dab450d7b0?source=rss------hadoop-5)
-- [Hive Interview Based Key Points](https://medium.com/@tanushakona/hive-interview-based-key-points-d2a13f78db4e?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
