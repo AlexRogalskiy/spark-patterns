@@ -299,6 +299,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Unit-2 Hadoop framework](https://anver8891.medium.com/unit-2-hadoop-framework-573cf112a279?source=rss------hadoop-5)
+- [Jensen Huang: On-Perm is cool again](https://yuanchentech.medium.com/jensen-huang-on-perm-is-cool-again-aa0a1d2d3e6d?source=rss------hadoop-5)
 - [Hadoop — Distributed File System&lpar;HDFS&rpar;](https://medium.com/@heyshoukath/hadoop-distributed-file-system-hdfs-53225a5b860b?source=rss------hadoop-5)
 - [Understanding HDFS: A Deep Dive into Hadoop Distributed File System](https://medium.com/@kushalshr/understanding-hdfs-a-deep-dive-into-hadoop-distributed-file-system-4e9abb8040d3?source=rss------hadoop-5)
 - [Revamping the Spark ecosystem at Quora](https://medium.com/@akkidx/revamping-the-spark-ecosystem-at-quora-8ee0cb7c4463?source=rss------hadoop-5)
@@ -308,8 +310,6 @@ for Insights](https://medium.com/@k.shubh4m/javas-role-in-big-data-harnessing-po
 - [Why HDFS Block Size is So Large Compared to Local File Systems](https://medium.com/@deepakda1972/why-hdfs-block-size-is-so-large-compared-to-local-file-systems-06ac51cd8bc1?source=rss------hadoop-5)
 - [Hadoop](https://medium.com/@apdo60311/hadoop-5d67090fe534?source=rss------hadoop-5)
 - [Instalação e configuração do Pyspark no Windows para conexão no Azure Datalake](https://medium.com/@bruno.facco/instala%C3%A7%C3%A3o-e-configura%C3%A7%C3%A3o-do-pyspark-no-windows-para-conex%C3%A3o-no-azure-datalake-f166351da69e?source=rss------hadoop-5)
-- [Hadoop](https://towardsdev.com/hadoop-777942a11154?source=rss------hadoop-5)
-- [Unlocking the Potential of Data Engineering: Best Practices for Scalable and Efficient Data…](https://medium.com/@rahulholla1/unlocking-the-potential-of-data-engineering-best-practices-for-scalable-and-efficient-data-6cca9d84a097?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
