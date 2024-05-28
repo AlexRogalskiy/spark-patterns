@@ -299,6 +299,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Why We Can’t Directly Compare Hadoop with Apache Spark?](https://medium.com/@ekeskin12/why-we-cant-directly-compare-hadoop-with-apache-spark-3d970b7c80f7?source=rss------hadoop-5)
 - [Unit-2 Hadoop framework](https://anver8891.medium.com/unit-2-hadoop-framework-573cf112a279?source=rss------hadoop-5)
 - [Jensen Huang: On-Perm is cool again](https://yuanchentech.medium.com/jensen-huang-on-perm-is-cool-again-aa0a1d2d3e6d?source=rss------hadoop-5)
 - [Hadoop — Distributed File System&lpar;HDFS&rpar;](https://medium.com/@heyshoukath/hadoop-distributed-file-system-hdfs-53225a5b860b?source=rss------hadoop-5)
@@ -309,7 +310,6 @@ for Insights](https://medium.com/@k.shubh4m/javas-role-in-big-data-harnessing-po
 - [Моментальные снимки распределенной файловой системы Apache Hadoop: тонкости снапшотов HDFS](https://medium.com/@bigdataschool/%D0%BC%D0%BE%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D1%81%D0%BD%D0%B8%D0%BC%D0%BA%D0%B8-%D1%80%D0%B0%D1%81%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9-%D1%84%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%BE%D0%B9-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B-apache-hadoop-%D1%82%D0%BE%D0%BD%D0%BA%D0%BE%D1%81%D1%82%D0%B8-%D1%81%D0%BD%D0%B0%D0%BF%D1%88%D0%BE%D1%82%D0%BE%D0%B2-hdfs-2f3fa134f03a?source=rss------hadoop-5)
 - [Why HDFS Block Size is So Large Compared to Local File Systems](https://medium.com/@deepakda1972/why-hdfs-block-size-is-so-large-compared-to-local-file-systems-06ac51cd8bc1?source=rss------hadoop-5)
 - [Hadoop](https://medium.com/@apdo60311/hadoop-5d67090fe534?source=rss------hadoop-5)
-- [Instalação e configuração do Pyspark no Windows para conexão no Azure Datalake](https://medium.com/@bruno.facco/instala%C3%A7%C3%A3o-e-configura%C3%A7%C3%A3o-do-pyspark-no-windows-para-conex%C3%A3o-no-azure-datalake-f166351da69e?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
