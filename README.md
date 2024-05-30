@@ -299,17 +299,17 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Guide Complet pour Débuter avec PySpark et Hadoop sur Windows](https://medium.com/@rebaimaha/guide-complet-pour-d%C3%A9buter-avec-pyspark-et-hadoop-sur-windows-1d17635dbcee?source=rss------hadoop-5)
+- [Guide Complet pour Débuter avec PySpark et Hadoop sur Windows](https://medium.com/@rebaimaha/guide-complet-pour-d%C3%A9buter-avec-pyspark-et-hadoop-sur-windows-e2f1d95d32d4?source=rss------hadoop-5)
 - [Why We Can’t Directly Compare Hadoop with Apache Spark?](https://medium.com/@ekeskin12/why-we-cant-directly-compare-hadoop-with-apache-spark-3d970b7c80f7?source=rss------hadoop-5)
 - [Unit-2 Hadoop framework](https://anver8891.medium.com/unit-2-hadoop-framework-573cf112a279?source=rss------hadoop-5)
 - [Jensen Huang: On-Perm is cool again](https://yuanchentech.medium.com/jensen-huang-on-perm-is-cool-again-aa0a1d2d3e6d?source=rss------hadoop-5)
 - [Hadoop — Distributed File System&lpar;HDFS&rpar;](https://medium.com/@heyshoukath/hadoop-distributed-file-system-hdfs-53225a5b860b?source=rss------hadoop-5)
 - [Understanding HDFS: A Deep Dive into Hadoop Distributed File System](https://medium.com/@kushalshr/understanding-hdfs-a-deep-dive-into-hadoop-distributed-file-system-4e9abb8040d3?source=rss------hadoop-5)
-- [Revamping the Spark ecosystem at Quora](https://medium.com/@akkidx/revamping-the-spark-ecosystem-at-quora-8ee0cb7c4463?source=rss------hadoop-5)
+- [Revamping the Spark ecosystem at Quora](https://medium.com/analytics-vidhya/revamping-the-spark-ecosystem-at-quora-8ee0cb7c4463?source=rss------hadoop-5)
 - [Java’s Role in Big Data: Harnessing Power
 for Insights](https://medium.com/@k.shubh4m/javas-role-in-big-data-harnessing-power-for-insights-aca2424ca118?source=rss------hadoop-5)
 - [Моментальные снимки распределенной файловой системы Apache Hadoop: тонкости снапшотов HDFS](https://medium.com/@bigdataschool/%D0%BC%D0%BE%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D1%81%D0%BD%D0%B8%D0%BC%D0%BA%D0%B8-%D1%80%D0%B0%D1%81%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9-%D1%84%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%BE%D0%B9-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B-apache-hadoop-%D1%82%D0%BE%D0%BD%D0%BA%D0%BE%D1%81%D1%82%D0%B8-%D1%81%D0%BD%D0%B0%D0%BF%D1%88%D0%BE%D1%82%D0%BE%D0%B2-hdfs-2f3fa134f03a?source=rss------hadoop-5)
-- [Why HDFS Block Size is So Large Compared to Local File Systems](https://medium.com/@deepakda1972/why-hdfs-block-size-is-so-large-compared-to-local-file-systems-06ac51cd8bc1?source=rss------hadoop-5)
-- [Hadoop](https://medium.com/@apdo60311/hadoop-5d67090fe534?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
