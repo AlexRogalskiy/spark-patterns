@@ -322,6 +322,7 @@ for Insights](https://medium.com/@k.shubh4m/javas-role-in-big-data-harnessing-po
 ### *Hadoop in real world posts*
 
 <!-- HADOOPINREALWORLD-POST-LIST:START -->
+- [Sunset: Hadoop Developer In Real World cluster](https://www.bigdatainrealworld.com/sunset-hadoop-developer-in-real-world-cluster/)
 - [How to kill a running Spark application?](https://www.bigdatainrealworld.com/how-to-kill-a-running-spark-application/)
 - [How does a consumer know the offset to read after restart in Kafka?](https://www.bigdatainrealworld.com/how-does-a-consumer-know-the-offset-to-read-after-restart-in-kafka/)
 - [What is the default number of executors in Spark?](https://www.bigdatainrealworld.com/what-is-the-default-number-of-executors-in-spark/)
@@ -331,7 +332,6 @@ for Insights](https://medium.com/@k.shubh4m/javas-role-in-big-data-harnessing-po
 - [Exploring the Power of Apache Spark 3.0: Adaptive Query Execution and More](https://www.bigdatainrealworld.com/exploring-the-power-of-apache-spark-3-0-adaptive-query-execution-and-more/)
 - [What is the difference between spark.sql.shuffle.partitions and spark.default.parallelism in Spark?](https://www.bigdatainrealworld.com/what-is-the-difference-between-spark-sql-shuffle-partitions-and-spark-default-parallelism-in-spark/)
 - [What is the difference between client and cluster deploy modes in Spark?](https://www.bigdatainrealworld.com/what-is-the-difference-between-client-and-cluster-deploy-modes-in-spark/)
-- [Stream Processing vs. Message Processing: What’s the Difference?](https://www.bigdatainrealworld.com/stream-processing-vs-message-processing-whats-the-difference/)
 <!-- HADOOPINREALWORLD-POST-LIST:END -->
 
 ### *Kognitio posts*
