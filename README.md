@@ -299,6 +299,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Simplifying Bidirectional Flight Records](https://towardsdev.com/simplifying-bidirectional-flight-records-8302d3389065?source=rss------hadoop-5)
+- [Multi Node Hadoop Installation on Ubuntu with Huawei Cloud ECS](https://medium.com/huawei-developers/multi-node-hadoop-installation-on-ubuntu-with-huawei-cloud-ecs-2a11d22fe6ba?source=rss------hadoop-5)
 - [Guide Complet pour Débuter avec PySpark et Hadoop sur Windows](https://medium.com/@rebaimaha/guide-complet-pour-d%C3%A9buter-avec-pyspark-et-hadoop-sur-windows-1d17635dbcee?source=rss------hadoop-5)
 - [Guide Complet pour Débuter avec PySpark et Hadoop sur Windows](https://medium.com/@rebaimaha/guide-complet-pour-d%C3%A9buter-avec-pyspark-et-hadoop-sur-windows-e2f1d95d32d4?source=rss------hadoop-5)
 - [Why We Can’t Directly Compare Hadoop with Apache Spark?](https://medium.com/@ekeskin12/why-we-cant-directly-compare-hadoop-with-apache-spark-3d970b7c80f7?source=rss------hadoop-5)
@@ -307,9 +309,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Hadoop — Distributed File System&lpar;HDFS&rpar;](https://medium.com/@heyshoukath/hadoop-distributed-file-system-hdfs-53225a5b860b?source=rss------hadoop-5)
 - [Understanding HDFS: A Deep Dive into Hadoop Distributed File System](https://medium.com/@kushalshr/understanding-hdfs-a-deep-dive-into-hadoop-distributed-file-system-4e9abb8040d3?source=rss------hadoop-5)
 - [Revamping the Spark ecosystem at Quora](https://medium.com/analytics-vidhya/revamping-the-spark-ecosystem-at-quora-8ee0cb7c4463?source=rss------hadoop-5)
-- [Java’s Role in Big Data: Harnessing Power
-for Insights](https://medium.com/@k.shubh4m/javas-role-in-big-data-harnessing-power-for-insights-aca2424ca118?source=rss------hadoop-5)
-- [Моментальные снимки распределенной файловой системы Apache Hadoop: тонкости снапшотов HDFS](https://medium.com/@bigdataschool/%D0%BC%D0%BE%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D1%81%D0%BD%D0%B8%D0%BC%D0%BA%D0%B8-%D1%80%D0%B0%D1%81%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9-%D1%84%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%BE%D0%B9-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B-apache-hadoop-%D1%82%D0%BE%D0%BD%D0%BA%D0%BE%D1%81%D1%82%D0%B8-%D1%81%D0%BD%D0%B0%D0%BF%D1%88%D0%BE%D1%82%D0%BE%D0%B2-hdfs-2f3fa134f03a?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
