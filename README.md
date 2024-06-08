@@ -299,8 +299,9 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Introduction to Bigdata and Hadoop Ecosystem](https://medium.com/@arpitamishra11596/introduction-to-bigdata-and-hadoop-ecosystem-1929e59924cf?source=rss------hadoop-5)
 - [Simplifying Bidirectional Flight Records](https://towardsdev.com/simplifying-bidirectional-flight-records-8302d3389065?source=rss------hadoop-5)
-- [Multi Node Hadoop Installation on Ubuntu with Huawei Cloud ECS](https://medium.com/huawei-developers/multi-node-hadoop-installation-on-ubuntu-with-huawei-cloud-ecs-2a11d22fe6ba?source=rss------hadoop-5)
+- [☁️Multi Node Hadoop Installation on Ubuntu with Huawei Cloud ECS](https://medium.com/huawei-developers/multi-node-hadoop-installation-on-ubuntu-with-huawei-cloud-ecs-2a11d22fe6ba?source=rss------hadoop-5)
 - [Guide Complet pour Débuter avec PySpark et Hadoop sur Windows](https://medium.com/@rebaimaha/guide-complet-pour-d%C3%A9buter-avec-pyspark-et-hadoop-sur-windows-1d17635dbcee?source=rss------hadoop-5)
 - [Guide Complet pour Débuter avec PySpark et Hadoop sur Windows](https://medium.com/@rebaimaha/guide-complet-pour-d%C3%A9buter-avec-pyspark-et-hadoop-sur-windows-e2f1d95d32d4?source=rss------hadoop-5)
 - [Why We Can’t Directly Compare Hadoop with Apache Spark?](https://medium.com/@ekeskin12/why-we-cant-directly-compare-hadoop-with-apache-spark-3d970b7c80f7?source=rss------hadoop-5)
@@ -308,7 +309,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Jensen Huang: On-Perm is cool again](https://yuanchentech.medium.com/jensen-huang-on-perm-is-cool-again-aa0a1d2d3e6d?source=rss------hadoop-5)
 - [Hadoop — Distributed File System&lpar;HDFS&rpar;](https://medium.com/@heyshoukath/hadoop-distributed-file-system-hdfs-53225a5b860b?source=rss------hadoop-5)
 - [Understanding HDFS: A Deep Dive into Hadoop Distributed File System](https://medium.com/@kushalshr/understanding-hdfs-a-deep-dive-into-hadoop-distributed-file-system-4e9abb8040d3?source=rss------hadoop-5)
-- [Revamping the Spark ecosystem at Quora](https://medium.com/analytics-vidhya/revamping-the-spark-ecosystem-at-quora-8ee0cb7c4463?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
