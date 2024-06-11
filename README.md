@@ -299,6 +299,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Understanding HDFS: The Backbone of Hadoop’s Data Storage](https://medium.com/@arpitamishra11596/understanding-hdfs-the-backbone-of-hadoops-data-storage-7b53938e8446?source=rss------hadoop-5)
+- [Dealing with Small Files in Hadoop](https://medium.com/@lalitha.cs.16_5385/dealing-with-small-files-in-hadoop-3b3979bcf2f2?source=rss------hadoop-5)
 - [Introduction to Bigdata and Hadoop Ecosystem](https://medium.com/@arpitamishra11596/introduction-to-bigdata-and-hadoop-ecosystem-1929e59924cf?source=rss------hadoop-5)
 - [Simplifying Bidirectional Flight Records](https://towardsdev.com/simplifying-bidirectional-flight-records-8302d3389065?source=rss------hadoop-5)
 - [☁️Multi Node Hadoop Installation on Ubuntu with Huawei Cloud ECS](https://medium.com/huawei-developers/multi-node-hadoop-installation-on-ubuntu-with-huawei-cloud-ecs-2a11d22fe6ba?source=rss------hadoop-5)
@@ -307,8 +309,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Why We Can’t Directly Compare Hadoop with Apache Spark?](https://medium.com/@ekeskin12/why-we-cant-directly-compare-hadoop-with-apache-spark-3d970b7c80f7?source=rss------hadoop-5)
 - [Unit-2 Hadoop framework](https://anver8891.medium.com/unit-2-hadoop-framework-573cf112a279?source=rss------hadoop-5)
 - [Jensen Huang: On-Perm is cool again](https://yuanchentech.medium.com/jensen-huang-on-perm-is-cool-again-aa0a1d2d3e6d?source=rss------hadoop-5)
-- [Hadoop — Distributed File System&lpar;HDFS&rpar;](https://medium.com/@heyshoukath/hadoop-distributed-file-system-hdfs-53225a5b860b?source=rss------hadoop-5)
-- [Understanding HDFS: A Deep Dive into Hadoop Distributed File System](https://medium.com/@kushalshr/understanding-hdfs-a-deep-dive-into-hadoop-distributed-file-system-4e9abb8040d3?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
