@@ -299,6 +299,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Hadoop Date Mastery for Astronomers](https://labexio.medium.com/hadoop-date-mastery-for-astronomers-dec7700b4e44?source=rss------hadoop-5)
 - [Hadoop y Spark. La lucha por el dominio del Big Data](https://medium.com/@albeney90/hadoop-y-spark-la-lucha-por-el-dominio-del-big-data-307c9733d595?source=rss------hadoop-5)
 - [Managing Big Data with the Hadoop Ecosystem: An In-Depth Guide](https://medium.com/@rahulholla1/managing-big-data-with-the-hadoop-ecosystem-an-in-depth-guide-08174d925b8b?source=rss------hadoop-5)
 - [Mastering Hadoop With These 10 Key Commands](https://medium.com/@-TutortAcademy/mastering-hadoop-with-these-10-key-commands-84541a44ff36?source=rss------hadoop-5)
@@ -308,7 +309,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Introduction to Bigdata and Hadoop Ecosystem](https://medium.com/@arpitamishra11596/introduction-to-bigdata-and-hadoop-ecosystem-1929e59924cf?source=rss------hadoop-5)
 - [Simplifying Bidirectional Flight Records](https://towardsdev.com/simplifying-bidirectional-flight-records-8302d3389065?source=rss------hadoop-5)
 - [☁️Multi Node Hadoop Installation on Ubuntu with Huawei Cloud ECS](https://medium.com/huawei-developers/multi-node-hadoop-installation-on-ubuntu-with-huawei-cloud-ecs-2a11d22fe6ba?source=rss------hadoop-5)
-- [Guide Complet pour Débuter avec PySpark et Hadoop sur Windows](https://medium.com/@rebaimaha/guide-complet-pour-d%C3%A9buter-avec-pyspark-et-hadoop-sur-windows-1d17635dbcee?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
