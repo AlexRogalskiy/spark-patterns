@@ -299,6 +299,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Big DATA in Data Science](https://medium.com/@ChanakaDev/big-data-in-data-science-8c132232ef6b?source=rss------hadoop-5)
 - [A Comparison of Hadoop and Spark &lpar;Part 2&rpar; — The Battle of Big Data…](https://yash7.medium.com/a-comparison-of-hadoop-and-spark-unraveling-the-differences-part-2-the-battle-of-big-data-e6ea723a0b65?source=rss------hadoop-5)
 - [Clúster con MapReduce](https://medium.com/@paulaxvalbuena/cl%C3%BAster-con-mapreduce-a85f95b6e4ff?source=rss------hadoop-5)
 - [Spar Nord Bank ETL Transformation Case Study](https://python.plainenglish.io/spar-nord-bank-etl-transformation-case-study-a7a1a427aec6?source=rss------hadoop-5)
@@ -308,7 +309,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Mastering Hadoop With These 10 Key Commands](https://medium.com/@-TutortAcademy/mastering-hadoop-with-these-10-key-commands-84541a44ff36?source=rss------hadoop-5)
 - [The DistCP Challenge](https://medium.com/@vanithaag/the-distcp-challenge-1d7476c23049?source=rss------hadoop-5)
 - [Understanding HDFS: The Backbone of Hadoop’s Data Storage](https://medium.com/@arpitamishra11596/understanding-hdfs-the-backbone-of-hadoops-data-storage-7b53938e8446?source=rss------hadoop-5)
-- [Dealing with Small Files in Hadoop](https://medium.com/@lalitha.cs.16_5385/dealing-with-small-files-in-hadoop-3b3979bcf2f2?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
