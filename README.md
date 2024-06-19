@@ -299,6 +299,9 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Hadoop FS Shell mv](https://labexio.medium.com/hadoop-fs-shell-mv-9137b1e0c791?source=rss------hadoop-5)
+- [The Differences Between Big Data and Hadoop? | 2024](https://medium.com/@siva.visualpath/the-differences-between-big-data-and-hadoop-2024-8e41dd855f70?source=rss------hadoop-5)
+- [Access private EMR Hdoop/Spark UI locally through SSM](https://medium.com/@slimaine.bensadoun/access-private-emr-hdoop-spark-ui-locally-through-ssm-4a7d59ffe3d7?source=rss------hadoop-5)
 - [Big DATA in Data Science](https://medium.com/@ChanakaDev/big-data-in-data-science-8c132232ef6b?source=rss------hadoop-5)
 - [A Comparison of Hadoop and Spark &lpar;Part 2&rpar; — The Battle of Big Data…](https://yash7.medium.com/a-comparison-of-hadoop-and-spark-unraveling-the-differences-part-2-the-battle-of-big-data-e6ea723a0b65?source=rss------hadoop-5)
 - [Clúster con MapReduce](https://medium.com/@paulaxvalbuena/cl%C3%BAster-con-mapreduce-a85f95b6e4ff?source=rss------hadoop-5)
@@ -306,9 +309,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Hadoop Date Mastery for Astronomers](https://labexio.medium.com/hadoop-date-mastery-for-astronomers-dec7700b4e44?source=rss------hadoop-5)
 - [Hadoop y Spark. La lucha por el dominio del Big Data](https://medium.com/@albeney90/hadoop-y-spark-la-lucha-por-el-dominio-del-big-data-307c9733d595?source=rss------hadoop-5)
 - [Managing Big Data with the Hadoop Ecosystem: An In-Depth Guide](https://medium.com/@rahulholla1/managing-big-data-with-the-hadoop-ecosystem-an-in-depth-guide-08174d925b8b?source=rss------hadoop-5)
-- [Mastering Hadoop With These 10 Key Commands](https://medium.com/@-TutortAcademy/mastering-hadoop-with-these-10-key-commands-84541a44ff36?source=rss------hadoop-5)
-- [The DistCP Challenge](https://medium.com/@vanithaag/the-distcp-challenge-1d7476c23049?source=rss------hadoop-5)
-- [Understanding HDFS: The Backbone of Hadoop’s Data Storage](https://medium.com/@arpitamishra11596/understanding-hdfs-the-backbone-of-hadoops-data-storage-7b53938e8446?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
