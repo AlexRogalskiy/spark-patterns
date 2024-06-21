@@ -299,6 +299,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [How to Connect Hortonworks Data Platform &lpar;HDP&rpar; through Zeppelin Notebook Directly to Power BI](https://medium.com/@mdmuaz3010/how-to-connect-hortonworks-data-platform-hdp-through-zeppelin-notebook-directly-to-power-bi-57dce520d926?source=rss------hadoop-5)
 - [Hadoop FS Shell mv](https://labexio.medium.com/hadoop-fs-shell-mv-9137b1e0c791?source=rss------hadoop-5)
 - [The Differences Between Big Data and Hadoop? | 2024](https://medium.com/@siva.visualpath/the-differences-between-big-data-and-hadoop-2024-8e41dd855f70?source=rss------hadoop-5)
 - [Access private EMR Hdoop/Spark UI locally through SSM](https://medium.com/@slimaine.bensadoun/access-private-emr-hdoop-spark-ui-locally-through-ssm-4a7d59ffe3d7?source=rss------hadoop-5)
@@ -308,7 +309,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Spar Nord Bank ETL Transformation Case Study](https://python.plainenglish.io/spar-nord-bank-etl-transformation-case-study-a7a1a427aec6?source=rss------hadoop-5)
 - [Hadoop Date Mastery for Astronomers](https://labexio.medium.com/hadoop-date-mastery-for-astronomers-dec7700b4e44?source=rss------hadoop-5)
 - [Hadoop y Spark. La lucha por el dominio del Big Data](https://medium.com/@albeney90/hadoop-y-spark-la-lucha-por-el-dominio-del-big-data-307c9733d595?source=rss------hadoop-5)
-- [Managing Big Data with the Hadoop Ecosystem: An In-Depth Guide](https://medium.com/@rahulholla1/managing-big-data-with-the-hadoop-ecosystem-an-in-depth-guide-08174d925b8b?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
