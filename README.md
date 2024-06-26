@@ -299,6 +299,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Big Data — Technologies, Challenges and Future Scope: Article review](https://medium.com/@abnios.se/big-data-technologies-challenges-and-future-scope-article-review-fbf0256ef718?source=rss------hadoop-5)
 - [From Basics to Advanced: Navigating Apache Hive for Big Data Professionals](https://medium.com/@arpitamishra11596/from-basics-to-advanced-navigating-apache-hive-for-big-data-professionals-92f2f67fa3f7?source=rss------hadoop-5)
 - [How to Connect Hortonworks Data Platform &lpar;HDP&rpar; through Zeppelin Notebook Directly to Power BI](https://medium.com/@mdmuaz3010/how-to-connect-hortonworks-data-platform-hdp-through-zeppelin-notebook-directly-to-power-bi-57dce520d926?source=rss------hadoop-5)
 - [Hadoop FS Shell mv](https://labexio.medium.com/hadoop-fs-shell-mv-9137b1e0c791?source=rss------hadoop-5)
@@ -308,7 +309,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [A Comparison of Hadoop and Spark &lpar;Part 2&rpar; — The Battle of Big Data…](https://yash7.medium.com/a-comparison-of-hadoop-and-spark-unraveling-the-differences-part-2-the-battle-of-big-data-e6ea723a0b65?source=rss------hadoop-5)
 - [Clúster con MapReduce](https://medium.com/@paulaxvalbuena/cl%C3%BAster-con-mapreduce-a85f95b6e4ff?source=rss------hadoop-5)
 - [Spar Nord Bank ETL Transformation Case Study](https://python.plainenglish.io/spar-nord-bank-etl-transformation-case-study-a7a1a427aec6?source=rss------hadoop-5)
-- [Hadoop Date Mastery for Astronomers](https://labexio.medium.com/hadoop-date-mastery-for-astronomers-dec7700b4e44?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
