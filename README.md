@@ -297,6 +297,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Hadoop “To Be or not to Be”: the necessity of migrating to other solutions to avoid future business…](https://medium.com/@sofixit/hadoop-to-be-or-not-to-be-the-necessity-of-migrating-to-other-solutions-to-avoid-future-business-388f38620f0f?source=rss------hadoop-5)
 - [Hello All!](https://medium.com/@syat5432/hello-all-b67ffd725b07?source=rss------hadoop-5)
 - [Hadoop FS Shell Expunge: Optimizing HDFS Storage with Ease](https://labexio.medium.com/hadoop-fs-shell-expunge-optimizing-hdfs-storage-with-ease-c824a2619cde?source=rss------hadoop-5)
 - [Big Data — Technologies, Challenges and Future Scope: Article review](https://medium.com/@abnios.se/big-data-technologies-challenges-and-future-scope-article-review-fbf0256ef718?source=rss------hadoop-5)
@@ -306,7 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [The Differences Between Big Data and Hadoop? | 2024](https://medium.com/@siva.visualpath/the-differences-between-big-data-and-hadoop-2024-8e41dd855f70?source=rss------hadoop-5)
 - [Access private EMR Hdoop/Spark UI locally through SSM](https://medium.com/@slimaine.bensadoun/access-private-emr-hdoop-spark-ui-locally-through-ssm-4a7d59ffe3d7?source=rss------hadoop-5)
 - [Big DATA in Data Science](https://medium.com/@ChanakaDev/big-data-in-data-science-8c132232ef6b?source=rss------hadoop-5)
-- [A Comparison of Hadoop and Spark &lpar;Part 2&rpar; — The Battle of Big Data…](https://yash7.medium.com/a-comparison-of-hadoop-and-spark-unraveling-the-differences-part-2-the-battle-of-big-data-e6ea723a0b65?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
