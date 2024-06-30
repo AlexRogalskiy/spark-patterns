@@ -297,6 +297,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Apache Spark Online Training in India, US, Canada, UK —  https://viswaonlinetrainings.com/](https://viswatrainings.medium.com/apache-spark-online-training-in-india-us-canada-uk-https-viswaonlinetrainings-com-f547236fa746?source=rss------hadoop-5)
+- [Apache Spark : The Basics…](https://medium.com/@vinciabhinav7/apache-spark-the-basics-c109515d114d?source=rss------hadoop-5)
 - [Hadoop “To Be or not to Be”: the necessity of migrating to other solutions to avoid future business…](https://medium.com/@sofixit/hadoop-to-be-or-not-to-be-the-necessity-of-migrating-to-other-solutions-to-avoid-future-business-388f38620f0f?source=rss------hadoop-5)
 - [Hello All!](https://medium.com/@syat5432/hello-all-b67ffd725b07?source=rss------hadoop-5)
 - [Hadoop FS Shell Expunge: Optimizing HDFS Storage with Ease](https://labexio.medium.com/hadoop-fs-shell-expunge-optimizing-hdfs-storage-with-ease-c824a2619cde?source=rss------hadoop-5)
@@ -305,8 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [How to Connect Hortonworks Data Platform &lpar;HDP&rpar; through Zeppelin Notebook Directly to Power BI](https://medium.com/@mdmuaz3010/how-to-connect-hortonworks-data-platform-hdp-through-zeppelin-notebook-directly-to-power-bi-57dce520d926?source=rss------hadoop-5)
 - [Hadoop FS Shell mv](https://labexio.medium.com/hadoop-fs-shell-mv-9137b1e0c791?source=rss------hadoop-5)
 - [The Differences Between Big Data and Hadoop? | 2024](https://medium.com/@siva.visualpath/the-differences-between-big-data-and-hadoop-2024-8e41dd855f70?source=rss------hadoop-5)
-- [Access private EMR Hdoop/Spark UI locally through SSM](https://medium.com/@slimaine.bensadoun/access-private-emr-hdoop-spark-ui-locally-through-ssm-4a7d59ffe3d7?source=rss------hadoop-5)
-- [Big DATA in Data Science](https://medium.com/@ChanakaDev/big-data-in-data-science-8c132232ef6b?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
