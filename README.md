@@ -297,6 +297,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Introduction To Big Data](https://medium.com/@Kishore-B/introduction-to-big-data-d7eacb55fcfb?source=rss------hadoop-5)
 - [Data Engineering Foundations LiveLessons Part 1: Using Spark, Hive, and Hadoop Scalable Tools](https://internetdigitalentrepreneur.medium.com/data-engineering-foundations-livelessons-part-1-using-spark-hive-and-hadoop-scalable-tools-6cad650f6576?source=rss------hadoop-5)
 - [Setup Data Engineer Local Services: Spark](https://medium.com/edts/setup-data-engineer-local-services-spark-4a587b5d8b7d?source=rss------hadoop-5)
 - [Apache Spark Online Training in India, US, Canada, UK —  https://viswaonlinetrainings.com/](https://viswatrainings.medium.com/apache-spark-online-training-in-india-us-canada-uk-https-viswaonlinetrainings-com-f547236fa746?source=rss------hadoop-5)
@@ -306,7 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Hadoop FS Shell Expunge: Optimizing HDFS Storage with Ease](https://labexio.medium.com/hadoop-fs-shell-expunge-optimizing-hdfs-storage-with-ease-c824a2619cde?source=rss------hadoop-5)
 - [Big Data — Technologies, Challenges and Future Scope: Article review](https://medium.com/@abnios.se/big-data-technologies-challenges-and-future-scope-article-review-fbf0256ef718?source=rss------hadoop-5)
 - [From Basics to Advanced: Navigating Apache Hive for Big Data Professionals](https://medium.com/@arpitamishra11596/from-basics-to-advanced-navigating-apache-hive-for-big-data-professionals-92f2f67fa3f7?source=rss------hadoop-5)
-- [How to Connect Hortonworks Data Platform &lpar;HDP&rpar; through Zeppelin Notebook Directly to Power BI](https://medium.com/@mdmuaz3010/how-to-connect-hortonworks-data-platform-hdp-through-zeppelin-notebook-directly-to-power-bi-57dce520d926?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
