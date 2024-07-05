@@ -297,6 +297,8 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Cross Account S3 Reads Using AWS Glue Spark](https://medium.com/@adineskumar/cross-account-s3-reads-using-aws-glue-spark-dc244a46899b?source=rss------hadoop-5)
+- [Classic Papers in the Field of Big Data](https://medium.com/@bucaoji/classic-papers-in-the-field-of-big-data-c77cef8fbbf2?source=rss------hadoop-5)
 - [Introduction To Big Data](https://medium.com/@Kishore-B/introduction-to-big-data-d7eacb55fcfb?source=rss------hadoop-5)
 - [Data Engineering Foundations LiveLessons Part 1: Using Spark, Hive, and Hadoop Scalable Tools](https://internetdigitalentrepreneur.medium.com/data-engineering-foundations-livelessons-part-1-using-spark-hive-and-hadoop-scalable-tools-6cad650f6576?source=rss------hadoop-5)
 - [Setup Data Engineer Local Services: Spark](https://medium.com/edts/setup-data-engineer-local-services-spark-4a587b5d8b7d?source=rss------hadoop-5)
@@ -305,8 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Hadoop “To Be or not to Be”: the necessity of migrating to other solutions to avoid future business…](https://medium.com/@sofixit/hadoop-to-be-or-not-to-be-the-necessity-of-migrating-to-other-solutions-to-avoid-future-business-388f38620f0f?source=rss------hadoop-5)
 - [Hello All!](https://medium.com/@syat5432/hello-all-b67ffd725b07?source=rss------hadoop-5)
 - [Hadoop FS Shell Expunge: Optimizing HDFS Storage with Ease](https://labexio.medium.com/hadoop-fs-shell-expunge-optimizing-hdfs-storage-with-ease-c824a2619cde?source=rss------hadoop-5)
-- [Big Data — Technologies, Challenges and Future Scope: Article review](https://medium.com/@abnios.se/big-data-technologies-challenges-and-future-scope-article-review-fbf0256ef718?source=rss------hadoop-5)
-- [From Basics to Advanced: Navigating Apache Hive for Big Data Professionals](https://medium.com/@arpitamishra11596/from-basics-to-advanced-navigating-apache-hive-for-big-data-professionals-92f2f67fa3f7?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
