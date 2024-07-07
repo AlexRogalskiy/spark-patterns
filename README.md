@@ -297,16 +297,16 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [Apache Hadoop Yarn: Scheduler and ApplicationsManager 筆記](https://medium.com/@james_uk_dataguy/apache-hadoop-yarn-scheduler-and-applicationsmanager-%E7%AD%86%E8%A8%98-b591bff5cfb9?source=rss------hadoop-5)
+- [Apache Hive : A primer](https://medium.com/@vinciabhinav7/apache-hive-a-primer-c732d44038d8?source=rss------hadoop-5)
+- [Data Engineering Series 6: Batch Processing with Apache Spark](https://medium.com/@goyalarchana17/data-engineering-series-6-batch-processing-with-apache-spark-e4350b5bd7c9?source=rss------hadoop-5)
+- [Mastering Ninja Resource Management](https://labexio.medium.com/mastering-ninja-resource-management-8d65d4c31cea?source=rss------hadoop-5)
 - [HADOOP INSTALLATION ON UBUNTU COMPLETE GUIDE](https://medium.com/@smohankumar018/hadoop-installation-on-ubuntu-complete-guide-f32f07934e35?source=rss------hadoop-5)
 - [Cross Account S3 Reads Using AWS Glue Spark](https://medium.com/@adineskumar/cross-account-s3-reads-using-aws-glue-spark-dc244a46899b?source=rss------hadoop-5)
 - [Classic Papers in the Field of Big Data](https://medium.com/@bucaoji/classic-papers-in-the-field-of-big-data-c77cef8fbbf2?source=rss------hadoop-5)
 - [Introduction To Big Data](https://medium.com/@Kishore-B/introduction-to-big-data-d7eacb55fcfb?source=rss------hadoop-5)
 - [Data Engineering Foundations LiveLessons Part 1: Using Spark, Hive, and Hadoop Scalable Tools](https://internetdigitalentrepreneur.medium.com/data-engineering-foundations-livelessons-part-1-using-spark-hive-and-hadoop-scalable-tools-6cad650f6576?source=rss------hadoop-5)
 - [Setup Data Engineer Local Services: Spark](https://medium.com/edts/setup-data-engineer-local-services-spark-4a587b5d8b7d?source=rss------hadoop-5)
-- [Apache Spark Online Training in India, US, Canada, UK —  https://viswaonlinetrainings.com/](https://viswatrainings.medium.com/apache-spark-online-training-in-india-us-canada-uk-https-viswaonlinetrainings-com-f547236fa746?source=rss------hadoop-5)
-- [Apache Spark : The Basics…](https://medium.com/@vinciabhinav7/apache-spark-the-basics-c109515d114d?source=rss------hadoop-5)
-- [Hadoop “To Be or not to Be”: the necessity of migrating to other solutions to avoid future business…](https://medium.com/@sofixit/hadoop-to-be-or-not-to-be-the-necessity-of-migrating-to-other-solutions-to-avoid-future-business-388f38620f0f?source=rss------hadoop-5)
-- [Hello All!](https://medium.com/@syat5432/hello-all-b67ffd725b07?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
