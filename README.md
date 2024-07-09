@@ -297,6 +297,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Hadoop posts*
 
 <!-- HADOOP-POST-LIST:START -->
+- [A Beginner’s Guide to Learning Hadoop](https://medium.com/@shivanikaale214/a-beginners-guide-to-learning-hadoop-d5f7f87d3203?source=rss------hadoop-5)
 - [Decoding HDFS: Essential Terms Every Data Engineer Should Know](https://medium.com/@amarkrgupta96/decoding-hdfs-essential-terms-every-data-engineer-should-know-e08cfd4b0040?source=rss------hadoop-5)
 - [Apache Hadoop Yarn: Scheduler and ApplicationsManager 筆記](https://medium.com/@james_uk_dataguy/apache-hadoop-yarn-scheduler-and-applicationsmanager-%E7%AD%86%E8%A8%98-b591bff5cfb9?source=rss------hadoop-5)
 - [Apache Hive : A primer](https://medium.com/@vinciabhinav7/apache-hive-a-primer-c732d44038d8?source=rss------hadoop-5)
@@ -306,7 +307,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Cross Account S3 Reads Using AWS Glue Spark](https://awstip.com/cross-account-s3-reads-using-aws-glue-spark-dc244a46899b?source=rss------hadoop-5)
 - [Classic Papers in the Field of Big Data](https://medium.com/@bucaoji/classic-papers-in-the-field-of-big-data-c77cef8fbbf2?source=rss------hadoop-5)
 - [Introduction To Big Data](https://medium.com/@Kishore-B/introduction-to-big-data-d7eacb55fcfb?source=rss------hadoop-5)
-- [Data Engineering Foundations LiveLessons Part 1: Using Spark, Hive, and Hadoop Scalable Tools](https://internetdigitalentrepreneur.medium.com/data-engineering-foundations-livelessons-part-1-using-spark-hive-and-hadoop-scalable-tools-6cad650f6576?source=rss------hadoop-5)
 <!-- HADOOP-POST-LIST:END -->
 
 ### *InfoWorld Hadoop posts*
