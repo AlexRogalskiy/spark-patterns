@@ -274,7 +274,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Just got off the Wait-list. Does anyone need me to use their Referral Code?](https://www.reddit.com/r/spark/comments/1ggfin3/just_got_off_the_waitlist_does_anyone_need_me_to/)
+- [How spark stores shuffle data](https://www.reddit.com/r/spark/comments/1gkmovm/how_spark_stores_shuffle_data/)
 - [Hey there I really need help with spark well m new to this so it would be nice if someone was down to help](https://www.reddit.com/r/spark/comments/1dfeij9/hey_there_i_really_need_help_with_spark_well_m/)
 - [GCC 14 release brings Ada/GNAT/SPARK improvements](https://www.reddit.com/r/spark/comments/1cm7o7t/gcc_14_release_brings_adagnatspark_improvements/)
 - [How to run Ada and SPARK code on NVIDIA GPUs and CUDA](https://www.reddit.com/r/spark/comments/1cj4jt7/how_to_run_ada_and_spark_code_on_nvidia_gpus_and/)
