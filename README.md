@@ -274,6 +274,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Formal Methods for an Insecure World](https://www.reddit.com/r/spark/comments/1kikum2/formal_methods_for_an_insecure_world/)
 - [Verifying LLM-Generated Code in the Context of Software Verification with Ada/SPARK](https://www.reddit.com/r/spark/comments/1ioe248/verifying_llmgenerated_code_in_the_context_of/)
 - [Need Help Optimizing MongoDB and PySpark for Large-Scale Document Processing &lpar;300M Documents&rpar;](https://www.reddit.com/r/spark/comments/1i6fuuy/need_help_optimizing_mongodb_and_pyspark_for/)
 - [Announcing Advent of Ada 2024: Coding for a Cause!](https://www.reddit.com/r/spark/comments/1h20y2b/announcing_advent_of_ada_2024_coding_for_a_cause/)
@@ -283,7 +284,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Co-Developing Programs and Their Proof of Correctness &lpar;AdaCore blog&rpar;](https://www.reddit.com/r/spark/comments/1b4mled/codeveloping_programs_and_their_proof_of/)
 - [CACM article about SPARK...](https://www.reddit.com/r/spark/comments/1aye8uc/cacm_article_about_spark/)
 - [[FTSCS23] Does Rust SPARK Joy? Safe Bindings from Rust to SPARK, Applied to the BBQueue Li...](https://www.reddit.com/r/spark/comments/1asfuyw/ftscs23_does_rust_spark_joy_safe_bindings_from/)
-- [Memory Safety with Formal Proof Webinar](https://www.reddit.com/r/spark/comments/1asfrzv/memory_safety_with_formal_proof_webinar/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld Spark posts*
