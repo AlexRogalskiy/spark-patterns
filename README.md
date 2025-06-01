@@ -274,16 +274,16 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [A Rust to Ada/SPARK converter](https://www.reddit.com/r/spark/comments/1l04eon/a_rust_to_adaspark_converter/)
+- [A New June Webinar About SPARK from AdaCore: Introduction to Formal Verification with SPARK](https://www.reddit.com/r/spark/comments/1kzr6qb/a_new_june_webinar_about_spark_from_adacore/)
+- [New 0.7.0 Release of Ironclad kernel](https://www.reddit.com/r/spark/comments/1kzr1vg/new_070_release_of_ironclad_kernel/)
+- [Best books for spark](https://www.reddit.com/r/spark/comments/1kz8ku6/best_books_for_spark/)
+- [Spark Loops](https://www.reddit.com/r/spark/comments/1kn7kdn/spark_loops/)
 - [Formal Methods for an Insecure World](https://www.reddit.com/r/spark/comments/1kikum2/formal_methods_for_an_insecure_world/)
 - [Verifying LLM-Generated Code in the Context of Software Verification with Ada/SPARK](https://www.reddit.com/r/spark/comments/1ioe248/verifying_llmgenerated_code_in_the_context_of/)
 - [Need Help Optimizing MongoDB and PySpark for Large-Scale Document Processing &lpar;300M Documents&rpar;](https://www.reddit.com/r/spark/comments/1i6fuuy/need_help_optimizing_mongodb_and_pyspark_for/)
 - [Announcing Advent of Ada 2024: Coding for a Cause!](https://www.reddit.com/r/spark/comments/1h20y2b/announcing_advent_of_ada_2024_coding_for_a_cause/)
 - [Hey there I really need help with spark well m new to this so it would be nice if someone was down to help](https://www.reddit.com/r/spark/comments/1dfeij9/hey_there_i_really_need_help_with_spark_well_m/)
-- [GCC 14 release brings Ada/GNAT/SPARK improvements](https://www.reddit.com/r/spark/comments/1cm7o7t/gcc_14_release_brings_adagnatspark_improvements/)
-- [How to run Ada and SPARK code on NVIDIA GPUs and CUDA](https://www.reddit.com/r/spark/comments/1cj4jt7/how_to_run_ada_and_spark_code_on_nvidia_gpus_and/)
-- [Co-Developing Programs and Their Proof of Correctness &lpar;AdaCore blog&rpar;](https://www.reddit.com/r/spark/comments/1b4mled/codeveloping_programs_and_their_proof_of/)
-- [CACM article about SPARK...](https://www.reddit.com/r/spark/comments/1aye8uc/cacm_article_about_spark/)
-- [[FTSCS23] Does Rust SPARK Joy? Safe Bindings from Rust to SPARK, Applied to the BBQueue Li...](https://www.reddit.com/r/spark/comments/1asfuyw/ftscs23_does_rust_spark_joy_safe_bindings_from/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld Spark posts*
