@@ -274,6 +274,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Ada and SPARK enter the automotive ISO-26262 market with NVIDIA.](https://www.reddit.com/r/spark/comments/1l3ac1t/ada_and_spark_enter_the_automotive_iso26262/)
 - [A Rust to Ada/SPARK converter](https://www.reddit.com/r/spark/comments/1l04eon/a_rust_to_adaspark_converter/)
 - [A New June Webinar About SPARK from AdaCore: Introduction to Formal Verification with SPARK](https://www.reddit.com/r/spark/comments/1kzr6qb/a_new_june_webinar_about_spark_from_adacore/)
 - [New 0.7.0 Release of Ironclad kernel](https://www.reddit.com/r/spark/comments/1kzr1vg/new_070_release_of_ironclad_kernel/)
@@ -283,7 +284,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Verifying LLM-Generated Code in the Context of Software Verification with Ada/SPARK](https://www.reddit.com/r/spark/comments/1ioe248/verifying_llmgenerated_code_in_the_context_of/)
 - [Need Help Optimizing MongoDB and PySpark for Large-Scale Document Processing &lpar;300M Documents&rpar;](https://www.reddit.com/r/spark/comments/1i6fuuy/need_help_optimizing_mongodb_and_pyspark_for/)
 - [Announcing Advent of Ada 2024: Coding for a Cause!](https://www.reddit.com/r/spark/comments/1h20y2b/announcing_advent_of_ada_2024_coding_for_a_cause/)
-- [Hey there I really need help with spark well m new to this so it would be nice if someone was down to help](https://www.reddit.com/r/spark/comments/1dfeij9/hey_there_i_really_need_help_with_spark_well_m/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld Spark posts*
