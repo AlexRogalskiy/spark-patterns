@@ -275,6 +275,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 
 <!-- REDDIT-POST-LIST:START -->
 - [Ada and SPARK enter the automotive ISO-26262 market with NVIDIA.](https://www.reddit.com/r/spark/comments/1l3ac1t/ada_and_spark_enter_the_automotive_iso26262/)
+- [Introduction to Formal Verification with SPARK Webinar - June 18th](https://www.reddit.com/r/spark/comments/1l32aly/introduction_to_formal_verification_with_spark/)
 - [A Rust to Ada/SPARK converter](https://www.reddit.com/r/spark/comments/1l04eon/a_rust_to_adaspark_converter/)
 - [A New June Webinar About SPARK from AdaCore: Introduction to Formal Verification with SPARK](https://www.reddit.com/r/spark/comments/1kzr6qb/a_new_june_webinar_about_spark_from_adacore/)
 - [New 0.7.0 Release of Ironclad kernel](https://www.reddit.com/r/spark/comments/1kzr1vg/new_070_release_of_ironclad_kernel/)
@@ -283,7 +284,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Formal Methods for an Insecure World](https://www.reddit.com/r/spark/comments/1kikum2/formal_methods_for_an_insecure_world/)
 - [Verifying LLM-Generated Code in the Context of Software Verification with Ada/SPARK](https://www.reddit.com/r/spark/comments/1ioe248/verifying_llmgenerated_code_in_the_context_of/)
 - [Need Help Optimizing MongoDB and PySpark for Large-Scale Document Processing &lpar;300M Documents&rpar;](https://www.reddit.com/r/spark/comments/1i6fuuy/need_help_optimizing_mongodb_and_pyspark_for/)
-- [Announcing Advent of Ada 2024: Coding for a Cause!](https://www.reddit.com/r/spark/comments/1h20y2b/announcing_advent_of_ada_2024_coding_for_a_cause/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld Spark posts*
