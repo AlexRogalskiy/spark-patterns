@@ -274,6 +274,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Article: NVIDIA drives Ada and SPARK into driverless cars - General](https://www.reddit.com/r/spark/comments/1l4lx9x/article_nvidia_drives_ada_and_spark_into/)
 - [Ada and SPARK enter the automotive ISO-26262 market with NVIDIA.](https://www.reddit.com/r/spark/comments/1l3ac1t/ada_and_spark_enter_the_automotive_iso26262/)
 - [Introduction to Formal Verification with SPARK Webinar - June 18th](https://www.reddit.com/r/spark/comments/1l32aly/introduction_to_formal_verification_with_spark/)
 - [A Rust to Ada/SPARK converter](https://www.reddit.com/r/spark/comments/1l04eon/a_rust_to_adaspark_converter/)
@@ -283,7 +284,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Spark Loops](https://www.reddit.com/r/spark/comments/1kn7kdn/spark_loops/)
 - [Formal Methods for an Insecure World](https://www.reddit.com/r/spark/comments/1kikum2/formal_methods_for_an_insecure_world/)
 - [Verifying LLM-Generated Code in the Context of Software Verification with Ada/SPARK](https://www.reddit.com/r/spark/comments/1ioe248/verifying_llmgenerated_code_in_the_context_of/)
-- [Need Help Optimizing MongoDB and PySpark for Large-Scale Document Processing &lpar;300M Documents&rpar;](https://www.reddit.com/r/spark/comments/1i6fuuy/need_help_optimizing_mongodb_and_pyspark_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld Spark posts*
