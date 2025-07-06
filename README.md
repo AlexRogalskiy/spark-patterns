@@ -274,7 +274,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Spark did good!](https://www.reddit.com/r/spark/comments/1lh8gwc/spark_did_good/)
+- [Another Great Article About NVIDIA’s Adoption of SPARK](https://www.reddit.com/r/spark/comments/1lscpdo/another_great_article_about_nvidias_adoption_of/)
 - [Article: NVIDIA drives Ada and SPARK into driverless cars - General](https://www.reddit.com/r/spark/comments/1l4lx9x/article_nvidia_drives_ada_and_spark_into/)
 - [Ada and SPARK enter the automotive ISO-26262 market with NVIDIA.](https://www.reddit.com/r/spark/comments/1l3ac1t/ada_and_spark_enter_the_automotive_iso26262/)
 - [Introduction to Formal Verification with SPARK Webinar - June 18th](https://www.reddit.com/r/spark/comments/1l32aly/introduction_to_formal_verification_with_spark/)
