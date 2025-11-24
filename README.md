@@ -274,6 +274,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [AEiC 2026 - Ada-Europe conference - 2nd Call for Contributions](https://www.reddit.com/r/spark/comments/1p4us68/aeic_2026_adaeurope_conference_2nd_call_for/)
 - [Minutes of Ada Monthly Meetup, 13th of September](https://www.reddit.com/r/spark/comments/1nltlsf/minutes_of_ada_monthly_meetup_13th_of_september/)
 - [Article: NVIDIA drives Ada and SPARK into driverless cars - General](https://www.reddit.com/r/spark/comments/1l4lx9x/article_nvidia_drives_ada_and_spark_into/)
 - [Ada and SPARK enter the automotive ISO-26262 market with NVIDIA.](https://www.reddit.com/r/spark/comments/1l3ac1t/ada_and_spark_enter_the_automotive_iso26262/)
@@ -283,7 +284,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [New 0.7.0 Release of Ironclad kernel](https://www.reddit.com/r/spark/comments/1kzr1vg/new_070_release_of_ironclad_kernel/)
 - [Best books for spark](https://www.reddit.com/r/spark/comments/1kz8ku6/best_books_for_spark/)
 - [Spark Loops](https://www.reddit.com/r/spark/comments/1kn7kdn/spark_loops/)
-- [Formal Methods for an Insecure World](https://www.reddit.com/r/spark/comments/1kikum2/formal_methods_for_an_insecure_world/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld Spark posts*
