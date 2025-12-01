@@ -36,7 +36,7 @@ newIssueWelcomeComment: >
   Thanks for opening your first issue here! 🎉<br>
   👉 Be sure to:<br>
   1. 📖 Have a look at the [Wiki](https://github.com/AlexRogalskiy/spark-patterns/wiki) and [README](https://github.com/AlexRogalskiy/spark-patterns/blob/master/README.md) for information<br>
-  2. 🔍 Search for similar [issues (open and closed)](https://github.com/AlexRogalskiy/java-patterns/issues?q=is%3Aissue+)<br>
+  2. 🔍 Search for similar [issues (open and closed)](https://github.com/AlexRogalskiy/spark-patterns/issues?q=is%3Aissue+)<br>
   3. ✍️ Provide enough information to understand, recreate and help out with your problem<br>
   4. ℹ️ Let us know if you find a solution and please share it with us<br>
   5. 📕 Close the issue when your problem has been solved
@@ -45,7 +45,7 @@ newPRWelcomeComment: >
   Thanks for opening this pull request! Please check out our contributing guidelines.
 
 firstPRWelcomeComment: >
-  **Thanks for opening this pull request!**<br/><br/>Please check check if *Travis* or *Codacy* found any issues with your PR. Also make sure your commits are signed, and that you applied [Code style](https://github.com/AlexRogalskiy/java-patterns/issues) and [formatting](.editorconfig).<br/><br/>A maintainer will add an `is:priority` label to your PR if it is up for compensation.
+  **Thanks for opening this pull request!**<br/><br/>Please check check if *Travis* or *Codacy* found any issues with your PR. Also make sure your commits are signed, and that you applied [Code style](https://github.com/AlexRogalskiy/spark-patterns/issues) and [formatting](.editorconfig).<br/><br/>A maintainer will add an `is:priority` label to your PR if it is up for compensation.
 
 firstPRMergeComment: >
   ** Congrats on merging your first pull request!**<br/><br/>Be sure to follow the issue template. Your issue will be reviewed by a maintainer and labeled for further action.
