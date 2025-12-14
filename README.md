@@ -274,6 +274,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [The Undisputed Queen of Safe Programming](https://www.reddit.com/r/spark/comments/1plusu4/the_undisputed_queen_of_safe_programming/)
 - [AEiC 2026 - Ada-Europe conference - 2nd Call for Contributions](https://www.reddit.com/r/spark/comments/1p4us68/aeic_2026_adaeurope_conference_2nd_call_for/)
 - [Minutes of Ada Monthly Meetup, 13th of September](https://www.reddit.com/r/spark/comments/1nltlsf/minutes_of_ada_monthly_meetup_13th_of_september/)
 - [Article: NVIDIA drives Ada and SPARK into driverless cars - General](https://www.reddit.com/r/spark/comments/1l4lx9x/article_nvidia_drives_ada_and_spark_into/)
@@ -283,7 +284,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [A New June Webinar About SPARK from AdaCore: Introduction to Formal Verification with SPARK](https://www.reddit.com/r/spark/comments/1kzr6qb/a_new_june_webinar_about_spark_from_adacore/)
 - [New 0.7.0 Release of Ironclad kernel](https://www.reddit.com/r/spark/comments/1kzr1vg/new_070_release_of_ironclad_kernel/)
 - [Best books for spark](https://www.reddit.com/r/spark/comments/1kz8ku6/best_books_for_spark/)
-- [Spark Loops](https://www.reddit.com/r/spark/comments/1kn7kdn/spark_loops/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld Spark posts*
