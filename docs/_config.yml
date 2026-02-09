@@ -4,7 +4,9 @@ permalink: pretty
 
 baseurl: https://github.com/AlexRogalskiy/android-patterns
 title: Spark Design Patterns
-description: Explores different architectural concepts and design principles for Spark applications
+description:
+  Explores different architectural concepts and design principles for Spark
+  applications
 
 author: Alexander Rogalskiy
 
