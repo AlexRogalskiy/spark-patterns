@@ -274,6 +274,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Off to a great start!](https://www.reddit.com/r/spark/comments/1t746td/off_to_a_great_start/)
 - [Ada/SPARK Crate Of The Year 2025 Winners Announced](https://www.reddit.com/r/spark/comments/1rbx6hu/adaspark_crate_of_the_year_2025_winners_announced/)
 - [The Undisputed Queen of Safe Programming](https://www.reddit.com/r/spark/comments/1plusu4/the_undisputed_queen_of_safe_programming/)
 - [AEiC 2026 - Ada-Europe conference - 2nd Call for Contributions](https://www.reddit.com/r/spark/comments/1p4us68/aeic_2026_adaeurope_conference_2nd_call_for/)
@@ -283,7 +284,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Introduction to Formal Verification with SPARK Webinar - June 18th](https://www.reddit.com/r/spark/comments/1l32aly/introduction_to_formal_verification_with_spark/)
 - [A Rust to Ada/SPARK converter](https://www.reddit.com/r/spark/comments/1l04eon/a_rust_to_adaspark_converter/)
 - [A New June Webinar About SPARK from AdaCore: Introduction to Formal Verification with SPARK](https://www.reddit.com/r/spark/comments/1kzr6qb/a_new_june_webinar_about_spark_from_adacore/)
-- [New 0.7.0 Release of Ironclad kernel](https://www.reddit.com/r/spark/comments/1kzr1vg/new_070_release_of_ironclad_kernel/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld Spark posts*
