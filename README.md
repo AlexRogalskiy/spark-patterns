@@ -274,7 +274,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Off to a great start!](https://www.reddit.com/r/spark/comments/1t746td/off_to_a_great_start/)
+- [Help with Old Scala Pipeline integration with DataHub &lpar; with no existing store for metadata other than normal field name + type&rpar;](https://www.reddit.com/r/spark/comments/1tqdqbi/help_with_old_scala_pipeline_integration_with/)
 - [Ada/SPARK Crate Of The Year 2025 Winners Announced](https://www.reddit.com/r/spark/comments/1rbx6hu/adaspark_crate_of_the_year_2025_winners_announced/)
 - [The Undisputed Queen of Safe Programming](https://www.reddit.com/r/spark/comments/1plusu4/the_undisputed_queen_of_safe_programming/)
 - [AEiC 2026 - Ada-Europe conference - 2nd Call for Contributions](https://www.reddit.com/r/spark/comments/1p4us68/aeic_2026_adaeurope_conference_2nd_call_for/)
