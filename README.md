@@ -274,6 +274,7 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Announcing the 2026 Ada/SPARK Crate of the Year Award](https://www.reddit.com/r/spark/comments/1uoa9m0/announcing_the_2026_adaspark_crate_of_the_year/)
 - [Help with Old Scala Pipeline integration with DataHub &lpar; with no existing store for metadata other than normal field name + type&rpar;](https://www.reddit.com/r/spark/comments/1tqdqbi/help_with_old_scala_pipeline_integration_with/)
 - [Ada/SPARK Crate Of The Year 2025 Winners Announced](https://www.reddit.com/r/spark/comments/1rbx6hu/adaspark_crate_of_the_year_2025_winners_announced/)
 - [The Undisputed Queen of Safe Programming](https://www.reddit.com/r/spark/comments/1plusu4/the_undisputed_queen_of_safe_programming/)
@@ -283,7 +284,6 @@ and ***Spark Patterns*** ? Consider buying me a coffee :)
 - [Ada and SPARK enter the automotive ISO-26262 market with NVIDIA.](https://www.reddit.com/r/spark/comments/1l3ac1t/ada_and_spark_enter_the_automotive_iso26262/)
 - [Introduction to Formal Verification with SPARK Webinar - June 18th](https://www.reddit.com/r/spark/comments/1l32aly/introduction_to_formal_verification_with_spark/)
 - [A Rust to Ada/SPARK converter](https://www.reddit.com/r/spark/comments/1l04eon/a_rust_to_adaspark_converter/)
-- [A New June Webinar About SPARK from AdaCore: Introduction to Formal Verification with SPARK](https://www.reddit.com/r/spark/comments/1kzr6qb/a_new_june_webinar_about_spark_from_adacore/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld Spark posts*
