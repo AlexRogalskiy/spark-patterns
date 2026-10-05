@@ -26,7 +26,7 @@ jobs:
         with:
           max_post_count: "10"
           comment_tag_name: "HADOOP-POST-LIST"
-          feed_list: "http://www.hadoopinrealworld.com/blog/feed/"
+          feed_list: "https://medium.com/feed/tag/hadoop"
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "10"
